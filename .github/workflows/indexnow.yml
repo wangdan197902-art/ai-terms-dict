@@ -1,0 +1,56 @@
+# IndexNow 每日自动提交 workflow
+# 功能：每天凌晨 2 点（北京时间 UTC+8 = UTC 18:00 前一天）自动提交网站所有 URL 到 IndexNow API
+# 支持：Bing、Yandex、Seznam、Naver（联合协议，一次提交全平台覆盖）
+# 密钥：a0f6b5032dd63cf84271ae3ab4fcaf86（已部署到 static/a0f6b5032dd63cf84271ae3ab4fcaf86.txt）
+
+name: Daily IndexNow Submission
+
+on:
+  schedule:
+    # UTC 18:00 = Beijing 02:00 每天执行
+    - cron: '0 18 * * *'
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: read
+
+jobs:
+  submit-to-indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Build Hugo site
+        env:
+          HUGO_VERSION: 0.134.0
+        run: |
+          cd $GITHUB_WORKSPACE
+          wget -qO hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz
+          tar -xzf hugo.tar.gz -C /usr/local/bin hugo
+          chmod +x /usr/local/bin/hugo
+          hugo --minify --baseURL https://terms.ai-term-hub.com/
+
+      - name: Submit URLs to IndexNow
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY || 'a0f6b5032dd63cf84271ae3ab4fcaf86' }}
+        run: |
+          python3 scripts/submit_to_indexnow.py --key $INDEXNOW_KEY
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## IndexNow 提交结果" >> $GITHUB_STEP_SUMMARY
+          echo "- 提交时间：$(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- API Key：${{ secrets.INDEXNOW_KEY && '***' || 'a0f6b5032dd63cf84271ae3ab4fcaf86' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- 目标：Bing、Yandex、Seznam、Naver" >> $GITHUB_STEP_SUMMARY
