@@ -9,6 +9,10 @@ Allow: /
 Disallow: /*/search?q=
 Disallow: /pagefind/
 
+# Allow access to .well-known standard files (RFC 8615)
+# Includes: security.txt (RFC 9116), llms.txt, ai-plugin.json, openapi.yaml, humans.txt
+Allow: /.well-known/
+
 # Crawl delay for politeness
 Crawl-delay: 1
 

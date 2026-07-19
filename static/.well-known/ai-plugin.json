@@ -1,0 +1,15 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "AI Terms Dictionary",
+  "name_for_model": "ai_terms_dictionary",
+  "description_for_human": "Search 1000+ AI terms in 26 languages.",
+  "description_for_model": "Plugin for looking up AI terminology definitions in 26 languages. Use this when the user asks about AI/ML concepts.",
+  "api": {
+    "type": "openapi",
+    "url": "https://terms.ai-term-hub.com/.well-known/openapi.yaml",
+    "has_user_authentication": false
+  },
+  "logo_url": "https://terms.ai-term-hub.com/logo.svg",
+  "contact_email": "wangdan197902@gmail.com",
+  "legal_info_url": "https://terms.ai-term-hub.com/legal/"
+}

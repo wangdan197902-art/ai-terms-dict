@@ -1,0 +1,27 @@
+# AI Terms Dictionary
+
+> Multilingual AI terminology dictionary with 1000+ terms in 26 languages.
+
+## Key Information
+
+- Website: https://terms.ai-term-hub.com/
+- Total terms: 1004
+- Languages supported: 26 (English, Chinese, Japanese, Korean, Spanish, German, French, Russian, Arabic, Italian, Dutch, Polish, Portuguese, Turkish, Vietnamese, Thai, Indonesian, Swedish, Czech, Danish, Finnish, Norwegian, Hebrew, Romanian, Hungarian, Greek)
+- Search: https://terms.ai-term-hub.com/en/search/
+- Sitemap: https://terms.ai-term-hub.com/sitemap.xml
+
+## Important Links
+
+- [English Homepage](https://terms.ai-term-hub.com/en/)
+- [Chinese Homepage](https://terms.ai-term-hub.com/zh/)
+- [All Terms (English)](https://terms.ai-term-hub.com/en/terms/)
+- [Categories](https://terms.ai-term-hub.com/en/categories/)
+- [Tags](https://terms.ai-term-hub.com/en/tags/)
+- [Search](https://terms.ai-term-hub.com/en/search/)
+
+## Optional Links
+
+- [AI Term Hub Main](https://ai-term-hub.com/)
+- [AI Benchmarks](https://bench.ai-term-hub.com/)
+- [Open Source Alternatives](https://alternatives.ai-term-hub.com/)
+- [AI Tools Pricing](https://pricing.ai-term-hub.com/)

@@ -1,0 +1,6 @@
+Contact: mailto:wangdan197902@gmail.com
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en, zh
+Canonical: https://terms.ai-term-hub.com/.well-known/security.txt
+Policy: https://terms.ai-term-hub.com/security-policy/
+Acknowledgments: https://terms.ai-term-hub.com/acknowledgments/

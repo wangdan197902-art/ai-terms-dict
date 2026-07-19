@@ -1,0 +1,15 @@
+/* TEAM */
+Founder: Wang Dan
+Contact: wangdan197902 [at] gmail.com
+Twitter: @ai_term_hub
+
+/* THANKS */
+Hugo (gohugo.io)
+Pagefind (pagefind.app)
+Netlify (netlify.com)
+
+/* SITE */
+Last update: 2026-07-19
+Standards: HTML5, CSS3, RDFa, Schema.org
+Components: Hugo, Pagefind, Netlify
+Software: Hugo v0.164+

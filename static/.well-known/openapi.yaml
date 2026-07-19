@@ -1,0 +1,43 @@
+openapi: 3.0.0
+info:
+  title: AI Terms Dictionary API
+  version: 1.0.0
+  description: Search 1000+ AI terms in 26 languages
+servers:
+  - url: https://terms.ai-term-hub.com
+paths:
+  /{lang}/search/:
+    get:
+      summary: Search AI terms
+      parameters:
+        - name: lang
+          in: path
+          required: true
+          schema:
+            type: string
+            enum: [en, zh, ja, ko, es, de, fr, ru, ar, it, nl, pl, pt, tr, vi, th, id, sv, cs, da, fi, no, he, ro, hu, el]
+        - name: q
+          in: query
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Search results page
+  /{lang}/terms/{slug}/:
+    get:
+      summary: Get term detail
+      parameters:
+        - name: lang
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: slug
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Term detail page
