@@ -1,23 +1,24 @@
 ---
-title: "Hashowanie cech"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Hashowanie cech
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /pl/terms/feature_hashing/
-date: "2026-07-18T15:54:44.595664Z"
-lastmod: "2026-07-18T17:15:08.873173Z"
+slug: feature_hashing
+date: '2026-07-18T15:54:44.595664Z'
+lastmod: '2026-07-18T17:15:08.873173Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Technika mapująca wysokowymiarowe, rzadkie cechy na wektor o stałym rozmiarze za pomocą funkcji haszującej."
+source: agnes_llm
+status: published
+language: pl
+description: Technika mapująca wysokowymiarowe, rzadkie cechy na wektor o stałym rozmiarze
+  za pomocą funkcji haszującej.
 ---
-
 ## Definition
 
 Hashowanie cech, znane również jako trik haszowania, pozwala modelom uczenia maszynowego radzić sobie z dużymi, rzadkimi przestrzeniami cech bez konieczności utrzymania jawnego mapowania między cechami a indeksami. Poprzez zastosowanie funkcji haszującej, cechy są przekształcane w wektory o stałej długości, co znacząco redukuje zużycie pamięci i ułatwia przetwarzanie danych o wysokiej wymiarowości.

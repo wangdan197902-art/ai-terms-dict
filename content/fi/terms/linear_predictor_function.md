@@ -1,23 +1,24 @@
 ---
-title: "Lineaarinen ennustefunktio"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Lineaarinen ennustefunktio
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /fi/terms/linear_predictor_function/
-date: "2026-07-18T16:07:05.111230Z"
-lastmod: "2026-07-18T17:15:09.428815Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:07:05.111230Z'
+lastmod: '2026-07-18T17:15:09.428815Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Matemaattinen funktio, joka laskee syötemuuttujien lineaarikombinaation ennustaakseen tulosta."
+source: agnes_llm
+status: published
+language: fi
+description: Matemaattinen funktio, joka laskee syötemuuttujien lineaarikombinaation
+  ennustaakseen tulosta.
 ---
-
 ## Definition
 
 Tilastollisessa mallinnuksessa ja koneoppimisessa lineaarinen ennustefunktio edustaa syöteominaisuuksien painotettua summaa plus harhatermiä. Se toimii ydinosana yleistetyissä lineaarisissa malleissa (GLM).

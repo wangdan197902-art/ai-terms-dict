@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /hu/terms/data_protection/
 date: "2026-07-18T15:37:35.070490Z"
 lastmod: "2026-07-18T17:15:09.739416Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az érzékeny információk védelme jogosulatlan hozzáféréstől, sérüléstől vagy lopástól az adatok teljes élettartama alatt."
 ---
-
 ## Definition
 
 Az adatvédelem magában foglalja a személyes és szellemi tulajdonban lévő adatok védelmét biztosító jogi, műszaki és szervezeti intézkedéseket. A mesterséges intelligencia területén ez magában foglalja a titkosítás, hozzáférés-vezérlés és anonimizálás alkalmazását a megsértések és a visszaélés megelőzése érdekében.

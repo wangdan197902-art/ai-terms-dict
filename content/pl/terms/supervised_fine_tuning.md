@@ -1,23 +1,24 @@
 ---
-title: "Nadzorowane dostrajanie"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Nadzorowane dostrajanie
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /pl/terms/supervised_fine_tuning/
-date: "2026-07-18T15:37:11.704016Z"
-lastmod: "2026-07-18T17:15:08.837419Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:37:11.704016Z'
+lastmod: '2026-07-18T17:15:08.837419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces dalszego trenowania modelu wstępnie wytrenowanego na konkretnym zbiorze danych w celu dostosowania go do określonego zadania lub domeny."
+source: agnes_llm
+status: published
+language: pl
+description: Proces dalszego trenowania modelu wstępnie wytrenowanego na konkretnym
+  zbiorze danych w celu dostosowania go do określonego zadania lub domeny.
 ---
-
 ## Definition
 
 Nadzorowane dostrajanie (SFT) polega na przyjęciu dużego modelu wstępnie wytrenowanego, takiego jak model językowy, i kontynuowaniu jego treningu na mniejszym, wysokiej jakości zbiorze danych oznaczonym etykietami dla konkretnego zadania podrzędnego.

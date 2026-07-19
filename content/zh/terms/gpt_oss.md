@@ -1,23 +1,23 @@
 ---
-title: "Gpt Oss"
-term_id: "gpt_oss"
-category: "basic_concepts"
-subcategory: ""
-tags: ["open_source", "architecture", "deployment"]
+title: Gpt Oss
+term_id: gpt_oss
+category: basic_concepts
+subcategory: ''
+tags:
+- Open Source
+- architecture
+- deployment
 difficulty: 4
 weight: 1
-slug: "gpt_oss"
-aliases:
-  - /zh/terms/gpt_oss/
-date: "2026-07-18T11:19:33.288303Z"
-lastmod: "2026-07-18T11:44:45.510592Z"
+slug: gpt_oss
+date: '2026-07-18T11:19:33.288303Z'
+lastmod: '2026-07-18T11:44:45.510592Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "指可供公众修改和分发的、基于 GPT 类架构的开源软件（OSS）实现或变体。"
+source: agnes_llm
+status: published
+language: zh
+description: 指可供公众修改和分发的、基于 GPT 类架构的开源软件（OSS）实现或变体。
 ---
-
 ## Definition
 
 GPT OSS 通常指专有生成式预训练 Transformer 模型的开源替代品或衍生项目。这些项目允许开发者访问、修改和部署大型语言模型。

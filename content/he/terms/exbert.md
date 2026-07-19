@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /he/terms/exbert/
-date: "2026-07-18T15:56:31.062733Z"
-lastmod: "2026-07-18T17:15:09.538663Z"
+slug: exbert
+date: '2026-07-18T15:56:31.062733Z'
+lastmod: '2026-07-18T17:15:09.538663Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שיטה להסברת תחזיות של BERT על ידי זיהוי ראשי ההקשבה והשכבות התורמים ביותר לתפוקות ספציפיות."
+source: agnes_llm
+status: published
+language: he
+description: שיטה להסברת תחזיות של BERT על ידי זיהוי ראשי ההקשבה והשכבות התורמים ביותר
+  לתפוקות ספציפיות.
 ---
-
 ## Definition
 
 ExBERT מספק פרשנות (Interpretability) לדגם הטרנספורמר BERT על ידי ניתוח החשיבות של ראשי הקשבה בודדים לאורך שכבות שונות. הוא משתמש בטכניקות כמו ייחוס מבוסס גרדיאנטים או ניתוח פעילות פנימית כדי להבין אילו חלקים בדגם אחראים לתוצאה.

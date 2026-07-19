@@ -1,23 +1,25 @@
 ---
-title: "Risoluzione dei problemi"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: Risoluzione dei problemi
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /it/terms/problem_solving/
-date: "2026-07-18T16:16:58.005468Z"
-lastmod: "2026-07-18T17:15:08.660252Z"
+slug: problem_solving
+date: '2026-07-18T16:16:58.005468Z'
+lastmod: '2026-07-18T17:15:08.660252Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo cognitivo di individuazione di soluzioni alle difficoltà, che implica ricerca, ragionamento e pianificazione all'interno di spazi di stati definiti."
+source: agnes_llm
+status: published
+language: it
+description: Il processo cognitivo di individuazione di soluzioni alle difficoltà,
+  che implica ricerca, ragionamento e pianificazione all'interno di spazi di stati
+  definiti.
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale, la risoluzione dei problemi si riferisce all'approccio sistematico per navigare da uno stato iniziale a uno stato obiettivo attraverso una sequenza di azioni. Coinvolge tipicamente la definizione del pro

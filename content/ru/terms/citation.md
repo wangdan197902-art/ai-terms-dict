@@ -1,23 +1,25 @@
 ---
-title: "Цитирование"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: Цитирование
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /ru/terms/citation/
-date: "2026-07-18T15:44:52.441788Z"
-lastmod: "2026-07-18T16:38:07.130094Z"
+slug: citation
+date: '2026-07-18T15:44:52.441788Z'
+lastmod: '2026-07-18T16:38:07.130094Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Цитирование в ИИ относится к практике указания источников материала или данных, использованных в сгенерированном тексте или моделях, для обеспечения прозрачности и соблюдения прав интеллектуальной соб"
+source: agnes_llm
+status: published
+language: ru
+description: Цитирование в ИИ относится к практике указания источников материала или
+  данных, использованных в сгенерированном тексте или моделях, для обеспечения прозрачности
+  и соблюдения прав интеллектуальной соб
 ---
-
 ## Definition
 
 По мере того как генеративные модели ИИ создают контент, возникает необходимость в механизмах цитирования для поддержания академической честности и юридического соответствия. Это включает в себя внедрение ссылок на оригинальные источники непосредственно в сгенерированный текст или метаданные модели.

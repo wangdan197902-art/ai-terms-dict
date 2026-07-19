@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /es/terms/contrastive/
 date: "2026-07-18T10:21:35.951761Z"
 lastmod: "2026-07-18T11:44:44.737595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El aprendizaje contrastivo es una técnica de auto-supervisión que entrena modelos para distinguir entre pares de datos similares y disimilares."
 ---
-
 ## Definition
 
 Este método anima al modelo a acercar las incrustaciones de pares positivos (elementos similares) y alejar las de pares negativos (elementos disimilares) en el espacio latente. Se utiliza ampliamente en visión por computadora y procesamiento de lenguaje natural.

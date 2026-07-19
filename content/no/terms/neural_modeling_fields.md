@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /no/terms/neural_modeling_fields/
 date: "2026-07-18T16:09:07.960260Z"
 lastmod: "2026-07-18T16:38:07.028707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et teoretisk rammeverk som beskriver den romlige og funksjonelle organiseringen av nevrale aktivitetmønstre."
 ---
-
 ## Definition
 
 Nevrale modelleringsfelt involverer studiet av hvordan nevrale populasjoner organiserer seg i høydimensjonale rom for å representere informasjon. Dette begrepet henger ofte sammen med topologiske kartlegginger og feltteori.

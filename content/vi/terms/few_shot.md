@@ -1,23 +1,24 @@
 ---
-title: "học vài ví dụ"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: học vài ví dụ
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /vi/terms/few_shot/
-date: "2026-07-18T15:30:44.073561Z"
-lastmod: "2026-07-18T16:38:07.700517Z"
+slug: few_shot
+date: '2026-07-18T15:30:44.073561Z'
+lastmod: '2026-07-18T16:38:07.700517Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mô hình học mà tại đó một mô hình thực hiện đúng một nhiệm vụ sau khi chỉ tiếp xúc với một số lượng nhỏ các ví dụ đã gắn nhãn."
+source: agnes_llm
+status: published
+language: vi
+description: Một mô hình học mà tại đó một mô hình thực hiện đúng một nhiệm vụ sau
+  khi chỉ tiếp xúc với một số lượng nhỏ các ví dụ đã gắn nhãn.
 ---
-
 ## Definition
 
 Học vài ví dụ cho phép các mô hình học máy khái quát hóa từ rất ít dữ liệu, thường dao động từ một đến mười ví dụ cho mỗi lớp. Không giống như học có giám sát truyền thống đòi hỏi hàng nghìn hoặc hàng triệu ví dụ, phương pháp này tận dụng kiến thức nền tảng từ các mô hình được huấn luyện trước để thích nghi nhanh chóng với nhiệm vụ mới.

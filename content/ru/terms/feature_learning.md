@@ -1,23 +1,24 @@
 ---
-title: "Обучение признаков"
-term_id: "feature_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "representation-learning", "automation"]
+title: Обучение признаков
+term_id: feature_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- Representation Learning
+- automation
 difficulty: 4
 weight: 1
-slug: "feature_learning"
-aliases:
-  - /ru/terms/feature_learning/
-date: "2026-07-18T15:53:24.673963Z"
-lastmod: "2026-07-18T16:38:07.156914Z"
+slug: feature_learning
+date: '2026-07-18T15:53:24.673963Z'
+lastmod: '2026-07-18T16:38:07.156914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Подход, при котором алгоритмы автоматически обнаруживают признаки, необходимые для обнаружения или классификации, из сырых данных."
+source: agnes_llm
+status: published
+language: ru
+description: Подход, при котором алгоритмы автоматически обнаруживают признаки, необходимые
+  для обнаружения или классификации, из сырых данных.
 ---
-
 ## Definition
 
 Обучение признаков, часто ассоциируемое с глубоким обучением, позволяет моделям изучать иерархические представления непосредственно из входных сырых данных, вместо того чтобы полагаться на ручную разработку признаков. Через слои...

@@ -1,23 +1,23 @@
 ---
-title: "Entscheidungsliste"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: Entscheidungsliste
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /de/terms/decision_list/
-date: "2026-07-18T11:11:09.137484Z"
-lastmod: "2026-07-18T11:44:44.930031Z"
+slug: decision_list
+date: '2026-07-18T11:11:09.137484Z'
+lastmod: '2026-07-18T11:44:44.930031Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein interpretierbarer Klassifikator, der aus einer geordneten Liste von Regeln besteht, wobei die erste übereinstimmende Regel die Ausgabe bestimmt."
+source: agnes_llm
+status: published
+language: de
+description: Ein interpretierbarer Klassifikator, der aus einer geordneten Liste von
+  Regeln besteht, wobei die erste übereinstimmende Regel die Ausgabe bestimmt.
 ---
-
 ## Definition
 
 Eine Entscheidungsliste ist eine Art von Machine-Learning-Modell, das Wissen als Sequenz bedingter Regeln darstellt. Jede Regel besteht aus einer Bedingung und einem vorhergesagten Klassenlabel. Bei der Klassifizierung eines neuen Datensatzes wird die erste Regel, deren Bedingung erfüllt ist, angewendet.

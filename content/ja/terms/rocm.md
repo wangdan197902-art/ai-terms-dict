@@ -1,23 +1,23 @@
 ---
-title: "ROCm"
-term_id: "rocm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "software", "gpu"]
+title: ROCm
+term_id: rocm
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- software
+- GPU
 difficulty: 3
 weight: 1
-slug: "rocm"
-aliases:
-  - /ja/terms/rocm/
-date: "2026-07-18T11:29:50.787504Z"
-lastmod: "2026-07-18T11:44:45.137290Z"
+slug: rocm
+date: '2026-07-18T11:29:50.787504Z'
+lastmod: '2026-07-18T11:44:45.137290Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "NVIDIAのCUDAエコシステムに対する代替手段を提供する、AMDのGPUコンピューティング向けオープンソースソフトウェアプラットフォーム。"
+source: agnes_llm
+status: published
+language: ja
+description: NVIDIAのCUDAエコシステムに対する代替手段を提供する、AMDのGPUコンピューティング向けオープンソースソフトウェアプラットフォーム。
 ---
-
 ## Definition
 
 ROCm（Radeon Open Compute）は、AMD製のGPU上で高性能コンピューティングを可能にするためにAMDが開発したドライバーおよびソフトウェアスタックです。並列処理の開発に必要なライブラリ、コンパイラ、ツールを提供します。

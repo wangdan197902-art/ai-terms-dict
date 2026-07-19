@@ -1,23 +1,25 @@
 ---
-title: "Dividen pembohong"
-term_id: "liars_dividend"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "societal_impact", "media"]
+title: Dividen pembohong
+term_id: liars_dividend
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Societal Impact
+- media
 difficulty: 2
 weight: 1
-slug: "liars_dividend"
-aliases:
-  - /id/terms/liars_dividend/
-date: "2026-07-18T15:57:56.933546Z"
-lastmod: "2026-07-18T16:38:07.477022Z"
+slug: liars_dividend
+date: '2026-07-18T15:57:56.933546Z'
+lastmod: '2026-07-18T16:38:07.477022Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Fenomena di mana keberadaan deepfake dan media buatan AI memungkinkan pihak jahat untuk menyangkal bukti nyata atas kesalahannya dengan mengklaimnya sebagai palsu."
+source: agnes_llm
+status: published
+language: id
+description: Fenomena di mana keberadaan deepfake dan media buatan AI memungkinkan
+  pihak jahat untuk menyangkal bukti nyata atas kesalahannya dengan mengklaimnya sebagai
+  palsu.
 ---
-
 ## Definition
 
 Dividen pembohong merujuk pada risiko sosial yang ditimbulkan oleh AI generasi canggih, khususnya deepfake. Seiring media sintetis menjadi sulit dibedakan dari kenyataan, individu jahat dapat mengklaim bahwa

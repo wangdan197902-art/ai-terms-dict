@@ -1,23 +1,23 @@
 ---
-title: "テンソル"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: テンソル
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /ja/terms/tensor/
-date: "2026-07-18T11:34:13.391055Z"
-lastmod: "2026-07-18T11:44:45.149587Z"
+slug: tensor
+date: '2026-07-18T11:34:13.391055Z'
+lastmod: '2026-07-18T11:44:45.149587Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ディープラーニングフレームワークの基本データ構造である多次元配列。"
+source: agnes_llm
+status: published
+language: ja
+description: ディープラーニングフレームワークの基本データ構造である多次元配列。
 ---
-
 ## Definition
 
 コンピュータサイエンスおよびディープラーニングにおいて、テンソルはスカラー、ベクトル、行列を高次元に一般化した数学的对象です。そのランク（次元の数）と形状によって特徴付けられます。

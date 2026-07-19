@@ -1,23 +1,22 @@
 ---
-title: "セマンティック（意味論的）"
-term_id: "semantic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "meaning"]
+title: セマンティック（意味論的）
+term_id: semantic
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- meaning
 difficulty: 3
 weight: 1
-slug: "semantic"
-aliases:
-  - /ja/terms/semantic/
-date: "2026-07-18T10:54:57.923572Z"
-lastmod: "2026-07-18T11:44:45.019430Z"
+slug: semantic
+date: '2026-07-18T10:54:57.923572Z'
+lastmod: '2026-07-18T11:44:45.019430Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "構文構造や形式ではなく、言語やデータにおける意味に関連すること。"
+source: agnes_llm
+status: published
+language: ja
+description: 構文構造や形式ではなく、言語やデータにおける意味に関連すること。
 ---
-
 ## Definition
 
 AIにおけるセマンティック分析は、表面的なパターンだけでなく、入力の下にある意味を理解することに焦点を当てます。これには、単語や記号を概念にマッピングし、関係性を捉えることが含まれます。

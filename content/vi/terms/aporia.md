@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /vi/terms/aporia/
 date: "2026-07-18T15:40:23.931808Z"
 lastmod: "2026-07-18T16:38:07.727486Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: ""
 ---
-
 ## Definition
 
 Trong triết học và lý thuyết AI, aporia mô tả một tình huống nghịch lý nơi hai lập luận đều hợp lý dẫn đến các kết quả mâu thuẫn. Trong học máy, điều này có thể biểu hiện khi hiệu suất của mô hình...

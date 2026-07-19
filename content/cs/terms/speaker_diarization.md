@@ -1,23 +1,23 @@
 ---
-title: "Diarizace mluvčích"
-term_id: "speaker_diarization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transcription", "clustering", "audio"]
+title: Diarizace mluvčích
+term_id: speaker_diarization
+category: basic_concepts
+subcategory: ''
+tags:
+- transcription
+- Clustering
+- audio
 difficulty: 4
 weight: 1
-slug: "speaker_diarization"
-aliases:
-  - /cs/terms/speaker_diarization/
-date: "2026-07-18T16:18:36.654247Z"
-lastmod: "2026-07-18T17:15:09.202947Z"
+slug: speaker_diarization
+date: '2026-07-18T16:18:36.654247Z'
+lastmod: '2026-07-18T17:15:09.202947Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Proces určování 'kdo kdy mluvil' v audio nahrávce."
+source: agnes_llm
+status: published
+language: cs
+description: Proces určování 'kdo kdy mluvil' v audio nahrávce.
 ---
-
 ## Definition
 
 Diarizace mluvčích je úkol rozdělit audio tok na homogenní segmenty podle identity mluvčího. Kombinuje detekci změn mluvčího s shlukováním mluvčích, aby přiřadila labely jednotlivým úsekům a vytvořila strukturovaný přehled konverzace.

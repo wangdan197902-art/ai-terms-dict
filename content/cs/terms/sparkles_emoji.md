@@ -7,8 +7,6 @@ tags: ["ui", "design", "symbolism"]
 difficulty: 1
 weight: 1
 slug: "sparkles_emoji"
-aliases:
-  - /cs/terms/sparkles_emoji/
 date: "2026-07-18T16:18:17.203624Z"
 lastmod: "2026-07-18T17:15:09.202326Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vizuální symbol používaný v rozhraních AI často k označení nových funkcí, vylepšení nebo magických transformací ve generovaném obsahu."
 ---
-
 ## Definition
 
 Emoji s jiskrami je grafická ikona často používaná v uživatelských rozhraních aplikací AI k označení novosti, zlepšení nebo kreativního vylepšení. Slouží jako neverbální podnět signalizující, že obsah byl upraven nebo vylepšen modelem AI.

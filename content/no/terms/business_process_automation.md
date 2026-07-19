@@ -7,8 +7,6 @@ tags: ["enterprise", "efficiency", "software"]
 difficulty: 2
 weight: 1
 slug: "business_process_automation"
-aliases:
-  - /no/terms/business_process_automation/
 date: "2026-07-18T15:45:31.160493Z"
 lastmod: "2026-07-18T16:38:06.978021Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Bruken av teknologi til å utføre gjentakende oppgaver eller prosesser i en virksomhet der manuell innsats kan erstattes."
 ---
-
 ## Definition
 
 Automatisering av forretningsprosesser (BPA) innebærer å utnytte programvare og AI for å effektivisere komplekse forretningsarbeidsflyter. I motsetning til enkel RPA (robotbasert prosessautomatisering) som håndterer regelbaserte oppgaver, involverer BPA ofte

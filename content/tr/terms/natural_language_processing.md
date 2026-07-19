@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /tr/terms/natural_language_processing/
 date: "2026-07-18T15:27:26.488611Z"
 lastmod: "2026-07-18T16:38:07.238569Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgisayarların insan dilini anlamasını, yorumlamasını ve üretmesini sağlamaya odaklanan yapay zeka dalı."
 ---
-
 ## Definition
 
 Doğal Dil İşleme (NLP), hesaplama dilbilimini istatistiksel, makine öğrenimi ve derin öğrenme modelleriyle birleştiren yapay zekanın bir alt alanıdır. Makinelerin insan dilini işleyebilmesini sağlar.

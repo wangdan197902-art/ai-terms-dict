@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Data Efficiency", "Training Strategies"]
 difficulty: 3
 weight: 1
 slug: "semi_supervised_learning"
-aliases:
-  - /th/terms/semi_supervised_learning/
 date: "2026-07-18T16:14:50.735691Z"
 lastmod: "2026-07-18T16:38:07.653061Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "แนวทางmachine learning ที่ใช้ทั้งข้อมูลที่มีป้ายกำกับและไม่มีป้ายกำกับ เพื่อปรับปรุงความแม่นยำและการทั่วไปของโมเดล"
 ---
-
 ## Definition
 
 การเรียนรู้แบบกึ่งควบคุมเป็นรูปแบบการฝึกฝนแบบไฮบริดที่ใช้ข้อมูลที่มีป้ายกำกับจำนวนน้อย ร่วมกับข้อมูลไม่มีป้ายกำกับปริมาณมาก สมมติฐานหลักคือโครงสร้างของข้อมูลไม่มีป้ายกำกับสามารถช่วยในการเรียนรู้รูปแบบได้

@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /zh/terms/audit/
 date: "2026-07-18T11:07:26.676034Z"
 lastmod: "2026-07-18T11:44:45.447331Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "对人工智能系统进行系统性评估，以确保其符合道德标准、监管要求和性能基准。"
 ---
-
 ## Definition
 
 AI审计涉及对机器学习模型及其部署管道的严格、结构化审查。它评估公平性、透明度、问责制和安全性，以识别潜在的偏见。

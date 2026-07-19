@@ -1,23 +1,24 @@
 ---
-title: "Computational Heuristic Intelligence"
-term_id: "computational_heuristic_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "optimization"]
+title: Computational Heuristic Intelligence
+term_id: computational_heuristic_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Optimization
 difficulty: 3
 weight: 1
-slug: "computational_heuristic_intelligence"
-aliases:
-  - /de/terms/computational_heuristic_intelligence/
-date: "2026-07-18T11:08:08.300379Z"
-lastmod: "2026-07-18T11:44:44.919481Z"
+slug: computational_heuristic_intelligence
+date: '2026-07-18T11:08:08.300379Z'
+lastmod: '2026-07-18T11:44:44.919481Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "KI-Ansätze, die praktische, erfahrungsbasierte Techniken verwenden, um Probleme effizient zu lösen, wenn exakte Methoden zu langsam sind."
+source: agnes_llm
+status: published
+language: de
+description: KI-Ansätze, die praktische, erfahrungsbasierte Techniken verwenden, um
+  Probleme effizient zu lösen, wenn exakte Methoden zu langsam sind.
 ---
-
 ## Definition
 
 Computational Heuristic Intelligence umfasst Algorithmen, die Daumenregeln, Näherungen oder fundierte Vermutungen einsetzen, um in angemessenen Zeiträumen zufriedenstellende Lösungen zu finden. Im Gegensatz zu erschöpfenden...

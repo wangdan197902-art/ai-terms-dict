@@ -1,23 +1,24 @@
 ---
-title: "Трансформер"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Трансформер
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /ru/terms/transformer/
-date: "2026-07-18T15:30:21.397017Z"
-lastmod: "2026-07-18T16:38:07.092573Z"
+slug: transformer
+date: '2026-07-18T15:30:21.397017Z'
+lastmod: '2026-07-18T16:38:07.092573Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Архитектура глубокого обучения, основанная на механизмах самовнимания, которая обрабатывает последовательные данные параллельно, а не последовательно."
+source: agnes_llm
+status: published
+language: ru
+description: Архитектура глубокого обучения, основанная на механизмах самовнимания,
+  которая обрабатывает последовательные данные параллельно, а не последовательно.
 ---
-
 ## Definition
 
 Впервые представленная в статье «Attention Is All You Need», архитектура трансформера произвела революцию в обработке естественного языка и не только. Она использует многоголовое самовнимание для оценки значимости

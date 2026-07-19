@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /hu/terms/vision_based/
 date: "2026-07-18T15:36:46.176595Z"
 lastmod: "2026-07-18T17:15:09.737984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan rendszerek, amelyek elsősorban vizuális bemeneti adatokra támaszkodnak a világ érzékeléséhez és interakcióhoz."
 ---
-
 ## Definition
 
 A látásalapú paradigmák kamerákat és képfeldolgozó algoritmusokat használnak értelmes információk kinyerésére vizuális jelenetekből. Ezek a rendszerek alapvetőek a robotikában, az autonóm vezetésben és a kiterjesztett valóságban...

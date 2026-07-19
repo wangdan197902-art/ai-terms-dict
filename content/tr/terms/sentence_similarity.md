@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /tr/terms/sentence_similarity/
 date: "2026-07-18T16:13:42.769988Z"
 lastmod: "2026-07-18T16:38:07.364022Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İki cümlenin ne kadar semantik olarak benzer olduğunu nicelendiren, genellikle sayısal bir puanla temsil edilen metrik veya görev."
 ---
-
 ## Definition
 
 Cümle benzerliği, iki farklı cümle arasındaki semantik örtüşme derecesini ölçer. Anlamı, bağlamı ve niyeti anlamak için kelime eşleşmesinin ötesine geçer. Bu genellikle cümleleri vektör uzayına dönüştürerek elde edilir.

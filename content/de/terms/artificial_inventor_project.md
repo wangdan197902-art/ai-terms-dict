@@ -1,23 +1,24 @@
 ---
-title: "Künstlicher Erfinder-Projekt"
-term_id: "artificial_inventor_project"
-category: "basic_concepts"
-subcategory: ""
-tags: ["creativity", "research", "cognitive_science"]
+title: Künstlicher Erfinder-Projekt
+term_id: artificial_inventor_project
+category: basic_concepts
+subcategory: ''
+tags:
+- creativity
+- research
+- Cognitive Science
 difficulty: 3
 weight: 1
-slug: "artificial_inventor_project"
-aliases:
-  - /de/terms/artificial_inventor_project/
-date: "2026-07-18T11:03:12.753891Z"
-lastmod: "2026-07-18T11:44:44.909494Z"
+slug: artificial_inventor_project
+date: '2026-07-18T11:03:12.753891Z'
+lastmod: '2026-07-18T11:44:44.909494Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Forschungsinitiative, die sich auf die Entwicklung computergestützter Modelle für menschähnliches kreatives Problemlösen und Erfindungsprozesse konzentriert."
+source: agnes_llm
+status: published
+language: de
+description: Eine Forschungsinitiative, die sich auf die Entwicklung computergestützter
+  Modelle für menschähnliches kreatives Problemlösen und Erfindungsprozesse konzentriert.
 ---
-
 ## Definition
 
 Das Künstlicher Erfinder-Projekt ist eine interdisziplinäre Forschungsanstrengung, die darauf abzielt, die kognitiven Mechanismen hinter menschlicher Kreativität und Erfindung zu verstehen und nachzubilden. Es strebt an, KI-Systeme zu entwickeln, die...

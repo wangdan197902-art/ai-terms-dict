@@ -1,23 +1,25 @@
 ---
-title: "Privacy"
-term_id: "privacy"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_protection", "compliance"]
+title: Privacy
+term_id: privacy
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Protection
+- compliance
 difficulty: 3
 weight: 1
-slug: "privacy"
-aliases:
-  - /it/terms/privacy/
-date: "2026-07-18T15:28:04.546521Z"
-lastmod: "2026-07-18T17:15:08.572297Z"
+slug: privacy
+date: '2026-07-18T15:28:04.546521Z'
+lastmod: '2026-07-18T17:15:08.572297Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il diritto degli individui di controllare come i propri dati personali vengono raccolti, utilizzati e condivisi all'interno dei sistemi di intelligenza artificiale."
+source: agnes_llm
+status: published
+language: it
+description: Il diritto degli individui di controllare come i propri dati personali
+  vengono raccolti, utilizzati e condivisi all'interno dei sistemi di intelligenza
+  artificiale.
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale, la privacy si riferisce alla protezione delle informazioni sensibili degli utenti da accessi non autorizzati o utilizzi impropri durante le fasi di raccolta dei dati, addestramento del modello e inferenza. Comporta

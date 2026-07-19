@@ -1,23 +1,24 @@
 ---
-title: "منشور"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: منشور
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /ar/terms/post/
-date: "2026-07-18T15:29:26.089081Z"
-lastmod: "2026-07-18T17:15:08.445636Z"
+slug: post
+date: '2026-07-18T15:29:26.089081Z'
+lastmod: '2026-07-18T17:15:08.445636Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "قطعة محتوى منشورة، عادةً على مدونة أو منصة تواصل اجتماعي أو منتدى، تمثل معلومات أو تعليقات من إنتاج المستخدمين."
+source: agnes_llm
+status: published
+language: ar
+description: قطعة محتوى منشورة، عادةً على مدونة أو منصة تواصل اجتماعي أو منتدى، تمثل
+  معلومات أو تعليقات من إنتاج المستخدمين.
 ---
-
 ## Definition
 
 في سياق الاتصالات الرقمية وبيانات الذكاء الاصطناعي، يشير 'المنشور' إلى وحدة منفصلة من المحتوى يتم مشاركتها عبر الإنترنت. وهو مصدر أساسي لتدريب نماذج معالجة الل...

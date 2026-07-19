@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /no/terms/machine_unlearning/
 date: "2026-07-18T16:04:51.484969Z"
 lastmod: "2026-07-18T16:38:07.022628Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Maskin-upplæring er prosessen med å fjerne spesifikke datapunkter eller deres innflytelse fra en trent modell uten å trene den på nytt fra bunnen av."
 ---
-
 ## Definition
 
 Denne teknikken adresserer personvernreguleringer som GDPRs 'rett til å bli glemt', ved å tillate modeller å glemme spesifikk brukerdata mens de beholder generell kunnskap. Målet er å approksimere ytelsen til en modell som aldri ble trent på de ekskluderte dataene, noe som reduserer beregningskostnadene sammenlignet med full omtrening.

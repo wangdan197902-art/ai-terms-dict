@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /ja/terms/vector_database/
 date: "2026-07-18T10:56:06.895491Z"
 lastmod: "2026-07-18T11:44:45.022524Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "データの特性を表す高次元ベクトルの保存、インデックス作成、およびクエリのために設計された特殊なデータベース。"
 ---
-
 ## Definition
 
 ベクトルデータベースは、データを数値埋め込み（embeddings）に変換することで、構造化されていないデータの保存と取得を最適化します。これらは、近似最近傍探索（ANN）などのアルゴリズムを使用して、類似したデータを効率的に見つけ出します。

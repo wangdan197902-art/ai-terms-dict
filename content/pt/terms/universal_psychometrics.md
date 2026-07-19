@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /pt/terms/universal_psychometrics/
 date: "2026-07-18T15:26:24.969104Z"
 lastmod: "2026-07-18T15:51:59.540831Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A aplicação de técnicas de medição padronizadas para avaliar traços psicológicos em populações diversas."
 ---
-
 ## Definition
 
 A psicometria universal envolve o desenvolvimento e a aplicação de ferramentas de avaliação que podem medir confiavelmente construtos psicológicos, como personalidade, capacidade cognitiva ou inteligência emocional, através de diferentes culturas e contextos.

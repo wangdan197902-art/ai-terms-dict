@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /ar/terms/sigmoid/
 date: "2026-07-18T16:20:36.633144Z"
 lastmod: "2026-07-18T17:15:08.547650Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "دالة رياضية تقوم بتحويل أي رقم حقيقي إلى قيمة بين الصفر والواحد، مشكلة منحنى على شكل حرف S."
 ---
-
 ## Definition
 
 تُستخدم دالة السيجمويد، المعرفة بالصيغة σ(z) = 1 / (1 + e^-z)، على نطاق واسع في تعلم الآلة لنمذجة الاحتمالات. تقوم بضغط قيم الإدخال ضمن النطاق (0, 1)، مما يجعلها مناسبة للتصنيف الثنائي.

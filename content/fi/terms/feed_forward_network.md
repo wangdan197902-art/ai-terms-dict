@@ -1,23 +1,24 @@
 ---
-title: "Eteenpäinsuuntautunut verkko"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Eteenpäinsuuntautunut verkko
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /fi/terms/feed_forward_network/
-date: "2026-07-18T15:57:49.188713Z"
-lastmod: "2026-07-18T17:15:09.411619Z"
+slug: feed_forward_network
+date: '2026-07-18T15:57:49.188713Z'
+lastmod: '2026-07-18T17:15:09.411619Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Teoreettinen neuroverkkoluokka, jossa solmujen väliset yhteydet eivät muodosta syklejä, vaan informaatio etenee yhdessä suunnassa."
+source: agnes_llm
+status: published
+language: fi
+description: Teoreettinen neuroverkkoluokka, jossa solmujen väliset yhteydet eivät
+  muodosta syklejä, vaan informaatio etenee yhdessä suunnassa.
 ---
-
 ## Definition
 
 Eteenpäinsuuntautuneet verkot (FFN), tunnettuja myös nimellä monikerroksiset perceptronit (MLP), käsittelevät dataa peräkkäin neuronikerrosten läpi syötteestä lähtöön ilman takaisinkytkentäsilmukoita. Jokainen neuroni vastaanottaa syötteet

@@ -1,23 +1,23 @@
 ---
-title: "kétlépcsős"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: kétlépcsős
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /hu/terms/two_stage/
-date: "2026-07-18T15:36:46.176583Z"
-lastmod: "2026-07-18T17:15:09.737880Z"
+slug: two_stage
+date: '2026-07-18T15:36:46.176583Z'
+lastmod: '2026-07-18T17:15:09.737880Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy olyan csővezeték-architektúra, ahol a feldolgozás különálló, szekvenciális szakaszokban történik."
+source: agnes_llm
+status: published
+language: hu
+description: Egy olyan csővezeték-architektúra, ahol a feldolgozás különálló, szekvenciális
+  szakaszokban történik.
 ---
-
 ## Definition
 
 A kétlépcsős architektúrák egy összetett feladatot két különálló lépésre bontanak, amely általában egy detektálást követő osztályozást vagy finomítást jelent. A számítógépes látásban példák közé tartoznak az objektumdetektorok, mint...

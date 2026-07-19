@@ -1,23 +1,24 @@
 ---
-title: "Qwen Coder"
-term_id: "qwen_coder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["coding", "specialized-model", "development"]
+title: Qwen Coder
+term_id: qwen_coder
+category: basic_concepts
+subcategory: ''
+tags:
+- coding
+- Specialized Model
+- development
 difficulty: 3
 weight: 1
-slug: "qwen_coder"
-aliases:
-  - /id/terms/qwen_coder/
-date: "2026-07-18T16:06:19.331559Z"
-lastmod: "2026-07-18T16:38:07.498470Z"
+slug: qwen_coder
+date: '2026-07-18T16:06:19.331559Z'
+lastmod: '2026-07-18T16:38:07.498470Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Qwen Coder adalah varian khusus dari model Qwen yang dioptimalkan untuk pengembangan perangkat lunak dan tugas pemrograman."
+source: agnes_llm
+status: published
+language: id
+description: Qwen Coder adalah varian khusus dari model Qwen yang dioptimalkan untuk
+  pengembangan perangkat lunak dan tugas pemrograman.
 ---
-
 ## Definition
 
 Qwen Coder adalah versi khusus dari model bahasa besar Qwen yang disesuaikan secara khusus untuk aktivitas terkait pemrograman. Model ini unggul dalam pembuatan kode, debug, serta pemahaman basis kode yang kompleks.

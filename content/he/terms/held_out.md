@@ -1,23 +1,24 @@
 ---
-title: "נתוני שמירה (Held-out)"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: נתוני שמירה (Held-out)
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /he/terms/held_out/
-date: "2026-07-18T15:32:53.102643Z"
-lastmod: "2026-07-18T17:15:09.492451Z"
+slug: held_out
+date: '2026-07-18T15:32:53.102643Z'
+lastmod: '2026-07-18T17:15:09.492451Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מדגמי נתונים ששמורים מחוץ לערכת האימון כדי להעריך את ביצועי המודל ולמנוע התאמה יתר (Overfitting) במהלך הפיתוח."
+source: agnes_llm
+status: published
+language: he
+description: מדגמי נתונים ששמורים מחוץ לערכת האימון כדי להעריך את ביצועי המודל ולמנוע
+  התאמה יתר (Overfitting) במהלך הפיתוח.
 ---
-
 ## Definition
 
 ערכת נתונים 'held-out' (שמורה) מורכבת מדוגמאות שהוצאו בכוונה מתהליך האימון של מודל למידת מכונה. תת-קבוצה זו משמשת להערכת יכולת הכללה של המודל לנתונים שלא ראה בעבר, ומספקת הערכה אובייקטיבית יותר של הביצועים בהשוואה לשימוש באותם נתונים לאימון.

@@ -1,23 +1,24 @@
 ---
-title: "Multitask-Optimierung"
-term_id: "multitask_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategies", "multi_task_learning", "efficiency"]
+title: Multitask-Optimierung
+term_id: multitask_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategies
+- Multi Task Learning
+- efficiency
 difficulty: 3
 weight: 1
-slug: "multitask_optimization"
-aliases:
-  - /de/terms/multitask_optimization/
-date: "2026-07-18T11:24:50.571974Z"
-lastmod: "2026-07-18T11:44:44.968505Z"
+slug: multitask_optimization
+date: '2026-07-18T11:24:50.571974Z'
+lastmod: '2026-07-18T11:44:44.968505Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Trainingsstrategie, bei der ein Modell optimiert wird, um mehrere verwandte Aufgaben gleichzeitig auszuführen."
+source: agnes_llm
+status: published
+language: de
+description: Eine Trainingsstrategie, bei der ein Modell optimiert wird, um mehrere
+  verwandte Aufgaben gleichzeitig auszuführen.
 ---
-
 ## Definition
 
 Die Multitask-Optimierung beinhaltet das Training eines einzelnen Modells, um mehrere unterschiedliche, aber verwandte Aufgaben gleichzeitig zu bewältigen. Durch das Teilen von Zwischendarstellungen über die Aufgaben hinweg kann das Modell generalisiertere Merkmale lernen.

@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /ro/terms/neuro_symbolic_ai/
 date: "2026-07-18T16:13:36.648580Z"
 lastmod: "2026-07-18T17:15:09.686392Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O abordare AI care combină capacitățile de învățare ale rețelelor neuronale cu logica și transparența raționamentului simbolic."
 ---
-
 ## Definition
 
 AI-ul neuro-simbolic integrează metodele de învățare neuronală sub-simbolice cu sistemele de raționament bazate pe logică simbolică. Această abordare hibridă își propune să depășească limitările învățării profunde pure, cum ar fi lipsa...

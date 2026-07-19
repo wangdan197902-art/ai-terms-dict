@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /es/terms/inferential_theory_of_learning/
 date: "2026-07-18T10:54:46.614582Z"
 lastmod: "2026-07-18T11:44:44.819409Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco en el que el aprendizaje se considera una inferencia bayesiana, actualizando las creencias sobre hipótesis basándose en los datos observados."
 ---
-
 ## Definition
 
 Esta teoría postula que el aprendizaje es esencialmente un proceso de inferencia probabilística. En lugar de memorizar datos, el aprendiz mantiene una distribución de probabilidad sobre posibles modelos o hipótesis.

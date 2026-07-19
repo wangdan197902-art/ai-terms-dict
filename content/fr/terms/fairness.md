@@ -7,8 +7,6 @@ tags: ["ethics", "bias", "safety"]
 difficulty: 3
 weight: 1
 slug: "fairness"
-aliases:
-  - /fr/terms/fairness/
 date: "2026-07-18T10:59:45.007337Z"
 lastmod: "2026-07-18T11:44:45.184363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'équité désigne le principe selon lequel les systèmes d'IA doivent éviter de produire des résultats biaisés ou discriminatoires à l'encontre de groupes spécifiques."
 ---
-
 ## Definition
 
 En intelligence artificielle, l'équité est une métrique éthique cruciale garantissant que les algorithmes ne perpétuent ni n'amplifient les biais sociétaux basés sur des attributs protégés tels que la race, le genre ou l'âge. Elle implique la mise en œuvre de mesures pour assurer un traitement juste et impartial.

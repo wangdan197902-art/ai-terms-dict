@@ -1,23 +1,24 @@
 ---
-title: "קוקוי"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: קוקוי
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /he/terms/coqui/
-date: "2026-07-18T15:50:30.243377Z"
-lastmod: "2026-07-18T17:15:09.523713Z"
+slug: coqui
+date: '2026-07-18T15:50:30.243377Z'
+lastmod: '2026-07-18T17:15:09.523713Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "קוקוי היא חברה קוד פתוח לטכנולוגיית דיבור, המוכרת בפיתוח מודלים איכותיים רב-לשוניים להמרת טקסט לדיבור (TTS)."
+source: agnes_llm
+status: published
+language: he
+description: קוקוי היא חברה קוד פתוח לטכנולוגיית דיבור, המוכרת בפיתוח מודלים איכותיים
+  רב-לשוניים להמרת טקסט לדיבור (TTS).
 ---
-
 ## Definition
 
 קוקוי טכנולוגיות הייתה שחקנית בולמת בקהילת הבינה המלאכותית בקוד פתוח, הידועה בעיקר במנוע ה-TTS שלה. הפרויקט סיפק מודלים מאומנים מראש שיכלו ליצור דיבור טבעי וברור.

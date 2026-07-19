@@ -1,23 +1,23 @@
 ---
-title: "基于知识的系统"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: 基于知识的系统
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /zh/terms/knowledge_based_systems/
-date: "2026-07-18T11:23:29.760139Z"
-lastmod: "2026-07-18T11:44:45.521916Z"
+slug: knowledge_based_systems
+date: '2026-07-18T11:23:29.760139Z'
+lastmod: '2026-07-18T11:44:45.521916Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "利用显式知识库和推理引擎来解决需要人类专业知识才能解决的复杂问题的AI系统。"
+source: agnes_llm
+status: published
+language: zh
+description: 利用显式知识库和推理引擎来解决需要人类专业知识才能解决的复杂问题的AI系统。
 ---
-
 ## Definition
 
 基于知识的系统（KBS）是人工智能的一个分支，它将特定领域的知识整合到计算机系统中，以执行通常需要人类专业知识的任务。它们通过将领域专家的知识编码为规则和事实，结合推理机制，模拟人类的决策过程。

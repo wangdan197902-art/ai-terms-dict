@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /hu/terms/energy/
 date: "2026-07-18T15:25:47.934864Z"
 lastmod: "2026-07-18T17:15:09.718909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI-ban az energia gyakran a modellképzés és az inference során fogyasztott számítási teljesítményt jelöli, vagy matematikai potenciálfüggvényt valószínűségi modellekben."
 ---
-
 ## Definition
 
 Az energiának két elsődleges jelentése van az AI-ban. Először is, az áramellátást jelöli, amelyet a hardverek működtetéséhez szükséges, fenntarthatósági szempontból egyre fontosabb kérdés, ahogy a modellek skálázódnak. Másodszor, a statisztikus mechanikából inspirált energia-alapú modellekben (EBM) matematikai potenciálfüggvényként funkcionál.

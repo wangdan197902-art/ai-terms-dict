@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /ja/terms/model_registry/
 date: "2026-07-18T11:24:29.840441Z"
 lastmod: "2026-07-18T11:44:45.123857Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "機械学習モデルのライフサイクル全体を追跡するための、集中型のストレージおよび管理システム。"
 ---
-
 ## Definition
 
 モデルレジストリは、MLOpsにおける重要な構成要素として機能し、MLモデルの保存、バージョン管理、および管理のための統合リポジトリを提供します。これにより、チームはモデルのメタデータやパフォーマンス指標を追跡し、

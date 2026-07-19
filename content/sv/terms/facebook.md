@@ -1,23 +1,25 @@
 ---
-title: "Facebook"
-term_id: "facebook"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "social_media", "open_source"]
+title: Facebook
+term_id: facebook
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Social Media
+- Open Source
 difficulty: 1
 weight: 1
-slug: "facebook"
-aliases:
-  - /sv/terms/facebook/
-date: "2026-07-18T15:57:31.177330Z"
-lastmod: "2026-07-18T17:15:09.002492Z"
+slug: facebook
+date: '2026-07-18T15:57:31.177330Z'
+lastmod: '2026-07-18T17:15:09.002492Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En stor sociala medier-plattform och teknikföretag som i hög grad påverkar utvecklingen av artificiell intelligens genom sitt öppna forskningsarbete och datamiljöer i stor skala."
+source: agnes_llm
+status: published
+language: sv
+description: En stor sociala medier-plattform och teknikföretag som i hög grad påverkar
+  utvecklingen av artificiell intelligens genom sitt öppna forskningsarbete och datamiljöer
+  i stor skala.
 ---
-
 ## Definition
 
 Facebook, som nu ingår i Meta Platforms Inc., är en ledande aktör inom forskning och tillämpning av artificiell intelligens. Företaget hanterar enorma mängder användargenererad data som används för att träna maskininlärningsmodeller.

@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /pl/terms/algorithmic_inference/
 date: "2026-07-18T15:39:31.577606Z"
 lastmod: "2026-07-18T17:15:08.843743Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wnioskowanie algorytmiczne to proces, w którym wytrenowany model uczenia maszynowego stosuje nauczone wzorce do nowych, niewidzianych wcześniej danych w celu dokonania predykcji lub podjęcia decyzji."
 ---
-
 ## Definition
 
 Znane również jako predykcja lub skoring, wnioskowanie następuje po fazie trenowania modelu. Algorytm przyjmuje cechy wejściowe, przetwarza je przez swoją wewnętrzną strukturę (taką jak wagi w sieci neuronowej) i generuje wynik.

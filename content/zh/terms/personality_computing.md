@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /zh/terms/personality_computing/
 date: "2026-07-18T11:29:53.130779Z"
 lastmod: "2026-07-18T11:44:45.542015Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个专注于创建模拟人类人格特质以增强人机交互的计算模型的研究领域。"
 ---
-
 ## Definition
 
 人格计算涉及开发能够建模、模拟或适应人类人格维度（如大五人格特质）的算法和系统。这些系统的目标是创建更具适应性和个性化的人机互动体验。

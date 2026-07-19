@@ -1,23 +1,25 @@
 ---
-title: "Integración Continua"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Integración Continua
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /es/terms/continuous_integration/
-date: "2026-07-18T10:30:00.951121Z"
-lastmod: "2026-07-18T11:44:44.761142Z"
+slug: continuous_integration
+date: '2026-07-18T10:30:00.951121Z'
+lastmod: '2026-07-18T11:44:44.761142Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una práctica de desarrollo de software en la que los desarrolladores fusionan frecuentemente los cambios de código en un repositorio central, lo que desencadena compilaciones y pruebas automatizadas."
+source: agnes_llm
+status: published
+language: es
+description: Una práctica de desarrollo de software en la que los desarrolladores
+  fusionan frecuentemente los cambios de código en un repositorio central, lo que
+  desencadena compilaciones y pruebas automatizadas.
 ---
-
 ## Definition
 
 La Integración Continua (CI) es una práctica crítica de DevOps que automatiza la integración de cambios de código de múltiples colaboradores en un único proyecto de software. Al ejecutar compilaciones y pruebas automatizadas

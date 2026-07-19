@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /no/terms/low_cost/
 date: "2026-07-18T15:34:15.408311Z"
 lastmod: "2026-07-18T16:38:06.953448Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Betegner AI-løsninger som minimerer beregnings-, økonomiske eller energiforbruk samtidig som funksjonaliteten opprettholdes."
 ---
-
 ## Definition
 
 AI med lave kostnader fokuserer på effektivitet, med mål om å redusere inngangsbarerierer og driftsutgifter knyttet til maskinlæring. Dette inkluderer teknikker som modellkomprimering, kvantisering og prunning (beskjæring av nettverk), samt bruk av lettvektsarkitekturer som gjør det mulig å kjøre inferens på enheter med begrenset ressurskapasitet.

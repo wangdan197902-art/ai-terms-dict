@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /cs/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T16:07:46.377089Z"
 lastmod: "2026-07-18T17:15:09.151607Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Matematická funkce založená na ML, která předpovídá síly a energie mezi atomy, slouží jako náhrada za drahé kvantově-mechanické výpočty."
 ---
-
 ## Definition
 
 Tyto potenciály umožňují simulace molekulární dynamiky s přesností blízkou kvantové mechanice, ale s rychlostí klasických výpočtů. Trénovány na datech vysoké věrnosti z teorie funkcionálu hustoty (DFT), umožňují

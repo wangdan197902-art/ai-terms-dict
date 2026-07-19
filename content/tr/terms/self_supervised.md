@@ -1,23 +1,24 @@
 ---
-title: "kendiliğinden denetimli"
-term_id: "self_supervised"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "nlp", "scalability"]
+title: kendiliğinden denetimli
+term_id: self_supervised
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- NLP
+- scalability
 difficulty: 4
 weight: 1
-slug: "self_supervised"
-aliases:
-  - /tr/terms/self_supervised/
-date: "2026-07-18T15:33:03.771513Z"
-lastmod: "2026-07-18T16:38:07.252583Z"
+slug: self_supervised
+date: '2026-07-18T15:33:03.771513Z'
+lastmod: '2026-07-18T16:38:07.252583Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kendiliğinden denetimli öğrenme, modelin insan etiketlemesi olmadan temsiller öğrenmek için girdi verisinden kendi etiketlerini ürettiği bir tekniktir."
+source: agnes_llm
+status: published
+language: tr
+description: Kendiliğinden denetimli öğrenme, modelin insan etiketlemesi olmadan temsiller
+  öğrenmek için girdi verisinden kendi etiketlerini ürettiği bir tekniktir.
 ---
-
 ## Definition
 
 Kendiliğinden denetimli öğrenme, denetim sinyalinin manuel etiketleme ihtiyacını ortadan kaldıran otomatik olarak verinin kendisinden türetildiği makine öğreniminin bir alt kümesidir. Model genellikle, örneğin bir cümledeki eksik kelimeleri tahmin ederek veya görüntülerdeki benzerlikleri bularak, veri içindeki yapıyı kullanarak öğrenir.

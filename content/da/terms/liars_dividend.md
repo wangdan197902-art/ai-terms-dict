@@ -1,23 +1,24 @@
 ---
-title: "Løgnerens udbytte"
-term_id: "liars_dividend"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "societal_impact", "media"]
+title: Løgnerens udbytte
+term_id: liars_dividend
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Societal Impact
+- media
 difficulty: 2
 weight: 1
-slug: "liars_dividend"
-aliases:
-  - /da/terms/liars_dividend/
-date: "2026-07-18T16:04:42.129403Z"
-lastmod: "2026-07-18T17:15:09.304942Z"
+slug: liars_dividend
+date: '2026-07-18T16:04:42.129403Z'
+lastmod: '2026-07-18T17:15:09.304942Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Fænomenet, hvor eksistensen af deepfakes og AI-genereret medieindhold giver onde aktører mulighed for at afvise ægte beviser for deres misbrug som falske."
+source: agnes_llm
+status: published
+language: da
+description: Fænomenet, hvor eksistensen af deepfakes og AI-genereret medieindhold
+  giver onde aktører mulighed for at afvise ægte beviser for deres misbrug som falske.
 ---
-
 ## Definition
 
 Løgnerens udbytte refererer til den samfundsmæssige risiko, der udgøres af avanceret generativ AI, især deepfakes. Når syntetisk medieindhold bliver uadskilleligt fra virkeligheden, kan maliciøse individer hævde, at

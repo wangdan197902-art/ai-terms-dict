@@ -7,8 +7,6 @@ tags: ["IT Operations", "Automation", "Enterprise AI"]
 difficulty: 3
 weight: 1
 slug: "aiops"
-aliases:
-  - /sv/terms/aiops/
 date: "2026-07-18T15:43:46.225455Z"
 lastmod: "2026-07-18T17:15:08.971742Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "AIOps avser tillämpningen av artificiell intelligens och maskininlärning för att automatisera processer inom IT-drift."
 ---
-
 ## Definition
 
 Artificiell intelligens för IT-drift (AIOps) kombinerar big data-analys och algoritmer för maskininlärning för att automatisera hanteringen av IT-infrastruktur och drift. Det hjälper organisationer att hantera komplexa IT-miljöer genom att förutsäga problem och automatisera åtgärder.

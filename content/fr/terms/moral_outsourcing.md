@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /fr/terms/moral_outsourcing/
 date: "2026-07-18T11:30:25.273567Z"
 lastmod: "2026-07-18T11:44:45.296211Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La préoccupation éthique selon laquelle les individus ou les organisations délèguent les responsabilités décisionnelles morales à des systèmes d'IA automatisés."
 ---
-
 ## Definition
 
 L'externalisation morale fait référence au phénomène où les humains cèdent leur jugement éthique et leur responsabilité aux algorithmes ou aux systèmes d'IA. Cela se produit lorsque les gens s'en remettent à des décisions automatisées pour des questions moralement significan

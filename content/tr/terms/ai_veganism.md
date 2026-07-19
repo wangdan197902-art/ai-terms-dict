@@ -1,23 +1,24 @@
 ---
-title: "Yapay Zeka Veganizmi"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: Yapay Zeka Veganizmi
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /tr/terms/ai_veganism/
-date: "2026-07-18T15:39:17.577728Z"
-lastmod: "2026-07-18T16:38:07.268015Z"
+slug: ai_veganism
+date: '2026-07-18T15:39:17.577728Z'
+lastmod: '2026-07-18T16:38:07.268015Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yapay zeka sistemlerinin insan kaynaklı veri veya emek kullanmadan çalışması gerektiğini öne süren metaforik bir kavram."
+source: agnes_llm
+status: published
+language: tr
+description: Yapay zeka sistemlerinin insan kaynaklı veri veya emek kullanmadan çalışması
+  gerektiğini öne süren metaforik bir kavram.
 ---
-
 ## Definition
 
 Yapay Zeka Veganizmi, yapay zekanın insan tarafından üretilmiş verilerden ziyade tamamen sentetik, kendi kendine üretilen veya fiziksel dünyadan elde edilen verilerden öğrenmesi fikrini ifade eden spekülatif ve metaforik bir terimdir.

@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /ar/terms/instruction_following/
 date: "2026-07-18T16:03:37.502995Z"
 lastmod: "2026-07-18T17:15:08.516680Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "قدرة نموذج الذكاء الاصطناعي على تفسير وتنفيذ الأوامر أو القيود البشرية المحددة بدقة."
 ---
-
 ## Definition
 
 يشير اتباع التعليمات إلى قدرة نماذج اللغات الكبيرة والأنظمة الذكية الأخرى على فهم التوجيهات البشرية المعقدة والالتزام بالقيود الصريحة داخل الموجه (Prompt). يمثل هذا التحول في النموذج...

@@ -1,23 +1,23 @@
 ---
-title: "Vahvistusoppiminen"
-term_id: "reinforcement_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "algorithms"]
+title: Vahvistusoppiminen
+term_id: reinforcement_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- algorithms
 difficulty: 4
 weight: 1
-slug: "reinforcement_learning"
-aliases:
-  - /fi/terms/reinforcement_learning/
-date: "2026-07-18T15:30:29.681889Z"
-lastmod: "2026-07-18T17:15:09.358076Z"
+slug: reinforcement_learning
+date: '2026-07-18T15:30:29.681889Z'
+lastmod: '2026-07-18T17:15:09.358076Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Vahvistusoppiminen on koneoppimisen muoto, jossa agentit oppivat tekemään päätöksiä vuorovaikuttamalla ympäristön kanssa maksimoidakseen palkinnot."
+source: agnes_llm
+status: published
+language: fi
+description: Vahvistusoppiminen on koneoppimisen muoto, jossa agentit oppivat tekemään
+  päätöksiä vuorovaikuttamalla ympäristön kanssa maksimoidakseen palkinnot.
 ---
-
 ## Definition
 
 Vahvistusoppiminen (RL) on koneoppimisen haara, joka keskittyy siihen, miten älykkäiden agenttien tulisi toimia ympäristössä maksimoidakseen kumulatiivisen palkinnon. Toisin kuin valvottu oppiminen, vahvistusoppimisessa agentti oppii kokeilemalla ja saamalla palautetta toimistaan.

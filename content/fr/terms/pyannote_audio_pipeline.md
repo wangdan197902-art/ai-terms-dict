@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /fr/terms/pyannote_audio_pipeline/
 date: "2026-07-18T11:34:56.389003Z"
 lastmod: "2026-07-18T11:44:45.317348Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un Pipeline Pyannote Audio est une séquence structurée d'étapes de traitement combinant divers modèles pour effectuer une diarisation des locuteurs de bout en bout."
 ---
-
 ## Definition
 
 Dans le contexte de Pyannote Audio, un pipeline fait référence à un flux de travail configurable qui enchaîne différents modules pour réaliser la diarisation des locuteurs. Typiquement, un pipeline comprend des étapes pour la détection...

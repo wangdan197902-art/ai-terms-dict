@@ -1,23 +1,24 @@
 ---
-title: "Mxfp4"
-term_id: "mxfp4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "precision"]
+title: Mxfp4
+term_id: mxfp4
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- precision
 difficulty: 4
 weight: 1
-slug: "mxfp4"
-aliases:
-  - /nl/terms/mxfp4/
-date: "2026-07-18T16:09:58.771838Z"
-lastmod: "2026-07-18T17:15:08.771324Z"
+slug: mxfp4
+date: '2026-07-18T16:09:58.771838Z'
+lastmod: '2026-07-18T17:15:08.771324Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "MXFP4 is een gemengde precisie drijvende-kommavormaat geoptimaliseerd voor efficiënte matrixvermenigvuldiging in AI-hardwareversnellers."
+source: agnes_llm
+status: published
+language: nl
+description: MXFP4 is een gemengde precisie drijvende-kommavormaat geoptimaliseerd
+  voor efficiënte matrixvermenigvuldiging in AI-hardwareversnellers.
 ---
-
 ## Definition
 
 MXFP4 (Mixed eXtended Floating Point 4-bit) is een gespecialiseerd gegevensformaat dat is geïntroduceerd om de prestaties te optimaliseren en het geheugenbandbreedtegebruik in AI-werklasten te verminderen. Door gemengde precisie-operaties toe te staan

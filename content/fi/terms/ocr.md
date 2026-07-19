@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /fi/terms/ocr/
 date: "2026-07-18T16:14:18.893621Z"
 lastmod: "2026-07-18T17:15:09.440471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "OCR on teknologia, joka muuntaa erilaiset asiakirjat, kuten skannatut paperiasiakirjat tai kuvat, muokattavaksi ja haettavaksi dataksi."
 ---
-
 ## Definition
 
 Optinen merkkien tunnistus (OCR) käyttää kuvankäsittely- ja kuvioiden tunnistusalgoritmeja tunnistamaan tekstiä digitaalisista kuvista. Se muuntaa painetut tai käsinkirjoitetut merkit konekoodatuiksi tiedoiksi.

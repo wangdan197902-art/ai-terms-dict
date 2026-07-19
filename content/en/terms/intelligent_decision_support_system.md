@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /en/terms/intelligent_decision_support_system/
 date: "2026-07-18T10:03:27.084677Z"
 lastmod: "2026-07-18T11:44:44.686895Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "An AI-enhanced system that assists humans in making complex decisions by analyzing data and providing actionable insights."
 ---
-
 ## Definition
 
 An Intelligent Decision Support System (IDSS) integrates artificial intelligence techniques, such as machine learning and natural language processing, with traditional decision support frameworks. It processes large volumes of structured and unstructured data to identify patterns, predict outcomes, and recommend optimal courses of action. Unlike standard DSS, IDSS can adapt to new information and learn from past decisions, thereby enhancing the accuracy and efficiency of human judgment in strategic, tactical, and operational contexts.

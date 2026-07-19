@@ -7,8 +7,6 @@ tags: ["Deployment", "Privacy", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "local_llm"
-aliases:
-  - /ja/terms/local_llm/
 date: "2026-07-18T11:22:12.133462Z"
 lastmod: "2026-07-18T11:44:45.117319Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ローカルLLMとは、クラウドサービスではなく個人のハードウェア上で大規模言語モデルを実行することを指し、データのプライバシーとオフラインでのアクセシビリティを優先します。"
 ---
-
 ## Definition
 
 ローカルLLMの実行は、PC、Mac、またはローカルサーバーなどの消費者向けハードウェア上でオープンウェイトモデルを直接デプロイすることを伴います。このアプローチはサードパーティのAPIプロバイダーへの依存を排除し、保証します。

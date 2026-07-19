@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /de/terms/graphs/
 date: "2026-07-18T10:50:27.443477Z"
 lastmod: "2026-07-18T11:44:44.875614Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Pluralform, die sich auf mehrere Graphenstrukturen oder visuelle Darstellungen von Datentrends im maschinellen Lernen bezieht."
 ---
-
 ## Definition
 
 Während der Singular „Graph“ die abstrakte Datenstruktur bezeichnet, steht „Graphen“ oft für mehrere verschiedene Grapheninstanzen oder für visuelle Diagramme, die im Machine-Learning-Monitoring verwendet werden. In der Visualisierung können dies Liniendiagramme oder Balkendiagramme sein.

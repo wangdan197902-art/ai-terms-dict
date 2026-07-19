@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /no/terms/analysis/
 date: "2026-07-18T15:23:14.121235Z"
 lastmod: "2026-07-18T16:38:06.932219Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Prosessen med å undersøke data eller modellutdata for å trekke ut meningsfulle innsikter og mønstre."
 ---
-
 ## Definition
 
 I sammenheng med AI refererer analyse til den systematiske undersøkelsen av data, modellprediksjoner eller systematferd for å forstå underliggende mønstre, diagnostisere problemer eller utlede handlingsbare innsikter.

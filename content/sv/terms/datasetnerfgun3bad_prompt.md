@@ -7,8 +7,6 @@ tags: ["adversarial", "prompts", "robustness", "niche"]
 difficulty: 3
 weight: 1
 slug: "datasetnerfgun3bad_prompt"
-aliases:
-  - /sv/terms/datasetnerfgun3bad_prompt/
 date: "2026-07-18T15:52:26.268277Z"
 lastmod: "2026-07-18T17:15:08.992667Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En nischad datamängd som sannolikt innehåller adversariella, lågkvalitativa eller avsiktligt felaktiga prompts, använd för att testa robusthet eller filtrera brus i språkmodeller."
 ---
-
 ## Definition
 
 Denna term avser en specifik datamängd som finns på Hugging Face under användaren 'Nerfgun3' med titeln 'Bad Prompt'. Även om den inte är en standardbenchmark, används sådana datamängder ofta för att studera modellernas robusthet mot dåliga eller manipulerade inmatningar.

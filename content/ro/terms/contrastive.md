@@ -7,8 +7,6 @@ tags: ["learning", "representation", "vision"]
 difficulty: 3
 weight: 1
 slug: "contrastive"
-aliases:
-  - /ro/terms/contrastive/
 date: "2026-07-18T15:24:13.682154Z"
 lastmod: "2026-07-18T17:15:09.591074Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Învățarea contrastivă este o tehnică auto-supravegheată care antrenează modelele să distingă între perechi de date similare și disimilare."
 ---
-
 ## Definition
 
 Această metodă încurajează modelul să apropie încorporările (embeddings) ale perechilor pozitive (elemente similare) și să îndepărteze perechile negative (elemente disimilare) în spațiul latent. Este utilizată pe scară largă în reprezentarea vizuală și a textului pentru a învăța funcții de distanță semnificative.

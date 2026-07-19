@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /de/terms/evaluation/
 date: "2026-07-18T10:49:35.954683Z"
 lastmod: "2026-07-18T11:44:44.872945Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Evaluation ist der Prozess der Bewertung der Leistung, Genauigkeit und Robustheit eines KI-Modells anhand vordefinierter Metriken und Datensätze."
 ---
-
 ## Definition
 
 Evaluation beinhaltet die systematische Messung, wie gut ein KI-Modell bei spezifischen Aufgaben abschneidet, unter Verwendung quantitativer Metriken (z. B. Genauigkeit, F1-Score, BLEU) und qualitativer Bewertungen. Sie umfasst Validierung, Testen und Benchmarking, um die Generalisierungsfähigkeit des Modells sicherzustellen.

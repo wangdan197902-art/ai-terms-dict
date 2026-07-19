@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /ja/terms/artificial_consciousness/
 date: "2026-07-18T11:04:06.213351Z"
 lastmod: "2026-07-18T11:44:45.068098Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "機械に人間と同様の主観的な経験、自己意識、および知覚（センシェンス）を与えるという理論的概念。"
 ---
-
 ## Definition
 
 人工意識は、単に知的行動をシミュレートするのではなく、真の主観的な経験、自己意識、感情を持つ機械を作成する可能性を探ります。これは、

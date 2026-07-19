@@ -7,8 +7,6 @@ tags: ["theoretical", "quantum", "biology"]
 difficulty: 5
 weight: 1
 slug: "quantum_artificial_life"
-aliases:
-  - /vi/terms/quantum_artificial_life/
 date: "2026-07-18T16:09:20.511080Z"
 lastmod: "2026-07-18T16:38:07.797728Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Nhân tạo lượng tử là lĩnh vực nghiên cứu các hệ thống tự chủ và quá trình tiến hóa bằng cách sử dụng các nguyên tắc điện toán lượng tử."
 ---
-
 ## Definition
 
 Nhân tạo lượng tử (QAL) khám phá giao điểm giữa cơ học lượng tử và nghiên cứu sự sống nhân tạo, nhằm mục đích mô phỏng quá trình tiến hóa sinh học và các hệ thống tự sao chép bằng cách sử dụng máy tính lượng tử.

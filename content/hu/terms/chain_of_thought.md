@@ -1,23 +1,24 @@
 ---
-title: "Gondolatmenet-lánc (Chain-of-Thought)"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: Gondolatmenet-lánc (Chain-of-Thought)
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /hu/terms/chain_of_thought/
-date: "2026-07-18T15:22:40.328711Z"
-lastmod: "2026-07-18T17:15:09.713530Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:40.328711Z'
+lastmod: '2026-07-18T17:15:09.713530Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy promptolási technika, amely ösztönzi a nagy nyelvi modelleket (LLM), hogy válaszadás előtt generáljanak köztes érvelési lépéseket."
+source: agnes_llm
+status: published
+language: hu
+description: Egy promptolási technika, amely ösztönzi a nagy nyelvi modelleket (LLM),
+  hogy válaszadás előtt generáljanak köztes érvelési lépéseket.
 ---
-
 ## Definition
 
 A gondolatmenet-lánc (CoT) promptolás egy stratégia, amelynek során a nagy nyelvi modelleket arra irányítják, hogy lépésről lépésre magyarázzák el az érvelést, mielőtt eljutnának a végső válaszhoz. A komplex problémák lebontásával ez javítja a modell teljesítményét.

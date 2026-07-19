@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /fi/terms/machine_unlearning/
 date: "2026-07-18T16:09:55.460450Z"
 lastmod: "2026-07-18T17:15:09.432394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Koneellinen unohtaminen on prosessi, jossa tietyt datapisteet tai niiden vaikutus poistetaan koulutetusta mallista ilman, että mallia kouluteta alusta alkaen uudelleen."
 ---
-
 ## Definition
 
 Tämä tekniikka vastaa tietosuoja-asetuksia, kuten GDPR:n oikeuteen tulla unohdetuksi, mahdollistamalla mallien unohtamaan tiettyjä käyttäjätietoja säilyttäen yleiset tiedot. Sen tavoitteena on approksimoida suorituskykyä...

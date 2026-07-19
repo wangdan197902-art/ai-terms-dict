@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /de/terms/vehicle/
 date: "2026-07-18T10:54:59.289483Z"
 lastmod: "2026-07-18T11:44:44.886778Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Im KI-Kontext bezeichnet ein Vehicle oft die Plattform oder das Medium, über das KI-Modelle bereitgestellt oder an Endbenutzer ausgeliefert werden."
 ---
-
 ## Definition
 
 Während es traditionell Transport bedeutet, kann 'Vehicle' in der KI-Terminologie metaphorisch den Liefermechanismus für intelligente Dienste beschreiben, wie mobile Apps, Webinterfaces oder eingebettete Systeme.

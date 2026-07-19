@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /id/terms/adversarial_machine_learning/
 date: "2026-07-18T15:38:16.355994Z"
 lastmod: "2026-07-18T16:38:07.425685Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pembelajaran mesin adversarial adalah bidang yang mempelajari cara membuat model pembelajaran mesin tetap robust terhadap input jahat yang dirancang untuk menipu mereka."
 ---
-
 ## Definition
 
 Bidang ini mencakup teknik ofensif untuk merusak model dan strategi defensif untuk menguatkannya. Hal ini melibatkan pelatihan model pada contoh adversarial untuk meningkatkan ketahanannya, sebuah proses yang dike...

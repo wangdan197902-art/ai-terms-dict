@@ -1,23 +1,23 @@
 ---
-title: "数据集：Bigcode/The Stack Dedup"
-term_id: "datasetbigcodethe_stack_dedup"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "code_generation", "open_source"]
+title: 数据集：Bigcode/The Stack Dedup
+term_id: datasetbigcodethe_stack_dedup
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Code Generation
+- Open Source
 difficulty: 2
 weight: 1
-slug: "datasetbigcodethe_stack_dedup"
-aliases:
-  - /zh/terms/datasetbigcodethe_stack_dedup/
-date: "2026-07-18T11:12:42.577329Z"
-lastmod: "2026-07-18T11:44:45.475704Z"
+slug: datasetbigcodethe_stack_dedup
+date: '2026-07-18T11:12:42.577329Z'
+lastmod: '2026-07-18T11:44:45.475704Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "由 BigCode 整理的 The Stack 数据集的去重版本，旨在移除近乎重复的代码片段，以提供更清洁的训练数据。"
+source: agnes_llm
+status: published
+language: zh
+description: 由 BigCode 整理的 The Stack 数据集的去重版本，旨在移除近乎重复的代码片段，以提供更清洁的训练数据。
 ---
-
 ## Definition
 
 The Stack Dedup 是 The Stack（一个庞大的开源代码仓库）的一个专用子集。它应用严格的技术来消除冗余的代码片段，从而避免大型语言模型在训练时产生偏差。

@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /fr/terms/scientific/
 date: "2026-07-18T10:53:50.406110Z"
 lastmod: "2026-07-18T11:44:45.171705Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Scientifique en IA fait référence à l'application de méthodes empiriques rigoureuses, de tests d'hypothèses et de reproductibilité dans la recherche."
 ---
-
 ## Definition
 
 L'approche scientifique en intelligence artificielle met l'accent sur le développement et la validation fondés sur des preuves. Elle implique la formulation d'hypothèses sur le comportement des modèles, la réalisation d'expériences contrôlées et

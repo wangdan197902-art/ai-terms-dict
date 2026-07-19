@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 3
 weight: 1
 slug: "audit"
-aliases:
-  - /cs/terms/audit/
 date: "2026-07-18T15:43:57.189552Z"
 lastmod: "2026-07-18T17:15:09.104318Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Systematické hodnocení systémů umělé inteligence za účelem zajištění souladu s etickými standardy, regulačními požadavky a výkonnostními benchmarky."
 ---
-
 ## Definition
 
 Audit AI zahrnuje přísnou, strukturovanou revizi modelů strojového učení a jejich nasazovacích pipeline. Posuzuje spravedlnost, transparentnost, odpovědnost a bezpečnost, aby identifikoval potenciální zkreslení a rizika.

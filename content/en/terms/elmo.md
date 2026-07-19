@@ -7,8 +7,6 @@ tags: ["NLP", "Embeddings", "History"]
 difficulty: 3
 weight: 1
 slug: "elmo"
-aliases:
-  - /en/terms/elmo/
 date: "2026-07-18T09:56:08.548985Z"
 lastmod: "2026-07-18T11:44:44.667475Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Embeddings from Language Models, a deep contextualized word representation method using bidirectional LSTMs."
 ---
-
 ## Definition
 
 ELMo generates context-sensitive word embeddings by processing input text through a bidirectional LSTM trained on a large corpus. Unlike static embeddings like Word2Vec, ELMo captures polysemy by producing different vector representations for the same word depending on its surrounding context. This approach significantly improved performance on various NLP benchmarks by allowing downstream tasks to leverage rich, dynamic linguistic features extracted from pre-trained language models.

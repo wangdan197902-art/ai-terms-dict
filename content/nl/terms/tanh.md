@@ -1,23 +1,23 @@
 ---
-title: "Tanh"
-term_id: "tanh"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "mathematics"]
+title: Tanh
+term_id: tanh
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- mathematics
 difficulty: 2
 weight: 1
-slug: "tanh"
-aliases:
-  - /nl/terms/tanh/
-date: "2026-07-18T16:19:23.041581Z"
-lastmod: "2026-07-18T17:15:08.792081Z"
+slug: tanh
+date: '2026-07-18T16:19:23.041581Z'
+lastmod: '2026-07-18T17:15:08.792081Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Tanh, of hyperbolische tangens, is een activatiefunctie die invoerwaarden mapst naar een bereik tussen -1 en 1."
+source: agnes_llm
+status: published
+language: nl
+description: Tanh, of hyperbolische tangens, is een activatiefunctie die invoerwaarden
+  mapst naar een bereik tussen -1 en 1.
 ---
-
 ## Definition
 
 De hyperbolische tangens (Tanh)-functie is een niet-lineaire activatiefunctie die veel wordt gebruikt in neurale netwerken. Het knijpt invoerwaarden in het interval (-1, 1), wat nul-gemiddelde uitvoeren biedt die c

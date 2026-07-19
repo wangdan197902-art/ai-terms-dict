@@ -1,23 +1,23 @@
 ---
-title: "di alta qualità"
-term_id: "high_quality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_quality", "evaluation"]
+title: di alta qualità
+term_id: high_quality
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Quality
+- evaluation
 difficulty: 2
 weight: 1
-slug: "high_quality"
-aliases:
-  - /it/terms/high_quality/
-date: "2026-07-18T15:32:16.923456Z"
-lastmod: "2026-07-18T17:15:08.579932Z"
+slug: high_quality
+date: '2026-07-18T15:32:16.923456Z'
+lastmod: '2026-07-18T17:15:08.579932Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Si riferisce a dataset, modelli o output che presentano accuratezza superiore, affidabilità e rumore minimo."
+source: agnes_llm
+status: published
+language: it
+description: Si riferisce a dataset, modelli o output che presentano accuratezza superiore,
+  affidabilità e rumore minimo.
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale, il termine "di alta qualità" descrive tipicamente dati o output di modello che possiedono elevata fedeltà, basso rumore e forti capacità di generalizzazione. Dati di addestramento di alta qualità garantiscono la...

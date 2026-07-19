@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /fi/terms/aporia/
 date: "2026-07-18T15:42:37.878795Z"
 lastmod: "2026-07-18T17:15:09.382953Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: ""
 ---
-
 ## Definition
 
 Filosofiassa ja tekoälyteoriassa aporia kuvaa paradoksaalista tilannetta, jossa kaksi yhtä pätevää argumenttia johtaa ristiriitaisiin lopputuloksiin. Koneoppimisessa tämä voi ilmetä silloin, kun mallin suorituskyky tai tulkinta johtaa vastakkaisiin johtopäätöksiin.

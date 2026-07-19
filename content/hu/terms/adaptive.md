@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /hu/terms/adaptive/
 date: "2026-07-18T15:23:25.684557Z"
 lastmod: "2026-07-18T17:15:09.714992Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy rendszer képessége viselkedésének vagy paramétereinek megváltoztatására a változó körülmények hatására."
 ---
-
 ## Definition
 
 Az MI-ben az 'adaptív' kifejezés olyan rendszereket vagy algoritmusokat ír le, amelyek képesek belső állapotaikat, paramétereiket vagy stratégiáikat dinamikusan igazítani az új adatok vagy környezeti visszacsatolás alapján. Ez a képesség lehetővé teszi a modell...

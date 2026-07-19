@@ -1,23 +1,24 @@
 ---
-title: "การทดสอบ"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: การทดสอบ
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /th/terms/testing/
-date: "2026-07-18T15:37:44.582203Z"
-lastmod: "2026-07-18T16:38:07.565914Z"
+slug: testing
+date: '2026-07-18T15:37:44.582203Z'
+lastmod: '2026-07-18T16:38:07.565914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการอย่างเป็นระบบในการประเมินประสิทธิภาพและความน่าเชื่อถือของโมเดลเอไอบนข้อมูลที่โมเดลไม่เคยเห็นมาก่อน เพื่อให้มั่นใจในคุณภาพและความปลอดภัย"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการอย่างเป็นระบบในการประเมินประสิทธิภาพและความน่าเชื่อถือของโมเดลเอไอบนข้อมูลที่โมเดลไม่เคยเห็นมาก่อน
+  เพื่อให้มั่นใจในคุณภาพและความปลอดภัย
 ---
-
 ## Definition
 
 การทดสอบในวิศวกรรมเอไอเกี่ยวข้องกับการประเมินโมเดลอย่างเข้มงวดกับชุดข้อมูลหลากหลายเพื่อระบุอคติ ข้อผิดพลาด และปัญหาความทนทาน รวมถึงการทดสอบหน่วยสำหรับส่วนประกอบโค้ด และการทดสอบการบูรณาการ

@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /da/terms/personoid/
 date: "2026-07-18T16:11:34.540684Z"
 lastmod: "2026-07-18T17:15:09.320849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En humanoid robot eller softwareagent designet til at efterligne menneskelig fysisk udseende eller samtalestil for at faciliterere naturlig interaktion."
 ---
-
 ## Definition
 
 En personoid er en enhed, enten robotisk eller virtuel, der er konstrueret til at ligne eller opføre sig som et menneske. Inom robotik involverer dette fysisk antropomorfisme, mens det inden for AI ofte refererer til chatbots eller virtuelle agenter med menneskelignende træk.

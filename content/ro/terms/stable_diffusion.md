@@ -1,23 +1,24 @@
 ---
-title: "Stable Diffusion"
-term_id: "stable_diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative", "image_synthesis", "diffusion"]
+title: Stable Diffusion
+term_id: stable_diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- generative
+- Image Synthesis
+- diffusion
 difficulty: 3
 weight: 1
-slug: "stable_diffusion"
-aliases:
-  - /ro/terms/stable_diffusion/
-date: "2026-07-18T16:21:51.285616Z"
-lastmod: "2026-07-18T17:15:09.705110Z"
+slug: stable_diffusion
+date: '2026-07-18T16:21:51.285616Z'
+lastmod: '2026-07-18T17:15:09.705110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un model de difuzie latentă capabil să genereze imagini de înaltă calitate din descrieri text în mod eficient."
+source: agnes_llm
+status: published
+language: ro
+description: Un model de difuzie latentă capabil să genereze imagini de înaltă calitate
+  din descrieri text în mod eficient.
 ---
-
 ## Definition
 
 Stable Diffusion este un model de învățare profundă care generează imagini detaliate condiționate de inputuri text, folosind un proces de difuzie latentă. Spre deosebire de modelele de difuzie în spațiul pixelilor, acesta operează într-un spațiu latent comprimat (de obicei prin intermediul unui autoencoder variațional - VAE), ceea ce reduce semnificativ costul computațional și permite generarea rapidă a imaginilor pe hardware accesibil.

@@ -1,23 +1,25 @@
 ---
-title: "Owain Evans"
-term_id: "owain_evans"
-category: "basic_concepts"
-subcategory: ""
-tags: ["researcher", "interpretability", "ai_safety"]
+title: Owain Evans
+term_id: owain_evans
+category: basic_concepts
+subcategory: ''
+tags:
+- researcher
+- interpretability
+- AI Safety
 difficulty: 2
 weight: 1
-slug: "owain_evans"
-aliases:
-  - /de/terms/owain_evans/
-date: "2026-07-18T11:26:23.653868Z"
-lastmod: "2026-07-18T11:44:44.972603Z"
+slug: owain_evans
+date: '2026-07-18T11:26:23.653868Z'
+lastmod: '2026-07-18T11:44:44.972603Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Owain Evans ist ein renommierter Forscher und Dozent, der für seine Arbeit zur Interpretierbarkeit von KI, mechanischen Interpretierbarkeit und der Bewertung der Reasoning-Fähigkeiten großer Sprachmod"
+source: agnes_llm
+status: published
+language: de
+description: Owain Evans ist ein renommierter Forscher und Dozent, der für seine Arbeit
+  zur Interpretierbarkeit von KI, mechanischen Interpretierbarkeit und der Bewertung
+  der Reasoning-Fähigkeiten großer Sprachmod
 ---
-
 ## Definition
 
 Owain Evans ist Informatiker und Pädagoge, derzeit am Center for AI Safety tätig und zuvor bei Anthropic. Er ist weithin anerkannt für seine Beiträge zur mechanischen Interpretabilität.

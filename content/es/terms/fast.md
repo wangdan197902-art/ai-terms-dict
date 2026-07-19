@@ -1,23 +1,23 @@
 ---
-title: "Rápido"
-term_id: "fast"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization"]
+title: Rápido
+term_id: fast
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
 difficulty: 1
 weight: 1
-slug: "fast"
-aliases:
-  - /es/terms/fast/
-date: "2026-07-18T10:23:13.320462Z"
-lastmod: "2026-07-18T11:44:44.740607Z"
+slug: fast
+date: '2026-07-18T10:23:13.320462Z'
+lastmod: '2026-07-18T11:44:44.740607Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "En IA, 'rápido' se refiere a sistemas o algoritmos optimizados para baja latencia y alto rendimiento en el procesamiento de tareas."
+source: agnes_llm
+status: published
+language: es
+description: En IA, 'rápido' se refiere a sistemas o algoritmos optimizados para baja
+  latencia y alto rendimiento en el procesamiento de tareas.
 ---
-
 ## Definition
 
 El término 'rápido' describe la eficiencia computacional dentro de los modelos de inteligencia artificial, enfatizando tiempos de inferencia rápidos y capacidades de procesamiento de datos ágiles. Es crítico para aplicaciones en tiempo real.

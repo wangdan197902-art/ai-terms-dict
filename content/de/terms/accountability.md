@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /de/terms/accountability/
 date: "2026-07-18T11:01:56.679059Z"
 lastmod: "2026-07-18T11:44:44.905734Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Das Prinzip, dass Entwickler und Betreiber von KI-Systemen für die Ergebnisse und Auswirkungen dieser Systeme verantwortlich gemacht werden müssen."
 ---
-
 ## Definition
 
 Rechenschaftspflicht in der künstlichen Intelligenz bezeichnet die Verpflichtung von Einzelpersonen, Organisationen und Entwicklern, Verantwortung für die Gestaltung, den Einsatz und die Konsequenzen von KI-Technologien zu übernehmen.

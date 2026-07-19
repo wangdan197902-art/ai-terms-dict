@@ -1,23 +1,24 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /he/terms/pythia/
-date: "2026-07-18T16:20:55.241965Z"
-lastmod: "2026-07-18T17:15:09.577189Z"
+slug: pythia
+date: '2026-07-18T16:20:55.241965Z'
+lastmod: '2026-07-18T17:15:09.577189Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "Pythia היא סדרה של מודלי שפה גדולים (LLM) המבוססים על ארכיטקטורת Decoder בלבד, שפותחו על ידי EleutherAI, הנעים בין 70 מיליון ל-12 מיליארד פרמטרים."
+source: agnes_llm
+status: published
+language: he
+description: Pythia היא סדרה של מודלי שפה גדולים (LLM) המבוססים על ארכיטקטורת Decoder
+  בלבד, שפותחו על ידי EleutherAI, הנעים בין 70 מיליון ל-12 מיליארד פרמטרים.
 ---
-
 ## Definition
 
 Pythia היא סדרה של מודלי שפה גדולים (LLM) בקוד פתוח שנוצרו על ידי EleutherAI, המיועדים להקל על מחקר בתחום האינטרפרטביליות (היכולת להבין) והתנהגות הרשתות הנוירוניות. הסדרה כוללת מודלים בגדלים שונים המאפשרים השוואה מדוקדקת.

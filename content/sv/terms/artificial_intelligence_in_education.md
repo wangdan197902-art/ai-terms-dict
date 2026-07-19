@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /sv/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:46:04.384850Z"
 lastmod: "2026-07-18T17:15:08.976585Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Användningen av AI-teknologier för att förbättra undervisningsmetoder, personalisera lärandeupplevelser och automatisera administrativa uppgifter."
 ---
-
 ## Definition
 
 AI inom utbildning innebär användningen av maskininlärning, naturlig språkbehandling och adaptiva system för att förbättra utbildningsresultat. Det möjliggör personliga lärvägar skräddarsydda för individuella studenter samt automatiserad bedömning och intelligent handledning.

@@ -7,8 +7,6 @@ tags: ["Paradigms", "Scaling", "Application"]
 difficulty: 3
 weight: 1
 slug: "large_language_models"
-aliases:
-  - /he/terms/large_language_models/
 date: "2026-07-18T15:26:44.166120Z"
 lastmod: "2026-07-18T17:15:09.480600Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הפרדיגמה של שימוש ברשתות נוירונים בקנה מידה גדול למשימות הבנה וייצור של שפה טבעית במגוון רחב."
 ---
-
 ## Definition
 
 מונח זה מתייחס לפרדיגמת היישום הרחבה יותר שבה מודלים עם מיליארדי פרמטרים מנוצלים ללמידה באפס-שוט או מעט-שוט במשימות לשוניות מגוונות. בניגוד למודלים מיוחדים

@@ -7,8 +7,6 @@ tags: ["process", "foundations", "workflow"]
 difficulty: 2
 weight: 1
 slug: "modeling"
-aliases:
-  - /id/terms/modeling/
 date: "2026-07-18T15:27:19.947185Z"
 lastmod: "2026-07-18T16:38:07.397415Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pemodelan adalah proses membuat representasi abstrak dari sistem dunia nyata atau distribusi data untuk memungkinkan prediksi, simulasi, atau pengambilan keputusan."
 ---
-
 ## Definition
 
 Pemodelan AI mencakup seluruh alur kerja perancangan, pelatihan, dan validasi algoritma yang mempelajari pola dari data. Ini melibatkan pemilihan arsitektur yang tepat, definisi fungsi kerugian, dan

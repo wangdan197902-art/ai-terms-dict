@@ -7,8 +7,6 @@ tags: ["Networking", "Protocols", "Real-time"]
 difficulty: 4
 weight: 1
 slug: "websocket"
-aliases:
-  - /ko/terms/websocket/
 date: "2026-07-18T16:20:35.008794Z"
 lastmod: "2026-07-18T16:38:06.919909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "실시간 데이터 교환을 위해 단일 TCP 연결 위에서 풀듀플렉스(full-duplex) 통신 채널을 제공하는 프로토콜입니다."
 ---
-
 ## Definition
 
 웹소켓은 클라이언트와 서버 간에 지속적이고 양방향의 통신을 가능하게 하는 컴퓨터 통신 프로토콜입니다. 각 요청-응답 주기에 대해 새로운 연결이 필요한 HTTP와 달리, 웹소켓은 한 번 연결을 수립하면 지속적인 통신 채널을 유지하여 효율적인 실시간 데이터 교환을 지원합니다.

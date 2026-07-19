@@ -7,8 +7,6 @@ tags: ["theory", "education", "research"]
 difficulty: 2
 weight: 1
 slug: "toy_problem"
-aliases:
-  - /pt/terms/toy_problem/
 date: "2026-07-18T15:25:22.036301Z"
 lastmod: "2026-07-18T15:51:59.539874Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma versão simplificada de um problema complexo usada para testar algoritmos ou teorias sem o ruído e a escala de cenários do mundo real."
 ---
-
 ## Definition
 
 Em inteligência artificial e ciência da computação, um problema de brinquedo é um cenário altamente simplificado projetado para ilustrar um conceito ou testar um novo algoritmo. Exemplos incluem o problema das N-Rainhas ou o Tr

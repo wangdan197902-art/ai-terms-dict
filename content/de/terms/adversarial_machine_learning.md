@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /de/terms/adversarial_machine_learning/
 date: "2026-07-18T11:02:10.847665Z"
 lastmod: "2026-07-18T11:44:44.907111Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Adversarial Machine Learning ist ein Forschungsfeld, das untersucht, wie Machine-Learning-Modelle gegen böswillige Eingaben robust gemacht werden können, die darauf abzielen, sie zu täuschen."
 ---
-
 ## Definition
 
 Dieses Feld umfasst sowohl offensive Techniken zum Brechen von Modellen als auch defensive Strategien zur Härtung derselben. Es beinhaltet das Trainieren von Modellen mit adversarialen Beispielen, um deren Widerstandsfähigkeit zu verbessern, ein Prozess, der als adversarial Training bekannt ist.

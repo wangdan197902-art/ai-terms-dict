@@ -1,23 +1,24 @@
 ---
-title: "Intelligente regeling"
-term_id: "intelligent_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "ai", "engineering"]
+title: Intelligente regeling
+term_id: intelligent_control
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- AI
+- engineering
 difficulty: 4
 weight: 1
-slug: "intelligent_control"
-aliases:
-  - /nl/terms/intelligent_control/
-date: "2026-07-18T16:00:50.115573Z"
-lastmod: "2026-07-18T17:15:08.756905Z"
+slug: intelligent_control
+date: '2026-07-18T16:00:50.115573Z'
+lastmod: '2026-07-18T17:15:08.756905Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Regelsystemen die AI-technieken gebruiken om complexe, niet-lineaire of onzekere dynamische processen te beheren."
+source: agnes_llm
+status: published
+language: nl
+description: Regelsystemen die AI-technieken gebruiken om complexe, niet-lineaire
+  of onzekere dynamische processen te beheren.
 ---
-
 ## Definition
 
 Intelligente regeling maakt gebruik van methoden voor kunstmatige intelligentie, zoals fuzzy logica, neurale netwerken en genetische algoritmen, om systemen te reguleren waar traditionele wiskundige modellering ontoereikend is of

@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /en/terms/beyond/
 date: "2026-07-18T09:30:33.573718Z"
 lastmod: "2026-07-18T11:44:44.594032Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A conceptual term referring to advancements or applications that exceed current technological limits or traditional boundaries of AI."
 ---
-
 ## Definition
 
 In the context of AI terminology, 'beyond' often describes emerging paradigms or future directions that transcend current capabilities, such as Artificial General Intelligence (AGI) or quantum-enhanced machine learning. It signifies moving past narrow task-specific solutions toward more autonomous, adaptable, and human-like cognitive systems. This term is frequently used in strategic discussions about the long-term trajectory of AI development and its societal implications.

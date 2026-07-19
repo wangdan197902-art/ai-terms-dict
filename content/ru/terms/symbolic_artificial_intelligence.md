@@ -1,23 +1,23 @@
 ---
-title: "Символический искусственный интеллект"
-term_id: "symbolic_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_paradigms", "logic"]
+title: Символический искусственный интеллект
+term_id: symbolic_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Paradigms
+- logic
 difficulty: 3
 weight: 1
-slug: "symbolic_artificial_intelligence"
-aliases:
-  - /ru/terms/symbolic_artificial_intelligence/
-date: "2026-07-18T16:17:40.526671Z"
-lastmod: "2026-07-18T16:38:07.207012Z"
+slug: symbolic_artificial_intelligence
+date: '2026-07-18T16:17:40.526671Z'
+lastmod: '2026-07-18T16:38:07.207012Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Символический ИИ — это подход к созданию ИИ, использующий высокоуровневые символические представления задач для решения сложных проблем путем поиска и рассуждений."
+source: agnes_llm
+status: published
+language: ru
+description: Символический ИИ — это подход к созданию ИИ, использующий высокоуровневые
+  символические представления задач для решения сложных проблем путем поиска и рассуждений.
 ---
-
 ## Definition
 
 Символический искусственный интеллект, часто называемый GOFAI (Good Old-Fashioned AI — «старомодный добрый ИИ»), опирается на манипулирование символами и правилами для выполнения рассуждений и решения задач. В отличие от соединительских подходов, он...

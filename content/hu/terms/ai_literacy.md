@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /hu/terms/ai_literacy/
 date: "2026-07-18T15:41:02.735631Z"
 lastmod: "2026-07-18T17:15:09.749161Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az a képesség, hogy megértsük, értékeljük és hatékonyan kommunikáljunk a mesterséges intelligencia technológiákkal és azok társadalmi következményeivel."
 ---
-
 ## Definition
 
 Az AI-műveltség arra a kompetenciákra utal, amelyek szükségesek egy egyre inkább mesterséges intelligencia által befolyásolt világban való eligazodáshoz. Ez túlmutat a technikai kódolási készségeken, és magában foglalja annak megértését is, hogyan működnek az AI-rendszerek, valamint etikai és társadalmi szempontjaikat.

@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /zh/terms/consent/
 date: "2026-07-18T11:11:15.321142Z"
 lastmod: "2026-07-18T11:44:45.461479Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "个人明确且知情地允许其数据被收集和处理以用于人工智能目的的协议。"
 ---
-
 ## Definition
 
 在人工智能伦理中，同意是指用户或主体在个人数据被收集、存储或用于机器学习模型之前，自愿给予的知情许可。这要求用户充分了解数据用途并自主决定。

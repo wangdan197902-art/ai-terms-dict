@@ -7,8 +7,6 @@ tags: ["theory", "creativity"]
 difficulty: 4
 weight: 1
 slug: "ideonomy"
-aliases:
-  - /tr/terms/ideonomy/
 date: "2026-07-18T15:57:23.636742Z"
 lastmod: "2026-07-18T16:38:07.319407Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İdeonomi, fikir üretiminin bilimidir ve yeni kavramlar ve yenilikler oluşturma ve düzenleme üzerine sistematik yöntemlere odaklanır."
 ---
-
 ## Definition
 
 Bu alan, fikirlerin nasıl oluştuğunu, birleştiğini ve evrim geçirdiğine dair süreçleri inceler. Yaratıcılığı ve problem çözme yeteneklerini artırmak için yapılandırılmış teknikler uygular. Yapay zeka bağlamlarında ideonomi, otomatik beyin fırtınası araçlarında kullanılabilir.

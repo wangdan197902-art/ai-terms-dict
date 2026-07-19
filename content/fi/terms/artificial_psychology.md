@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /fi/terms/artificial_psychology/
 date: "2026-07-18T15:43:25.622598Z"
 lastmod: "2026-07-18T17:15:09.384765Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ala, joka tutkii, kuinka tekoälyjärjestelmiä voidaan suunnitella käyttäen kognitiivisia arkkitehtuureja, jotka jäljittelevät inhimillisiä psykologisia prosesseja."
 ---
-
 ## Definition
 
 Tekopsykologia on monitieteinen tutkimusala, joka keskittyy kognitiivisten arkkitehtuurien suunnitteluun ja toteutukseen tekoälyjärjestelmissä. Se ammentaa kognitiivisesta tieteestä ja psykologiasta mallintaakseen ihmisen mielen toimintaa, kuten oppimista, muistia, päättelykykyä ja tunteiden käsittelyä, jotta koneet voisivat toimia inhimillisemmällä tavalla.

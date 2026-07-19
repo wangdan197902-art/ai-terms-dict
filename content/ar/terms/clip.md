@@ -1,23 +1,24 @@
 ---
-title: "قصّ القيم"
-term_id: "clip"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "stability", "engineering"]
+title: قصّ القيم
+term_id: clip
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- stability
+- engineering
 difficulty: 3
 weight: 1
-slug: "clip"
-aliases:
-  - /ar/terms/clip/
-date: "2026-07-18T15:48:35.462809Z"
-lastmod: "2026-07-18T17:15:08.484513Z"
+slug: clip
+date: '2026-07-18T15:48:35.462809Z'
+lastmod: '2026-07-18T17:15:08.484513Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "القصّ (Clipping) هو تقنية تُستخدم لتقييد مقدار القيم، مثل التدرجات أو احتمالات المخرجات، لمنع عدم الاستقرار العددي أثناء التدريب."
+source: agnes_llm
+status: published
+language: ar
+description: القصّ (Clipping) هو تقنية تُستخدم لتقييد مقدار القيم، مثل التدرجات أو
+  احتمالات المخرجات، لمنع عدم الاستقرار العددي أثناء التدريب.
 ---
-
 ## Definition
 
 في هندسة التعلم العميق، يُطبق القصّ بشكل شائع على التدرجات للتخفيف من مشكلة انفجار التدرجات، مما يضمن استقرار الانتشار العكسي. يمكن أن يشير أيضاً إلى تحديد حدود اللوغيتات (logits) للمخرجات قبل

@@ -1,23 +1,23 @@
 ---
-title: "Kinyerésen alapuló generálás"
-term_id: "rag"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "knowledge_management"]
+title: Kinyerésen alapuló generálás
+term_id: rag
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Knowledge Management
 difficulty: 4
 weight: 1
-slug: "rag"
-aliases:
-  - /hu/terms/rag/
-date: "2026-07-18T15:30:38.388038Z"
-lastmod: "2026-07-18T17:15:09.728775Z"
+slug: rag
+date: '2026-07-18T15:30:38.388038Z'
+lastmod: '2026-07-18T17:15:09.728775Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A RAG egy AI keretrendszer, amely külső tudásbázisokból releváns információk kinyerésével javítja a generatív modellek teljesítményét válaszok generálása előtt."
+source: agnes_llm
+status: published
+language: hu
+description: A RAG egy AI keretrendszer, amely külső tudásbázisokból releváns információk
+  kinyerésével javítja a generatív modellek teljesítményét válaszok generálása előtt.
 ---
-
 ## Definition
 
 A kinyerésen alapuló generálás (RAG) ötvözi a kinyerésen alapuló és a generálásen alapuló AI rendszerek erősségeit. Ahelyett, hogy kizárólag a betanított nyelvmodell paramétereire támaszkodna, a RAG először kinyeri a releváns kontextust külső adatforrásokból, majd ezt használja fel a pontosabb és hitelesebb válaszok generálásához.

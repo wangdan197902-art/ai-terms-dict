@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /id/terms/hallucination/
 date: "2026-07-18T15:23:01.511880Z"
 lastmod: "2026-07-18T16:38:07.387784Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ketika model AI menghasilkan informasi yang diyakini benar secara faktual namun sebenarnya salah atau tidak masuk akal."
 ---
-
 ## Definition
 
 Halusinasi terjadi ketika model AI generatif menghasilkan output yang tampak masuk akal tetapi tidak berlandaskan pada realitas atau data sumber. Ini merupakan tantangan signifikan dalam aplikasi yang memerlukan akurasi tinggi

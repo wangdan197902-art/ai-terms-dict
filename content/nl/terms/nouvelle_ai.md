@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /nl/terms/nouvelle_ai/
 date: "2026-07-18T16:10:40.940014Z"
 lastmod: "2026-07-18T17:15:08.772906Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een symbolische AI-aanpak die hiërarchische, modulaire redeneerstructuren benadrukt, geïnspireerd door de menselijke cognitieve architectuur."
 ---
-
 ## Definition
 
 Nouvelle AI verwijst naar een klasse van kunstmatige intelligentiesystemen die symbolische representaties combineren met hiërarchische verwerking. In tegenstelling tot connectionistische modellen richt het zich op gestructureerde redenering en modulair ontwerp.

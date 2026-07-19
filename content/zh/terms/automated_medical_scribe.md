@@ -1,23 +1,23 @@
 ---
-title: "自动化医疗文书录入员"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: 自动化医疗文书录入员
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /zh/terms/automated_medical_scribe/
-date: "2026-07-18T11:08:15.505830Z"
-lastmod: "2026-07-18T11:44:45.447970Z"
+slug: automated_medical_scribe
+date: '2026-07-18T11:08:15.505830Z'
+lastmod: '2026-07-18T11:44:45.447970Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种由人工智能驱动的系统，能够自动生成基于医患互动的临床文档。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种由人工智能驱动的系统，能够自动生成基于医患互动的临床文档。
 ---
-
 ## Definition
 
 自动化医疗文书录入员利用自然语言处理和语音识别技术，聆听医生与患者的对话，并创建结构化的电子健康记录。该技术旨在减轻医护人员的行政负担，提高数据记录的准确性和效率。

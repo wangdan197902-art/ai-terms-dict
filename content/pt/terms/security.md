@@ -7,8 +7,6 @@ tags: ["safety", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "security"
-aliases:
-  - /pt/terms/security/
 date: "2026-07-18T14:39:15.812975Z"
 lastmod: "2026-07-18T15:51:59.438982Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A prática de proteger sistemas de IA contra acesso não autorizado, uso indevido e ataques maliciosos."
 ---
-
 ## Definition
 
 A segurança em IA abrange medidas projetadas para salvaguardar modelos de aprendizado de máquina, pipelines de dados e infraestrutura de implantação contra ameaças como ataques adversariais, envenenamento de dados e inversão de

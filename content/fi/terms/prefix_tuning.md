@@ -1,23 +1,24 @@
 ---
-title: "Etuliitelukitus"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: Etuliitelukitus
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /fi/terms/prefix_tuning/
-date: "2026-07-18T16:16:06.727083Z"
-lastmod: "2026-07-18T17:15:09.444953Z"
+slug: prefix_tuning
+date: '2026-07-18T16:16:06.727083Z'
+lastmod: '2026-07-18T17:15:09.444953Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Parametreja säästävä hienosäätömenetelmä, joka lisää opetettavia jatkuvia vektoreita transformer-kerrosten syötteeseen."
+source: agnes_llm
+status: published
+language: fi
+description: Parametreja säästävä hienosäätömenetelmä, joka lisää opetettavia jatkuvia
+  vektoreita transformer-kerrosten syötteeseen.
 ---
-
 ## Definition
 
 Etuliitelukitus on parametreja säästävä sopeutustekniikka esikoulutetuille transformer-malleille. Sen sijaan, että kaikkia mallin painoarvoja päivitettäisiin, menetelmään lisätään opetettavien jatkuvien vektorien (etuliitteen) sekvenssi mallin syötteeseen tai kerroksiin, mikä mahdollistaa tehokkaan mukauttamisen vähäisellä laskentakustannuksella.

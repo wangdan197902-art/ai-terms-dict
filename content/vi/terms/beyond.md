@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /vi/terms/beyond/
 date: "2026-07-18T15:23:44.715952Z"
 lastmod: "2026-07-18T16:38:07.681013Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thuật ngữ khái niệm đề cập đến những tiến bộ hoặc ứng dụng vượt quá giới hạn công nghệ hiện tại hoặc ranh giới truyền thống của AI."
 ---
-
 ## Definition
 
 Trong ngữ cảnh thuật ngữ AI, 'vượt xa' thường mô tả các mô hình tư duy mới nổi hoặc các hướng đi trong tương lai vượt trội so với các khả năng hiện tại, chẳng hạn như Trí tuệ Nhân tạo Tổng quát (AGI) hoặc các hệ thống được tăng cường bởi lượng tử.

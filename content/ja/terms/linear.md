@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Foundations"]
 difficulty: 2
 weight: 1
 slug: "linear"
-aliases:
-  - /ja/terms/linear/
 date: "2026-07-18T10:52:09.964089Z"
 lastmod: "2026-07-18T11:44:45.012336Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "出力が入力に直接比例する操作や関係を示し、ニューラルレイヤーのアフィン変換の基礎を形成する。"
 ---
-
 ## Definition
 
 線形操作には、非線形活性化関数を伴わない乗算と加算が含まれます。ニューラルネットワークでは、線形レイヤー（または密結合層）が入力ベクトルに重み行列変換を適用します。線形操作のみでは

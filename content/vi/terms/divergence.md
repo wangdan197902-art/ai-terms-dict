@@ -1,23 +1,24 @@
 ---
-title: "Phân kỳ"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Phân kỳ
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /vi/terms/divergence/
-date: "2026-07-18T15:24:27.512700Z"
-lastmod: "2026-07-18T16:38:07.682872Z"
+slug: divergence
+date: '2026-07-18T15:24:27.512700Z'
+lastmod: '2026-07-18T16:38:07.682872Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Phân kỳ đề cập đến tình trạng hàm mất mát của thuật toán học máy không giảm trong quá trình huấn luyện, dẫn đến hiệu suất không ổn định hoặc suy giảm."
+source: agnes_llm
+status: published
+language: vi
+description: Phân kỳ đề cập đến tình trạng hàm mất mát của thuật toán học máy không
+  giảm trong quá trình huấn luyện, dẫn đến hiệu suất không ổn định hoặc suy giảm.
 ---
-
 ## Definition
 
 Trong bối cảnh tối ưu hóa, phân kỳ xảy ra khi các tham số của mô hình cập nhật theo cách khiến hàm mất mát tăng lên thay vì giảm xuống, thường dẫn đến các giá trị NaN (không phải số) hoặc gradient vô hạn. Điều này thường do tốc độ học quá cao hoặc các vấn đề về độ chính xác số.

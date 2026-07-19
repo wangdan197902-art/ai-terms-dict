@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /no/terms/robots/
 date: "2026-07-18T15:29:28.630123Z"
 lastmod: "2026-07-18T16:38:06.945275Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Flertallsformen som refererer til flere programmerbare maskiner designet for å utføre oppgaver autonomt."
 ---
-
 ## Definition
 
 Robotere omfatter en mangfoldig klasse maskiner som kan klassifiseres etter deres mobilitet, struktur eller bruksområde. Denne kategorien inkluderer industrielle armer, autonome mobile roboter (AMR), droner og mer.

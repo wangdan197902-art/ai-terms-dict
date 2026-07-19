@@ -1,23 +1,25 @@
 ---
-title: "Data-augmentatie"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: Data-augmentatie
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /nl/terms/data_augmentation/
-date: "2026-07-18T15:48:56.039941Z"
-lastmod: "2026-07-18T17:15:08.730715Z"
+slug: data_augmentation
+date: '2026-07-18T15:48:56.039941Z'
+lastmod: '2026-07-18T17:15:08.730715Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Data-augmentatie is een techniek die wordt gebruikt om de diversiteit en omvang van trainingsdatasets te vergroten door transformaties toe te passen op bestaande datapunten."
+source: agnes_llm
+status: published
+language: nl
+description: Data-augmentatie is een techniek die wordt gebruikt om de diversiteit
+  en omvang van trainingsdatasets te vergroten door transformaties toe te passen op
+  bestaande datapunten.
 ---
-
 ## Definition
 
 Deze methode breidt het trainingsdataset kunstmatig uit door gewijzigde versies van bestaande steekproeven te maken, zoals het draaien van afbeeldingen, het toevoegen van ruis aan audio of het vervangen van synoniemen in tekst. Het helpt voorkomen

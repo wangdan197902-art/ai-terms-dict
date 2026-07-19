@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /id/terms/ciml_community_portal/
 date: "2026-07-18T15:41:31.890513Z"
 lastmod: "2026-07-18T16:38:07.435137Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Platform online terpusat yang memfasilitasi kolaborasi, berbagi sumber daya, dan diskusi di antara peneliti dan praktisi di bidang Kecerdasan Komputasional dan Pembelajaran Mesin."
 ---
-
 ## Definition
 
 Portal komunitas CIML berfungsi sebagai pusat digital bagi komunitas akademik dan profesional yang berfokus pada kecerdasan komputasional. Portal ini menyediakan akses ke kumpulan data, model pra-latih, makalah penelitian, serta forum untuk bertukar ide dan kemajuan terbaru dalam bidang tersebut.

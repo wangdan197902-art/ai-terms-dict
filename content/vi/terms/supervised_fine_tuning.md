@@ -1,23 +1,24 @@
 ---
-title: "Điều chỉnh tinh chỉnh có giám sát"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Điều chỉnh tinh chỉnh có giám sát
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /vi/terms/supervised_fine_tuning/
-date: "2026-07-18T15:37:23.306505Z"
-lastmod: "2026-07-18T16:38:07.714663Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:37:23.306505Z'
+lastmod: '2026-07-18T16:38:07.714663Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình huấn luyện thêm một mô hình đã được huấn luyện trước trên một tập dữ liệu cụ thể để thích nghi với một tác vụ hoặc lĩnh vực nhất định."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình huấn luyện thêm một mô hình đã được huấn luyện trước trên một
+  tập dữ liệu cụ thể để thích nghi với một tác vụ hoặc lĩnh vực nhất định.
 ---
-
 ## Definition
 
 Điều chỉnh tinh chỉnh có giám sát (SFT) liên quan đến việc lấy một mô hình lớn đã được huấn luyện trước, chẳng hạn như mô hình ngôn ngữ, và tiếp tục huấn luyện nó trên một tập dữ liệu nhỏ hơn, chất lượng cao đã được gắn nhãn cho một tác vụ cụ thể.

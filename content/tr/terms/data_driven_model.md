@@ -1,23 +1,24 @@
 ---
-title: "Veri Odaklı Model"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Veri Odaklı Model
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /tr/terms/data_driven_model/
-date: "2026-07-18T15:47:16.832514Z"
-lastmod: "2026-07-18T16:38:07.290044Z"
+slug: data_driven_model
+date: '2026-07-18T15:47:16.832514Z'
+lastmod: '2026-07-18T16:38:07.290044Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Parametreleri ve yapısı açık programlama yerine ampirik veriden doğrudan öğrenilen bir hesaplama modeli."
+source: agnes_llm
+status: published
+language: tr
+description: Parametreleri ve yapısı açık programlama yerine ampirik veriden doğrudan
+  öğrenilen bir hesaplama modeli.
 ---
-
 ## Definition
 
 Veri odaklı bir model, davranışın ve tahminlerin katı kodlanmış kurallar veya açık mantık yerine geçmiş veriler içinde tanımlanan kalıplardan ortaya çıktığı bir yapay zeka sistemidir. Bu modeller, verideki gizli ilişkileri keşfetmek için genellikle makine öğrenimi algoritmalarını kullanır.

@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /vi/terms/bayesian/
 date: "2026-07-18T15:23:31.140955Z"
 lastmod: "2026-07-18T16:38:07.680522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Liên quan đến các phương pháp thống kê dựa trên Định lý Bayes để cập nhật xác suất khi có bằng chứng mới."
 ---
-
 ## Definition
 
 Các phương pháp tiếp cận Bayesian trong AI sử dụng lý thuyết xác suất để cập nhật khả năng xảy ra của các giả thuyết khi có thêm bằng chứng. Phương pháp này cho phép các mô hình định lượng sự không chắc chắn và tinh chỉnh dự đoán động

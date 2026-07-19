@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /zh/terms/mode_collapse/
 date: "2026-07-18T11:26:24.857431Z"
 lastmod: "2026-07-18T11:44:45.532624Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "模式崩溃是生成对抗网络（GAN）中的一种失效模式，指生成器产生的输出种类有限。"
 ---
-
 ## Definition
 
 在 GAN 中，当生成器学会利用判别器的弱点，仅产生少量看似合理的样本，而忽略数据分布的其他模式时，就会发生模式崩溃。这种现象会导致生成多样性严重不足。

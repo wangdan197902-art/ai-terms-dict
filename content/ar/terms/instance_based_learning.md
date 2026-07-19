@@ -1,23 +1,24 @@
 ---
-title: "التعلم القائم على العينات"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: التعلم القائم على العينات
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /ar/terms/instance_based_learning/
-date: "2026-07-18T16:03:21.808705Z"
-lastmod: "2026-07-18T17:15:08.516551Z"
+slug: instance_based_learning
+date: '2026-07-18T16:03:21.808705Z'
+lastmod: '2026-07-18T17:15:08.516551Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نهج تعلم كسول حيث تتم عمليات التنبؤ بمقارنة المدخلات الجديدة بالعينات التدريبية المخزنة."
+source: agnes_llm
+status: published
+language: ar
+description: نهج تعلم كسول حيث تتم عمليات التنبؤ بمقارنة المدخلات الجديدة بالعينات
+  التدريبية المخزنة.
 ---
-
 ## Definition
 
 يُعرف أيضاً بالتعلم القائم على الذاكرة، لا تبني هذه التقنية نموذجاً عاماً أثناء التدريب. بدلاً من ذلك، تخزن مجموعة البيانات التدريبية بأكملها. عند الحاجة للتنبؤ، تبحث عن أكثر العينات...

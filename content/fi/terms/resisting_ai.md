@@ -1,23 +1,24 @@
 ---
-title: "AI:n vastustaminen"
-term_id: "resisting_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["security", "privacy", "adversarial_ml"]
+title: AI:n vastustaminen
+term_id: resisting_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- security
+- privacy
+- Adversarial ML
 difficulty: 3
 weight: 1
-slug: "resisting_ai"
-aliases:
-  - /fi/terms/resisting_ai/
-date: "2026-07-18T16:19:01.636910Z"
-lastmod: "2026-07-18T17:15:09.455662Z"
+slug: resisting_ai
+date: '2026-07-18T16:19:01.636910Z'
+lastmod: '2026-07-18T17:15:09.455662Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Strategiat ja tekniikat, joilla pyritään välttämään tekoälyjärjestelmien havaitseminen, manipulointi tai hallinta."
+source: agnes_llm
+status: published
+language: fi
+description: Strategiat ja tekniikat, joilla pyritään välttämään tekoälyjärjestelmien
+  havaitseminen, manipulointi tai hallinta.
 ---
-
 ## Definition
 
 AI:n vastustaminen viittaa menetelmiin, joita yksilöt tai tahot käyttävät välttääkseen tekoälyalgoritmien vaikutusvallan, seurannan tai luokittelun. Tämä sisältää vihollisia hyökkäyksiä havaintojärjestelmiin, yksityisyyttä suojaavat

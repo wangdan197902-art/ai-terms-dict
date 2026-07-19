@@ -1,23 +1,25 @@
 ---
-title: "Trích dẫn (Citation)"
-term_id: "citation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "compliance", "generative_ai"]
+title: Trích dẫn (Citation)
+term_id: citation
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- compliance
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "citation"
-aliases:
-  - /vi/terms/citation/
-date: "2026-07-18T15:44:14.140974Z"
-lastmod: "2026-07-18T16:38:07.736256Z"
+slug: citation
+date: '2026-07-18T15:44:14.140974Z'
+lastmod: '2026-07-18T16:38:07.736256Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Trích dẫn trong AI là thực hành ghi nhận nguồn tài liệu hoặc dữ liệu được sử dụng trong văn bản hoặc mô hình được tạo ra để đảm bảo tính minh bạch và tuân thủ quyền sở hữu trí tuệ."
+source: agnes_llm
+status: published
+language: vi
+description: Trích dẫn trong AI là thực hành ghi nhận nguồn tài liệu hoặc dữ liệu
+  được sử dụng trong văn bản hoặc mô hình được tạo ra để đảm bảo tính minh bạch và
+  tuân thủ quyền sở hữu trí tuệ.
 ---
-
 ## Definition
 
 Khi các mô hình AI sinh tạo sản xuất nội dung, nhu cầu về cơ chế trích dẫn đã nảy sinh để duy trì tính trung thực học thuật và tuân thủ pháp luật. Điều này liên quan đến việc nhúng các tham chiếu đến nguồn gốc ban đầu vào

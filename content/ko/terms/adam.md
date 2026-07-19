@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /ko/terms/adam/
 date: "2026-07-18T15:22:46.628600Z"
 lastmod: "2026-07-18T16:38:06.767714Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "각 매개변수에 대해 적응형 학습률을 계산하는 최적화 알고리즘."
 ---
-
 ## Definition
 
 Adam(적응 모멘트 추정)은 심층 신경망 훈련에 널리 사용되는 1계 경사 기반 최적화 알고리즘입니다. 이는 확률적 경사 하강법의 두 가지 확장 버전인 모멘텀(Momentum)과 RMSProp의 장점을 결합합니다.

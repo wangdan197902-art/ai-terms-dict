@@ -1,23 +1,24 @@
 ---
-title: "Výběr instancí"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: Výběr instancí
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /cs/terms/instance_selection/
-date: "2026-07-18T16:02:57.271047Z"
-lastmod: "2026-07-18T17:15:09.142650Z"
+slug: instance_selection
+date: '2026-07-18T16:02:57.271047Z'
+lastmod: '2026-07-18T17:15:09.142650Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika předzpracování, která snižuje velikost datové sady výběrem podmnožiny reprezentativních instancí."
+source: agnes_llm
+status: published
+language: cs
+description: Technika předzpracování, která snižuje velikost datové sady výběrem podmnožiny
+  reprezentativních instancí.
 ---
-
 ## Definition
 
 Výběr instancí má za cíl zlepšit výpočetní efektivitu a výkon modelu odstraněním redundance nebo hluku v datech. Na rozdíl od výběru znaků pracuje s řádky datové sady. Cílem je

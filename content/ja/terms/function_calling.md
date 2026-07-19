@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /ja/terms/function_calling/
 date: "2026-07-18T10:59:21.201194Z"
 lastmod: "2026-07-18T11:44:45.048213Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "LLMが特定のソフトウェア関数をトリガーする構造化データを出力できるメカニズム。"
 ---
-
 ## Definition
 
 関数呼び出しにより、大規模言語モデルはJSONオブジェクトなどの構造化出力を生成することで外部ツールやAPIと連携し、実行すべき関数とその引数を指定できます。

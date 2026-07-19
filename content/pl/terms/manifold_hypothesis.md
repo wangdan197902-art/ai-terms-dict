@@ -1,23 +1,24 @@
 ---
-title: "Hipoteza rozmaitości"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Hipoteza rozmaitości
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /pl/terms/manifold_hypothesis/
-date: "2026-07-18T16:05:56.187943Z"
-lastmod: "2026-07-18T17:15:08.895665Z"
+slug: manifold_hypothesis
+date: '2026-07-18T16:05:56.187943Z'
+lastmod: '2026-07-18T17:15:08.895665Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Założenie, że dane rzeczywiste o wysokiej wymiarowości leżą na niższym wymiarowym, nieliniowym rozmaitości w przestrzeni o wyższej wymiarowości."
+source: agnes_llm
+status: published
+language: pl
+description: Założenie, że dane rzeczywiste o wysokiej wymiarowości leżą na niższym
+  wymiarowym, nieliniowym rozmaitości w przestrzeni o wyższej wymiarowości.
 ---
-
 ## Definition
 
 Hipoteza ta wyjaśnia, dlaczego głębokie uczenie działa skutecznie mimo klątwy wymiarowości. Sugeruje ona, że choć dane, takie jak obrazy, istnieją w milionach wymiarów, są one ograniczone przez ukryte struktury o niższym wymiarze, co pozwala algorytmom na...

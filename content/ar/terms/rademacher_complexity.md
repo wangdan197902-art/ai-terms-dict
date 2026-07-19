@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /ar/terms/rademacher_complexity/
 date: "2026-07-18T16:18:55.630451Z"
 lastmod: "2026-07-18T17:15:08.542867Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مقياس إحصائي يُستخدم في نظرية التعلم لقياس ثراء فئة الدوال من خلال قدرتها على ملاءمة الضوضاء العشوائية."
 ---
-
 ## Definition
 
 يقيّم تعقيد رادماخر مدى قدرة فئة الفرضيات على الارتباط بالملفات العشوائية (الضوضاء). وهو يعمل كبديل لقدرة النموذج أو مرونته. يشير التعقيد المنخفض إلى تعميم أفضل.

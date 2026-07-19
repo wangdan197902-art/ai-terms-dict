@@ -1,23 +1,24 @@
 ---
-title: "المعرفة الحدسية"
-term_id: "commonsense_knowledge"
-category: "basic_concepts"
-subcategory: ""
-tags: ["knowledge_rep", "reasoning", "nlp"]
+title: المعرفة الحدسية
+term_id: commonsense_knowledge
+category: basic_concepts
+subcategory: ''
+tags:
+- Knowledge Rep
+- reasoning
+- NLP
 difficulty: 3
 weight: 1
-slug: "commonsense_knowledge"
-aliases:
-  - /ar/terms/commonsense_knowledge/
-date: "2026-07-18T15:49:04.453155Z"
-lastmod: "2026-07-18T17:15:08.485584Z"
+slug: commonsense_knowledge
+date: '2026-07-18T15:49:04.453155Z'
+lastmod: '2026-07-18T17:15:08.485584Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "المعلومات الخلفية والفهم البديهي للعالم المادي والاجتماعي الذي يمتلكه البشر ولكن تفتقر إليه الآلات غالباً."
+source: agnes_llm
+status: published
+language: ar
+description: المعلومات الخلفية والفهم البديهي للعالم المادي والاجتماعي الذي يمتلكه
+  البشر ولكن تفتقر إليه الآلات غالباً.
 ---
-
 ## Definition
 
 تشير المعرفة الحدسية إلى الكم الهائل من المعلومات الضمنية حول الحياة اليومية، والفيزياء، والأعراف الاجتماعية، وعلاقات السبب والنتيجة التي يكتسبها البشر بشكل طبيعي. في مجال الذكاء الاصطناعي، يعد اكتساب هذا النوع من المعرفة تحدياً كبيراً لأن الآلات تفتقر إلى الخبرة الحسية المباشرة بالعالم.

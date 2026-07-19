@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /ro/terms/edge_computing/
 date: "2026-07-18T15:55:33.936363Z"
 lastmod: "2026-07-18T17:15:09.651384Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Computația la margine este un paradigmă de computație distribuită care aduce procesarea și stocarea datelor mai aproape de sursele acestora, în loc să se bazeze exclusiv pe servere cloud centralizate."
 ---
-
 ## Definition
 
 Computația la margine abordează limitările de latență și lățime de bandă ale arhitecturilor centrate pe cloud, procesând datele aproape de locul unde sunt generate, cum ar fi dispozitivele IoT, senzorii sau gateway-urile locale. În contextul AI

@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /vi/terms/artificial_psychology/
 date: "2026-07-18T15:41:03.767402Z"
 lastmod: "2026-07-18T16:38:07.729487Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một lĩnh vực nghiên cứu cách thiết kế các hệ thống AI có kiến trúc nhận thức mô phỏng các quá trình tâm lý của con người."
 ---
-
 ## Definition
 
 Tâm lý học nhân tạo là một lĩnh vực liên ngành tập trung vào thiết kế và triển khai các kiến trúc nhận thức trong các hệ thống AI. Nó vay mượn từ khoa học nhận thức và tâm lý học để mô hình hóa tư duy...

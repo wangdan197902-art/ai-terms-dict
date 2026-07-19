@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /sv/terms/equalized_odds/
 date: "2026-07-18T15:56:29.147602Z"
 lastmod: "2026-07-18T17:15:09.000942Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En rättvisemetric som kräver att sannolikheten för positiva och falska positiva resultat är lika över olika demografiska grupper."
 ---
-
 ## Definition
 
 Jämlika odds är en begränsning för statistisk paritet som används inom algoritmisk rättvisa för att säkerställa att en modell presterar lika bra för alla skyddade grupper. Specifikt krävs det att sannolikheten för ett positivt resultat givet att den faktiska klassen är positiv är densamma oavsett grupptillhörighet, samt samma för negativa fall.

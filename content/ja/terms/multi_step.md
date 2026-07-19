@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /ja/terms/multi_step/
 date: "2026-07-18T10:57:15.383149Z"
 lastmod: "2026-07-18T11:44:45.027475Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "最終的な解決策に到達するために、一連の論理的な操作や計算を実行することを必要とする問題解決戦略。"
 ---
-
 ## Definition
 
 マルチステップメソッドは、複雑なクエリやタスクをより小さく実行可能なステップに分解することを含みます。このアプローチは、数学的な問題解決やコード生成などの推論タスクにおいて重要です。

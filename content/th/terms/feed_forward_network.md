@@ -1,23 +1,24 @@
 ---
-title: "เครือข่ายฟีดฟอร์เวิร์ด (Feed-Forward Network)"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: เครือข่ายฟีดฟอร์เวิร์ด (Feed-Forward Network)
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /th/terms/feed_forward_network/
-date: "2026-07-18T15:53:39.072106Z"
-lastmod: "2026-07-18T16:38:07.606313Z"
+slug: feed_forward_network
+date: '2026-07-18T15:53:39.072106Z'
+lastmod: '2026-07-18T16:38:07.606313Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "คลาสของเครือข่ายประสาทเทียมเทียมที่การเชื่อมต่อระหว่างโหนดไม่เกิดวงจร โดยส่งผ่านข้อมูลในทิศทางเดียว"
+source: agnes_llm
+status: published
+language: th
+description: คลาสของเครือข่ายประสาทเทียมเทียมที่การเชื่อมต่อระหว่างโหนดไม่เกิดวงจร
+  โดยส่งผ่านข้อมูลในทิศทางเดียว
 ---
-
 ## Definition
 
 เครือข่ายฟีดฟอร์เวิร์ด (FFN) หรือที่เรียกว่าเพอร์เซปตรอนหลายชั้น (MLP) ประมวลผลข้อมูลแบบลำดับผ่านชั้นของนิวรอนจากอินพุตไปยังเอาต์พุตโดยไม่มีการวนกลับ นิวรอนแต่ละตัวรับอินพุต คำนวณผลรวมถ่วงน้ำหนัก และผ่านฟังก์ชันกระตุ้น เพื่อส่งผลลัพธ์ไปยังชั้นถัดไป โครงสร้างนี้ทำให้ข้อมูลไหลไปข้างหน้าเพียงทิศทางเดียวเท่านั้น

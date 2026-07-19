@@ -1,23 +1,23 @@
 ---
-title: "意味検索"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: 意味検索
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /ja/terms/semantic_search/
-date: "2026-07-18T11:00:34.091913Z"
-lastmod: "2026-07-18T11:44:45.057664Z"
+slug: semantic_search
+date: '2026-07-18T11:00:34.091913Z'
+lastmod: '2026-07-18T11:44:45.057664Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "単なるキーワードマッチングではなく、クエリ用語の意味を理解する検索技術。"
+source: agnes_llm
+status: published
+language: ja
+description: 単なるキーワードマッチングではなく、クエリ用語の意味を理解する検索技術。
 ---
-
 ## Definition
 
 意味検索は、単純なキーワードマッチングを超えて、クエリの意図と文脈的な意味を解釈します。テキストを高次元空間内のベクトルとして表現する埋め込みを使用し、...

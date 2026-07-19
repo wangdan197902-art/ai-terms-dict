@@ -1,23 +1,24 @@
 ---
-title: "Spójna ekstrapolowana wola"
-term_id: "coherent_extrapolated_volition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "ai_safety", "philosophy"]
+title: Spójna ekstrapolowana wola
+term_id: coherent_extrapolated_volition
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- AI Safety
+- philosophy
 difficulty: 4
 weight: 1
-slug: "coherent_extrapolated_volition"
-aliases:
-  - /pl/terms/coherent_extrapolated_volition/
-date: "2026-07-18T15:46:11.591263Z"
-lastmod: "2026-07-18T17:15:08.854968Z"
+slug: coherent_extrapolated_volition
+date: '2026-07-18T15:46:11.591263Z'
+lastmod: '2026-07-18T17:15:08.854968Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proponowany cel dla sztucznej inteligencji, w którym system działa zgodnie z udoskonalonymi pragnieniami ludzkości po zastosowaniu idealizowanego rozumowania."
+source: agnes_llm
+status: published
+language: pl
+description: Proponowany cel dla sztucznej inteligencji, w którym system działa zgodnie
+  z udoskonalonymi pragnieniami ludzkości po zastosowaniu idealizowanego rozumowania.
 ---
-
 ## Definition
 
 Spójna Ekstrapolowana Wola (CEV) to koncepcja wprowadzona przez Eliezera Yudkowskiego w kontekście bezpieczeństwa i zgodności sztucznej inteligencji. Sugeruje ona, że zaawansowana SI nie powinna po prostu wykonywać obecnych poleceń ludzi,

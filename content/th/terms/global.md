@@ -1,23 +1,24 @@
 ---
-title: "ระดับสากล/ทั่วโลก (Global)"
-term_id: "global"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "architecture", "theory"]
+title: ระดับสากล/ทั่วโลก (Global)
+term_id: global
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- architecture
+- theory
 difficulty: 2
 weight: 1
-slug: "global"
-aliases:
-  - /th/terms/global/
-date: "2026-07-18T15:25:45.119605Z"
-lastmod: "2026-07-18T16:38:07.539736Z"
+slug: global
+date: '2026-07-18T15:25:45.119605Z'
+lastmod: '2026-07-18T16:38:07.539736Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อธิบายคุณสมบัติ การปรับให้เหมาะสม หรือขอบเขตที่นำไปใช้กับโมเดลหรือชุดข้อมูลทั้งหมด แทนที่จะเป็นเพียงส่วนย่อยเฉพาะจุด"
+source: agnes_llm
+status: published
+language: th
+description: อธิบายคุณสมบัติ การปรับให้เหมาะสม หรือขอบเขตที่นำไปใช้กับโมเดลหรือชุดข้อมูลทั้งหมด
+  แทนที่จะเป็นเพียงส่วนย่อยเฉพาะจุด
 ---
-
 ## Definition
 
 คำว่า 'Global' ในปัญญาประดิษฐ์มักจะถูกเปรียบเทียบกับ 'Local' โดยหมายถึงด้านที่ครอบคลุมทั้งระบบ ตัวอย่างเช่น ในด้านการปรับให้เหมาะสม (Optimization) จุดต่ำสุดทั่วโลก (Global minima) หมายถึงคำตอบที่ดีที่สุดที่เป็นไปได้ทั่วทั้งภูมิทัศน์ของการสูญเสีย (loss landscape)

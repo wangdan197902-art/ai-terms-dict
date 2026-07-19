@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /sv/terms/spatial_intelligence/
 date: "2026-07-18T16:21:30.782277Z"
 lastmod: "2026-07-18T17:15:09.049576Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "AI-systems förmåga att förstå, resonera kring och navigera i tredimensionella miljöer."
 ---
-
 ## Definition
 
 Rumslig intelligens avser kapaciteten hos artificiella intelligensmodeller att uppfatta, tolka och manipulera rumsliga relationer inom fysiska eller virtuella miljöer. Det innefattar att förstå djup, avstånd och orientering i rummet.

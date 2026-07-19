@@ -1,23 +1,23 @@
 ---
-title: "Generare Augmentată prin Recuperare"
-term_id: "rag"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "knowledge_management"]
+title: Generare Augmentată prin Recuperare
+term_id: rag
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Knowledge Management
 difficulty: 4
 weight: 1
-slug: "rag"
-aliases:
-  - /ro/terms/rag/
-date: "2026-07-18T15:28:54.878488Z"
-lastmod: "2026-07-18T17:15:09.602358Z"
+slug: rag
+date: '2026-07-18T15:28:54.878488Z'
+lastmod: '2026-07-18T17:15:09.602358Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "RAG este un cadru de IA care îmbunătățește modelele generative recuperând informații relevante din baze de cunoștințe externe înainte de a genera răspunsuri."
+source: agnes_llm
+status: published
+language: ro
+description: RAG este un cadru de IA care îmbunătățește modelele generative recuperând
+  informații relevante din baze de cunoștințe externe înainte de a genera răspunsuri.
 ---
-
 ## Definition
 
 Generarea Augmentată prin Recuperare (RAG) combină punctele forte ale sistemelor de IA bazate pe recuperare și cele bazate pe generare. În loc să se bazeze exclusiv pe parametrii unui model de limbaj preantrenat, RAG recuperează mai întâi

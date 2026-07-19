@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /cs/terms/ai_mode/
 date: "2026-07-18T15:39:34.878313Z"
 lastmod: "2026-07-18T17:15:09.095793Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Funkční stav v softwarových rozhraních, kde umělá inteligence aktivně pomáhá nebo automatizuje úkoly."
 ---
-
 ## Definition
 
 Režim AI označuje specifický provozní stav v digitálních platformách nebo aplikacích, kde jsou aktivovány schopnosti AI k vylepšení interakce s uživatelem. Tento režim obvykle umožňuje funkce jako přirozené

@@ -1,23 +1,24 @@
 ---
-title: "Kubernetes"
-term_id: "kubernetes"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "devops", "cloud_computing"]
+title: Kubernetes
+term_id: kubernetes
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- devops
+- Cloud Computing
 difficulty: 3
 weight: 1
-slug: "kubernetes"
-aliases:
-  - /fr/terms/kubernetes/
-date: "2026-07-18T11:24:56.811349Z"
-lastmod: "2026-07-18T11:44:45.282422Z"
+slug: kubernetes
+date: '2026-07-18T11:24:56.811349Z'
+lastmod: '2026-07-18T11:44:45.282422Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une plateforme open source pour automatiser le déploiement, la mise à l'échelle et la gestion des applications conteneurisées."
+source: agnes_llm
+status: published
+language: fr
+description: Une plateforme open source pour automatiser le déploiement, la mise à
+  l'échelle et la gestion des applications conteneurisées.
 ---
-
 ## Definition
 
 Kubernetes (souvent abrégé en K8s) est un système d'orchestration de conteneurs développé à l'origine par Google. Il automatise le déploiement, la mise à l'échelle et le fonctionnement des conteneurs d'applications au sein de clus

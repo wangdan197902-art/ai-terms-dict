@@ -1,23 +1,23 @@
 ---
-title: "结构风险最小化"
-term_id: "structural_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "theory", "regularization"]
+title: 结构风险最小化
+term_id: structural_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- theory
+- Regularization
 difficulty: 3
 weight: 1
-slug: "structural_risk_minimization"
-aliases:
-  - /zh/terms/structural_risk_minimization/
-date: "2026-07-18T11:35:19.163136Z"
-lastmod: "2026-07-18T11:44:45.559640Z"
+slug: structural_risk_minimization
+date: '2026-07-18T11:35:19.163136Z'
+lastmod: '2026-07-18T11:44:45.559640Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "统计学习中的一项原则，旨在通过平衡模型拟合度和复杂度来最小化泛化误差的上界。"
+source: agnes_llm
+status: published
+language: zh
+description: 统计学习中的一项原则，旨在通过平衡模型拟合度和复杂度来最小化泛化误差的上界。
 ---
-
 ## Definition
 
 结构风险最小化（SRM）是一种通过控制模型复杂度来防止过拟合、从而最小化期望风险的方法。它在经验风险最小化的基础上增加了正则化项，以惩罚过于复杂的模型。

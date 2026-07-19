@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /fi/terms/vector_database/
 date: "2026-07-18T15:32:56.079332Z"
 lastmod: "2026-07-18T17:15:09.362335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Erikoistunut tietokanta, joka on suunniteltu tallentamaan, indeksoimaan ja hakemaan korkeadimensionaalisia vektoreita, jotka edustavat datan piirteitä."
 ---
-
 ## Definition
 
 Vektoritietokannat optimoivat epästrukturoidun datan tallennuksen ja noudon muuntamalla sen numeerisiksi upotuksiksi (embeddings). Ne käyttävät likimääräisen lähimmän naapurin (ANN) kaltaisia algoritmeja löytääkseen tehokkaasti samankaltaisuuksia.

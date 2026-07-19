@@ -1,23 +1,24 @@
 ---
-title: "ผ่านการฝึกฝนเบื้องต้น"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: ผ่านการฝึกฝนเบื้องต้น
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /th/terms/pre_trained/
-date: "2026-07-18T15:34:10.872951Z"
-lastmod: "2026-07-18T16:38:07.557020Z"
+slug: pre_trained
+date: '2026-07-18T15:34:10.872951Z'
+lastmod: '2026-07-18T16:38:07.557020Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โมเดลที่ผ่านการฝึกฝนเบื้องต้น คือ เครือข่ายประสาทเทียมที่ถูกฝึกฝนบนชุดข้อมูลขนาดใหญ่เพื่อเรียนรู้ลักษณะทั่วไป ก่อนจะถูกนำไปปรับใช้สำหรับงานเฉพาะทาง"
+source: agnes_llm
+status: published
+language: th
+description: โมเดลที่ผ่านการฝึกฝนเบื้องต้น คือ เครือข่ายประสาทเทียมที่ถูกฝึกฝนบนชุดข้อมูลขนาดใหญ่เพื่อเรียนรู้ลักษณะทั่วไป
+  ก่อนจะถูกนำไปปรับใช้สำหรับงานเฉพาะทาง
 ---
-
 ## Definition
 
 โมเดลที่ผ่านการฝึกฝนเบื้องต้นคือโมเดลพื้นฐานทางปัญญาประดิษฐ์ที่ได้รับการฝึกฝนอย่างกว้างขวางบนชุดข้อมูลมหาศาลและความหลากหลาย เช่น ข้อมูลวิกิพีเดียหรือ ImageNet การฝึกฝนขั้นต้นนี้ช่วยให้โมเดลเรียนรู้คุณสมบัติทั่วไป (General Features) ของข้อมูล ซึ่งเป็นพื้นฐานสำคัญก่อนนำโมเดลไปปรับแต่งสำหรับงานเฉพาะทางต่อไป

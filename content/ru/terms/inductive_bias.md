@@ -1,23 +1,24 @@
 ---
-title: "Индуктивное смещение"
-term_id: "inductive_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["theory", "fairness", "model_design"]
+title: Индуктивное смещение
+term_id: inductive_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- theory
+- fairness
+- Model Design
 difficulty: 4
 weight: 1
-slug: "inductive_bias"
-aliases:
-  - /ru/terms/inductive_bias/
-date: "2026-07-18T15:58:32.751563Z"
-lastmod: "2026-07-18T16:38:07.168602Z"
+slug: inductive_bias
+date: '2026-07-18T15:58:32.751563Z'
+lastmod: '2026-07-18T16:38:07.168602Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Набор предположений, которые алгоритм обучения использует для прогнозирования результатов для входных данных, не встречавшихся во время обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Набор предположений, которые алгоритм обучения использует для прогнозирования
+  результатов для входных данных, не встречавшихся во время обучения.
 ---
-
 ## Definition
 
 Индуктивное смещение представляет собой встроенные предпочтения или ограничения в модели машинного обучения, позволяющие ей обобщать знания от обучающих данных к новым, ранее не виденным данным. Без таких смещений модель не может эффективно обучаться.

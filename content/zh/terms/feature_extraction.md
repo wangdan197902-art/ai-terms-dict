@@ -1,23 +1,23 @@
 ---
-title: "特征提取"
-term_id: "feature_extraction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "dimensionality_reduction", "technique"]
+title: 特征提取
+term_id: feature_extraction
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Dimensionality Reduction
+- technique
 difficulty: 3
 weight: 1
-slug: "feature_extraction"
-aliases:
-  - /zh/terms/feature_extraction/
-date: "2026-07-18T11:17:01.610004Z"
-lastmod: "2026-07-18T11:44:45.498279Z"
+slug: feature_extraction
+date: '2026-07-18T11:17:01.610004Z'
+lastmod: '2026-07-18T11:44:45.498279Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "从原始数据中推导有意义信息的过程，旨在降低维度并提高机器学习模型的性能。"
+source: agnes_llm
+status: published
+language: zh
+description: 从原始数据中推导有意义信息的过程，旨在降低维度并提高机器学习模型的性能。
 ---
-
 ## Definition
 
 特征提取涉及将原始数据转换为一组更能代表潜在问题的特征，从而提高预测模型的准确性。该技术有助于减少数据维度并增强模型表现。

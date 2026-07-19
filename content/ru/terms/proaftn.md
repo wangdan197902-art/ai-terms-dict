@@ -1,23 +1,24 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /ru/terms/proaftn/
-date: "2026-07-18T16:10:49.771537Z"
-lastmod: "2026-07-18T16:38:07.193397Z"
+slug: proaftn
+date: '2026-07-18T16:10:49.771537Z'
+lastmod: '2026-07-18T16:38:07.193397Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Вероятностная реляционная алгебра для функциональных сетей временных рядов — фреймворк для моделирования динамических систем."
+source: agnes_llm
+status: published
+language: ru
+description: Вероятностная реляционная алгебра для функциональных сетей временных
+  рядов — фреймворк для моделирования динамических систем.
 ---
-
 ## Definition
 
 Praftn — это специализированный вычислительный фреймворк, предназначенный для обработки функциональных данных временных рядов в рамках реляционных структур. Он объединяет вероятностные рассуждения с алгебраическими операциями для моделирования сложных динамических процессов.

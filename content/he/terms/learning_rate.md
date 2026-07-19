@@ -1,23 +1,24 @@
 ---
-title: "קצב למידה"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: קצב למידה
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /he/terms/learning_rate/
-date: "2026-07-18T15:37:11.364274Z"
-lastmod: "2026-07-18T17:15:09.500722Z"
+slug: learning_rate
+date: '2026-07-18T15:37:11.364274Z'
+lastmod: '2026-07-18T17:15:09.500722Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פרמטר היפר-פרמטרי השולט בגודל הצעד במהלך אופטימיזציה של המודל כדי למזער את פונקציית האובדן."
+source: agnes_llm
+status: published
+language: he
+description: פרמטר היפר-פרמטרי השולט בגודל הצעד במהלך אופטימיזציה של המודל כדי למזער
+  את פונקציית האובדן.
 ---
-
 ## Definition
 
 קצב הלמידה קובע כמה משקולות המודל מתעדכנות ביחס לגרדיאנט המחושב בכל איטרציית אימון. קצב גבוה מדי עלול לגרום למודל "להחטיא" את הנקודה האופטימלית (Overshooting), בעוד שקצב נמוך מדי מאריך את זמן האימון.

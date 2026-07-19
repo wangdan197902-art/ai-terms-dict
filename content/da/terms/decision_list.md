@@ -1,23 +1,23 @@
 ---
-title: "Beslutningsliste"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: Beslutningsliste
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /da/terms/decision_list/
-date: "2026-07-18T15:51:30.480412Z"
-lastmod: "2026-07-18T17:15:09.278702Z"
+slug: decision_list
+date: '2026-07-18T15:51:30.480412Z'
+lastmod: '2026-07-18T17:15:09.278702Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En fortolkelig klassifikator bestående af en sorteret liste over regler, hvor den første matchende regel bestemmer outputtet."
+source: agnes_llm
+status: published
+language: da
+description: En fortolkelig klassifikator bestående af en sorteret liste over regler,
+  hvor den første matchende regel bestemmer outputtet.
 ---
-
 ## Definition
 
 En beslutningsliste er en type maskinlæringsmodel, der repræsenterer viden som en sekvens af betingede regler. Hver regel består af en betingelse og en forudsigelsesklasse. Ved klassificering af en ny...

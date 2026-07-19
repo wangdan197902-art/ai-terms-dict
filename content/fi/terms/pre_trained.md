@@ -1,23 +1,25 @@
 ---
-title: "esitreeneillä koulutettu"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: esitreeneillä koulutettu
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /fi/terms/pre_trained/
-date: "2026-07-18T15:34:42.646502Z"
-lastmod: "2026-07-18T17:15:09.366364Z"
+slug: pre_trained
+date: '2026-07-18T15:34:42.646502Z'
+lastmod: '2026-07-18T17:15:09.366364Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Esitreeneillä koulutetut mallit ovat neuralverkkomalleja, jotka on koulutettu suurilla tietojoukoilla oppiakseen yleisiä piirteitä ennen niiden soveltamista tiettyihin tehtäviin."
+source: agnes_llm
+status: published
+language: fi
+description: Esitreeneillä koulutetut mallit ovat neuralverkkomalleja, jotka on koulutettu
+  suurilla tietojoukoilla oppiakseen yleisiä piirteitä ennen niiden soveltamista tiettyihin
+  tehtäviin.
 ---
-
 ## Definition
 
 Esitreeneillä koulutettu malli on perustava AI-malli, joka on käynyt läpi laajan koulutuksen valtavilla, monipuolisilla tietojoukoilla, kuten Wikipedia-artikkeleilla tai ImageNet-kuvakokoelmalla. Tämä alustava koulutus mahdollistaa mallin oppia laajoja yleisiä piirteitä ja rakenteita, jotka voidaan myöhemmin hyödyntää siirtämällä oppia (transfer learning) spesifeimpiin tehtäviin.

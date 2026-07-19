@@ -1,23 +1,23 @@
 ---
-title: "フィードフォワードネットワーク"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: フィードフォワードネットワーク
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /ja/terms/feed_forward_network/
-date: "2026-07-18T11:14:45.555607Z"
-lastmod: "2026-07-18T11:44:45.097859Z"
+slug: feed_forward_network
+date: '2026-07-18T11:14:45.555607Z'
+lastmod: '2026-07-18T11:44:45.097859Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ノード間の接続にサイクルを形成せず、情報を一方向に伝播させる人工ニューラルネットワークのクラス。"
+source: agnes_llm
+status: published
+language: ja
+description: ノード間の接続にサイクルを形成せず、情報を一方向に伝播させる人工ニューラルネットワークのクラス。
 ---
-
 ## Definition
 
 マルチレイヤーパーセプトロン（MLP）とも呼ばれるフィードフォワードネットワーク（FFN）は、フィードバックループなしに入力から出力に向かって層状のニューロンを順次通過してデータを処理します。各ニューロンは入力を受け取り、重み付けされた和と活性化関数を経て次の層へ信号を送ります。

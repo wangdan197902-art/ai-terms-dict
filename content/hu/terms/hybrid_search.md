@@ -1,23 +1,25 @@
 ---
-title: "Hibrid keresés"
-term_id: "hybrid_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["retrieval", "search_engine", "rag"]
+title: Hibrid keresés
+term_id: hybrid_search
+category: application_paradigms
+subcategory: ''
+tags:
+- retrieval
+- Search Engine
+- rag
 difficulty: 3
 weight: 1
-slug: "hybrid_search"
-aliases:
-  - /hu/terms/hybrid_search/
-date: "2026-07-18T16:04:22.077362Z"
-lastmod: "2026-07-18T17:15:09.794090Z"
+slug: hybrid_search
+date: '2026-07-18T16:04:22.077362Z'
+lastmod: '2026-07-18T17:15:09.794090Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy visszakeresési stratégia, amely kombinálja a szemantikus vektoros keresést a hagyományos kulcsszavas indexeléssel a pontosság és relevancia javítása érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: Egy visszakeresési stratégia, amely kombinálja a szemantikus vektoros
+  keresést a hagyományos kulcsszavas indexeléssel a pontosság és relevancia javítása
+  érdekében.
 ---
-
 ## Definition
 
 A Hibrid keresés két különböző visszakeresési módszert integrál: a sűrű vektoros keresést, amely megkapja a szemantikai jelentést és a kontextust, valamint a ritka vektoros (kulcsszavas) keresést, amely pontos kifejezéseket egyeztet. A két módszer előnyeinek kihasználásával...

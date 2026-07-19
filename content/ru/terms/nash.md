@@ -1,23 +1,23 @@
 ---
-title: "Нэш"
-term_id: "nash"
-category: "basic_concepts"
-subcategory: ""
-tags: ["game_theory", "multi_agent"]
+title: Нэш
+term_id: nash
+category: basic_concepts
+subcategory: ''
+tags:
+- Game Theory
+- Multi Agent
 difficulty: 3
 weight: 1
-slug: "nash"
-aliases:
-  - /ru/terms/nash/
-date: "2026-07-18T15:27:28.597593Z"
-lastmod: "2026-07-18T16:38:07.085195Z"
+slug: nash
+date: '2026-07-18T15:27:28.597593Z'
+lastmod: '2026-07-18T16:38:07.085195Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Относится к Равновесию Нэша — состоянию в теории игр, где ни один игрок не может выиграть, изменив свою стратегию, пока остальные остаются неизменными."
+source: agnes_llm
+status: published
+language: ru
+description: Относится к Равновесию Нэша — состоянию в теории игр, где ни один игрок
+  не может выиграть, изменив свою стратегию, пока остальные остаются неизменными.
 ---
-
 ## Definition
 
 В ИИ, особенно в мультиагентных системах и обучении с подкреплением, равновесие Нэша описывает стабильное состояние, в котором стратегия каждого агента является оптимальной при заданных стратегиях всех остальных агентов. Ни один агент не имеет стимула отклоняться от своей стратегии.

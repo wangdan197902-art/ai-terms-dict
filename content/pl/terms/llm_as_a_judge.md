@@ -1,23 +1,24 @@
 ---
-title: "LLM jako sędzia"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: LLM jako sędzia
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /pl/terms/llm_as_a_judge/
-date: "2026-07-18T16:03:07.221621Z"
-lastmod: "2026-07-18T17:15:08.889960Z"
+slug: llm_as_a_judge
+date: '2026-07-18T16:03:07.221621Z'
+lastmod: '2026-07-18T17:15:08.889960Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Metoda oceny wyników dużych modeli językowych poprzez wykorzystanie innego modelu LLM do punktowania lub rangowania odpowiedzi zgodnie z kryteriami."
+source: agnes_llm
+status: published
+language: pl
+description: Metoda oceny wyników dużych modeli językowych poprzez wykorzystanie innego
+  modelu LLM do punktowania lub rangowania odpowiedzi zgodnie z kryteriami.
 ---
-
 ## Definition
 
 Paradygmat "LLM jako sędzia" to podejście do oceny, w którym duży model językowy pełni rolę zautomatyzowanego evaluatora jakości wyjść innych modeli. Zamiast polegać wyłącznie na ludzkich anotatorach lub...

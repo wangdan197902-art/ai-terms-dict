@@ -1,23 +1,24 @@
 ---
-title: "טרנספורמר"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: טרנספורמר
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /he/terms/transformer/
-date: "2026-07-18T15:31:37.468711Z"
-lastmod: "2026-07-18T17:15:09.489969Z"
+slug: transformer
+date: '2026-07-18T15:31:37.468711Z'
+lastmod: '2026-07-18T17:15:09.489969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ארכיטקטורה של למידה עמוקה המבוססת על מנגנוני קשב עצמי (Self-Attention) ומעבדת נתונים רציפים במקביל ולא ברצף."
+source: agnes_llm
+status: published
+language: he
+description: ארכיטקטורה של למידה עמוקה המבוססת על מנגנוני קשב עצמי (Self-Attention)
+  ומעבדת נתונים רציפים במקביל ולא ברצף.
 ---
-
 ## Definition
 
 הארכיטקטורה הטרנספורמר, שהוצגה במאמר 'Attention Is All You Need', שינתה פנים בתחום העיבוד השפה הטבעית ומעבר לו. היא משתמשת בקשב עצמי רב-ראשי כדי לתת משקל חשיבות שונה לחלקים שונים בקלט, מה שמאפשר הבנה עמוקה של הקשר.

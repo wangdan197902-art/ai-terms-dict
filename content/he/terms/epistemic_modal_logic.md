@@ -1,23 +1,24 @@
 ---
-title: "לוגיקה מודלית אפיסטמית"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: לוגיקה מודלית אפיסטמית
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /he/terms/epistemic_modal_logic/
-date: "2026-07-18T15:56:13.249981Z"
-lastmod: "2026-07-18T17:15:09.537878Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T15:56:13.249981Z'
+lastmod: '2026-07-18T17:15:09.537878Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ענף של לוגיקה מודלית המשתמש במערכות פורמליות לייצוג ולגזור מסקנות לגבי מצבי ידע ואמונה של סוכנים."
+source: agnes_llm
+status: published
+language: he
+description: ענף של לוגיקה מודלית המשתמש במערכות פורמליות לייצוג ולגזור מסקנות לגבי
+  מצבי ידע ואמונה של סוכנים.
 ---
-
 ## Definition
 
 לוגיקה מודלית אפיסטמית מרחיבה את הלוגיקה הקלאסית באמצעות אופרטורים המציינים מהו סוכן יודע או מאמין. היא קריטית במערכות רב-סוכניות שבהן יש לגזור מסקנות לגבי הידע של משתתפים אחרים.

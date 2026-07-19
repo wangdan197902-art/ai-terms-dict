@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /pt/terms/multi_stage/
 date: "2026-07-18T14:41:48.503578Z"
 lastmod: "2026-07-18T15:51:59.444962Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um design de processo que divide uma tarefa complexa em fases distintas e sequenciais, cada uma com objetivos e saídas específicos."
 ---
-
 ## Definition
 
 Abordagens multietapas dividem fluxos de trabalho intricados em segmentos gerenciáveis, permitindo processamento especializado em cada etapa. Este método melhora o controle, a depuração e a otimização de desempenho, sendo amplamente utilizado em pipelines de dados e processos industriais.

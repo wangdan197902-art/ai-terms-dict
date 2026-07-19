@@ -1,23 +1,23 @@
 ---
-title: "매니폴드 정규화"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: 매니폴드 정규화
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /ko/terms/manifold_regularization/
-date: "2026-07-18T16:04:15.935629Z"
-lastmod: "2026-07-18T16:38:06.883006Z"
+slug: manifold_regularization
+date: '2026-07-18T16:04:15.935629Z'
+lastmod: '2026-07-18T16:38:06.883006Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "데이터가 낮은 차원의 매니폴드 위에 존재한다고 가정하고, 이 기하학적 구조에 기반하여 모델을 정규화하는 준지도 학습 기법입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 데이터가 낮은 차원의 매니폴드 위에 존재한다고 가정하고, 이 기하학적 구조에 기반하여 모델을 정규화하는 준지도 학습 기법입니다.
 ---
-
 ## Definition
 
 매니폴드 정규화는 데이터 분포의 내재적 기하학을 통합함으로써 전통적인 정규화 방법을 확장합니다. 이는 고차원 데이터 포인트들이 낮은 차원의 매니폴드 위에 놓여 있다는 가정에 기반하여...

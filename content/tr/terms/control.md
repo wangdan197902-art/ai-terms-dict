@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /tr/terms/control/
 date: "2026-07-18T15:24:08.203238Z"
 lastmod: "2026-07-18T16:38:07.229399Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İstenen sonuçlara ulaşmak için bir sistemin davranışını ve durumunu yönetme, yönlendirme veya düzenleme sürecidir."
 ---
-
 ## Definition
 
 Yapay zekada kontrol, mevcut durumlar ve hedefler temelinde bir sistemin eylemlerini yönlendirmek için kullanılan mekanizmaları ve algoritmaları ifade eder. Çıktının izlendiği ve buna göre düzeltmeler yapılan geri bildirim döngülerini içerir.

@@ -7,8 +7,6 @@ tags: ["Recommendation Systems", "Logic", "User Experience"]
 difficulty: 4
 weight: 1
 slug: "knowledge_based_recommender_system"
-aliases:
-  - /fi/terms/knowledge_based_recommender_system/
 date: "2026-07-18T16:05:18.968662Z"
 lastmod: "2026-07-18T17:15:09.426028Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Suositusmoottori, joka luo ehdotuksia päätelemällä eksplisiittisen domain-tiedon ja käyttäjän rajoitteiden perusteella historian sijaan."
 ---
-
 ## Definition
 
 Toisin kuin yhteistyösuodatus, joka perustuu menneeseen käyttäjäkäyttäytymiseen, tietopohjainen suositusjärjestelmä (KBRS) käyttää eksplisiittistä tietoa tuotteista ja käyttäjän mieltymyksistä suositusten johtamiseksi. Se on erityisen tehokas markkinoilla, joissa käyttäjädataa on vähän.

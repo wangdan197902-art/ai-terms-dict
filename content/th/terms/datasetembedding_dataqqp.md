@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Datasets"]
 difficulty: 2
 weight: 1
 slug: "datasetembedding_dataqqp"
-aliases:
-  - /th/terms/datasetembedding_dataqqp/
 date: "2026-07-18T15:48:18.745571Z"
 lastmod: "2026-07-18T16:38:07.593695Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูล Quora Question Pairs ใช้สำหรับฝึกโมเดลเพื่อตรวจจับความคล้ายคลึงทางความหมายระหว่างคำถาม"
 ---
-
 ## Definition
 
 Quora Question Pairs (QQP) เป็นชุดข้อมูลการจำแนกประเภทแบบไบนารี (Binary Classification) ที่มีคู่คำถามมากกว่า 400,000 คู่จากแพลตฟอร์ม Quora วัตถุประสงค์คือกำหนดว่าคำถามสองข้อมีเจตนาเดียวกันหรือไม่ หรือถามเรื่องเดียวกัน

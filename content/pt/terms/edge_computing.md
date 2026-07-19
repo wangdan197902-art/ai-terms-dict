@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /pt/terms/edge_computing/
 date: "2026-07-18T14:58:37.873885Z"
 lastmod: "2026-07-18T15:51:59.487418Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A computação de borda é um paradigma de computação distribuída que aproxima o processamento e o armazenamento de dados das fontes de dados, em vez de depender exclusivamente de servidores centralizado"
 ---
-
 ## Definition
 
 A computação de borda aborda as limitações de latência e largura de banda das arquiteturas centradas na nuvem, processando dados perto de onde são gerados, como em dispositivos IoT, sensores ou gateways locais. No contexto da IA...

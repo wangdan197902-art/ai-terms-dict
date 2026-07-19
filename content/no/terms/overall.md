@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /no/terms/overall/
 date: "2026-07-18T15:28:33.919388Z"
 lastmod: "2026-07-18T16:38:06.942884Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Samlet refererer til den aggregerte ytelsen, nøyaktigheten eller effekten av et AI-system over alle testtilfeller eller driftsscenarier."
 ---
-
 ## Definition
 
 Vurdering av AI-modeller gir «samlede» metrikker et helhetlig bilde av systemytelsen fremfor å fokusere på isolerte komponenter. Dette inkluderer samlet nøyaktighet, gjennomsnittlig presisjon eller total

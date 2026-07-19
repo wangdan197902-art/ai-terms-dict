@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /tr/terms/speaker_change_detection/
 date: "2026-07-18T16:15:13.617682Z"
 lastmod: "2026-07-18T16:38:07.367569Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir ses akışında aktif konuşmacının değiştiği noktaları belirleme süreci."
 ---
-
 ## Definition
 
 Konuşmacı Değişim Tespiti (SCD), bir konuşmacının konuşmayı bıraktığı ve başka birinin başladığı kesin zaman damgalarını tespit etmek için kullanılan bir tekniktir. Diyaryzasyonun ilk adımı olarak hizmet verir ve konuşma parçalarını segmente etmeye yardımcı olur.

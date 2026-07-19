@@ -1,23 +1,24 @@
 ---
-title: "Astrotilastotiede"
-term_id: "astrostatistics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "astronomy", "data_analysis"]
+title: Astrotilastotiede
+term_id: astrostatistics
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- astronomy
+- Data Analysis
 difficulty: 4
 weight: 1
-slug: "astrostatistics"
-aliases:
-  - /fi/terms/astrostatistics/
-date: "2026-07-18T15:44:13.439877Z"
-lastmod: "2026-07-18T17:15:09.385111Z"
+slug: astrostatistics
+date: '2026-07-18T15:44:13.439877Z'
+lastmod: '2026-07-18T17:15:09.385111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tilastollisten menetelmien soveltaminen tähtitieteen datan analysointiin ja astrofysiikan ongelmien ratkaisemiseen."
+source: agnes_llm
+status: published
+language: fi
+description: Tilastollisten menetelmien soveltaminen tähtitieteen datan analysointiin
+  ja astrofysiikan ongelmien ratkaisemiseen.
 ---
-
 ## Definition
 
 Astrotilastotiede on erikoistunut tutkimusala, joka yhdistää tilastotieteen ja tähtitieteen. Se sisältää tiukkojen tilastollisten tekniikoiden kehittämisen ja soveltamisen käsittelemään tähtitieteellisen datan ainutlaatuisia haasteita,

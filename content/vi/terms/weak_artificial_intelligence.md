@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /vi/terms/weak_artificial_intelligence/
 date: "2026-07-18T16:16:23.162924Z"
 lastmod: "2026-07-18T16:38:07.816549Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "AI được thiết kế để thực hiện các tác vụ cụ thể trong một ngữ cảnh hạn chế mà không sở hữu khả năng nhận thức tổng quát."
 ---
-
 ## Definition
 
 Trí tuệ nhân tạo yếu, còn được gọi là AI hẹp (narrow AI), đề cập đến các hệ thống được kỹ thuật hóa để giải quyết những vấn đề cụ thể hoặc thực hiện các tác vụ nhất định, chẳng hạn như nhận diện khuôn mặt hoặc dịch ngôn ngữ. Không giống như trí tuệ nhân tạo mạnh, các hệ thống này chỉ hoạt động hiệu quả trong phạm vi được lập trình sẵn và thiếu khả năng suy luận hay học hỏi linh hoạt ngoài lĩnh vực chuyên môn của chúng.

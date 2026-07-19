@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /no/terms/observability/
 date: "2026-07-18T16:09:52.018417Z"
 lastmod: "2026-07-18T16:38:07.030348Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Observerbarhet er et mål på hvor godt interne tilstander i et system kan infereres fra eksterne utdata som logger, metrikker og sporingsdata."
 ---
-
 ## Definition
 
 Ingeniørmessig innen AI refererer observerbarhet til evnen til å forstå den interne tilstanden til komplekse maskinlæringssystemer ved å analysere deres eksterne utdata. Det går utover tradisjonell overvåking ved å gi innsikt i systemets indre funksjon gjennom tilgjengelige signaler.

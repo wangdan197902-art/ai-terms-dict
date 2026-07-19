@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /pl/terms/knowledge_graph_embedding/
 date: "2026-07-18T16:02:52.189611Z"
 lastmod: "2026-07-18T17:15:08.888864Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Technika mapująca encje i relacje w grafie wiedzy na ciągłe przestrzenie wektorowe, zachowującą semantykę strukturalną."
 ---
-
 ## Definition
 
 Metody osadzania grafu wiedzy, takie jak TransE czy DistMult, przekształcają dyskretne struktury grafowe w niskowymiarowe, gęste wektory. Pozwala to modelom uczenia maszynowego na wykonywanie operacji matematycznych na tych reprezentacjach, umożliwiając wnioskowanie o brakujących powiązaniach.

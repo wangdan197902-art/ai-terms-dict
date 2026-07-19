@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /zh/terms/knowledge_distillation/
 date: "2026-07-18T11:23:05.463567Z"
 lastmod: "2026-07-18T11:44:45.520772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "知识蒸馏是一种模型压缩技术，其中较小的学生模型通过学习模仿较大的教师模型的行为来工作。"
 ---
-
 ## Definition
 
 知识蒸馏是一种机器学习方法，用于将庞大复杂的神经网络（教师模型）压缩为更小、更高效的网络（学生模型）。学生模型经过训练以模仿教师模型的行为。

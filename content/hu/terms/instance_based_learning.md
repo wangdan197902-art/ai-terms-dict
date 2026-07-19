@@ -1,23 +1,24 @@
 ---
-title: "Példaalapú tanulás"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Példaalapú tanulás
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /hu/terms/instance_based_learning/
-date: "2026-07-18T16:06:01.185636Z"
-lastmod: "2026-07-18T17:15:09.797082Z"
+slug: instance_based_learning
+date: '2026-07-18T16:06:01.185636Z'
+lastmod: '2026-07-18T17:15:09.797082Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy lusta tanuló megközelítés, ahol az előrejelzéseket új bemenetek tárolt tanító példákkal való összehasonlításával készítik el."
+source: agnes_llm
+status: published
+language: hu
+description: Egy lusta tanuló megközelítés, ahol az előrejelzéseket új bemenetek tárolt
+  tanító példákkal való összehasonlításával készítik el.
 ---
-
 ## Definition
 
 Ismert még memórián alapuló tanulás néven is; ez a technika nem épít általánosított modellt a tanítás során. Ehelyett az egész tanítóadatot tárolja. Amikor előrejelzésre van szükség, a leginkább hasonló

@@ -1,23 +1,23 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /ko/terms/proaftn/
-date: "2026-07-18T16:10:45.710754Z"
-lastmod: "2026-07-18T16:38:06.898675Z"
+slug: proaftn
+date: '2026-07-18T16:10:45.710754Z'
+lastmod: '2026-07-18T16:38:06.898675Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "확률적 관계 대수를 활용한 함수형 시계열 네트워크로, 동적 시스템을 모델링하기 위한 프레임워크."
+source: agnes_llm
+status: published
+language: ko
+description: 확률적 관계 대수를 활용한 함수형 시계열 네트워크로, 동적 시스템을 모델링하기 위한 프레임워크.
 ---
-
 ## Definition
 
 Praftn은 관계적 구조 내에서 함수형 시계열 데이터를 처리하도록 설계된 특수한 계산 프레임워크입니다. 이는 확률적 추론과 대수적 연산을 결합하여 복잡(m)한...

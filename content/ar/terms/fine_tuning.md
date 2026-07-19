@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /ar/terms/fine_tuning/
 date: "2026-07-18T15:22:59.170203Z"
 lastmod: "2026-07-18T17:15:08.432796Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عملية تكييف نموذج مُدرَّب مسبقاً مع مهمة محددة باستخدام مجموعة بيانات أصغر."
 ---
-
 ## Definition
 
 يتضمن الضبط الدقيق أخذ نموذج مُدرَّب بالفعل على مجموعة بيانات عامة كبيرة وتدريبه بشكل إضافي على مجموعة بيانات متخصصة. يسمح هذا للنموذج بالاحتفاظ بالمعرفة العامة بينما يكتسب مهارات مخصصة للمهمة.

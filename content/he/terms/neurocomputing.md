@@ -1,23 +1,24 @@
 ---
-title: "חישוב עצבי"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: חישוב עצבי
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /he/terms/neurocomputing/
-date: "2026-07-18T16:14:36.670121Z"
-lastmod: "2026-07-18T17:15:09.569172Z"
+slug: neurocomputing
+date: '2026-07-18T16:14:36.670121Z'
+lastmod: '2026-07-18T17:15:09.569172Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "חישוב עצבי הוא תחום בין-תחומי המשלב נוירולוגיה, מדעי המחשב והנדסה לפיתוח מודלים חישוביים המושפעים ממערכות עצביות ביולוגיות."
+source: agnes_llm
+status: published
+language: he
+description: חישוב עצבי הוא תחום בין-תחומי המשלב נוירולוגיה, מדעי המחשב והנדסה לפיתוח
+  מודלים חישוביים המושפעים ממערכות עצביות ביולוגיות.
 ---
-
 ## Definition
 
 תחום זה מתמקד ביצירת ארכיטקטורות חומרה ותוכנה המחקות את המבנה והתפקוד של המוח האנושי. הוא כולל רשתות עצביות מלאכותיות, שבבים נאורומורפיים ומערכות קוגניטיביות.

@@ -1,23 +1,24 @@
 ---
-title: "Самоконтролируемое обучение"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: Самоконтролируемое обучение
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /ru/terms/self_supervised_learning/
-date: "2026-07-18T15:36:24.743704Z"
-lastmod: "2026-07-18T16:38:07.110352Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:36:24.743704Z'
+lastmod: '2026-07-18T16:38:07.110352Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод обучения, при котором модель генерирует собственные метки из входных данных для изучения представлений."
+source: agnes_llm
+status: published
+language: ru
+description: Метод обучения, при котором модель генерирует собственные метки из входных
+  данных для изучения представлений.
 ---
-
 ## Definition
 
 Самоконтролируемое обучение — это техника, при которой алгоритм создает сигналы обучения непосредственно из размеченных данных, обычно предсказывая отсутствующие части входа. Этот подход заполняет пробел между обучением без учителя и обучением с учителем, позволяя эффективно использовать огромные объемы неразмеченных данных.

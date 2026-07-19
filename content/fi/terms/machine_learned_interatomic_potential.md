@@ -7,8 +7,6 @@ tags: ["science", "simulation", "chemistry"]
 difficulty: 5
 weight: 1
 slug: "machine_learned_interatomic_potential"
-aliases:
-  - /fi/terms/machine_learned_interatomic_potential/
 date: "2026-07-18T16:09:55.460465Z"
 lastmod: "2026-07-18T17:15:09.432507Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Koneoppimiseen perustuva matemaattinen funktio, joka ennustaa atomien väliset voimat ja energiat toimien kalliiden kvanttimekaanisten laskentojen sijaissimulaattorina."
 ---
-
 ## Definition
 
 Nämä potentiaalit mahdollistavat molekyylidynaamiset simuloinnit lähes kvanttitarkan tarkkuudella mutta klassisella laskentanopeudella. Kouluttaen ne korkealaatuisilla tiheydfunktionaali-teorian (DFT) data...

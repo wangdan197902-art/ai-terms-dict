@@ -7,8 +7,6 @@ tags: ["ethics", "fairness", "safety"]
 difficulty: 2
 weight: 1
 slug: "bias"
-aliases:
-  - /vi/terms/bias/
 date: "2026-07-18T15:22:36.446140Z"
 lastmod: "2026-07-18T16:38:07.677984Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Sự thiên vị hệ thống trong các mô hình AI dẫn đến các kết quả không công bằng đối với một số nhóm hoặc cá nhân nhất định."
 ---
-
 ## Definition
 
 Trong đạo đức AI, thiên kiến đề cập đến sự phân biệt đối xử có hệ thống và không công bằng trong việc ra quyết định bằng thuật toán, thường bắt nguồn từ dữ liệu huấn luyện bị lệch hoặc thiết kế mô hình khiếm khuyết. Điều này có thể dẫn đến các tác động tiêu cực lên

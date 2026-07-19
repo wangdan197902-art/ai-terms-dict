@@ -7,8 +7,6 @@ tags: ["Cloud Architecture", "DevOps", "Infrastructure"]
 difficulty: 2
 weight: 1
 slug: "serverless"
-aliases:
-  - /de/terms/serverless/
 date: "2026-07-18T11:33:18.365071Z"
 lastmod: "2026-07-18T11:44:44.985279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Cloud-Computing-Ausführungsmodell, bei dem der Anbieter die Zuteilung von Maschinenressourcen dynamisch verwaltet, anstatt der Benutzer."
 ---
-
 ## Definition
 
 Serverlose Architektur ermöglicht es Entwicklern, Anwendungen zu erstellen und auszuführen, ohne die Serverinfrastruktur verwalten zu müssen. Der Cloud-Anbieter skaliert Ressourcen automatisch hoch oder herunter basierend auf der Nachfrage und berechnet die Kosten nutzungsbasiert.

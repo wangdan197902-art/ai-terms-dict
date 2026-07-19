@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /th/terms/statistical_learning_theory/
 date: "2026-07-18T16:16:36.070550Z"
 lastmod: "2026-07-18T16:38:07.658641Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กรอบทางคณิตศาสตร์ที่เป็นพื้นฐานทางทฤษฎีของอัลกอริทึมการเรียนรู้ของเครื่อง โดยวิเคราะห์ความสามารถในการสรุปผล (generalization) ของโมเดล"
 ---
-
 ## Definition
 
 ทฤษฎีการเรียนรู้เชิงสถิติ (Statistical Learning Theory: SLT) เป็นสาขาหนึ่งของสถิติและวิทยาการคอมพิวเตอร์ที่ศึกษาว่าอัลกอริทึมเฉพาะเจาะจงสามารถสรุปผลจากตัวอย่างการฝึกฝนจำนวนจำกัดไปยังข้อมูลที่ไม่เคยเห็นมาก่อนได้อย่างไร ทฤษฎีนี้มุ่งเน้นไปที่การหาขอบเขต (bounding) ของข้อผิดพลาดในการสรุปผล เพื่อประเมินประสิทธิภาพและความเสถียรของอัลกอริทึมการเรียนรู้

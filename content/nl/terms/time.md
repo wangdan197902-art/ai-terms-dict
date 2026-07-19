@@ -7,8 +7,6 @@ tags: ["fundamentals", "temporal"]
 difficulty: 1
 weight: 1
 slug: "time"
-aliases:
-  - /nl/terms/time/
 date: "2026-07-18T15:30:41.997394Z"
 lastmod: "2026-07-18T17:15:08.694954Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "In AI verwijst tijd naar de temporale dimentie die wordt gebruikt om gebeurtenissen te sequencen, statuswijzigingen bij te houden en latentie of duur in modelbewerkingen te meten."
 ---
-
 ## Definition
 
 Tijd is een fundamenteel concept in kunstmatige intelligentie, met name in sequentiële modellering en realtime-systemen. Het dient als de as langs welke datapunten worden gesorteerd, waardoor modellen zoals Recurrent Neural Networks (RNN's) en Transformers tijdsafhankelijke patronen kunnen leren en voorspellingen kunnen doen op basis van opeenvolgende gegevens.

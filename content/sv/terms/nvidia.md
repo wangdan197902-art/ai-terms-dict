@@ -7,8 +7,6 @@ tags: ["hardware", "industry", "infrastructure"]
 difficulty: 1
 weight: 1
 slug: "nvidia"
-aliases:
-  - /sv/terms/nvidia/
 date: "2026-07-18T16:12:00.750248Z"
 lastmod: "2026-07-18T17:15:09.032613Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett ledande teknikföretag specialiserat på GPU:er och AI-hårdvara som driver modern infrastruktur för djupinlärning."
 ---
-
 ## Definition
 
 Nvidia är en dominerande aktör inom AI-branschen, främst känd för att designa grafikkretsar (GPUs) som accelererar parallella beräkningsuppgifter som är avgörande för djupinlärning. Deras CUDA-plattform har blivit standard för utveckling av AI-algoritmer.

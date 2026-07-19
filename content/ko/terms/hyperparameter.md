@@ -7,8 +7,6 @@ tags: ["training", "configuration", "basics"]
 difficulty: 2
 weight: 1
 slug: "hyperparameter"
-aliases:
-  - /ko/terms/hyperparameter/
 date: "2026-07-18T15:59:15.313472Z"
 lastmod: "2026-07-18T16:38:06.851920Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "학습 알고리즘의 동작을 지배하기 위해 학습 과정 이전에 값이 설정되는 구성 변수입니다."
 ---
-
 ## Definition
 
 학습 중 데이터로부터 학습되는 모델 파라미터(가중치 및 편향)와 달리, 하이퍼파라미터는 훈련 시작 전에 실무자가 선택하는 외부 설정입니다. 이는 모델의 구조와 학습 과정을 제어합니다.

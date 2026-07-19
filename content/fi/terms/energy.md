@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /fi/terms/energy/
 date: "2026-07-18T15:25:20.517331Z"
 lastmod: "2026-07-18T17:15:09.349226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyssä energia viittaa usein mallien koulutukseen ja päättelyyn käytettyyn laskentatehoon tai todennäköisyysmalleissa käytettyyn matemaattiseen potentiaalifunktioon."
 ---
-
 ## Definition
 
 Tekoälyssä energialla on kaksi ensisijaista merkitystä. Ensinnäkin se tarkoittaa laitteiston pyörittämiseen tarvittavaa sähköenergiaa, mikä on kasvava kestävyyshaaste mallien skaalautuessa. Toiseksi tilastollisen mekaniikan inspiroimissa malleissa (kuten energiapohjaisissa malleissa) energia on matemaattinen funktio, joka kuvaa tilan todennäköisyyttä: mitä alempi energiataso, sitä todennäköisempi tila mallissa.

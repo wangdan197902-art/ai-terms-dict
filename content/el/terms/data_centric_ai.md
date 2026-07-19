@@ -1,23 +1,25 @@
 ---
-title: "AI Κεντρικό στα Δεδομένα"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: AI Κεντρικό στα Δεδομένα
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /el/terms/data_centric_ai/
-date: "2026-07-18T15:59:11.055670Z"
-lastmod: "2026-07-18T17:15:09.895003Z"
+slug: data_centric_ai
+date: '2026-07-18T15:59:11.055670Z'
+lastmod: '2026-07-18T17:15:09.895003Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια προσέγγιση ανάπτυξης Τεχνητής Νοημοσύνης που δίνει προτεραιότητα στη βελτίωση της ποιότητας και της ποσότητας των δεδομένων εκπαίδευσης έναντι της τροποποίησης των αρχιτεκτονικών μοντέλων."
+source: agnes_llm
+status: published
+language: el
+description: Μια προσέγγιση ανάπτυξης Τεχνητής Νοημοσύνης που δίνει προτεραιότητα
+  στη βελτίωση της ποιότητας και της ποσότητας των δεδομένων εκπαίδευσης έναντι της
+  τροποποίησης των αρχιτεκτονικών μοντέλων.
 ---
-
 ## Definition
 
 Η AI κεντρική στα δεδομένα αντιπροσωπεύει μια αλλαγή παραδείγματος στην ανάπτυξη τεχνητής νοημοσύνης, εστιάζοντας στη συστηματική βελτίωση των δεδομένων που χρησιμοποιούνται για την εκπαίδευση των μοντέλων, αντί να βελτιστοποιεί αποκλειστικά τους αλγορίθμους ή τις υπερπαραμέτρους.

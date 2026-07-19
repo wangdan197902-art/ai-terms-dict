@@ -7,8 +7,6 @@ tags: ["Physics", "Research", "Simulation"]
 difficulty: 5
 weight: 1
 slug: "machine_learning_in_physics"
-aliases:
-  - /cs/terms/machine_learning_in_physics/
 date: "2026-07-18T16:07:29.655496Z"
 lastmod: "2026-07-18T17:15:09.151086Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Použití strojového učení k řešení komplexních fyzikálních problémů, simulaci kvantových systémů a analýze experimentálních dat z částicových urychlovačů."
 ---
-
 ## Definition
 
 Ve fyzice strojové učení pomáhá při simulaci kvantové mechaniky, analýze dat z vysokých energií při srážkách částic a objevu nových materiálů. Umožňuje fyzikům navigovat v prostorách s vysokou dimenzionalitou parametrů a identifikovat vzorce v datech, které odpovídají teoretickým předpovědím nebo naznačují nové fyzikální jevy.

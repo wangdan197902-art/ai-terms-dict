@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /fr/terms/datasetwikihow/
 date: "2026-07-18T11:12:40.476096Z"
 lastmod: "2026-07-18T11:44:45.238363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données à grande échelle composé d'articles explicatifs de WikiHow, utilisé principalement pour la résumation de texte et la génération d'instructions."
 ---
-
 ## Definition
 
 Le jeu de données WikiHow comprend environ 60 000 articles explicatifs collectés depuis le site Web WikiHow. Il est largement utilisé dans la recherche en traitement automatique du langage naturel (NLP) pour des tâches telles que la résumation abstraite de texte.

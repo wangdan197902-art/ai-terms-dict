@@ -1,23 +1,24 @@
 ---
-title: "Локальная выборка «случай-контроль»"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Локальная выборка «случай-контроль»
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /ru/terms/local_case_control_sampling/
-date: "2026-07-18T16:02:24.723954Z"
-lastmod: "2026-07-18T16:38:07.176474Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:02:24.723954Z'
+lastmod: '2026-07-18T16:38:07.176474Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника негативной выборки, которая выбирает сложные негативные примеры из непосредственного окружения положительных примеров в пространстве вложений."
+source: agnes_llm
+status: published
+language: ru
+description: Техника негативной выборки, которая выбирает сложные негативные примеры
+  из непосредственного окружения положительных примеров в пространстве вложений.
 ---
-
 ## Definition
 
 Локальная выборка «случай-контроль» — это стратегия, используемая преимущественно при обучении моделей контрастивного обучения или рекомендательных систем. Вместо случайного выбора негативных образцов она идентифицирует «сложные негативы» (примеры, которые модель ошибочно классифицирует как положительные), находя их вблизи положительных примеров в пространстве вложений, что способствует более эффективному обучению.

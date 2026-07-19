@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /zh/terms/control/
 date: "2026-07-18T10:49:53.809892Z"
 lastmod: "2026-07-18T11:44:45.364352Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "通过管理、指导或调节系统的行为和状态以实现预期结果的过程。"
 ---
-
 ## Definition
 
 在人工智能中，控制是指用于根据当前状态和目标引导系统行为的机制和算法。它涉及反馈回路，其中输出被监控并用于调整后续动作。

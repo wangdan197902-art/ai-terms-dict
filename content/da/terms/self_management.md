@@ -7,8 +7,6 @@ tags: ["operations", "autonomy", "systems"]
 difficulty: 3
 weight: 1
 slug: "self_management"
-aliases:
-  - /da/terms/self_management/
 date: "2026-07-18T16:16:16.506583Z"
 lastmod: "2026-07-18T17:15:09.329699Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Selvstyre inden for AI refererer til autonome systemers evne til at overvåge, optimere og reparere deres egne operationer uden menneskelig indblanding."
 ---
-
 ## Definition
 
 Dette begreb omfatter evnen hos AI-agenter eller systemer til selvstændigt at håndtere rutinemæssigt vedligehold, ressourceallokering og fejlkorrektion. Det inkluderer funktioner som automatisk skalering og selvhelende mekanismer, der sikrer kontinuerlig drift.

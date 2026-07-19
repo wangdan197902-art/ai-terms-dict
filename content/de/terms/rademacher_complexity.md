@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /de/terms/rademacher_complexity/
 date: "2026-07-18T11:29:56.787102Z"
 lastmod: "2026-07-18T11:44:44.980589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein statistisches Maß aus der Lerntheorie, das die Reichhaltigkeit einer Funktionenklassifizierung durch ihre Fähigkeit quantifiziert, zufälliges Rauschen anzupassen."
 ---
-
 ## Definition
 
 Die Rademacher-Komplexität bewertet, wie gut eine Hypothesenklasse mit zufälligen Beschriftungen (Rauschen) korrelieren kann. Sie dient als Proxy für die Kapazität oder Flexibilität des Modells. Eine geringere Komplexität deutet auf eine bessere Generalisierung hin.

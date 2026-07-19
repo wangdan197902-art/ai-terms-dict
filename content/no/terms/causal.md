@@ -1,23 +1,24 @@
 ---
-title: "Kausal"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: Kausal
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /no/terms/causal/
-date: "2026-07-18T15:25:06.403452Z"
-lastmod: "2026-07-18T16:38:06.933478Z"
+slug: causal
+date: '2026-07-18T15:25:06.403452Z'
+lastmod: '2026-07-18T16:38:06.933478Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Kausal inferanse innebærer å fastslå årsak-virkning-sammenhenger mellom variabler, i stedet for kun å identifisere statistiske korrelasjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: Kausal inferanse innebærer å fastslå årsak-virkning-sammenhenger mellom
+  variabler, i stedet for kun å identifisere statistiske korrelasjoner.
 ---
-
 ## Definition
 
 Innen kunstig intelligens søker kausal modellering å forstå hvordan intervensjoner på én variabel påvirker en annen. I motsetning til prediktive modeller som stoler på observerte mønstre, bruker kausal AI strukturelle likningsmodeller og andre metoder for å kartlegge virkelige årsaksforhold.

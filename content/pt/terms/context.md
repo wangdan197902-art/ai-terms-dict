@@ -7,8 +7,6 @@ tags: ["NLP", "interpretation", "input"]
 difficulty: 2
 weight: 1
 slug: "context"
-aliases:
-  - /pt/terms/context/
 date: "2026-07-18T14:33:51.687545Z"
 lastmod: "2026-07-18T15:51:59.426631Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Contexto refere-se às informações ou ao ambiente circundante que ajudam um modelo de IA a interpretar os dados de entrada com precisão e gerar respostas relevantes."
 ---
-
 ## Definition
 
 No processamento de linguagem natural, o contexto é crucial para resolver ambiguidades, como entender pronomes ou idiomatismos com base em frases anteriores. Arquiteturas modernas, como os transformadores, utilizam mecanismos de atenção para capturar dependências de longo alcance no contexto.

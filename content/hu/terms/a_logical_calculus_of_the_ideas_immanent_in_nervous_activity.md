@@ -1,23 +1,25 @@
 ---
-title: "Logikai számítás a idegrendszeri tevékenységben rejlő eszmékről"
-term_id: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-category: "engineering_practice"
-subcategory: ""
-tags: ["history", "theory", "neural_networks"]
+title: Logikai számítás a idegrendszeri tevékenységben rejlő eszmékről
+term_id: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+category: engineering_practice
+subcategory: ''
+tags:
+- history
+- theory
+- Neural Networks
 difficulty: 5
 weight: 1
-slug: "a_logical_calculus_of_the_ideas_immanent_in_nervous_activity"
-aliases:
-  - /hu/terms/a_logical_calculus_of_the_ideas_immanent_in_nervous_activity/
-date: "2026-07-18T15:40:20.191293Z"
-lastmod: "2026-07-18T17:15:09.747322Z"
+slug: a_logical_calculus_of_the_ideas_immanent_in_nervous_activity
+date: '2026-07-18T15:40:20.191293Z'
+lastmod: '2026-07-18T17:15:09.747322Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "McCulloch és Pitts 1943-as alapvető cikke, amely formalizálta, hogyan hajthatnak végre neuronok logikai műveleteket, és lerakta a mesterséges neurális hálózatok alapjait."
+source: agnes_llm
+status: published
+language: hu
+description: McCulloch és Pitts 1943-as alapvető cikke, amely formalizálta, hogyan
+  hajthatnak végre neuronok logikai műveleteket, és lerakta a mesterséges neurális
+  hálózatok alapjait.
 ---
-
 ## Definition
 
 Ez az alapvető cikk egy neurális hálózatok matematikai modelljét javasolta, bemutatva, hogy egyszerű mesterséges neuronok megvalósíthatnak logikai kapukat. Megmutatva, hogy ezekből az egységekből álló hálózat képes volt

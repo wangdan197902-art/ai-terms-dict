@@ -1,23 +1,24 @@
 ---
-title: "λήψη αποφάσεων"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: λήψη αποφάσεων
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /el/terms/decision_making/
-date: "2026-07-18T15:35:54.100643Z"
-lastmod: "2026-07-18T17:15:09.858859Z"
+slug: decision_making
+date: '2026-07-18T15:35:54.100643Z'
+lastmod: '2026-07-18T17:15:09.858859Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η γνωστική διαδικασία επιλογής μιας πορείας δράσης από πολλές εναλλακτικές βάσει των διαθέσιμων πληροφοριών."
+source: agnes_llm
+status: published
+language: el
+description: Η γνωστική διαδικασία επιλογής μιας πορείας δράσης από πολλές εναλλακτικές
+  βάσει των διαθέσιμων πληροφοριών.
 ---
-
 ## Definition
 
 Στην τεχνητή νοημοσύνη, η λήψη αποφάσεων αναφέρεται στην αλγοριθμική διαδικασία κατά την οποία ένα σύστημα αξιολογεί τις πιθανές ενέργειες έναντι συγκεκριμένων κριτηρίων ή στόχων για να επιλέξει το βέλτιστο αποτέλεσμα. Αυτό περιλαμβάνει τη μοντελοποίηση των καταστάσεων και την εκτίμηση των επιπτώσεων κάθε επιλογής.

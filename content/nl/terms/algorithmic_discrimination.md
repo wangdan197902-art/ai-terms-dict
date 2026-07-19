@@ -7,8 +7,6 @@ tags: ["ethics", "fairness"]
 difficulty: 4
 weight: 1
 slug: "algorithmic_discrimination"
-aliases:
-  - /nl/terms/algorithmic_discrimination/
 date: "2026-07-18T15:41:57.271681Z"
 lastmod: "2026-07-18T17:15:08.715727Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Algoritmische discriminatie treedt op wanneer geautomatiseerde systemen oneerlijke of bevooroordeelde resultaten opleveren die bepaalde groepen benadelen op basis van beschermde kenmerken."
 ---
-
 ## Definition
 
 Dit fenomeen ontstaat wanneer AI-modellen individuen onbedoeld of systematisch anders behandelen vanwege ras, geslacht, leeftijd of andere gevoelige attributen. Het komt vaak voort uit bevooroordeelde trainingsgegevens of onvolledige modellen.

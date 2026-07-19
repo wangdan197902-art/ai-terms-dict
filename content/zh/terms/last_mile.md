@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /zh/terms/last_mile/
 date: "2026-07-18T11:23:41.252110Z"
 lastmod: "2026-07-18T11:44:45.522960Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "将AI解决方案从开发环境交付到现实世界运营环境中最终用户的最后阶段。"
 ---
-
 ## Definition
 
 "最后一公里"问题指的是将模型部署到生产环境中时遇到的挑战，包括与现有基础设施的集成、确保低延迟推理以及处理边缘计算场景。

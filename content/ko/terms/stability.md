@@ -7,8 +7,6 @@ tags: ["evaluation", "theory", "robustness"]
 difficulty: 2
 weight: 1
 slug: "stability"
-aliases:
-  - /ko/terms/stability/
 date: "2026-07-18T16:17:04.126070Z"
 lastmod: "2026-07-18T16:38:06.910888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "약간 다른 데이터셋으로 학습했을 때 일관된 예측을 생성하는 머신러닝 모델의 특성."
 ---
-
 ## Definition
 
 머신러닝에서 안정성은 훈련 데이터에 작은 교란(perturbations)이 가해졌을 때 모델의 성능과 매개변수가 견고하게 유지되는 성질을 의미합니다. 안정적인 알고리즘은 유사한 모델을 생성하며, 이는 모델이 노이즈나 데이터 분포의 미세한 변화에 강인함을 나타냅니다.

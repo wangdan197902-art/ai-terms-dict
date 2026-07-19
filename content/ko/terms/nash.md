@@ -1,23 +1,23 @@
 ---
-title: "내시(Nash)"
-term_id: "nash"
-category: "basic_concepts"
-subcategory: ""
-tags: ["game_theory", "multi_agent"]
+title: 내시(Nash)
+term_id: nash
+category: basic_concepts
+subcategory: ''
+tags:
+- Game Theory
+- Multi Agent
 difficulty: 3
 weight: 1
-slug: "nash"
-aliases:
-  - /ko/terms/nash/
-date: "2026-07-18T15:27:21.460618Z"
-lastmod: "2026-07-18T16:38:06.779589Z"
+slug: nash
+date: '2026-07-18T15:27:21.460618Z'
+lastmod: '2026-07-18T16:38:06.779589Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "게임 이론에서 다른 참여자의 전략이 고정된 상태에서 어느 플레이어도 자신의 전략을 변경하여 이득을 볼 수 없는 상태를 의미하는 내시 균형(Nash Equilibrium)을 지칭함."
+source: agnes_llm
+status: published
+language: ko
+description: 게임 이론에서 다른 참여자의 전략이 고정된 상태에서 어느 플레이어도 자신의 전략을 변경하여 이득을 볼 수 없는 상태를 의미하는
+  내시 균형(Nash Equilibrium)을 지칭함.
 ---
-
 ## Definition
 
 특히 다중 에이전트 시스템과 강화 학습 분야에서 AI의 내시 균형은 모든 다른 에이전트의 전략이 주어졌을 때 각 에이전트의 전략이 최적인 안정된 상태를 설명합니다. 어떤 단일 에이전트도 다른 에이전트들의 전략을 변경하지 않은 채로 자신의 전략만 바꿈으로써 더 나은 결과를 얻을 수 없습니다.

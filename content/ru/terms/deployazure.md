@@ -1,23 +1,23 @@
 ---
-title: "Развертывание: Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: 'Развертывание: Azure'
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /ru/terms/deployazure/
-date: "2026-07-18T15:49:49.004937Z"
-lastmod: "2026-07-18T16:38:07.148475Z"
+slug: deployazure
+date: '2026-07-18T15:49:49.004937Z'
+lastmod: '2026-07-18T16:38:07.148475Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс хостинга и запуска моделей машинного обучения на облачной инфраструктуре Microsoft Azure."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс хостинга и запуска моделей машинного обучения на облачной инфраструктуре
+  Microsoft Azure.
 ---
-
 ## Definition
 
 Развертывание в Azure включает использование облачно-нативных инструментов, таких как Azure Machine Learning, Azure Kubernetes Service (AKS) или Azure Functions, для масштабного обслуживания моделей ML. Это охватывает управление вычислительными ресурсами и обеспечение надежности сервисов.

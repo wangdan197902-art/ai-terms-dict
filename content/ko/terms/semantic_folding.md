@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /ko/terms/semantic_folding/
 date: "2026-07-18T16:14:49.554434Z"
 lastmod: "2026-07-18T16:38:06.906697Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "관계 구조를 보존하면서 고차원적 의미 표현을 저차원 공간으로 매핑하는 기술입니다."
 ---
-
 ## Definition
 
 시맨틱 폴딩은 복잡한 고차원 벡터 임베딩을 의미적 손실을 최소화하면서 더 다루기 쉬운 저차원 표현으로 압축하는 과정을 의미합니다. 이를 통해 계산 비용을 줄이고 저장 공간을 절약하면서도 핵심적인 의미 정보와 벡터 간의 관계를 유지할 수 있습니다.

@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /ro/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:49:47.170716Z"
 lastmod: "2026-07-18T17:15:09.637763Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Rivalitatea dintre națiuni, corporații și instituții de cercetare pentru a obține lideratul în dezvoltarea, inovarea și implementarea IA."
 ---
-
 ## Definition
 
 Competiția în inteligența artificială descrie cursa globală intensă pentru avansarea capacităților IA, impulsionată de avantaje economice, militare și științifice. Principalii jucători includ giganții tehnologici precum Goo

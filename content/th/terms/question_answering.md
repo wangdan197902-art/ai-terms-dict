@@ -1,23 +1,23 @@
 ---
-title: "การตอบคำถาม"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: การตอบคำถาม
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /th/terms/question_answering/
-date: "2026-07-18T15:36:58.190903Z"
-lastmod: "2026-07-18T16:38:07.563958Z"
+slug: question_answering
+date: '2026-07-18T15:36:58.190903Z'
+lastmod: '2026-07-18T16:38:07.563958Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "งานประมวลผลภาษาธรรมชาติที่ระบบให้คำตอบที่แม่นยำแก่คำถามที่ถามด้วยภาษาธรรมชาติโดยอัตโนมัติ"
+source: agnes_llm
+status: published
+language: th
+description: งานประมวลผลภาษาธรรมชาติที่ระบบให้คำตอบที่แม่นยำแก่คำถามที่ถามด้วยภาษาธรรมชาติโดยอัตโนมัติ
 ---
-
 ## Definition
 
 การตอบคำถาม (QA) เกี่ยวข้องกับการดึงหรือสร้างการตอบสนองที่ถูกต้องสำหรับคำถามของผู้ใช้จากบริบทหรือฐานความรู้ที่กำหนด ซึ่งมีตั้งแต่ QA แบบปิดที่พึ่งพาเอกสารเฉพาะ ไปจนถึง QA แบบเปิดที่อาศัยความรู้ทั่วไปหรือการสร้างข้อความใหม่

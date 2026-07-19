@@ -1,23 +1,24 @@
 ---
-title: "luarea deciziilor"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: luarea deciziilor
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /ro/terms/decision_making/
-date: "2026-07-18T15:31:48.263553Z"
-lastmod: "2026-07-18T17:15:09.607719Z"
+slug: decision_making
+date: '2026-07-18T15:31:48.263553Z'
+lastmod: '2026-07-18T17:15:09.607719Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Procesul cognitiv de selectare a unei cursuri de acțiune dintre mai multe alternative, bazat pe informațiile disponibile."
+source: agnes_llm
+status: published
+language: ro
+description: Procesul cognitiv de selectare a unei cursuri de acțiune dintre mai multe
+  alternative, bazat pe informațiile disponibile.
 ---
-
 ## Definition
 
 În inteligența artificială, luarea deciziilor se referă la procesul algoritmic prin care un sistem evaluează acțiunile potențiale în raport cu criterii sau obiective specifice pentru a selecta rezultatul optim. Acesta implică

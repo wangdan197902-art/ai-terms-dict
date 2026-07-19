@@ -1,23 +1,24 @@
 ---
-title: "Vegyes pontosságú tanítás"
-term_id: "mixed_precision_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "performance"]
+title: Vegyes pontosságú tanítás
+term_id: mixed_precision_training
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- performance
 difficulty: 4
 weight: 1
-slug: "mixed_precision_training"
-aliases:
-  - /hu/terms/mixed_precision_training/
-date: "2026-07-18T16:13:07.174829Z"
-lastmod: "2026-07-18T17:15:09.813130Z"
+slug: mixed_precision_training
+date: '2026-07-18T16:13:07.174829Z'
+lastmod: '2026-07-18T17:15:09.813130Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy tanítási technika, amely egyszerre használ 16 bites és 32 bites lebegőpontos számokat a számítás gyorsítására és a memóriahasználat csökkentésére."
+source: agnes_llm
+status: published
+language: hu
+description: Egy tanítási technika, amely egyszerre használ 16 bites és 32 bites lebegőpontos
+  számokat a számítás gyorsítására és a memóriahasználat csökkentésére.
 ---
-
 ## Definition
 
 A vegyes pontosságú tanítás (MPT) félprecizitású (FP16) és teljes precizitású (FP32) adattípusokat kombinál a neurális hálózatok tanítása során. Az FP16 legtöbb műveletnél történő használata csökkenti a memóriaigényt és...

@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /vi/terms/automated_negotiation/
 date: "2026-07-18T15:41:55.146871Z"
 lastmod: "2026-07-18T16:38:07.731200Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc sử dụng các đại lý AI để tự chủ tiến hành đàm phán và đạt được thỏa thuận giữa các bên."
 ---
-
 ## Definition
 
 Đàm phán tự động liên quan đến các đại lý phần mềm đại diện cho lợi ích của con người trong các quá trình thương lượng. Các đại lý này sử dụng lý thuyết trò chơi, thuật toán tối ưu hóa và học máy để đề xuất các lời đề nghị, đánh giá phản hồi và điều chỉnh chiến lược nhằm đạt được kết quả có lợi nhất mà không cần sự can thiệp trực tiếp liên tục của con người.

@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /tr/terms/multi_modality/
 date: "2026-07-18T16:04:49.902205Z"
 lastmod: "2026-07-18T16:38:07.337499Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çoklu modallık, makine öğrenimi mimarileri içinde birden fazla ayrı veri türünün kullanımını konu alan daha geniş kavram veya çalışma alanıdır."
 ---
-
 ## Definition
 
 Çoklu modallık, yapay zeka modellerinin heterojen veri akışlarını işlemesini sağlayan mimari ve teorik çerçeveyi temsil eder. Çeşitli kaynaklardan girdi alabilen sinir ağlarının tasarımını içerir...

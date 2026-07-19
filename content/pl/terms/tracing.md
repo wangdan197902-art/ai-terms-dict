@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /pl/terms/tracing/
 date: "2026-07-18T16:21:22.060380Z"
 lastmod: "2026-07-18T17:15:08.925880Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Śledzenie to technika rejestrująca ścieżkę wykonania oraz pośrednie stany programu lub wnioskowania modelu AI, ułatwiająca debugowanie i optymalizację wydajności."
 ---
-
 ## Definition
 
 W kontekście inżynierii AI śledzenie obejmuje przechwytywanie szczegółowych logów dotyczących przepływu danych przez model lub aplikację, w tym wejść, wyjść, opóźnień i zużycia zasobów na każdym etapie. Pozwala to na pełną widoczność działania systemu.

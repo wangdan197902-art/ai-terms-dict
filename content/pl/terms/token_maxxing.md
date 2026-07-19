@@ -1,23 +1,25 @@
 ---
-title: "Token maxxing"
-term_id: "token_maxxing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["prompt_engineering", "optimization", "llm"]
+title: Token maxxing
+term_id: token_maxxing
+category: basic_concepts
+subcategory: ''
+tags:
+- Prompt Engineering
+- Optimization
+- LLM
 difficulty: 3
 weight: 1
-slug: "token_maxxing"
-aliases:
-  - /pl/terms/token_maxxing/
-date: "2026-07-18T16:21:08.001132Z"
-lastmod: "2026-07-18T17:15:08.925396Z"
+slug: token_maxxing
+date: '2026-07-18T16:21:08.001132Z'
+lastmod: '2026-07-18T17:15:08.925396Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Strategia optymalizacji w inżynierii promptów mająca na celu maksymalizację użyteczności lub jakości wyjścia przy określonej liczbie tokenów w dużych modelach językowych."
+source: agnes_llm
+status: published
+language: pl
+description: Strategia optymalizacji w inżynierii promptów mająca na celu maksymalizację
+  użyteczności lub jakości wyjścia przy określonej liczbie tokenów w dużych modelach
+  językowych.
 ---
-
 ## Definition
 
 Token maxxing polega na starannym konstruowaniu wejść, aby wykorzystać pełną pojemność okna kontekstowego modelu lub zoptymalizować gęstość semantyczną tokenów dla lepszej wydajności. Praktycy mogą dodawać...

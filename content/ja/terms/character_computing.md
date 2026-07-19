@@ -1,23 +1,23 @@
 ---
-title: "文字計算"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: 文字計算
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /ja/terms/character_computing/
-date: "2026-07-18T11:07:18.945790Z"
-lastmod: "2026-07-18T11:44:45.075859Z"
+slug: character_computing
+date: '2026-07-18T11:07:18.945790Z'
+lastmod: '2026-07-18T11:44:45.075859Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "文字計算とは、単語や文レベルではなく、個々の文字レベルでテキストの処理、生成、分析を行うことを指します。"
+source: agnes_llm
+status: published
+language: ja
+description: 文字計算とは、単語や文レベルではなく、個々の文字レベルでテキストの処理、生成、分析を行うことを指します。
 ---
-
 ## Definition
 
 この概念は、計算の基本的な単位が単一の文字であるテキスト操作に焦点を当てています。スペルチェックなど、細粒度のテキスト分析が必要なタスクでよく使用されます。

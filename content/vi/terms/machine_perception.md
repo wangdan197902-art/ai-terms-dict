@@ -1,23 +1,25 @@
 ---
-title: "Nhận thức máy móc"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: Nhận thức máy móc
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /vi/terms/machine_perception/
-date: "2026-07-18T16:02:07.367644Z"
-lastmod: "2026-07-18T16:38:07.779670Z"
+slug: machine_perception
+date: '2026-07-18T16:02:07.367644Z'
+lastmod: '2026-07-18T16:38:07.779670Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Nhận thức máy móc đề cập đến khả năng của các hệ thống trí tuệ nhân tạo trong việc diễn giải và hiểu dữ liệu cảm biến từ môi trường, chẳng hạn như hình ảnh, âm thanh hoặc các chỉ số từ cảm biến."
+source: agnes_llm
+status: published
+language: vi
+description: Nhận thức máy móc đề cập đến khả năng của các hệ thống trí tuệ nhân tạo
+  trong việc diễn giải và hiểu dữ liệu cảm biến từ môi trường, chẳng hạn như hình
+  ảnh, âm thanh hoặc các chỉ số từ cảm biến.
 ---
-
 ## Definition
 
 Nó cầu nối khoảng cách giữa các đầu vào cảm biến thô và sự hiểu biết ngữ nghĩa có ý nghĩa, mô phỏng các giác quan của con người như thị giác và thính giác. Các công nghệ chính bao gồm thị giác máy tính để nhận dạng đối tượng, nhận dạng giọng nói...

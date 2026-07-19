@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /ja/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T11:11:09.687325Z"
 lastmod: "2026-07-18T11:44:45.087881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Yahoo Answers由来のデータセット。特定のトピックに分類されたユーザー生成の質問と回答を含み、意味的マッチングや分類に使用される。"
 ---
-
 ## Definition
 
 Yahoo Answers Topicsデータセットは、より大きなYahoo Answersアーカイブの部分集合であり、明確なトピックカテゴリに整理された質問と回答に焦点を当てています。テキスト分類タスクなどで一般的に使用されます。

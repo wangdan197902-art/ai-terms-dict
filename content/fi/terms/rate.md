@@ -1,23 +1,24 @@
 ---
-title: "Nopeus / Ope"
-term_id: "rate"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "performance", "hyperparameters"]
+title: Nopeus / Ope
+term_id: rate
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- performance
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "rate"
-aliases:
-  - /fi/terms/rate/
-date: "2026-07-18T15:30:07.876447Z"
-lastmod: "2026-07-18T17:15:09.357761Z"
+slug: rate
+date: '2026-07-18T15:30:07.876447Z'
+lastmod: '2026-07-18T17:15:09.357761Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Taajuuden tai nopeuden mittaus, viittaa yleisesti oppimisnopeuteen optimoinnissa tai tokenien generointinopeuteen."
+source: agnes_llm
+status: published
+language: fi
+description: Taajuuden tai nopeuden mittaus, viittaa yleisesti oppimisnopeuteen optimoinnissa
+  tai tokenien generointinopeuteen.
 ---
-
 ## Definition
 
 Tekoälyssä 'rate' viittaa useimmiten oppimisnopeuteen (learning rate), joka on hyperparametri, joka kontrolloi, kuinka paljon mallia muutetaan arvioidun virheen perusteella jokaisen painopäivityksen yhteydessä. Liian suuri tai pieni oppimisnopeus voi vaikuttaa merkittävästi mallin konvergenssiin.

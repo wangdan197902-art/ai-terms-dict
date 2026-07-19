@@ -7,8 +7,6 @@ tags: ["licensing", "economics"]
 difficulty: 1
 weight: 1
 slug: "free"
-aliases:
-  - /fr/terms/free/
 date: "2026-07-18T10:50:34.288019Z"
 lastmod: "2026-07-18T11:44:45.163298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Décrit les ressources, logiciels ou données disponibles sans coût financier ni licences restrictives."
 ---
-
 ## Definition
 
 Dans le contexte de l'IA, « libre » fait généralement référence aux modèles, ensembles de données ou outils open source que les utilisateurs peuvent accéder, modifier et distribuer sans payer de frais. Cela contraste avec les solutions propriétaires qui

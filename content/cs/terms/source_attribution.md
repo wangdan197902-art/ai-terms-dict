@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /cs/terms/source_attribution/
 date: "2026-07-18T16:18:17.203560Z"
 lastmod: "2026-07-18T17:15:09.201912Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces identifikace a připsání zásluh původním tvůrcům nebo datovým sadám použitým k vygenerování konkrétního obsahu nebo poznatků."
 ---
-
 ## Definition
 
 Připsání zdroje se vztahuje na systematické sledování a označování původu dat, modelů nebo generovaných výstupů v systémech umělé inteligence. Zajišťuje transparentnost tím, že propojuje konečné výsledky zpět k jejich původním zdrojům.

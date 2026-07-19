@@ -1,23 +1,24 @@
 ---
-title: "Konumsal Kodlama"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Konumsal Kodlama
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /tr/terms/positional_encoding/
-date: "2026-07-18T15:36:47.227459Z"
-lastmod: "2026-07-18T16:38:07.261540Z"
+slug: positional_encoding
+date: '2026-07-18T15:36:47.227459Z'
+lastmod: '2026-07-18T16:38:07.261540Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Dönüştürücü modellerde, bir dizideki belirteçlerin göreli veya mutlak konumuna ilişkin bilgileri enjekte eden bir teknik."
+source: agnes_llm
+status: published
+language: tr
+description: Dönüştürücü modellerde, bir dizideki belirteçlerin göreli veya mutlak
+  konumuna ilişkin bilgileri enjekte eden bir teknik.
 ---
-
 ## Definition
 
 Dönüştürücüler, RNN'ler gibi ardışık değil, tüm belirteçleri paralel olarak işlediğinden belirteç sırasına dair içsel bir bilgiye sahip değildir. Konumsal kodlama, girdi gömme vektörlerine belirli vektörler ekleyerek belirteçlerin sıralama bilgisini modele sağlar.

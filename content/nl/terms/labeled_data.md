@@ -1,23 +1,24 @@
 ---
-title: "Gelabelde data"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Gelabelde data
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /nl/terms/labeled_data/
-date: "2026-07-18T16:02:56.116340Z"
-lastmod: "2026-07-18T17:15:08.760282Z"
+slug: labeled_data
+date: '2026-07-18T16:02:56.116340Z'
+lastmod: '2026-07-18T17:15:08.760282Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Data waarbij de juiste uitvoer of doelwaarde wordt gegeven samen met de invoerkennissen."
+source: agnes_llm
+status: published
+language: nl
+description: Data waarbij de juiste uitvoer of doelwaarde wordt gegeven samen met
+  de invoerkennissen.
 ---
-
 ## Definition
 
 Gelabelde data bestaat uit invoersteekproeven die zijn gepaard met bijbehorende ground-truth-labels en vormen de basis voor supervised machine learning. Het stelt algoritmen in staat om de mapping tussen invoer en uitvoer te leren.

@@ -7,8 +7,6 @@ tags: ["NLP", "architecture"]
 difficulty: 3
 weight: 1
 slug: "long"
-aliases:
-  - /vi/terms/long/
 date: "2026-07-18T15:26:51.698001Z"
 lastmod: "2026-07-18T16:38:07.689163Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Nói chung đề cập đến các chuỗi dữ liệu mở rộng, chẳng hạn như cửa sổ ngữ cảnh dài trong các mô hình xử lý ngôn ngữ tự nhiên."
 ---
-
 ## Definition
 
 Trong bối cảnh AI, 'dài' thường mô tả khả năng xử lý các đầu vào rộng lớn, chẳng hạn như tài liệu dài hoặc luồng video dài. Đối với các mô hình ngôn ngữ lớn, điều này liên quan đến việc quản lý ngữ cảnh dài

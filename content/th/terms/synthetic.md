@@ -1,23 +1,23 @@
 ---
-title: "สังเคราะห์"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: สังเคราะห์
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /th/terms/synthetic/
-date: "2026-07-18T15:30:58.825875Z"
-lastmod: "2026-07-18T16:38:07.550373Z"
+slug: synthetic
+date: '2026-07-18T15:30:58.825875Z'
+lastmod: '2026-07-18T16:38:07.550373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สังเคราะห์ หมายถึง ข้อมูลหรือเนื้อหาที่ถูกสร้างขึ้นโดยอัลกอริทึมอย่างเทียม แทนที่จะรวบรวมมาจากแหล่งธรรมชาติ"
+source: agnes_llm
+status: published
+language: th
+description: สังเคราะห์ หมายถึง ข้อมูลหรือเนื้อหาที่ถูกสร้างขึ้นโดยอัลกอริทึมอย่างเทียม
+  แทนที่จะรวบรวมมาจากแหล่งธรรมชาติ
 ---
-
 ## Definition
 
 ในปัญญาประดิษฐ์ ข้อมูลสังเคราะห์คือข้อมูลที่สร้างขึ้นอย่างเทียมเพื่อเลียนแบบข้อมูลในโลกจริง แต่ไม่ได้ประกอบด้วยบันทึกส่วนตัวหรือข้อมูลอ่อนไหวที่แท้จริง มีบทบาทสำคัญในการฝึกโมเดลแมชชีนเลิร์นนิงเมื่อมีข้อมูลจริงไม่เพียงพอ

@@ -1,23 +1,24 @@
 ---
-title: "Transformátor"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformátor
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /cs/terms/transformer/
-date: "2026-07-18T15:30:50.714575Z"
-lastmod: "2026-07-18T17:15:09.080712Z"
+slug: transformer
+date: '2026-07-18T15:30:50.714575Z'
+lastmod: '2026-07-18T17:15:09.080712Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Architektura hlubokého učení založená na mechanismu sebevědomé pozornosti (self-attention), která zpracovává sekvenční data paralelně místo postupně."
+source: agnes_llm
+status: published
+language: cs
+description: Architektura hlubokého učení založená na mechanismu sebevědomé pozornosti
+  (self-attention), která zpracovává sekvenční data paralelně místo postupně.
 ---
-
 ## Definition
 
 Zavedená v článku 'Attention Is All You Need', architektura Transformátoru revolucionalizovala zpracování přirozeného jazyka a další oblasti. Používá vícebuněčnou sebevědomou pozornost k vážení významu

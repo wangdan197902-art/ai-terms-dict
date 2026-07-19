@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /ro/terms/natural_language/
 date: "2026-07-18T15:33:06.879536Z"
 lastmod: "2026-07-18T17:15:09.609785Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Metoda standard de comunicare umană, caracterizată prin gramatică, vocabular și context, spre deosebire de limbajele formale de calculator."
 ---
-
 ## Definition
 
 Limbajul natural se referă la modul în care oamenii vorbesc și scriu, inclusiv toate ambiguitățile, idiomurile și nuanțele culturale. În AI, procesarea limbajului natural implică înțelegerea sintaxei, semanticii și pragmaticei.

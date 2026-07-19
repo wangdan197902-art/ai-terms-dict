@@ -7,8 +7,6 @@ tags: ["analytics", "business", "statistics"]
 difficulty: 3
 weight: 1
 slug: "data_science_and_predictive_analytics"
-aliases:
-  - /id/terms/data_science_and_predictive_analytics/
 date: "2026-07-18T15:44:45.409484Z"
 lastmod: "2026-07-18T16:38:07.442656Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Bidang ini menggabungkan analisis statistik dan pembelajaran mesin untuk mengekstrak wawasan dari data dan meramalkan peristiwa atau perilaku di masa depan."
 ---
-
 ## Definition
 
 Ilmu data melibatkan proses interdisipliner untuk mengekstrak pengetahuan dari data terstruktur dan tidak terstruktur, sementara analitik prediktif secara khusus berfokus pada penggunaan data historis untuk memprediksi

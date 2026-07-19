@@ -7,8 +7,6 @@ tags: ["reasoning", "logic", "methodology"]
 difficulty: 3
 weight: 1
 slug: "multi_step"
-aliases:
-  - /de/terms/multi_step/
 date: "2026-07-18T10:56:17.755725Z"
 lastmod: "2026-07-18T11:44:44.890055Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Problemlösungsstrategie, die eine Sequenz logischer Operationen oder Berechnungen erfordert, um zu einer endgültigen Lösung zu gelangen."
 ---
-
 ## Definition
 
 Multi-Schritt-Methoden beinhalten das Zerlegen einer komplexen Anfrage oder Aufgabe in kleinere, ausführbare Schritte. Dieser Ansatz ist entscheidend für Reasoning-Aufgaben wie mathematisches Problemlösen oder Code-Generierung.

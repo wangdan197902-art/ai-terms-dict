@@ -1,23 +1,24 @@
 ---
-title: "Tính toán ký tự (Character Computing)"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Tính toán ký tự (Character Computing)
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /vi/terms/character_computing/
-date: "2026-07-18T15:43:56.697966Z"
-lastmod: "2026-07-18T16:38:07.735546Z"
+slug: character_computing
+date: '2026-07-18T15:43:56.697966Z'
+lastmod: '2026-07-18T16:38:07.735546Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Tính toán ký tự liên quan đến việc xử lý, tạo ra hoặc phân tích văn bản ở cấp độ từng ký tự riêng lẻ thay vì cấp độ từ hoặc câu."
+source: agnes_llm
+status: published
+language: vi
+description: Tính toán ký tự liên quan đến việc xử lý, tạo ra hoặc phân tích văn bản
+  ở cấp độ từng ký tự riêng lẻ thay vì cấp độ từ hoặc câu.
 ---
-
 ## Definition
 
 Khái niệm này tập trung vào việc thao tác văn bản, trong đó đơn vị cơ bản của phép tính là một ký tự duy nhất. Nó thường được sử dụng trong các tác vụ yêu cầu phân tích văn bản chi tiết, chẳng hạn như kiểm tra chính tả.

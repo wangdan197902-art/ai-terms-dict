@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /no/terms/probabilistic_numerics/
 date: "2026-07-18T16:12:30.514326Z"
 lastmod: "2026-07-18T16:38:07.035444Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et fagfelt som behandler numeriske beregningsproblemer som statistiske inferensoppgaver for å kvantifisere usikkerhet i resultater."
 ---
-
 ## Definition
 
 Sannsynlighetsnumerikk anvender bayesiske metoder på tradisjonelle numeriske problemer som integrasjon, derivasjon og lineær algebra. I stedet for å gi punktestimater, produserer det sannsynlighetsfordelinger...

@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /de/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T11:03:25.797810Z"
 lastmod: "2026-07-18T11:44:44.910145Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein wettbewerbsdynamisches Szenario, in dem Nationen oder Organisationen KI-Fähigkeiten rasch entwickeln, um strategische Überlegenheit zu erlangen."
 ---
-
 ## Definition
 
 Der KI-Waffengang bezeichnet den intensiven Wettbewerb zwischen Ländern, Unternehmen und Forschungseinrichtungen um die Vorherrschaft in Technologien der künstlichen Intelligenz. Dieser Wettstreib treibt rasante Innovationen voran.

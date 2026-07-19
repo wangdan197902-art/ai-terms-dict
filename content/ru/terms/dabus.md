@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /ru/terms/dabus/
 date: "2026-07-18T15:47:16.543286Z"
 lastmod: "2026-07-18T16:38:07.136616Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "DABUS расшифровывается как Device for the Autonomous Bootstrapping of Unified Sentience (Устройство для автономной загрузки унифицированного сознания); это система искусственного интеллекта, созданная"
 ---
-
 ## Definition
 
 DABUS — это специфическая искусственная нейронная сеть, предназначенная для генерации новых изобретений без прямого вмешательства человека. Она привлекла значительное внимание в юридической сфере, когда её создатель, Стивен Талер, попытался

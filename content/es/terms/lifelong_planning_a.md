@@ -1,23 +1,25 @@
 ---
-title: "Planificación A* de por vida"
-term_id: "lifelong_planning_a"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "robotics", "graph_theory"]
+title: Planificación A* de por vida
+term_id: lifelong_planning_a
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- robotics
+- Graph Theory
 difficulty: 4
 weight: 1
-slug: "lifelong_planning_a"
-aliases:
-  - /es/terms/lifelong_planning_a/
-date: "2026-07-18T10:57:37.952598Z"
-lastmod: "2026-07-18T11:44:44.825973Z"
+slug: lifelong_planning_a
+date: '2026-07-18T10:57:37.952598Z'
+lastmod: '2026-07-18T11:44:44.825973Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un algoritmo de búsqueda de caminos incremental que actualiza eficientemente las rutas más cortas en grafos dinámicos sin recalcular desde cero tras cambios en el peso de las aristas."
+source: agnes_llm
+status: published
+language: es
+description: Un algoritmo de búsqueda de caminos incremental que actualiza eficientemente
+  las rutas más cortas en grafos dinámicos sin recalcular desde cero tras cambios
+  en el peso de las aristas.
 ---
-
 ## Definition
 
 La Planificación A* de por vida (LPA*, por sus siglas en inglés) es una extensión del algoritmo de búsqueda A* diseñada para entornos donde los costes cambian con el tiempo. En lugar de reiniciar la búsqueda desde el principio, LPA* mantiene una cola de prioridad y actualiza selectivamente solo las partes del grafo afectadas por los cambios, lo que resulta en una eficiencia computacional significativamente mayor en escenarios dinámicos.

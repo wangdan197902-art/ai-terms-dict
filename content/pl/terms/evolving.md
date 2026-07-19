@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /pl/terms/evolving/
 date: "2026-07-18T15:25:07.338211Z"
 lastmod: "2026-07-18T17:15:08.810687Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Opisuje systemy AI lub algorytmy, które stale się dostosowują i ulepszają z czasem dzięki nowym danym lub informacji zwrotnej."
 ---
-
 ## Definition
 
 Termin 'ewolucyjny' charakteryzuje dynamiczne modele AI, które przechodzą ciągłe uczenie i adaptację, zamiast pozostawać statyczne po początkowym treningu. Koncepcja ta jest kluczowa dla uczenia przez całe życie (lifelong learning) oraz systemów, które muszą radzić sobie ze zmieniającymi się warunkami środowiska.

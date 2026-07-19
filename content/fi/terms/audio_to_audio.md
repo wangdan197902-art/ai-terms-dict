@@ -1,23 +1,24 @@
 ---
-title: "Ääni ääneksi"
-term_id: "audio_to_audio"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_ai", "audio", "transformation"]
+title: Ääni ääneksi
+term_id: audio_to_audio
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative AI
+- audio
+- transformation
 difficulty: 3
 weight: 1
-slug: "audio_to_audio"
-aliases:
-  - /fi/terms/audio_to_audio/
-date: "2026-07-18T15:44:13.439977Z"
-lastmod: "2026-07-18T17:15:09.385452Z"
+slug: audio_to_audio
+date: '2026-07-18T15:44:13.439977Z'
+lastmod: '2026-07-18T17:15:09.385452Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Luova tekoälytehtävä, jossa syöteääni muunnetaan lähtöääneksi säilyttäen tai muuttaen tiettyjä ominaisuuksia."
+source: agnes_llm
+status: published
+language: fi
+description: Luova tekoälytehtävä, jossa syöteääni muunnetaan lähtöääneksi säilyttäen
+  tai muuttaen tiettyjä ominaisuuksia.
 ---
-
 ## Definition
 
 Ääni-ääneksi viittaa neuroverkkorakenteisiin, jotka on suunniteltu kartoittamaan yksi äänisignaali toiseksi. Toisin kuin tekstistä puheeksi -muunnos, tämä sisältää suoran aaltomuodon tai spektrogrammin muuntamisen. Sovelluksiin kuul

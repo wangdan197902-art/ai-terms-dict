@@ -1,23 +1,23 @@
 ---
-title: "Ontwikkelingsrobotica"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Ontwikkelingsrobotica
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /nl/terms/developmental_robotics/
-date: "2026-07-18T15:51:03.977234Z"
-lastmod: "2026-07-18T17:15:08.737283Z"
+slug: developmental_robotics
+date: '2026-07-18T15:51:03.977234Z'
+lastmod: '2026-07-18T17:15:08.737283Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een interdisciplinair vakgebied dat bestudeert hoe robots complexe vaardigheden kunnen verwerven door interactie met hun omgeving en verzorgers."
+source: agnes_llm
+status: published
+language: nl
+description: Een interdisciplinair vakgebied dat bestudeert hoe robots complexe vaardigheden
+  kunnen verwerven door interactie met hun omgeving en verzorgers.
 ---
-
 ## Definition
 
 Ontwikkelingsrobotica laat zich inspireren door menselijke cognitieve ontwikkeling om robots te creëren die autonoom leren over tijd. In plaats van alle gedragingen vooraf te programmeren, gebruiken deze systemen mechanismen zoals

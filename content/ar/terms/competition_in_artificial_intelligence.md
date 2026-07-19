@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /ar/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:49:04.453173Z"
 lastmod: "2026-07-18T17:15:08.485829Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "التنافس بين الدول والشركات والمؤسسات البحثية لتحقيق الريادة في تطوير الذكاء الاصطناعي والابتكار ونشره."
 ---
-
 ## Definition
 
 تصف المنافسة في الذكاء الاصطناعي السباق العالمي المكثف لتطوير قدرات الذكاء الاصطناعي، مدفوعاً بالمزايا الاقتصادية والعلمية والعسكرية. تشمل اللاعبين الرئيسيين عمالقة التكنولوجيا مثل جوجل ومايكروسوفت وأمازون، بالإضافة إلى الحكومات التي تستثمر بكثافة في البحث والتطوير لضمان التفوق الاستراتيجي.

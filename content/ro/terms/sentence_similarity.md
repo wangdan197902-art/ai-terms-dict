@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /ro/terms/sentence_similarity/
 date: "2026-07-18T16:20:22.535306Z"
 lastmod: "2026-07-18T17:15:09.701353Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O metrică sau sarcină care cuantifică cât de asemănătoare sunt semantic două propoziții, fiind adesea reprezentată printr-un scor numeric."
 ---
-
 ## Definition
 
 Similaritatea propozițiilor măsoară gradul de suprapunere semantică dintre două propoziții distincte. Aceasta depășește potrivirea lexicală pentru a înțelege sensul, contextul și intenția. Acest lucru se realizează de obicei prin co

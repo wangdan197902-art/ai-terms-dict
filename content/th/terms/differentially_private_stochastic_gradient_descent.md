@@ -1,23 +1,24 @@
 ---
-title: "การลดความชันแบบสุ่มที่มีความเป็นส่วนตัวเชิงอนุพันธ์"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: การลดความชันแบบสุ่มที่มีความเป็นส่วนตัวเชิงอนุพันธ์
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /th/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:50:17.434087Z"
-lastmod: "2026-07-18T16:38:07.598720Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:50:17.434087Z'
+lastmod: '2026-07-18T16:38:07.598720Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อัลกอริทึมการเพิ่มประสิทธิภาพที่แก้ไข SGD มาตรฐานโดยการตัดแต่งเกรเดียนต์และเพิ่มสัญญาณรบกวนเพื่อให้แน่ใจว่าโมเดลที่ฝึกแล้วสอดคล้องกับข้อจำกัดของความเป็นส่วนตัวเชิงอนุพันธ์"
+source: agnes_llm
+status: published
+language: th
+description: อัลกอริทึมการเพิ่มประสิทธิภาพที่แก้ไข SGD มาตรฐานโดยการตัดแต่งเกรเดียนต์และเพิ่มสัญญาณรบกวนเพื่อให้แน่ใจว่าโมเดลที่ฝึกแล้วสอดคล้องกับข้อจำกัดของความเป็นส่วนตัวเชิงอนุพันธ์
 ---
-
 ## Definition
 
 DP-SGD เป็นรูปแบบหนึ่งของ Stochastic Gradient Descent ที่ออกแบบมาเพื่อปกป้องความเป็นส่วนตัวของข้อมูลการฝึก มันทำงานโดยการตัดแต่งการมีส่วนร่วมของเกรเดียนต์จากแต่ละตัวอย่างเพื่อจำกัดความไว จากนั้นเพิ่มสัญญาณรบกวนแบบเกาส์เซียน

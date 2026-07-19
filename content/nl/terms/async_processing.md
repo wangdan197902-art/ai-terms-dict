@@ -1,23 +1,24 @@
 ---
-title: "Asynchrone verwerking"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Asynchrone verwerking
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /nl/terms/async_processing/
-date: "2026-07-18T15:43:41.780990Z"
-lastmod: "2026-07-18T17:15:08.719147Z"
+slug: async_processing
+date: '2026-07-18T15:43:41.780990Z'
+lastmod: '2026-07-18T17:15:08.719147Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een programmeerparadigma waarbij taken onafhankelijk van de hoofdthread worden uitgevoerd, waardoor niet-blokkerende bewerkingen mogelijk zijn."
+source: agnes_llm
+status: published
+language: nl
+description: Een programmeerparadigma waarbij taken onafhankelijk van de hoofdthread
+  worden uitgevoerd, waardoor niet-blokkerende bewerkingen mogelijk zijn.
 ---
-
 ## Definition
 
 Asynchrone verwerking stelt software in staat langdurige taken uit te voeren, zoals I/O-bewerkingen of complexe berekeningen, zonder dat de hoofdinterface van de applicatie bevriest of andere processen blokkeert. Door d

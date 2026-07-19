@@ -1,23 +1,22 @@
 ---
-title: "التوسع"
-term_id: "scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["process", "optimization"]
+title: التوسع
+term_id: scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- process
+- Optimization
 difficulty: 3
 weight: 1
-slug: "scaling"
-aliases:
-  - /ar/terms/scaling/
-date: "2026-07-18T15:30:41.755977Z"
-lastmod: "2026-07-18T17:15:08.447999Z"
+slug: scaling
+date: '2026-07-18T15:30:41.755977Z'
+lastmod: '2026-07-18T17:15:08.447999Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "التوسع هو عملية ضبط حجم النموذج أو حجم البيانات لتعزيز قدرات التعلم والأداء."
+source: agnes_llm
+status: published
+language: ar
+description: التوسع هو عملية ضبط حجم النموذج أو حجم البيانات لتعزيز قدرات التعلم والأداء.
 ---
-
 ## Definition
 
 التوسع هو المنهجية النشطة لتوسيع أنظمة الذكاء الاصطناعي من خلال إضافة المزيد من الطبقات أو الخلايا العصبية أو أمثلة التدريب. ويشمل تقنيات مثل التدريب الموزع عبر وحدات معالجة الرسومات المتعددة للتعامل مع الزيادة في الحجم.

@@ -1,23 +1,23 @@
 ---
-title: "مصفوفة الارتباك"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: مصفوفة الارتباك
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /ar/terms/confusion_matrix/
-date: "2026-07-18T15:49:44.272603Z"
-lastmod: "2026-07-18T17:15:08.487142Z"
+slug: confusion_matrix
+date: '2026-07-18T15:49:44.272603Z'
+lastmod: '2026-07-18T17:15:08.487142Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "جدول يُستخدم لوصف أداء نموذج التصنيف على مجموعة من بيانات الاختبار."
+source: agnes_llm
+status: published
+language: ar
+description: جدول يُستخدم لوصف أداء نموذج التصنيف على مجموعة من بيانات الاختبار.
 ---
-
 ## Definition
 
 مصفوفة الارتباك هي تخطيط جدولي محدد يسمح بتصور أداء الخوارزمية، وغالباً ما تكون خوارزمية تعلم تحت إشراف. وتُظهر أعداد الحالات الإيجابية الحقيقية، والسلبية الحقيقية، والإيجابية الكاذبة، والسلبية الكاذبة.

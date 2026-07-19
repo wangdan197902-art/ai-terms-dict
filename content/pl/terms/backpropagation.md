@@ -1,23 +1,24 @@
 ---
-title: "Algorytm wstecznej propagacji błędu"
-term_id: "backpropagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "algorithms", "neural_networks"]
+title: Algorytm wstecznej propagacji błędu
+term_id: backpropagation
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- algorithms
+- Neural Networks
 difficulty: 4
 weight: 1
-slug: "backpropagation"
-aliases:
-  - /pl/terms/backpropagation/
-date: "2026-07-18T15:22:37.566287Z"
-lastmod: "2026-07-18T17:15:08.805245Z"
+slug: backpropagation
+date: '2026-07-18T15:22:37.566287Z'
+lastmod: '2026-07-18T17:15:08.805245Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Powszechnie stosowany algorytm trenowania sieci neuronowych poprzez obliczanie gradientów w celu minimalizacji błędu."
+source: agnes_llm
+status: published
+language: pl
+description: Powszechnie stosowany algorytm trenowania sieci neuronowych poprzez obliczanie
+  gradientów w celu minimalizacji błędu.
 ---
-
 ## Definition
 
 Backpropagation, skrócony od wstecznej propagacji błędów, jest metodą stosowaną w sztucznych sieciach neuronowych do obliczania gradientu funkcji straty względem wag. Działa poprzez propagowanie

@@ -1,23 +1,24 @@
 ---
-title: "Transformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /pl/terms/transformer/
-date: "2026-07-18T15:30:57.836790Z"
-lastmod: "2026-07-18T17:15:08.823501Z"
+slug: transformer
+date: '2026-07-18T15:30:57.836790Z'
+lastmod: '2026-07-18T17:15:08.823501Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Architektura głębokiego uczenia oparta na mechanizmach samouważania (self-attention), która przetwarza dane sekwencyjne równolegle, a nie sekwencyjnie."
+source: agnes_llm
+status: published
+language: pl
+description: Architektura głębokiego uczenia oparta na mechanizmach samouważania (self-attention),
+  która przetwarza dane sekwencyjne równolegle, a nie sekwencyjnie.
 ---
-
 ## Definition
 
 Przedstawiona w artykule „Attention Is All You Need”, architektura Transformer zrewolucjonizowała przetwarzanie języka naturalnego i inne dziedziny. Wykorzystuje wielogłowicowe samouważanie do ważenia znaczenia poszczególnych elementów wejściowych, umożliwiając efektywne modelowanie długich zależności.

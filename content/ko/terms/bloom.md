@@ -1,23 +1,24 @@
 ---
-title: "블룸"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: 블룸
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /ko/terms/bloom/
-date: "2026-07-18T15:44:10.854120Z"
-lastmod: "2026-07-18T16:38:06.814815Z"
+slug: bloom
+date: '2026-07-18T15:44:10.854120Z'
+lastmod: '2026-07-18T16:38:06.814815Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "머신러닝에서 '블룸'은 일반적으로 AI 교육에 적용된 블룸의 분류법이나 블룸 텍스트 임베딩 모델과 같은 특정 임베딩 모델을 참조합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 머신러닝에서 '블룸'은 일반적으로 AI 교육에 적용된 블룸의 분류법이나 블룸 텍스트 임베딩 모델과 같은 특정 임베딩 모델을
+  참조합니다.
 ---
-
 ## Definition
 
 역사적으로 벤자민 블룸의 교육 분류법을 지칭하지만, 현대 AI 맥락에서는 BigScience에서 개발한 블룸 텍스트 임베딩 모델을 주로 나타냅니다. 이 모델은 고품질의 다국어 텍스트 임베딩을 생성하는 데 사용됩니다.

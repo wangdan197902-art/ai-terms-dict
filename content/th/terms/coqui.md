@@ -1,23 +1,24 @@
 ---
-title: "โคกี (Coqui)"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: โคกี (Coqui)
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /th/terms/coqui/
-date: "2026-07-18T15:47:03.838869Z"
-lastmod: "2026-07-18T16:38:07.589883Z"
+slug: coqui
+date: '2026-07-18T15:47:03.838869Z'
+lastmod: '2026-07-18T16:38:07.589883Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โคกีคือบริษัทเทคโนโลยีเสียงแบบโอเพนซอร์สที่มีชื่อเสียงในการพัฒนาโมเดลแปลงข้อความเป็นเสียง (TTS) คุณภาพสูงและรองรับหลายภาษา"
+source: agnes_llm
+status: published
+language: th
+description: โคกีคือบริษัทเทคโนโลยีเสียงแบบโอเพนซอร์สที่มีชื่อเสียงในการพัฒนาโมเดลแปลงข้อความเป็นเสียง
+  (TTS) คุณภาพสูงและรองรับหลายภาษา
 ---
-
 ## Definition
 
 โคกี เทคโนโลยีส์ เป็นผู้เล่นสำคัญในชุมชนปัญญาประดิษฐ์แบบโอเพนซอร์ส โดยมีชื่อเสียงที่สุดจากเครื่องยนต์แปลงข้อความเป็นเสียง (TTS) ของโครงการ ซึ่งนำเสนอโมเดลที่ผ่านการฝึกฝนมาแล้ว สามารถสร้างเสียงพูดที่ฟังดูเป็นธรรมชาติได้

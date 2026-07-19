@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /it/terms/equalized_odds/
 date: "2026-07-18T15:58:32.403093Z"
 lastmod: "2026-07-18T17:15:08.623720Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una metrica di equità che richiede che i tassi di veri positivi e falsi positivi siano uguali tra diversi gruppi demografici."
 ---
-
 ## Definition
 
 Equalized odds è un vincolo di parità statistica utilizzato nell'equità algoritmica per garantire che un modello performi allo stesso modo per tutti i gruppi protetti. Nello specifico, impone che la probabilità di una previsione corretta (vero positivo) e di un errore (falso positivo) sia indipendente dall'appartenenza a un gruppo sensibile, mitigando così la discriminazione sistemica nei risultati predittivi.

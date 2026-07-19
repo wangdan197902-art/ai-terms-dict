@@ -1,23 +1,24 @@
 ---
-title: "היררכי"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: היררכי
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /he/terms/hierarchical/
-date: "2026-07-18T15:26:14.702595Z"
-lastmod: "2026-07-18T17:15:09.479653Z"
+slug: hierarchical
+date: '2026-07-18T15:26:14.702595Z'
+lastmod: '2026-07-18T17:15:09.479653Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מתייחס לארכיטקטורות בינה מלאכותית או אסטרטגיות למידה המאורגנות במספר רמות של מופשטות, כאשר הרמות הגבוהות שולטות ברמות הנמוכות."
+source: agnes_llm
+status: published
+language: he
+description: מתייחס לארכיטקטורות בינה מלאכותית או אסטרטגיות למידה המאורגנות במספר
+  רמות של מופשטות, כאשר הרמות הגבוהות שולטות ברמות הנמוכות.
 ---
-
 ## Definition
 
 מערכות בינה מלאכותית היררכיות מארגנות מידע או בקרה למבנה דמוי עץ של שכבות מקוננות. בלמידה מחזקת, למידה מחזקת היררכית מפצלת משימות מורכבות למטרות משנה המנוהלות על ידי רמות...

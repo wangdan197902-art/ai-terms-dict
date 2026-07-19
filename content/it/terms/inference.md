@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /it/terms/inference/
 date: "2026-07-18T15:22:57.448293Z"
 lastmod: "2026-07-18T17:15:08.560635Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La fase in cui un modello addestrato elabora nuovi dati per generare previsioni o output."
 ---
-
 ## Definition
 
 L'inferenza si riferisce alla fase di distribuzione in cui un modello finalizzato viene utilizzato per prendere decisioni o fare previsioni su dati non visti. A differenza dell'addestramento, che aggiorna i pesi, l'inferenza consuma risorse computazion

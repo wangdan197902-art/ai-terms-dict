@@ -1,23 +1,24 @@
 ---
-title: "Πολυκεφαλική Προσοχή"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Πολυκεφαλική Προσοχή
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /el/terms/multi_head_attention/
-date: "2026-07-18T15:29:39.277115Z"
-lastmod: "2026-07-18T17:15:09.849789Z"
+slug: multi_head_attention
+date: '2026-07-18T15:29:39.277115Z'
+lastmod: '2026-07-18T17:15:09.849789Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας μηχανισμός στα μοντέλα Transformer που επιτρέπει στο μοντέλο να προσέχει πληροφορίες από διαφορετικούς υποχώρους αναπαράστασης ταυτόχρονα."
+source: agnes_llm
+status: published
+language: el
+description: Ένας μηχανισμός στα μοντέλα Transformer που επιτρέπει στο μοντέλο να
+  προσέχει πληροφορίες από διαφορετικούς υποχώρους αναπαράστασης ταυτόχρονα.
 ---
-
 ## Definition
 
 Η Πολυκεφαλική Προσοχή επεκτείνει τον τυπικό μηχανισμό προσοχής εκτελώντας τον πολλές φορές παράλληλα με διαφορετικές μαθημένες γραμμικές προβολές. Αυτό επιτρέπει στο μοντέλο να εξετάζει ταυτόχρονα πληροφορίες από διάφορες πηγές.

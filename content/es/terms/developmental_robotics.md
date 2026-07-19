@@ -1,23 +1,23 @@
 ---
-title: "Robótica del Desarrollo"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Robótica del Desarrollo
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /es/terms/developmental_robotics/
-date: "2026-07-18T10:43:45.709924Z"
-lastmod: "2026-07-18T11:44:44.797943Z"
+slug: developmental_robotics
+date: '2026-07-18T10:43:45.709924Z'
+lastmod: '2026-07-18T11:44:44.797943Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un campo interdisciplinario que estudia cómo los robots pueden adquirir habilidades complejas mediante la interacción con su entorno y cuidadores."
+source: agnes_llm
+status: published
+language: es
+description: Un campo interdisciplinario que estudia cómo los robots pueden adquirir
+  habilidades complejas mediante la interacción con su entorno y cuidadores.
 ---
-
 ## Definition
 
 La robótica del desarrollo se inspira en el desarrollo cognitivo humano para crear robots que aprenden de forma autónoma con el tiempo. En lugar de preprogramar todos los comportamientos, estos sistemas utilizan mecanismos como...

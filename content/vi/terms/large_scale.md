@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /vi/terms/large_scale/
 date: "2026-07-18T15:31:11.284283Z"
 lastmod: "2026-07-18T16:38:07.702000Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mô tả các hệ thống AI hoặc tập dữ liệu hoạt động với khối lượng dữ liệu, tham số hoặc tài nguyên tính toán khổng lồ."
 ---
-
 ## Definition
 
 Quy mô lớn đề cập đến mức độ lớn của các thành phần trong một hệ thống AI, thường liên quan đến hàng tỷ tham số, terabyte dữ liệu huấn luyện hoặc các cụm máy tính phân tán. Cách tiếp cận này là nền tảng cho sự phát triển của các mô hình ngôn ngữ lớn và các hệ thống AI hiện đại.

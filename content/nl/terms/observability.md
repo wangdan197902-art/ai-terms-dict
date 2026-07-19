@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /nl/terms/observability/
 date: "2026-07-18T16:10:59.550156Z"
 lastmod: "2026-07-18T17:15:08.773451Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Observabiliteit is de maatstaf voor hoe goed interne systeemtoestanden kunnen worden afgeleid uit externe uitvoer zoals logs, metrieken en traces."
 ---
-
 ## Definition
 
 In AI-engineering verwijst observabiliteit naar het vermogen om de interne staat van complexe machine learning-systemen te begrijpen door hun externe uitvoer te analyseren. Het gaat verder dan traditionele monitoring.

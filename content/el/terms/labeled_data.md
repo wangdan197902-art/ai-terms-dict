@@ -1,23 +1,24 @@
 ---
-title: "Επισημασμένα δεδομένα"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: Επισημασμένα δεδομένα
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /el/terms/labeled_data/
-date: "2026-07-18T16:17:36.301612Z"
-lastmod: "2026-07-18T17:15:09.924835Z"
+slug: labeled_data
+date: '2026-07-18T16:17:36.301612Z'
+lastmod: '2026-07-18T17:15:09.924835Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Δεδομένα στα οποία παρέχεται η σωστή έξοδος ή τιμή στόχος μαζί με τα χαρακτηριστικά εισόδου."
+source: agnes_llm
+status: published
+language: el
+description: Δεδομένα στα οποία παρέχεται η σωστή έξοδος ή τιμή στόχος μαζί με τα
+  χαρακτηριστικά εισόδου.
 ---
-
 ## Definition
 
 Τα επισημασμένα δεδομένα αποτελούνται από δείγματα εισόδου ζευγαρωμένα με αντίστοιχες ετικέτες πραγματικής κατάστασης (ground truth), λειτουργώντας ως θεμέλιο για την εποπτευόμενη μηχανική μάθηση. Επιτρέπουν στους αλγορίθμους να μάθουν τον χάρτη αντιστοίχισης μεταξύ εισόδου και εξόδου.

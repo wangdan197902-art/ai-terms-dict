@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /id/terms/accountability/
 date: "2026-07-18T15:38:03.226189Z"
 lastmod: "2026-07-18T16:38:07.424996Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Prinsip bahwa pengembang dan operator sistem AI harus bertanggung jawab atas hasil dan dampak dari sistem tersebut."
 ---
-
 ## Definition
 
 Akuntabilitas dalam kecerdasan buatan merujuk pada kewajiban individu, organisasi, dan pengembang untuk mengambil tanggung jawab atas desain, penerapan, dan konsekuensi dari teknologi AI.

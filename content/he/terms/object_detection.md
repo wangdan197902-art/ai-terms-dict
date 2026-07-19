@@ -1,23 +1,24 @@
 ---
-title: "זיהוי עצמים"
-term_id: "object_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "detection", "algorithms"]
+title: זיהוי עצמים
+term_id: object_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- detection
+- algorithms
 difficulty: 3
 weight: 1
-slug: "object_detection"
-aliases:
-  - /he/terms/object_detection/
-date: "2026-07-18T16:14:52.307433Z"
-lastmod: "2026-07-18T17:15:09.570204Z"
+slug: object_detection
+date: '2026-07-18T16:14:52.307433Z'
+lastmod: '2026-07-18T17:15:09.570204Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקת ראייה ממוחשבת המזהה וממקמת עצמים בתמונות או בסטרימי וידאו באמצעות תיבות היקף."
+source: agnes_llm
+status: published
+language: he
+description: טכניקת ראייה ממוחשבת המזהה וממקמת עצמים בתמונות או בסטרימי וידאו באמצעות
+  תיבות היקף.
 ---
-
 ## Definition
 
 זיהוי עצמים מרחיב את מיון התמונות בכך שהוא לא רק קובע אילו עצמים נוכחים, אלא גם היכן הם ממוקמים. הוא מפיק קואורדינטות של תיבות היקף סביב הפריטים שזוהו יחד עם תוויות המחלקה שלהם, ומאפשר הבנה מרחבית של הסצנה.

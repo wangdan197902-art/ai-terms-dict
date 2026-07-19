@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /zh/terms/agentive_logic/
 date: "2026-07-18T11:04:26.113952Z"
 lastmod: "2026-07-18T11:44:45.440250Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "代理逻辑是指用于建模自主智能体意图、目标和决策过程的形式化推理框架。"
 ---
-
 ## Definition
 
 它扩展了传统逻辑以涵盖代理性，允许系统表示信念、欲望和意图（BDI模型）。这种逻辑使智能体能够根据变化的环境动态规划行动。

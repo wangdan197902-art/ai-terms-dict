@@ -1,23 +1,24 @@
 ---
-title: "Anonymisation"
-term_id: "anonymization"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "data_security", "ethics"]
+title: Anonymisation
+term_id: anonymization
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Data Security
+- ethics
 difficulty: 3
 weight: 1
-slug: "anonymization"
-aliases:
-  - /fr/terms/anonymization/
-date: "2026-07-18T11:04:42.519666Z"
-lastmod: "2026-07-18T11:44:45.196931Z"
+slug: anonymization
+date: '2026-07-18T11:04:42.519666Z'
+lastmod: '2026-07-18T11:44:45.196931Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Le processus consistant à supprimer les informations permettant d'identifier une personne des ensembles de données afin de protéger la vie privée individuelle."
+source: agnes_llm
+status: published
+language: fr
+description: Le processus consistant à supprimer les informations permettant d'identifier
+  une personne des ensembles de données afin de protéger la vie privée individuelle.
 ---
-
 ## Definition
 
 L'anonymisation consiste à modifier les données de manière à ce qu'elles ne puissent plus être associées à un individu spécifique sans informations supplémentaires. Cette technique est cruciale dans l'apprentissage automatique lors du traitement de données sensibles.

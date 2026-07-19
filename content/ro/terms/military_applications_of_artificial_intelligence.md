@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /ro/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T16:11:34.384319Z"
 lastmod: "2026-07-18T17:15:09.680953Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Aceasta se referă la utilizarea tehnologiilor AI în contexte de apărare, inclusiv arme autonome, supraveghere, optimizarea logisticii și sisteme de suport pentru decizii."
 ---
-
 ## Definition
 
 Aplicațiile militare ale AI cuprind o gamă largă de tehnologii concepute pentru a îmbunătăți eficacitatea operațională și avantajul strategic. Acestea includ drone autonome pentru recunoaștere, sisteme predictive pentru gestionarea aprovizionării și instrumente avansate de analiză a amenințărilor cibernetice.

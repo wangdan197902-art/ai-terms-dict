@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /en/terms/probabilistic_numerics/
 date: "2026-07-18T10:11:27.979821Z"
 lastmod: "2026-07-18T11:44:44.711516Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A field treating numerical computation problems as statistical inference tasks to quantify uncertainty in results."
 ---
-
 ## Definition
 
 Probabilistic numerics applies Bayesian methods to traditional numerical problems like integration, differentiation, and linear algebra. Instead of providing point estimates, it outputs probability distributions over the solution, quantifying epistemic uncertainty arising from finite computational resources. This enables more robust decision-making in scientific computing and machine learning by acknowledging and propagating numerical errors alongside model uncertainties.

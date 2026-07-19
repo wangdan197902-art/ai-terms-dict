@@ -7,8 +7,6 @@ tags: ["ethics", "leadership", "policy"]
 difficulty: 2
 weight: 1
 slug: "lynda_soderholm"
-aliases:
-  - /de/terms/lynda_soderholm/
 date: "2026-07-18T11:22:32.670859Z"
 lastmod: "2026-07-18T11:44:44.960979Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Lynda Soderholm ist eine prominente Forscherin und Führungskraft, die für ihre Beiträge zur KI-Ethik, verantwortungsvollen Innovation und den gesellschaftlichen Auswirkungen der künstlichen Intelligen"
 ---
-
 ## Definition
 
 Lynda Soderholm ist eine anerkannte Persönlichkeit im Technologiesektor, die insbesondere für ihre Arbeit an der Schnittstelle von KI-Entwicklung und ethischer Governance bekannt ist. Als Führungskraft im Bereich Corporate Responsibility...

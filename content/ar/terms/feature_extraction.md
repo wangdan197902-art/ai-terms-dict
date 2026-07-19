@@ -1,23 +1,24 @@
 ---
-title: "استخراج الميزات (Feature Extraction)"
-term_id: "feature_extraction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "dimensionality_reduction", "technique"]
+title: استخراج الميزات (Feature Extraction)
+term_id: feature_extraction
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Dimensionality Reduction
+- technique
 difficulty: 3
 weight: 1
-slug: "feature_extraction"
-aliases:
-  - /ar/terms/feature_extraction/
-date: "2026-07-18T15:57:37.160932Z"
-lastmod: "2026-07-18T17:15:08.503749Z"
+slug: feature_extraction
+date: '2026-07-18T15:57:37.160932Z'
+lastmod: '2026-07-18T17:15:08.503749Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "عملية استخلاص معلومات ذات معنى من البيانات الخام لتقليل الأبعاد وتحسين أداء نماذج التعلم الآلي."
+source: agnes_llm
+status: published
+language: ar
+description: عملية استخلاص معلومات ذات معنى من البيانات الخام لتقليل الأبعاد وتحسين
+  أداء نماذج التعلم الآلي.
 ---
-
 ## Definition
 
 يتضمن استخراج الميزات تحويل البيانات الخام إلى مجموعة من الميزات التي تمثل المشكلة الأساسية بشكل أفضل للنماذج التنبؤية، مما يؤدي إلى تحسين دقة النموذج. تقلل هذه التقنية من تعقيد البيانات مع الحفاظ على المعلومات المهمة.

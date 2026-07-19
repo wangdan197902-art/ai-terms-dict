@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /ro/terms/pedagogical_agent/
 date: "2026-07-18T16:15:42.206300Z"
 lastmod: "2026-07-18T17:15:09.690297Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O entitate de inteligență artificială concepută să faciliteze învățarea prin furnizarea de instrucțiuni, feedback și ghidare."
 ---
-
 ## Definition
 
 Un agent pedagogic este un component software, adesea reprezentat sub forma unui personaj virtual, care acționează ca un profesor sau tutor în medii educaționale. Acești agenți utilizează procesarea limbajului natural și tehnici de adaptare pentru a personaliza experiența de învățare în funcție de nevoile utilizatorului.

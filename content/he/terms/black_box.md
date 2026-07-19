@@ -1,23 +1,23 @@
 ---
-title: "קופסה שחורה"
-term_id: "black_box"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interpretability", "model_types", "transparency"]
+title: קופסה שחורה
+term_id: black_box
+category: basic_concepts
+subcategory: ''
+tags:
+- interpretability
+- Model Types
+- transparency
 difficulty: 2
 weight: 1
-slug: "black_box"
-aliases:
-  - /he/terms/black_box/
-date: "2026-07-18T15:32:15.242243Z"
-lastmod: "2026-07-18T17:15:09.491181Z"
+slug: black_box
+date: '2026-07-18T15:32:15.242243Z'
+lastmod: '2026-07-18T17:15:09.491181Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מערכת שבה מנגנונים פנימיים מוסתרים, וניתן לצפות רק בקלט ובפלט."
+source: agnes_llm
+status: published
+language: he
+description: מערכת שבה מנגנונים פנימיים מוסתרים, וניתן לצפות רק בקלט ובפלט.
 ---
-
 ## Definition
 
 בבינה מלאכותית, מודל קופסה שחורה מתייחס למערכות מורכבות כמו רשתות נוירונים עמוקות, שבהן לוגיקת קבלת ההחלטות הפנימית אטומה וקשה לפירוש על ידי בני אדם. בעוד שמודלים אלו לעיתים קרובות משיגים ביצועים גבוהים...

@@ -1,23 +1,24 @@
 ---
-title: "Bayessche strukturelle Zeitreihen"
-term_id: "bayesian_structural_time_series"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time_series", "forecasting", "causal_inference"]
+title: Bayessche strukturelle Zeitreihen
+term_id: bayesian_structural_time_series
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- forecasting
+- Causal Inference
 difficulty: 4
 weight: 1
-slug: "bayesian_structural_time_series"
-aliases:
-  - /de/terms/bayesian_structural_time_series/
-date: "2026-07-18T11:04:59.602486Z"
-lastmod: "2026-07-18T11:44:44.914608Z"
+slug: bayesian_structural_time_series
+date: '2026-07-18T11:04:59.602486Z'
+lastmod: '2026-07-18T11:44:44.914608Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein statistischer Modellierungsansatz, der Bayessche Inferenz verwendet, um Zeitreihen in interpretierbare Komponenten zu zerlegen."
+source: agnes_llm
+status: published
+language: de
+description: Ein statistischer Modellierungsansatz, der Bayessche Inferenz verwendet,
+  um Zeitreihen in interpretierbare Komponenten zu zerlegen.
 ---
-
 ## Definition
 
 Modelle für bayessche strukturelle Zeitreihen (BSTS) stellen Zeitreihendaten als Summe interpretierbarer Komponenten wie Trend, Saisonalität und Regressioneffekte dar, wobei sie die Unsicherheit durch...

@@ -1,23 +1,23 @@
 ---
-title: "球树"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: 球树
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /zh/terms/ball_tree/
-date: "2026-07-18T11:08:27.712984Z"
-lastmod: "2026-07-18T11:44:45.449244Z"
+slug: ball_tree
+date: '2026-07-18T11:08:27.712984Z'
+lastmod: '2026-07-18T11:44:45.449244Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种用于组织空间中点的二叉树数据结构，优化高维数据集中的最近邻搜索。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种用于组织空间中点的二叉树数据结构，优化高维数据集中的最近邻搜索。
 ---
-
 ## Definition
 
 球树将数据点划分为嵌套的超球体（球），而不是超矩形。这种结构允许通过计算距离来进行高效的剪枝，从而加速最近邻查询。

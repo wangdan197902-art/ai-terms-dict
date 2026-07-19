@@ -7,8 +7,6 @@ tags: ["collaboration", "training", "interaction"]
 difficulty: 4
 weight: 1
 slug: "reciprocal_human_machine_learning"
-aliases:
-  - /ar/terms/reciprocal_human_machine_learning/
 date: "2026-07-18T16:18:55.630563Z"
 lastmod: "2026-07-18T17:15:08.543407Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نموذج تعلم تعاوني حيث يقوم البشر والآلات بتعليم بعضهم البعض بشكل مستمر لتحسين الأداء."
 ---
-
 ## Definition
 
 يتجاوز هذا النهج مجرد وضع الإنسان في الحلقة للتعليقات التوضيحية البسيطة. يتضمن نقل معرفة ثنائي الاتجاه: يصحح البشر أخطاء النموذج بينما يساعد النموذج البشر في تحديد الأنماط أو أتمتة المهام...

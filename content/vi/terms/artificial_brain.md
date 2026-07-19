@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /vi/terms/artificial_brain/
 date: "2026-07-18T15:40:35.589272Z"
 lastmod: "2026-07-18T16:38:07.727998Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hệ thống tính toán được thiết kế để mô phỏng cấu trúc và chức năng của não bộ sinh học con người, thường sử dụng mạng nơ-ron."
 ---
-
 ## Definition
 
 Não nhân tạo đề cập đến các kiến trúc phần cứng hoặc phần mềm bắt chước các cấu trúc nơ-ron và phương pháp xử lý của não bộ con người. Điều này bao gồm các chip điện toán thần kinh (neuromorphic) mô phỏng cách hoạt động của tế bào thần kinh.

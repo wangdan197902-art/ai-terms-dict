@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /cs/terms/intelligent_agent/
 date: "2026-07-18T16:03:31.371764Z"
 lastmod: "2026-07-18T17:15:09.142993Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Autonomní softwarová entita, která vnímá své prostředí, uvažuje o akcích a vykonává úkoly za účelem dosažení specifických cílů."
 ---
-
 ## Definition
 
 Inteligentní agent je systém schopný vnímat své okolí prostřednictvím senzorů nebo datových vstupů, zpracovávat tyto informace pomocí algoritmů úsudku a jednat na prostředí prostřednictvím aktuátorů

@@ -1,23 +1,24 @@
 ---
-title: "Ветварный компьютер"
-term_id: "wetware_computer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["biocomputing", "neuroscience", "emerging_tech"]
+title: Ветварный компьютер
+term_id: wetware_computer
+category: basic_concepts
+subcategory: ''
+tags:
+- biocomputing
+- neuroscience
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "wetware_computer"
-aliases:
-  - /ru/terms/wetware_computer/
-date: "2026-07-18T16:20:38.705837Z"
-lastmod: "2026-07-18T16:38:07.213854Z"
+slug: wetware_computer
+date: '2026-07-18T16:20:38.705837Z'
+lastmod: '2026-07-18T16:38:07.213854Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Биологическая вычислительная система, использующая живую нейронную ткань, такую как клетки мозга, для обработки информации."
+source: agnes_llm
+status: published
+language: ru
+description: Биологическая вычислительная система, использующая живую нейронную ткань,
+  такую как клетки мозга, для обработки информации.
 ---
-
 ## Definition
 
 Ветварные вычисления относятся к системам, в которых биологические нейроны, часто культивируемые in vitro, служат основными процессорными единицами вместо традиционного кремниевого оборудования. Эти системы используют и...

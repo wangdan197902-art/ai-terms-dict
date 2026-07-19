@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /zh/terms/inductive_programming/
 date: "2026-07-18T11:22:14.014046Z"
 lastmod: "2026-07-18T11:44:45.517572Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "程序合成的一个领域，根据输入-输出示例自动生成计算机程序。"
 ---
-
 ## Definition
 
 归纳编程，通常称为程序合成，涉及基于作为输入-输出对提供的规范创建软件代码，而不是显式指令。系统从示例中推断出逻辑...

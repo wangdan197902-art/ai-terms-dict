@@ -1,23 +1,24 @@
 ---
-title: "Sistem kognitif perusahaan"
-term_id: "enterprise_cognitive_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["enterprise", "automation", "ai_integration"]
+title: Sistem kognitif perusahaan
+term_id: enterprise_cognitive_system
+category: basic_concepts
+subcategory: ''
+tags:
+- enterprise
+- automation
+- AI Integration
 difficulty: 3
 weight: 1
-slug: "enterprise_cognitive_system"
-aliases:
-  - /id/terms/enterprise_cognitive_system/
-date: "2026-07-18T15:49:34.400519Z"
-lastmod: "2026-07-18T16:38:07.455180Z"
+slug: enterprise_cognitive_system
+date: '2026-07-18T15:49:34.400519Z'
+lastmod: '2026-07-18T16:38:07.455180Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Platform AI terintegrasi yang menerapkan analitik lanjutan dan pembelajaran mesin untuk mengotomatisasi proses bisnis kompleks dan pengambilan keputusan."
+source: agnes_llm
+status: published
+language: id
+description: Platform AI terintegrasi yang menerapkan analitik lanjutan dan pembelajaran
+  mesin untuk mengotomatisasi proses bisnis kompleks dan pengambilan keputusan.
 ---
-
 ## Definition
 
 Sistem kognitif perusahaan menggabungkan kecerdasan buatan, pemrosesan bahasa alami, dan pembelajaran mesin untuk mensimulasikan proses berpikir manusia dalam lingkungan korporat. Sistem-sistem ini menganalisis data dan konteks untuk mendukung keputusan bisnis yang lebih cerdas.

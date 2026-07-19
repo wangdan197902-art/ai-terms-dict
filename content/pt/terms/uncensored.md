@@ -1,23 +1,24 @@
 ---
-title: "Sem Censura"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: Sem Censura
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /pt/terms/uncensored/
-date: "2026-07-18T15:26:11.623622Z"
-lastmod: "2026-07-18T15:51:59.540446Z"
+slug: uncensored
+date: '2026-07-18T15:26:11.623622Z'
+lastmod: '2026-07-18T15:51:59.540446Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Refere-se a modelos de IA que foram modificados para contornar filtros de segurança e diretrizes éticas."
+source: agnes_llm
+status: published
+language: pt
+description: Refere-se a modelos de IA que foram modificados para contornar filtros
+  de segurança e diretrizes éticas.
 ---
-
 ## Definition
 
 No contexto da inteligência artificial, 'sem censura' geralmente descreve modelos que passaram por ajuste fino ou modificação para remover ou enfraquecer os alinhamentos de segurança embutidos. Esses modelos são projetados para gerar conteúdo sem restrições éticas ou de segurança padrão.

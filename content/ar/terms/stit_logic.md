@@ -1,23 +1,24 @@
 ---
-title: "منطق STIT"
-term_id: "stit_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["formal_methods", "logic", "multi_agent_systems"]
+title: منطق STIT
+term_id: stit_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Formal Methods
+- logic
+- Multi-Agent Systems
 difficulty: 5
 weight: 1
-slug: "stit_logic"
-aliases:
-  - /ar/terms/stit_logic/
-date: "2026-07-18T16:19:51.188370Z"
-lastmod: "2026-07-18T17:15:08.545531Z"
+slug: stit_logic
+date: '2026-07-18T16:19:51.188370Z'
+lastmod: '2026-07-18T17:15:08.545531Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "منطق STIT هو إطار رسمي في المنطق الديونتيكي والزمني يُستخدم لتحليل الوكالة، والالتزام، والفعل المتعمد."
+source: agnes_llm
+status: published
+language: ar
+description: منطق STIT هو إطار رسمي في المنطق الديونتيكي والزمني يُستخدم لتحليل الوكالة،
+  والالتزام، والفعل المتعمد.
 ---
-
 ## Definition
 
 اختصار STIT يعني 'يرى أن' (See To It That). وهو فرع من المنطق النمطي يُستخدم أساساً في الفلسفة وعلوم الحاسوب لنمذجة الوكالة والمسؤولية. يتيح التحديد الرسمي لما يمكن للوكيل تحقيقه.

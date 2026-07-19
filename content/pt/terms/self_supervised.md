@@ -1,23 +1,25 @@
 ---
-title: "auto-supervisionado"
-term_id: "self_supervised"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "nlp", "scalability"]
+title: auto-supervisionado
+term_id: self_supervised
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- NLP
+- scalability
 difficulty: 4
 weight: 1
-slug: "self_supervised"
-aliases:
-  - /pt/terms/self_supervised/
-date: "2026-07-18T14:42:30.622488Z"
-lastmod: "2026-07-18T15:51:59.446323Z"
+slug: self_supervised
+date: '2026-07-18T14:42:30.622488Z'
+lastmod: '2026-07-18T15:51:59.446323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A aprendizagem auto-supervisionada é uma técnica na qual o modelo gera seus próprios rótulos a partir dos dados de entrada para aprender representações sem anotação humana."
+source: agnes_llm
+status: published
+language: pt
+description: A aprendizagem auto-supervisionada é uma técnica na qual o modelo gera
+  seus próprios rótulos a partir dos dados de entrada para aprender representações
+  sem anotação humana.
 ---
-
 ## Definition
 
 A aprendizagem auto-supervisionada é um subconjunto do aprendizado de máquina onde o sinal de supervisão é derivado automaticamente dos próprios dados, eliminando a necessidade de rotulagem manual. O modelo tipicamente resolve

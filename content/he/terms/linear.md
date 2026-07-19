@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Foundations"]
 difficulty: 2
 weight: 1
 slug: "linear"
-aliases:
-  - /he/terms/linear/
 date: "2026-07-18T15:26:44.166137Z"
 lastmod: "2026-07-18T17:15:09.480878Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מתאר פעולות או קשרים שבהם הפלט נמצא ביחס ישר לקלט, מהווה את הבסיס לטרנספורמציות אפיניות בשכבות נוירונים."
 ---
-
 ## Definition
 
 פעולות ליניאריות כוללות כפל וחיסור ללא פעולות אי-ליניאריות. ברשתות נוירונים, שכבות ליניאריות (או שכבות צפופות) מפעילות טרנספורמציה של מטריצת משקלים על וקטורי קלט. בעוד ש-

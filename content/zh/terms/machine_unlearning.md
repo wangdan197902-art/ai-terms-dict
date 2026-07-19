@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /zh/terms/machine_unlearning/
 date: "2026-07-18T11:25:23.018243Z"
 lastmod: "2026-07-18T11:44:45.529170Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "机器遗忘是指在不从头重新训练模型的情况下，从已训练模型中移除特定数据点或其影响的过程。"
 ---
-
 ## Definition
 
 这项技术通过允许模型在保留通用知识的同时“忘记”特定用户数据，来解决如GDPR“被遗忘权”等隐私法规问题。其目标是近似于从头重新训...

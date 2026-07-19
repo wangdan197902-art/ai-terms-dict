@@ -1,23 +1,24 @@
 ---
-title: "Obraz do Wideo"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: Obraz do Wideo
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /pl/terms/image_to_video/
-date: "2026-07-18T15:59:49.115950Z"
-lastmod: "2026-07-18T17:15:08.884845Z"
+slug: image_to_video
+date: '2026-07-18T15:59:49.115950Z'
+lastmod: '2026-07-18T17:15:08.884845Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces generatywny, w którym statyczny obraz jest animowany w celu utworzenia krótkiego klipu wideo, dodając dynamikę czasową i ruch."
+source: agnes_llm
+status: published
+language: pl
+description: Proces generatywny, w którym statyczny obraz jest animowany w celu utworzenia
+  krótkiego klipu wideo, dodając dynamikę czasową i ruch.
 ---
-
 ## Definition
 
 Technologia "Obraz do Wideo" bierze pojedynczą klatkę statyczną i przewiduje kolejne klatki, aby wygenerować spójną sekwencję wideo. Obejmuje to modelowanie spójności czasowej i dynamiki fizycznej, aby zapewnić...

@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /ro/terms/brain_technology/
 date: "2026-07-18T15:48:36.204182Z"
 lastmod: "2026-07-18T17:15:09.634730Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Tehnologii concepute pentru a interacționa cu, a monitoriza sau a modula creierul uman, inclusiv interfețele creier-computer (BCI) și instrumentele de neuroimagistică."
 ---
-
 ## Definition
 
 Tehnologia cerebrală cuprinde sisteme hardware și software care interacționează direct cu sistemul nervos central. Exemple cheie includ Interfețele Creier-Computer (BCI) care traduc semnalele neuronale în

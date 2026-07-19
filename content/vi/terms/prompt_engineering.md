@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /vi/terms/prompt_engineering/
 date: "2026-07-18T15:22:23.225697Z"
 lastmod: "2026-07-18T16:38:07.677109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thực hành thiết kế và tối ưu hóa văn bản đầu vào để hướng các mô hình ngôn ngữ lớn (LLM) tạo ra kết quả mong muốn."
 ---
-
 ## Definition
 
 Kỹ thuật prompt liên quan đến việc tạo ra các đầu vào cụ thể, được gọi là prompt, nhằm khơi gợi các phản hồi chính xác, phù hợp và chất lượng cao từ các mô hình AI sinh tạo. Nó đòi hỏi sự hiểu biết về cách các mô hình diễn giải ngữ cảnh và yêu cầu.

@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /ja/terms/probabilistic_numerics/
 date: "2026-07-18T11:28:29.050523Z"
 lastmod: "2026-07-18T11:44:45.133591Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "数値計算問題を統計的推論タスクとして扱い、結果の不確実性を定量化する分野。"
 ---
-
 ## Definition
 
 確率的数値解析は、積分、微分、線形代数などの伝統的な数値問題にベイズ的手法を適用します。点推定値を提供する代わりに、確率分布を出力し、計算結果に伴う不確実性を評価します。

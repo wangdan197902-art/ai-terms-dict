@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /it/terms/harmful_content/
 date: "2026-07-18T16:03:14.837845Z"
 lastmod: "2026-07-18T17:15:08.632679Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Informazioni che pongono rischi per gli individui o la società, inclusi l'incitamento all'odio, la violenza e gli atti illegali."
 ---
-
 ## Definition
 
 Il contenuto dannoso si riferisce a contenuti digitali o testuali che possono causare danni fisici, psicologici o sociali. Nella sicurezza dell'IA, il rilevamento e il filtraggio di tali contenuti sono fondamentali per impedire ai modelli di generare materiale pericoloso.

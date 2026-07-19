@@ -7,8 +7,6 @@ tags: ["NLI", "Stanford", "Benchmark", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "datasetsnli"
-aliases:
-  - /it/terms/datasetsnli/
 date: "2026-07-18T15:55:18.715703Z"
 lastmod: "2026-07-18T17:15:08.616074Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Stanford Natural Language Inference Corpus, un grande dataset di frasi inglesi abbinate a etichette di inferenza testuale scritte da esseri umani."
 ---
-
 ## Definition
 
 SNLI è un dataset di riferimento contenente oltre 500.000 coppie di frasi etichettate con tre classi: entailment (implicazione), contradiction (contraddizione) e neutral (neutrale). È stato creato per avanzare la ricerca nell'inferenza nel linguaggio naturale.

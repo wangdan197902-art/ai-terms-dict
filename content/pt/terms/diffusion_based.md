@@ -1,23 +1,24 @@
 ---
-title: "baseado em difusão"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: baseado em difusão
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /pt/terms/diffusion_based/
-date: "2026-07-18T14:41:08.344139Z"
-lastmod: "2026-07-18T15:51:59.443213Z"
+slug: diffusion_based
+date: '2026-07-18T14:41:08.344139Z'
+lastmod: '2026-07-18T15:51:59.443213Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma abordagem de modelagem generativa que cria dados revertendo um processo gradual de adição de ruído por meio de etapas de desruído aprendidas."
+source: agnes_llm
+status: published
+language: pt
+description: Uma abordagem de modelagem generativa que cria dados revertendo um processo
+  gradual de adição de ruído por meio de etapas de desruído aprendidas.
 ---
-
 ## Definition
 
 Os modelos baseados em difusão são uma classe de IA generativa que cria novas amostras de dados removendo iterativamente o ruído de uma distribuição aleatória. O processo começa com uma fase direta que adiciona lentamente Gauss

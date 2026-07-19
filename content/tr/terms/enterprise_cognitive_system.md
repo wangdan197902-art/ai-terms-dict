@@ -1,23 +1,24 @@
 ---
-title: "Kurumsal Bilişsel Sistem"
-term_id: "enterprise_cognitive_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["enterprise", "automation", "ai_integration"]
+title: Kurumsal Bilişsel Sistem
+term_id: enterprise_cognitive_system
+category: basic_concepts
+subcategory: ''
+tags:
+- enterprise
+- automation
+- AI Integration
 difficulty: 3
 weight: 1
-slug: "enterprise_cognitive_system"
-aliases:
-  - /tr/terms/enterprise_cognitive_system/
-date: "2026-07-18T15:52:27.124967Z"
-lastmod: "2026-07-18T16:38:07.305005Z"
+slug: enterprise_cognitive_system
+date: '2026-07-18T15:52:27.124967Z'
+lastmod: '2026-07-18T16:38:07.305005Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Gelişmiş analiz ve makine öğrenimi uygulayarak karmaşık iş süreçlerini ve karar verme mekanizmalarını otomatize eden entegre bir yapay zeka platformu."
+source: agnes_llm
+status: published
+language: tr
+description: Gelişmiş analiz ve makine öğrenimi uygulayarak karmaşık iş süreçlerini
+  ve karar verme mekanizmalarını otomatize eden entegre bir yapay zeka platformu.
 ---
-
 ## Definition
 
 Bir kurumsal bilişsel sistem, kurumsal bir ortamda insan düşünce süreçlerini taklit etmek için yapay zeka, doğal dil işleme ve makine öğrenimini birleştirir. Bu sistemler analitik yeteneklerini kullanarak büyük veri setlerinden anlamlı çıkarımlar yapabilir ve karmaşık iş sorunlarını çözebilir.

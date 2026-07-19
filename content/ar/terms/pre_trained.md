@@ -1,23 +1,24 @@
 ---
-title: "مدرب مسبقاً"
-term_id: "pre_trained"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep_learning", "foundations", "efficiency"]
+title: مدرب مسبقاً
+term_id: pre_trained
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- foundations
+- efficiency
 difficulty: 2
 weight: 1
-slug: "pre_trained"
-aliases:
-  - /ar/terms/pre_trained/
-date: "2026-07-18T15:34:59.397690Z"
-lastmod: "2026-07-18T17:15:08.457054Z"
+slug: pre_trained
+date: '2026-07-18T15:34:59.397690Z'
+lastmod: '2026-07-18T17:15:08.457054Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "هي نماذج شبكات عصبية تم تدريبها على مجموعات بيانات ضخمة لاكتشاف الميزات العامة قبل تكييفها لمهام محددة."
+source: agnes_llm
+status: published
+language: ar
+description: هي نماذج شبكات عصبية تم تدريبها على مجموعات بيانات ضخمة لاكتشاف الميزات
+  العامة قبل تكييفها لمهام محددة.
 ---
-
 ## Definition
 
 النموذج المدرب مسبقاً هو نموذج أساسي للذكاء الاصطناعي خضع لتدريب مكثف على مجموعات بيانات ضخمة ومتنوعة، مثل ويكيبيديا أو ImageNet. يسمح هذا التدريب الأولي للنموذج بتعلم تمثيلات واسعة ومفاهيم عامة يمكن نقلها لاحقاً إلى مهام أخرى.

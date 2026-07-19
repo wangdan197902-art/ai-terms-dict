@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /de/terms/multi_armed_bandit/
 date: "2026-07-18T11:24:37.027504Z"
 lastmod: "2026-07-18T11:44:44.967633Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Multi-armed Bandit ist ein klassisches Problem der Wahrscheinlichkeitstheorie und des Reinforcement Learning, das den Zielkonflikt zwischen Exploration und Exploitation modelliert."
 ---
-
 ## Definition
 
 Das Multi-armed-Bandit-Problem veranschaulicht das Dilemma, vor dem eine Agent steht, wenn sie entscheidet, ob sie bei einer bekannten, belohnenden Option bleiben soll (Exploitation) oder neue Optionen ausprobieren sollte, um potenziell bessere Belohnungen zu finden...

@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /de/terms/explainable_artificial_intelligence/
 date: "2026-07-18T11:14:02.601831Z"
 lastmod: "2026-07-18T11:44:44.938584Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Erklärbare KI (XAI) bezeichnet Methoden und Techniken im Einsatz von KI-Technologien, sodass die Ergebnisse der Lösung von menschlichen Experten verstanden werden können."
 ---
-
 ## Definition
 
 Da Machine-Learning-Modelle komplexer werden, insbesondere tiefe neuronale Netze, werden ihre Entscheidungsprozesse oft zu intransparenten 'Black Boxes'. XAI zielt darauf ab, diese Entscheidungen interpretierbar und nachvollziehbar zu machen.

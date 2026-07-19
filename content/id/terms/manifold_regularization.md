@@ -1,23 +1,25 @@
 ---
-title: "Regularisasi Manifold"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: Regularisasi Manifold
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /id/terms/manifold_regularization/
-date: "2026-07-18T15:59:50.807263Z"
-lastmod: "2026-07-18T16:38:07.481499Z"
+slug: manifold_regularization
+date: '2026-07-18T15:59:50.807263Z'
+lastmod: '2026-07-18T16:38:07.481499Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Teknik pembelajaran semi-pengawasan yang mengasumsikan data terletak pada manifold berdimensi rendah dan melakukan regularisasi model berdasarkan struktur geometris ini."
+source: agnes_llm
+status: published
+language: id
+description: Teknik pembelajaran semi-pengawasan yang mengasumsikan data terletak
+  pada manifold berdimensi rendah dan melakukan regularisasi model berdasarkan struktur
+  geometris ini.
 ---
-
 ## Definition
 
 Regularisasi manifold memperluas metode regularisasi tradisional dengan menggabungkan geometri intrinsik dari distribusi data. Metode ini beroperasi di bawah asumsi bahwa titik-titik data berdimensi tinggi berada pada manifold berdimensi lebih rendah, sehingga model dapat memanfaatkan struktur geometris ini untuk meningkatkan generalisasi dan mengurangi kebutuhan akan data berlabel dalam jumlah besar.

@@ -1,23 +1,24 @@
 ---
-title: "Vettore"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: Vettore
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /it/terms/vector/
-date: "2026-07-18T15:41:23.994920Z"
-lastmod: "2026-07-18T17:15:08.591460Z"
+slug: vector
+date: '2026-07-18T15:41:23.994920Z'
+lastmod: '2026-07-18T17:15:08.591460Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un oggetto matematico che rappresenta una quantità con modulo e direzione, spesso utilizzato nell'IA per codificare i punti dati in uno spazio ad alta dimensionalità."
+source: agnes_llm
+status: published
+language: it
+description: Un oggetto matematico che rappresenta una quantità con modulo e direzione,
+  spesso utilizzato nell'IA per codificare i punti dati in uno spazio ad alta dimensionalità.
 ---
-
 ## Definition
 
 Nell'intelligenza artificiale, un vettore è una struttura dati fondamentale utilizzata per rappresentare le informazioni numericamente. È costituito da una lista ordinata di numeri (elementi) che mappano le caratteristiche di un'entità in

@@ -7,8 +7,6 @@ tags: ["philosophy", "ethics", "theoretical"]
 difficulty: 5
 weight: 1
 slug: "artificial_consciousness"
-aliases:
-  - /pl/terms/artificial_consciousness/
 date: "2026-07-18T15:40:16.812193Z"
 lastmod: "2026-07-18T17:15:08.845546Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Teoretyczna koncepcja nadawania maszynom subiektywnych doznań, samoświadomości i zmysłu (sentience) podobnego do ludzkiego."
 ---
-
 ## Definition
 
 Sztuczna świadomość bada możliwość tworzenia maszyn, które posiadają prawdziwe subiektywne doznania, samoświadomość i uczucia, a nie tylko symulują inteligentne zachowanie. Badania te koncentrują się na...

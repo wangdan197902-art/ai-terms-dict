@@ -1,23 +1,24 @@
 ---
-title: "And–Or Ağacı"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: And–Or Ağacı
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /tr/terms/andor_tree/
-date: "2026-07-18T15:40:37.338303Z"
-lastmod: "2026-07-18T16:38:07.272256Z"
+slug: andor_tree
+date: '2026-07-18T15:40:37.338303Z'
+lastmod: '2026-07-18T16:38:07.272256Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Arama algoritmalarında kullanılan, düğümlerin durumları ve kenarların alt hedeflere giden eylemleri temsil ettiği hiyerarşik bir grafik yapısı."
+source: agnes_llm
+status: published
+language: tr
+description: Arama algoritmalarında kullanılan, düğümlerin durumları ve kenarların
+  alt hedeflere giden eylemleri temsil ettiği hiyerarşik bir grafik yapısı.
 ---
-
 ## Definition
 
 And–Or ağacı, özellikle yapay zeka arama algoritmalarında problem çözme ve planlama için kullanılan bir gösterimdir. 'Or' düğümleri farklı eylemler arasındaki seçimleri temsil ederken, 'And' düğümleri bir alt problemin çözümü için tüm alt görevlerin yerine getirilmesini gerektirdiğini belirtir.

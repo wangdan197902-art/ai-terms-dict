@@ -1,23 +1,24 @@
 ---
-title: "Domena"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Domena
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /pl/terms/domain/
-date: "2026-07-18T15:24:37.995631Z"
-lastmod: "2026-07-18T17:15:08.809716Z"
+slug: domain
+date: '2026-07-18T15:24:37.995631Z'
+lastmod: '2026-07-18T17:15:08.809716Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Domena reprezentuje określony kontekst lub rozkład danych charakteryzujący się przestrzenią cech i podstawowym rozkładem prawdopodobieństwa."
+source: agnes_llm
+status: published
+language: pl
+description: Domena reprezentuje określony kontekst lub rozkład danych charakteryzujący
+  się przestrzenią cech i podstawowym rozkładem prawdopodobieństwa.
 ---
-
 ## Definition
 
 W uczeniu maszynowym, szczególnie w uczeniu transferowym, domena jest zdefiniowana przez dwa składniki: przestrzeń cech (zbiór wszystkich możliwych wejść) oraz marginesowy rozkład prawdopodobieństwa tych wejść.

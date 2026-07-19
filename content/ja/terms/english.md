@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /ja/terms/english/
 date: "2026-07-18T10:50:36.162843Z"
 lastmod: "2026-07-18T11:44:45.007714Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "英語は自然言語であり、多くの自然言語処理（NLP）モデルにとって支配的なベンチマークデータセットおよび目標出力となっています。"
 ---
-
 ## Definition
 
 主に人間の言語ですが、AIの文脈では「英語」は、豊富なデジタルテキストデータの存在により、NLP研究において最も普及した言語領域を表します。BERTなどのほとんどの基盤モデルは、英語コーパスで事前学習されており、他の言語への転移学習の基準となっています。

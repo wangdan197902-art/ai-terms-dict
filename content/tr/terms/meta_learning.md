@@ -1,23 +1,25 @@
 ---
-title: "Meta-Öğrenme"
-term_id: "meta_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced", "optimization", "adaptation"]
+title: Meta-Öğrenme
+term_id: meta_learning
+category: training_techniques
+subcategory: ''
+tags:
+- advanced
+- Optimization
+- adaptation
 difficulty: 4
 weight: 1
-slug: "meta_learning"
-aliases:
-  - /tr/terms/meta_learning/
-date: "2026-07-18T16:03:43.830639Z"
-lastmod: "2026-07-18T16:38:07.333719Z"
+slug: meta_learning
+date: '2026-07-18T16:03:43.830639Z'
+lastmod: '2026-07-18T16:38:07.333719Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Meta-öğrenme veya öğrenmeyi öğrenme, modellerin önceki deneyimlerden yararlanarak az miktarda veriyle yeni görevlere hızlıca adapte olmasını sağlayan bir makine öğrenimi yaklaşımıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Meta-öğrenme veya öğrenmeyi öğrenme, modellerin önceki deneyimlerden
+  yararlanarak az miktarda veriyle yeni görevlere hızlıca adapte olmasını sağlayan
+  bir makine öğrenimi yaklaşımıdır.
 ---
-
 ## Definition
 
 Meta-öğrenme, yeni ve daha önce görülmemiş görevlerdeki performansı artırmak için önceki görevlerden öğrenen algoritmalar tasarlamaya odaklanır. Her sorun için modeli sıfırdan eğitmek yerine, meta-öğrenme

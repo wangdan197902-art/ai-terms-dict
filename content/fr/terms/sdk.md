@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /fr/terms/sdk/
 date: "2026-07-18T11:01:25.132045Z"
 lastmod: "2026-07-18T11:44:45.188690Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un kit de développement logiciel fournissant des outils, des bibliothèques et une documentation pour créer des applications."
 ---
-
 ## Definition
 
 Un SDK est un ensemble d'outils de développement logiciel qui permet aux développeurs de créer des applications pour des plateformes ou des services spécifiques. Pour l'IA, les SDKs fournissent des bibliothèques préconstruites, des API et des utilitaires pour simplifier l'intégration de modèles complexes et accélérer le cycle de développement.

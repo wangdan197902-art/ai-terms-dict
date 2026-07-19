@@ -1,23 +1,24 @@
 ---
-title: "Poikkeamien havaitseminen"
-term_id: "anomaly_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "security", "data_analysis"]
+title: Poikkeamien havaitseminen
+term_id: anomaly_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- security
+- Data Analysis
 difficulty: 2
 weight: 1
-slug: "anomaly_detection"
-aliases:
-  - /fi/terms/anomaly_detection/
-date: "2026-07-18T15:42:23.689341Z"
-lastmod: "2026-07-18T17:15:09.382590Z"
+slug: anomaly_detection
+date: '2026-07-18T15:42:23.689341Z'
+lastmod: '2026-07-18T17:15:09.382590Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Prosessi, jossa tunnistetaan harvinaiset kohteet, tapahtumat tai havainnot, jotka poikkeavat merkittävästi datan enemmistöstä."
+source: agnes_llm
+status: published
+language: fi
+description: Prosessi, jossa tunnistetaan harvinaiset kohteet, tapahtumat tai havainnot,
+  jotka poikkeavat merkittävästi datan enemmistöstä.
 ---
-
 ## Definition
 
 Poikkeamien havaitseminen, myös nimeltään poikkeavuuksien tunnistus, sisältää datan analysointia odotetun käyttäytymisen vastaisiksi kuvioiksi. Sitä käytetään laajasti tietoturvassa, petosten tunnistamisessa ja järjestelmänvalvonnassa.

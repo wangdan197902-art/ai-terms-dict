@@ -1,23 +1,25 @@
 ---
-title: "Método de entropía cruzada"
-term_id: "cross_entropy_method"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms", "monte-carlo"]
+title: Método de entropía cruzada
+term_id: cross_entropy_method
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
+- Monte Carlo
 difficulty: 4
 weight: 1
-slug: "cross_entropy_method"
-aliases:
-  - /es/terms/cross_entropy_method/
-date: "2026-07-18T10:41:27.031869Z"
-lastmod: "2026-07-18T11:44:44.790623Z"
+slug: cross_entropy_method
+date: '2026-07-18T10:41:27.031869Z'
+lastmod: '2026-07-18T11:44:44.790623Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica de optimización aleatorizada que utiliza simulación de Monte Carlo para mejorar iterativamente las estimaciones de probabilidades de eventos raros."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica de optimización aleatorizada que utiliza simulación de Monte
+  Carlo para mejorar iterativamente las estimaciones de probabilidades de eventos
+  raros.
 ---
-
 ## Definition
 
 El Método de Entropía Cruzada (CEM) es un algoritmo de optimización general potente utilizado tanto para problemas discretos como continuos. Funciona manteniendo una distribución de probabilidad sobre el espacio de búsqueda y actualizándola iterativamente basándose en las mejores soluciones encontradas.

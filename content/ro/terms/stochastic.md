@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /ro/terms/stochastic/
 date: "2026-07-18T15:29:45.138994Z"
 lastmod: "2026-07-18T17:15:09.604620Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Descrie procese sau modele care implică aleatorietate și probabilitate, în loc de rezultate deterministe."
 ---
-
 ## Definition
 
 Elementele stochastice introduc variabilitate în sistemele IA, cum ar fi zgomotul în date sau inițializarea aleatorie a ponderilor. Spre deosebire de modelele deterministe, cele stochastice iau în considerare incertitudinea.

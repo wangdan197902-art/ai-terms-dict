@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /es/terms/artificial_wisdom/
 date: "2026-07-18T10:36:59.313682Z"
 lastmod: "2026-07-18T11:44:44.778621Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La extensión de la IA más allá de la inteligencia para incluir juicio, ética y comprensión contextual para una toma de decisiones sólida."
 ---
-
 ## Definition
 
 La sabiduría artificial (AW) es un concepto emergente que busca complementar la inteligencia artificial con valores humanos, consideraciones éticas y juicio estratégico a largo plazo. Mientras que la IA se centra en la eficiencia y la precisión algorítmica, la sabiduría artificial incorpora la capacidad de evaluar el impacto moral, social y ambiental de las decisiones, promoviendo una automatización responsable y alineada con el bienestar humano.

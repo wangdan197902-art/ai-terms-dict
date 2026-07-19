@@ -1,23 +1,24 @@
 ---
-title: "מודל שקית המילים"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: מודל שקית המילים
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /he/terms/bag_of_words_model/
-date: "2026-07-18T15:45:52.895207Z"
-lastmod: "2026-07-18T17:15:09.515715Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:45:52.895207Z'
+lastmod: '2026-07-18T17:15:09.515715Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מודל שקית המילים הוא ייצוג מפשט של טקסט המתאר את שכיחות המילים במסמך, תוך התעלמות מדקדוק וסדר המילים."
+source: agnes_llm
+status: published
+language: he
+description: מודל שקית המילים הוא ייצוג מפשט של טקסט המתאר את שכיחות המילים במסמך,
+  תוך התעלמות מדקדוק וסדר המילים.
 ---
-
 ## Definition
 
 טכניקה זו בעיבוד שפה טבעית מייצגת טקסט כרב-קבוצה (multiset) של מילים, תוך זניחת תחביר ורצף. היא ממירה מסמכים לוקטורים מספריים על בסיס שכיחות המילים או נוכחותן.

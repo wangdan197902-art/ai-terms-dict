@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /sv/terms/brain_technology/
 date: "2026-07-18T15:48:12.830459Z"
 lastmod: "2026-07-18T17:15:08.982279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Teknologier utformade för att interagera med, övervaka eller modulera den mänskliga hjärnan, inklusive hjärndatorgränssnitt (BCI) och neuroavbildningsverktyg."
 ---
-
 ## Definition
 
 Hjärnteknik omfattar hård- och mjukvarusystem som interagerar direkt med centrala nervsystemet. Nyckelexempel inkluderar Hjärndatorgränssnitt (BCI) som översätter neurala signaler...

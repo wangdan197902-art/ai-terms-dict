@@ -1,23 +1,24 @@
 ---
-title: "Hamiltonian"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: Hamiltonian
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /id/terms/hamiltonian/
-date: "2026-07-18T15:26:24.990544Z"
-lastmod: "2026-07-18T16:38:07.395133Z"
+slug: hamiltonian
+date: '2026-07-18T15:26:24.990544Z'
+lastmod: '2026-07-18T16:38:07.395133Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Fungsi yang mewakili energi total sistem, digunakan dalam model AI terinspirasi fisika untuk mensimulasikan dinamika dan melestarikan energi."
+source: agnes_llm
+status: published
+language: id
+description: Fungsi yang mewakili energi total sistem, digunakan dalam model AI terinspirasi
+  fisika untuk mensimulasikan dinamika dan melestarikan energi.
 ---
-
 ## Definition
 
 Berasal dari mekanika klasik, Hamiltonian mewakili jumlah energi kinetik dan potensial dalam suatu sistem. Dalam AI, Jaringan Saraf Hamiltonian (HNN) mengintegrasikan konsep ini untuk mempelajari dinamika...

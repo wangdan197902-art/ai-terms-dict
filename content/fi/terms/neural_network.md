@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /fi/terms/neural_network/
 date: "2026-07-18T15:29:19.481825Z"
 lastmod: "2026-07-18T17:15:09.355757Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Biologisten aivojen inspiroima laskentajärjestelmä, joka koostuu kerroksittain järjestetyistä toisiinsa kytketyistä solmuista tai neuroneista."
 ---
-
 ## Definition
 
 Neuraaliverkko on algoritmisarja, joka pyrkii tunnistamaan piileviä yhteyksiä datassa prosessin kautta, joka jäljittelee ihmisaivojen toimintatapaa. Se koostuu kerroksista.

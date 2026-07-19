@@ -1,23 +1,23 @@
 ---
-title: "Coqui"
-term_id: "coqui"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech", "open-source", "tts"]
+title: Coqui
+term_id: coqui
+category: basic_concepts
+subcategory: ''
+tags:
+- speech
+- Open Source
+- tts
 difficulty: 2
 weight: 1
-slug: "coqui"
-aliases:
-  - /ja/terms/coqui/
-date: "2026-07-18T11:09:17.207110Z"
-lastmod: "2026-07-18T11:44:45.081283Z"
+slug: coqui
+date: '2026-07-18T11:09:17.207110Z'
+lastmod: '2026-07-18T11:44:45.081283Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Coquiは、高品質な多言語音声合成（TTS）モデルの開発で知られるオープンソースの音声技術企業です。"
+source: agnes_llm
+status: published
+language: ja
+description: Coquiは、高品質な多言語音声合成（TTS）モデルの開発で知られるオープンソースの音声技術企業です。
 ---
-
 ## Definition
 
 Coqui Technologiesは、オープンソースAIコミュニティにおける主要なプレイヤーであり、特にそのTTS（テキスト読み上げ）エンジンで有名でした。このプロジェクトは、自然な音声を生成可能な事前学習済みモデルを提供し、開発者が容易に利用できるようにしました。

@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /id/terms/text_to_audio/
 date: "2026-07-18T16:10:57.452195Z"
 lastmod: "2026-07-18T16:38:07.514394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses mengubah teks tertulis menjadi audio ucapan, mencakup baik sintesis suara manusia maupun generasi suara non-ucapan."
 ---
-
 ## Definition
 
 Teks ke Audio adalah istilah luas yang mencakup teknologi yang mengubah masukan tekstual menjadi keluaran auditori. Meskipun sering dikaitkan dengan Text-to-Speech (TTS) untuk sintesis suara mirip manusia, istilah ini juga mencakup generasi efek suara, musik, atau lingkungan audio lainnya dari deskripsi teks.

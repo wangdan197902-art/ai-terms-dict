@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "governance"]
 difficulty: 3
 weight: 1
 slug: "compliance"
-aliases:
-  - /vi/terms/compliance/
 date: "2026-07-18T15:45:27.021918Z"
 lastmod: "2026-07-18T16:38:07.737973Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc tuân thủ các quy định pháp lý, tiêu chuẩn đạo đức và hướng dẫn ngành của các hệ thống AI."
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, tuân thủ đề cập đến quá trình đảm bảo rằng các mô hình AI và việc triển khai chúng phù hợp với các luật áp dụng, chẳng hạn như GDPR hoặc HIPAA, cũng như các khung đạo đức nội bộ.

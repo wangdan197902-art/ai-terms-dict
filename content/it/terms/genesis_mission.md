@@ -7,8 +7,6 @@ tags: ["strategy", "governance", "organizational"]
 difficulty: 4
 weight: 1
 slug: "genesis_mission"
-aliases:
-  - /it/terms/genesis_mission/
 date: "2026-07-18T16:01:33.127729Z"
 lastmod: "2026-07-18T17:15:08.629393Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un'iniziativa organizzativa focalizzata sull'istituzione di principi fondamentali, infrastrutture e linee guida etiche per lo sviluppo futuro dell'IA generativa."
 ---
-
 ## Definition
 
 La Missione Genesis si riferisce tipicamente a una fase o progetto strategico all'interno di un'organizzazione mirato a gettare le basi per capacità avanzate di IA. Questo implica la configurazione dell'infrastruttura centrale, lo sviluppo

@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /tr/terms/weak_artificial_intelligence/
 date: "2026-07-18T16:21:13.321133Z"
 lastmod: "2026-07-18T16:38:07.377121Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Genel bilişsel yeteneklere sahip olmadan, sınırlı bir bağlam içinde belirli görevleri yerine getirmek üzere tasarlanmış yapay zeka."
 ---
-
 ## Definition
 
 Dar alan yapay zekası olarak da bilinen zayıf yapay zeka, yüz tanıma veya dil çevirisi gibi belirli sorunları çözmek veya özel görevleri yerine getirmek için mühendislik yoluyla oluşturulmuş sistemleri ifade eder. Genel zeka

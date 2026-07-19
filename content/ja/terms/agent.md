@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /ja/terms/agent/
 date: "2026-07-18T07:41:35.330998Z"
 lastmod: "2026-07-18T11:44:44.585336Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "環境を認識し、推論を行い、自律的に行動して特定の目標を達成できるAIシステム。"
 ---
-
 ## Definition
 
 AIにおいて、エージェントはユーザーやシステムの代わりにタスクを完了するために行動するエンティティです。プロンプトに応答するだけの受動的なモデルとは異なり、エージェントは計画を立て、ツールを使用し、行動を反復的に改善することができます。

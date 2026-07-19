@@ -7,8 +7,6 @@ tags: ["reasoning", "prompting", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "tree_of_thoughts"
-aliases:
-  - /no/terms/tree_of_thoughts/
 date: "2026-07-18T16:19:33.807873Z"
 lastmod: "2026-07-18T16:38:07.055258Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Tangetre er et rammeverk for resonnement som utforsker flere mulige resonnementspor samtidig og evaluerer dem for å velge det mest lovende neste steget."
 ---
-
 ## Definition
 
 Tangetre (ToT) utvider tradisjonell «chain-of-thought»-prompting ved å tillate modellen å utforske flere distinkte resonnementspor i hvert steg, og danner en trestruktur. Modellen evaluerer...

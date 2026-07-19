@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Datasets"]
 difficulty: 2
 weight: 1
 slug: "datasetembedding_dataqqp"
-aliases:
-  - /zh/terms/datasetembedding_dataqqp/
 date: "2026-07-18T11:12:55.799021Z"
 lastmod: "2026-07-18T11:44:45.476919Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "Quora 问题对数据集，用于训练模型检测问题之间的语义相似度。"
 ---
-
 ## Definition
 
 Quora 问题对（QQP）是一个二元分类数据集，包含来自 Quora 平台的超过 40 万个问题对。其任务是确定两个问题是否具有相同的意图或含义。

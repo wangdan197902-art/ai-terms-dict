@@ -7,8 +7,6 @@ tags: ["Process", "Evaluation", "Insights"]
 difficulty: 2
 weight: 1
 slug: "analysis"
-aliases:
-  - /de/terms/analysis/
 date: "2026-07-18T10:48:16.291215Z"
 lastmod: "2026-07-18T11:44:44.868809Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess der Untersuchung von Daten oder Modellausgaben, um sinnvolle Erkenntnisse und Muster zu extrahieren."
 ---
-
 ## Definition
 
 Im Kontext der KI bezieht sich Analyse auf die systematische Untersuchung von Daten, Modellvorhersagen oder Systemverhalten, um zugrunde liegende Muster zu verstehen, Probleme zu diagnostizieren oder handlungsrelevante Erkenntnisse abzuleiten. D

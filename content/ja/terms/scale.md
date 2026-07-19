@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /ja/terms/scale/
 date: "2026-07-18T10:54:45.449912Z"
 lastmod: "2026-07-18T11:44:45.018430Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "スケールとは、機械学習モデルで使用されるデータ、パラメータ、または計算資源の規模を指します。"
 ---
-
 ## Definition
 
 人工知能において、スケーリング（スケール拡大）は通常、パフォーマンスを向上させるためにデータセット、モデルパラメータ、または計算能力の規模を増やすことを伴います。この概念は、大規模な

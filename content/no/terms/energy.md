@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /no/terms/energy/
 date: "2026-07-18T15:25:48.330546Z"
 lastmod: "2026-07-18T16:38:06.935594Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Innan AI refererer energi ofte til den beregningskraften som brukes under modelltrening og inferens, eller en matematisk potensialfunksjon i sannsynlighetsmodeller."
 ---
-
 ## Definition
 
 Energi har to primære betydninger innen AI. For det første betegner det elektrisk kraft som kreves for å kjøre maskinvare, et voksende bekymringspunkt for bærekraft når modeller skalerer. For det annet, i statistisk mekanikk inspirerte

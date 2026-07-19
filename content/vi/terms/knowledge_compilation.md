@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /vi/terms/knowledge_compilation/
 date: "2026-07-18T15:58:59.615796Z"
 lastmod: "2026-07-18T16:38:07.772788Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Knowledge Compilation (Biên dịch tri thức) là quá trình chuyển đổi các biểu diễn tri thức sang dạng hiệu quả hơn để trả lời truy vấn hoặc suy luận nhanh hơn."
 ---
-
 ## Definition
 
 Knowledge Compilation đề cập đến các kỹ thuật trong trí tuệ nhân tạo nhằm chuyển đổi cơ sở tri thức hoặc lý thuyết logic sang một biểu diễn khác, tạo điều kiện thuận lợi cho các thao tác nhanh hơn như thỏa mãn

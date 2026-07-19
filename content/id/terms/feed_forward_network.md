@@ -1,23 +1,24 @@
 ---
-title: "Jaringan Umpan Maju"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Jaringan Umpan Maju
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /id/terms/feed_forward_network/
-date: "2026-07-18T15:50:36.790464Z"
-lastmod: "2026-07-18T16:38:07.458337Z"
+slug: feed_forward_network
+date: '2026-07-18T15:50:36.790464Z'
+lastmod: '2026-07-18T16:38:07.458337Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kelas jaringan saraf tiruan di mana koneksi antar node tidak membentuk siklus, menyebarkan informasi dalam satu arah."
+source: agnes_llm
+status: published
+language: id
+description: Kelas jaringan saraf tiruan di mana koneksi antar node tidak membentuk
+  siklus, menyebarkan informasi dalam satu arah.
 ---
-
 ## Definition
 
 Jaringan Umpan Maju (FFN), yang juga dikenal sebagai Multi-Layer Perceptrons (MLP), memproses data secara berurutan melalui lapisan neuron dari masukan ke keluaran tanpa loop umpan balik. Setiap neuron menerima masukan, melakukan penjumlahan tertimbang, dan menerapkannya pada fungsi aktivasi sebelum meneruskan sinyal ke lapisan berikutnya.

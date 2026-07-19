@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /fi/terms/k_line/
 date: "2026-07-18T16:04:51.037118Z"
 lastmod: "2026-07-18T17:15:09.424285Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tyyppi rahoituskaaviosta, jota kutsutaan myös kynttiläkaavioksi, ja jota käytetään hintaliikkeiden visualisointiin tietyillä aikaväleillä."
 ---
-
 ## Definition
 
 K-linjaa, länsimarkkinoilla yleisesti kynttiläkaaviona tunnettua, käytetään arvopapereiden, johdannaisten tai valuuttojen hintadynamiikan graafiseen esitykseen. Se näyttää neljä keskeistä datapistettä: avaus-, huippu-, pohja- ja sulkeutumisarvon.

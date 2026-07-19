@@ -1,23 +1,23 @@
 ---
-title: "Tanh"
-term_id: "tanh"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "mathematics"]
+title: Tanh
+term_id: tanh
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- mathematics
 difficulty: 2
 weight: 1
-slug: "tanh"
-aliases:
-  - /cs/terms/tanh/
-date: "2026-07-18T16:19:39.378041Z"
-lastmod: "2026-07-18T17:15:09.205430Z"
+slug: tanh
+date: '2026-07-18T16:19:39.378041Z'
+lastmod: '2026-07-18T17:15:09.205430Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Tanh, neboli hyperbolický tangens, je aktivační funkce, která mapuje vstupní hodnoty do rozsahu mezi -1 a 1."
+source: agnes_llm
+status: published
+language: cs
+description: Tanh, neboli hyperbolický tangens, je aktivační funkce, která mapuje
+  vstupní hodnoty do rozsahu mezi -1 a 1.
 ---
-
 ## Definition
 
 Funkce hyperbolického tangensu (Tanh) je nelineární aktivační funkce běžně používaná v neuronových sítích. Stlačuje vstupní hodnoty do intervalu (-1, 1), což poskytuje výstupy se středem v nule, což usn

@@ -7,8 +7,6 @@ tags: ["licensing", "economics"]
 difficulty: 1
 weight: 1
 slug: "free"
-aliases:
-  - /hu/terms/free/
 date: "2026-07-18T15:26:31.091701Z"
 lastmod: "2026-07-18T17:15:09.720724Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan erőforrásokat, szoftvereket vagy adatokat ír le, amelyek pénzügyi költség vagy korlátozó licencelés nélkül elérhetők."
 ---
-
 ## Definition
 
 Az MI kontextusában az „ingyenes” kifejezés általában nyílt forráskódú modellekre, adathalmazokra vagy eszközökre utal, amelyeket a felhasználók díjfizetés nélkül férhetnek hozzá, módosíthatnak és terjeszthetnek. Ez ellentétben áll a tulajdonosi (proprietár) megoldásokkal, amelyek

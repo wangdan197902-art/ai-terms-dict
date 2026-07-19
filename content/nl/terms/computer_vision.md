@@ -1,23 +1,25 @@
 ---
-title: "Computer Vision"
-term_id: "computer_vision"
-category: "basic_concepts"
-subcategory: ""
-tags: ["vision", "perception", "image_analysis"]
+title: Computer Vision
+term_id: computer_vision
+category: basic_concepts
+subcategory: ''
+tags:
+- vision
+- perception
+- Image Analysis
 difficulty: 2
 weight: 1
-slug: "computer_vision"
-aliases:
-  - /nl/terms/computer_vision/
-date: "2026-07-18T15:22:39.733799Z"
-lastmod: "2026-07-18T17:15:08.678613Z"
+slug: computer_vision
+date: '2026-07-18T15:22:39.733799Z'
+lastmod: '2026-07-18T17:15:08.678613Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een tak van de kunstmatige intelligentie die computers in staat stelt betekenisvolle informatie af te leiden uit digitale afbeeldingen, video's en andere visuele invoer."
+source: agnes_llm
+status: published
+language: nl
+description: Een tak van de kunstmatige intelligentie die computers in staat stelt
+  betekenisvolle informatie af te leiden uit digitale afbeeldingen, video's en andere
+  visuele invoer.
 ---
-
 ## Definition
 
 Computer Vision richt zich op het nabootsen van menselijke visuele vermogens door middel van computationele processen. Het houdt in het analyseren en interpreteren van visuele gegevens om objecten te identificeren, patronen te herkennen en scènes te begrijpen.

@@ -1,23 +1,23 @@
 ---
-title: "การทำแผนที่การกระตุ้นตามคลาส"
-term_id: "class_activation_mapping"
-category: "training_techniques"
-subcategory: ""
-tags: ["visualization", "interpretability", "computer_vision"]
+title: การทำแผนที่การกระตุ้นตามคลาส
+term_id: class_activation_mapping
+category: training_techniques
+subcategory: ''
+tags:
+- visualization
+- interpretability
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "class_activation_mapping"
-aliases:
-  - /th/terms/class_activation_mapping/
-date: "2026-07-18T15:45:22.471863Z"
-lastmod: "2026-07-18T16:38:07.583873Z"
+slug: class_activation_mapping
+date: '2026-07-18T15:45:22.471863Z'
+lastmod: '2026-07-18T16:38:07.583873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การทำแผนที่การกระตุ้นตามคลาส (CAM) เป็นเทคนิคการแสดงภาพที่เน้นบริเวณในภาพอินพุตที่มีส่วนรับผิดชอบมากที่สุดต่อการทำนายคลาสเฉพาะ"
+source: agnes_llm
+status: published
+language: th
+description: การทำแผนที่การกระตุ้นตามคลาส (CAM) เป็นเทคนิคการแสดงภาพที่เน้นบริเวณในภาพอินพุตที่มีส่วนรับผิดชอบมากที่สุดต่อการทำนายคลาสเฉพาะ
 ---
-
 ## Definition
 
 CAM สร้างแผนที่ความร้อน (heatmaps) ซ้อนทับบนภาพอินพุตเพื่อแสดงว่าพิกเซลใดมีส่วนช่วยมากที่สุดต่อการตัดสินใจของโมเดลสำหรับป้ายกำกับคลาสหนึ่งๆ วิธีการนี้ทำงานโดยการนำการPooling แบบเฉลี่ยทั่วโลก (global average pooling) ไปใช้กับชั้นสุดท้ายของ

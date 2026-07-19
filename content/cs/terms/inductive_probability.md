@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /cs/terms/inductive_probability/
 date: "2026-07-18T16:02:40.145881Z"
 lastmod: "2026-07-18T17:15:09.142081Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Míra toho, jak silně důkazy podporují hypotézu, odlišná od deduktivní jistoty."
 ---
-
 ## Definition
 
 Induktivní pravděpodobnost kvantifikuje, jak pravděpodobné je, že je hypotéza pravdivá na základě pozorovaných důkazů, přičemž uznává, že závěry jsou pravděpodobné, nikoliv jisté. Tvoří základ bayesovské inferenční metody.

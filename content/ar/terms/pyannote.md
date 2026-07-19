@@ -1,23 +1,24 @@
 ---
-title: "بايونوت"
-term_id: "pyannote"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio-processing", "diarization", "python-library"]
+title: بايونوت
+term_id: pyannote
+category: basic_concepts
+subcategory: ''
+tags:
+- Audio Processing
+- diarization
+- Python Library
 difficulty: 3
 weight: 1
-slug: "pyannote"
-aliases:
-  - /ar/terms/pyannote/
-date: "2026-07-18T16:17:56.024460Z"
-lastmod: "2026-07-18T17:15:08.540291Z"
+slug: pyannote
+date: '2026-07-18T16:17:56.024460Z'
+lastmod: '2026-07-18T17:15:08.540291Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "بايونوت هو مكتبة بايثون توفر حلولاً متطورة لمهام تشخيص المتحدثين وتجزئة الصوت."
+source: agnes_llm
+status: published
+language: ar
+description: بايونوت هو مكتبة بايثون توفر حلولاً متطورة لمهام تشخيص المتحدثين وتجزئة
+  الصوت.
 ---
-
 ## Definition
 
 بايونوت هي مكتبة مفتوحة المصدر مكتوبة بلغة بايثون، طورها فريق pyannote.audio، وتتخصص في تشخيص المتحدثين (Speaker Diarization)، وهي عملية تحديد 'من تحدث ومتى' في تدفق صوتي. تعتمد المكتبة على التعلم العميق...

@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /fr/terms/token_limit/
 date: "2026-07-18T11:01:51.749826Z"
 lastmod: "2026-07-18T11:44:45.189866Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Le nombre maximal de jetons qu'un modèle d'IA peut traiter dans une séquence d'entrée ou de sortie unique."
 ---
-
 ## Definition
 
 La limite de jetons définit la contrainte de taille de la fenêtre de contexte pour les grands modèles de langage, restreignant la quantité de texte pouvant être analysée ou générée à la fois. Cette limite architecturale impacte la gestion de la mémoire,

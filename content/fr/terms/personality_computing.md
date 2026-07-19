@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /fr/terms/personality_computing/
 date: "2026-07-18T11:33:06.464228Z"
 lastmod: "2026-07-18T11:44:45.311361Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un domaine d'étude axé sur la création de modèles computationnels simulant les traits de personnalité humaine pour améliorer l'interaction homme-machine."
 ---
-
 ## Definition
 
 L'informatique de la personnalité implique le développement d'algorithmes et de systèmes capables de modéliser, simuler ou s'adapter aux dimensions de la personnalité humaine, telles que les cinq grands traits (Big Five). Ces systèmes visent à créer des interactions plus naturelles et personnalisées.

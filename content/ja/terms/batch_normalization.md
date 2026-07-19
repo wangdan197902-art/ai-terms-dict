@@ -1,23 +1,23 @@
 ---
-title: "バッチ正規化"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: バッチ正規化
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /ja/terms/batch_normalization/
-date: "2026-07-18T11:05:58.596316Z"
-lastmod: "2026-07-18T11:44:45.072344Z"
+slug: batch_normalization
+date: '2026-07-18T11:05:58.596316Z'
+lastmod: '2026-07-18T11:44:45.072344Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "バッチ正規化は、ミニバッチ全体にわたって層の入力を正規化し、ニューラルネットワークのトレーニングを安定させ、加速させる手法です。"
+source: agnes_llm
+status: published
+language: ja
+description: バッチ正規化は、ミニバッチ全体にわたって層の入力を正規化し、ニューラルネットワークのトレーニングを安定させ、加速させる手法です。
 ---
-
 ## Definition
 
 この手法は、トレーニング中の各ミニバッチ内で活性化値の平均を0、分散を1に調整・スケーリングします。内部共変量シフトを軽減し、より高い学習率の使用や高速な収束を可能にします。

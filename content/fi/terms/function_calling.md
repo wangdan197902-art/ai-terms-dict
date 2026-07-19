@@ -7,8 +7,6 @@ tags: ["LLM", "Integration", "Agents"]
 difficulty: 3
 weight: 1
 slug: "function_calling"
-aliases:
-  - /fi/terms/function_calling/
 date: "2026-07-18T15:36:39.911989Z"
 lastmod: "2026-07-18T17:15:09.370724Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mekanismi, joka mahdollistaa suurten kielimallien tuottavan rakenteista dataa, joka laukaisee tiettyjä ohjelmistofunktioita."
 ---
-
 ## Definition
 
 Funktiokutsu mahdollistaa suurten kielimallien vuorovaikutuksen ulkoisten työkalujen ja rajapintojen kanssa luomalla rakenteisia tulosteita, kuten JSON-objekteja, jotka määrittävät, mikä funktio suoritetaan ja millä argumenteilla.

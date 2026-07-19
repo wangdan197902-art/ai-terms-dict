@@ -1,23 +1,25 @@
 ---
-title: "Время жизни корреляции"
-term_id: "life_time_of_correlation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "time_series", "mlops"]
+title: Время жизни корреляции
+term_id: life_time_of_correlation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Time Series
+- mlops
 difficulty: 4
 weight: 1
-slug: "life_time_of_correlation"
-aliases:
-  - /ru/terms/life_time_of_correlation/
-date: "2026-07-18T16:01:25.233292Z"
-lastmod: "2026-07-18T16:38:07.174907Z"
+slug: life_time_of_correlation
+date: '2026-07-18T16:01:25.233292Z'
+lastmod: '2026-07-18T16:38:07.174907Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метрика, оценивающая, как долго статистическая связь между переменными остается стабильной до ее затухания из-за дрейфа концепций или изменений окружающей среды."
+source: agnes_llm
+status: published
+language: ru
+description: Метрика, оценивающая, как долго статистическая связь между переменными
+  остается стабильной до ее затухания из-за дрейфа концепций или изменений окружающей
+  среды.
 ---
-
 ## Definition
 
 В динамических системах и анализе временных рядов время жизни корреляции измеряет продолжительность, в течение которой две переменные сохраняют значимую статистическую зависимость. Это понятие критически важно для понимания того, как быстро устаревает предсказательная сила моделей в изменяющихся условиях, таких как финансовые рынки или сенсорные сети.

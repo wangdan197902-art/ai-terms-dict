@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /pt/terms/ai_addiction/
 date: "2026-07-18T14:47:45.572385Z"
 lastmod: "2026-07-18T15:51:59.457642Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma dependência psicológica de interagir com sistemas de inteligência artificial, levando a comportamentos de uso compulsivo."
 ---
-
 ## Definition
 
 O vício em IA descreve uma condição comportamental onde os indivíduos desenvolvem uma dependência compulsiva das interações impulsionadas por IA, como chatbots ou algoritmos de redes sociais. Essa dependência muitas vezes surge devido aos mecanismos de recompensa variável e ao design persuasivo que maximiza o tempo de engajamento do usuário.

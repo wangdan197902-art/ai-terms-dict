@@ -1,23 +1,24 @@
 ---
-title: "Коллапс представлений"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: Коллапс представлений
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /ru/terms/representation_collapse/
-date: "2026-07-18T16:13:10.204940Z"
-lastmod: "2026-07-18T16:38:07.198554Z"
+slug: representation_collapse
+date: '2026-07-18T16:13:10.204940Z'
+lastmod: '2026-07-18T16:38:07.198554Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Режим отказа в самоконтролируемом обучении, при котором модель выдает идентичные представления для всех входных данных, теряя дискриминационную способность."
+source: agnes_llm
+status: published
+language: ru
+description: Режим отказа в самоконтролируемом обучении, при котором модель выдает
+  идентичные представления для всех входных данных, теряя дискриминационную способность.
 ---
-
 ## Definition
 
 Коллапс представлений возникает, когда нейронная сеть, особенно в рамках контрастивного самоконтролируемого обучения, учится отображать все точки входных данных в один фиксированный выходной вектор. Это тривиальное решение приводит к потере полезной информации о структуре данных.

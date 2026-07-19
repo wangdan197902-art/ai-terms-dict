@@ -1,23 +1,24 @@
 ---
-title: "Органоидный интеллект"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Органоидный интеллект
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /ru/terms/organoid_intelligence/
-date: "2026-07-18T16:08:56.807706Z"
-lastmod: "2026-07-18T16:38:07.188524Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:08:56.807706Z'
+lastmod: '2026-07-18T16:38:07.188524Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Гибридная вычислительная парадигма, интегрирующая живые клетки мозга с электронными интерфейсами для обработки информации."
+source: agnes_llm
+status: published
+language: ru
+description: Гибридная вычислительная парадигма, интегрирующая живые клетки мозга
+  с электронными интерфейсами для обработки информации.
 ---
-
 ## Definition
 
 Органоидный интеллект (OI) относится к разработке биогибридных систем, где полученные из человека мозговые органоиды культивируются на микроэлектродных массивах. Эти живые нейронные сети выполняют вычислительные задачи, сочетая биологическую эффективность с электронной управляемостью.

@@ -7,8 +7,6 @@ tags: ["evaluation", "testing", "metrics"]
 difficulty: 2
 weight: 1
 slug: "bench"
-aliases:
-  - /pl/terms/bench/
 date: "2026-07-18T15:23:31.615545Z"
 lastmod: "2026-07-18T17:15:08.807639Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Skrót od benchmark, czyli standardowy zestaw testowy lub metryka używana do oceny wydajności modeli AI."
 ---
-
 ## Definition
 
 Benchmark służy jako standaryzowany punkt odniesienia do porównywania możliwości różnych modeli lub algorytmów AI. Zazwyczaj obejmuje on starannie dobrany zbiór danych oraz konkretne metryki ewaluacyjne, takie jak dokładność czy czas odpowiedzi.

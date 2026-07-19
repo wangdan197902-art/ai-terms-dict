@@ -7,8 +7,6 @@ tags: ["methodology", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "learning_based"
-aliases:
-  - /no/terms/learning_based/
 date: "2026-07-18T15:34:15.408291Z"
 lastmod: "2026-07-18T16:38:06.953232Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Indikerer metoder der algoritmer forbedrer ytelsen gjennom erfaring i stedet for eksplisitte programmeringsregler."
 ---
-
 ## Definition
 
 Læringsbaserte tilnærminger stoler på statistiske algoritmer for å identifisere mønstre og ta beslutninger basert på dataeksponering, i kontrast til regelbaserte systemer. Denne kategorien omfatter overvåket læring, ulovstyrt læring og forsterkning læring, der systemet tilpasser seg dynamisk til nye situasjoner ved å optimere sine indre parametere mot et gitt mål.

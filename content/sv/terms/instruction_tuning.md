@@ -1,23 +1,24 @@
 ---
-title: "Instruktionstuning"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Instruktionstuning
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /sv/terms/instruction_tuning/
-date: "2026-07-18T15:27:04.076392Z"
-lastmod: "2026-07-18T17:15:08.944421Z"
+slug: instruction_tuning
+date: '2026-07-18T15:27:04.076392Z'
+lastmod: '2026-07-18T17:15:08.944421Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Instruktionstuning är en finjusteringsteknik där en förtränad språkmodell tränas på ett dataset med instruktioner och deras motsvarande svar för att förbättra förmågan att följa uppgifter."
+source: agnes_llm
+status: published
+language: sv
+description: Instruktionstuning är en finjusteringsteknik där en förtränad språkmodell
+  tränas på ett dataset med instruktioner och deras motsvarande svar för att förbättra
+  förmågan att följa uppgifter.
 ---
-
 ## Definition
 
 Denna process överbryggar klyftan mellan generell förträning och specifik uppgiftsutförande. Genom att exponera modellen för mångsidiga instruktion-svar-par lär den sig att generalisera till osedda uppgifter utan ytterligare...

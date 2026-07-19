@@ -7,8 +7,6 @@ tags: ["NLP", "OpenAI", "History"]
 difficulty: 2
 weight: 1
 slug: "gpt2"
-aliases:
-  - /ja/terms/gpt2/
 date: "2026-07-18T11:16:46.574324Z"
 lastmod: "2026-07-18T11:44:45.102853Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "GPT-2は、OpenAIによって開発された大規模なトランスフォーマーベースの言語モデルで、テキスト生成と理解を目的としています。"
 ---
-
 ## Definition
 
 Generative Pre-trained Transformer 2（GPT-2）は、トランスフォーマーアーキテクチャを用いて人間のようなテキストを生成する自己回帰型言語モデルです。インターネット上の膨大なデータセットで学習されています。

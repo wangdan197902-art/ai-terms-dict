@@ -1,23 +1,24 @@
 ---
-title: "De imagen a vídeo"
-term_id: "image_to_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "temporal", "animation"]
+title: De imagen a vídeo
+term_id: image_to_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- temporal
+- animation
 difficulty: 4
 weight: 1
-slug: "image_to_video"
-aliases:
-  - /es/terms/image_to_video/
-date: "2026-07-18T10:54:19.610641Z"
-lastmod: "2026-07-18T11:44:44.818384Z"
+slug: image_to_video
+date: '2026-07-18T10:54:19.610641Z'
+lastmod: '2026-07-18T11:44:44.818384Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un proceso generativo donde una imagen estática se anima para crear un breve clip de vídeo, añadiendo dinámica temporal y movimiento."
+source: agnes_llm
+status: published
+language: es
+description: Un proceso generativo donde una imagen estática se anima para crear un
+  breve clip de vídeo, añadiendo dinámica temporal y movimiento.
 ---
-
 ## Definition
 
 La tecnología de imagen a vídeo toma un único fotograma estático y predice los fotogramas subsiguientes para generar una secuencia de vídeo coherente. Esto implica modelar la consistencia temporal y la dinámica física para garantizar...

@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /ar/terms/sample_complexity/
 date: "2026-07-18T16:20:04.561121Z"
 lastmod: "2026-07-18T17:15:08.546054Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يشير تعقيد العينة إلى عدد أمثلة التدريب المطلوبة لخوارزمية تعلم الآلة لتحقيق مستوى معين من الأداء باحتمالية عالية."
 ---
-
 ## Definition
 
 في نظرية التعلم الحسابي، يقيس تعقيد العينة كمية البيانات اللازمة لتدريب نموذج بشكل فعال. وهو يوازن بين المقايضة بين سعة النموذج وتوفر البيانات، مما يضمن

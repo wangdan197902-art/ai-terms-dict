@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /vi/terms/semantic_folding/
 date: "2026-07-18T16:11:32.183829Z"
 lastmod: "2026-07-18T16:38:07.803463Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kỹ thuật ánh xạ các biểu diễn ngữ nghĩa nhiều chiều vào không gian ít chiều hơn trong khi vẫn bảo toàn cấu trúc quan hệ."
 ---
-
 ## Definition
 
 Gấp ngữ nghĩa đề cập đến quá trình nén các vector embedding phức tạp, nhiều chiều thành một biểu diễn ít chiều dễ quản lý hơn mà không làm mất đi ý nghĩa ngữ nghĩa đáng kể.

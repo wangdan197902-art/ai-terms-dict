@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /pt/terms/lora/
 date: "2026-07-18T14:36:36.094683Z"
 lastmod: "2026-07-18T15:51:59.433198Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Adaptação de Baixo Ranque é um método de ajuste fino eficiente em parâmetros que injeta matrizes de decomposição de ranque treináveis nos pesos existentes do modelo."
 ---
-
 ## Definition
 
 O LoRA congela os pesos do modelo pré-treinado e insere matrizes de decomposição treináveis em cada camada da arquitetura Transformer. Ao otimizar apenas essas matrizes de baixo ranque, o LoRA reduz significativamente o custo computacional.

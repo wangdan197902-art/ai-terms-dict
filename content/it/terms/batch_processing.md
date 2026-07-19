@@ -1,23 +1,24 @@
 ---
-title: "Elaborazione in batch"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Elaborazione in batch
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /it/terms/batch_processing/
-date: "2026-07-18T15:49:34.915254Z"
-lastmod: "2026-07-18T17:15:08.602348Z"
+slug: batch_processing
+date: '2026-07-18T15:49:34.915254Z'
+lastmod: '2026-07-18T17:15:08.602348Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un metodo computazionale in cui i dati vengono raccolti nel tempo ed elaborati in gruppi anziché individualmente."
+source: agnes_llm
+status: published
+language: it
+description: Un metodo computazionale in cui i dati vengono raccolti nel tempo ed
+  elaborati in gruppi anziché individualmente.
 ---
-
 ## Definition
 
 L'elaborazione in batch prevede l'aggregazione degli input dei dati in un gruppo, o batch, prima di eseguire un calcolo o un'inferenza del modello. Questo approccio si contrappone all'elaborazione in streaming in tempo reale consentendo di

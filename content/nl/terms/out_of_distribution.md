@@ -7,8 +7,6 @@ tags: ["evaluation", "robustness"]
 difficulty: 3
 weight: 1
 slug: "out_of_distribution"
-aliases:
-  - /nl/terms/out_of_distribution/
 date: "2026-07-18T15:33:17.893735Z"
 lastmod: "2026-07-18T17:15:08.700442Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Gegevenspunten die aanzienlijk afwijken van de verdeling die het model tijdens de trainingsfase heeft gezien."
 ---
-
 ## Definition
 
 Detectie van out-of-distribution (OOD)-gegevens identificeert invoer die buiten het bereik van de trainingsdata-verdeling valt. Modellen presteren vaak slecht of geven met hoge zekerheid foutieve antwoorden op OOD-gegevens, wat leidt tot onverwachte

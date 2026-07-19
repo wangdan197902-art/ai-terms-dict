@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /ar/terms/sentence_similarity/
 date: "2026-07-18T16:20:18.128624Z"
 lastmod: "2026-07-18T17:15:08.546960Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مقياس أو مهمة تكمّم مدى تشابه جملتين دلاليًا، وغالبًا ما يتم تمثيلها كرقم تعكس درجة التشابه."
 ---
-
 ## Definition
 
 يقيس تشابه الجمل درجة التداخل الدلالي بين جملتين متميزتين. يتجاوز هذا المقياس المطابقة المعجمية لفهم المعنى والسياق والنية. يتحقق ذلك عادةً من خلال...

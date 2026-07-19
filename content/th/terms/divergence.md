@@ -1,23 +1,24 @@
 ---
-title: "การลู่ออก (Divergence)"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: การลู่ออก (Divergence)
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /th/terms/divergence/
-date: "2026-07-18T15:24:36.950960Z"
-lastmod: "2026-07-18T16:38:07.535708Z"
+slug: divergence
+date: '2026-07-18T15:24:36.950960Z'
+lastmod: '2026-07-18T16:38:07.535708Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การลู่ออกหมายถึงความล้มเหลวของฟังก์ชัน Loss ของอัลกอริทึมการเรียนรู้ของเครื่องในการลดลงระหว่างการฝึกฝน ส่งผลให้ประสิทธิภาพไม่เสถียรหรือแย่ลง"
+source: agnes_llm
+status: published
+language: th
+description: การลู่ออกหมายถึงความล้มเหลวของฟังก์ชัน Loss ของอัลกอริทึมการเรียนรู้ของเครื่องในการลดลงระหว่างการฝึกฝน
+  ส่งผลให้ประสิทธิภาพไม่เสถียรหรือแย่ลง
 ---
-
 ## Definition
 
 ในบริบทของการหาค่าเหมาะที่สุด (Optimization) การลู่ออกเกิดขึ้นเมื่อพารามิเตอร์ของโมเดลอัปเดตในลักษณะที่ทำให้ค่า Loss เพิ่มขึ้นแทนที่จะลดลง มักนำไปสู่ค่า NaN หรือเกรเดียนต์ที่ไร้ขอบเขต

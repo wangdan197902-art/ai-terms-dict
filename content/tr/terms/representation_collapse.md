@@ -1,23 +1,24 @@
 ---
-title: "Temsil Çökmesi"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: Temsil Çökmesi
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /tr/terms/representation_collapse/
-date: "2026-07-18T16:12:09.029988Z"
-lastmod: "2026-07-18T16:38:07.359797Z"
+slug: representation_collapse
+date: '2026-07-18T16:12:09.029988Z'
+lastmod: '2026-07-18T16:38:07.359797Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Özdenetimli öğrenmede, modelin tüm girdiler için aynı temsilleri üreterek ayırt ediciliğini yitirdiği bir başarısızlık modu."
+source: agnes_llm
+status: published
+language: tr
+description: Özdenetimli öğrenmede, modelin tüm girdiler için aynı temsilleri üreterek
+  ayırt ediciliğini yitirdiği bir başarısızlık modu.
 ---
-
 ## Definition
 
 Temsil çökmesi, özellikle özdenetimli karşılaştırmalı öğrenme çerçevelerinde bir sinir ağının tüm girdi veri noktalarını aynı sabit çıktı vektörüne eşlemeye çalışması durumunda ortaya çıkar. Bu triviyal çözüm, modelin veri yapısını öğrenmesini engeller.

@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /fr/terms/self/
 date: "2026-07-18T10:54:03.659533Z"
 lastmod: "2026-07-18T11:44:45.172423Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "En IA, le terme 'soi' fait référence au concept d'identité d'un agent ou à sa capacité de traitement autoréférentiel et d'introspection."
 ---
-
 ## Definition
 
 Bien que l'IA actuelle manque de conscience, le terme 'soi' décrit souvent des capacités métacognitives où un modèle analyse ses propres sorties, niveaux de confiance ou états internes. Il apparaît dans des contextes tels que l'auto-réflexion algorithmique.

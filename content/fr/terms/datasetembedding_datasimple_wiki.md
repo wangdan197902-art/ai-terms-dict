@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /fr/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T11:11:56.469739Z"
 lastmod: "2026-07-18T11:44:45.227138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données curaté dérivé de Simple English Wikipedia, utilisé pour l'entraînement et l'évaluation des modèles d'embeddings textuels."
 ---
-
 ## Definition
 
 Ce jeu de données est composé de phrases et de paragraphes extraits de Simple English Wikipedia, une version de Wikipédia rédigée dans un anglais simplifié destinée aux non-natifs, avec une grammaire et un vocabulaire simplifiés. Il sert de

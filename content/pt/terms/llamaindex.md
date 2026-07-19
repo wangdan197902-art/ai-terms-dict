@@ -7,8 +7,6 @@ tags: ["Framework", "RAG", "Data Engineering"]
 difficulty: 3
 weight: 1
 slug: "llamaindex"
-aliases:
-  - /pt/terms/llamaindex/
 date: "2026-07-18T15:08:48.121485Z"
 lastmod: "2026-07-18T15:51:59.508535Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "LlamaIndex é um framework projetado para conectar fontes de dados personalizadas a grandes modelos de linguagem, facilitando a criação de aplicações de Geração Aumentada por Recuperação (RAG)."
 ---
-
 ## Definition
 
 Originalmente conhecido como GPT Index, o LlamaIndex é um poderoso framework de dados que permite que LLMs ingiram e interajam com dados estruturados e não estruturados. Ele fornece ferramentas para indexação, consulta e gerenciamento de

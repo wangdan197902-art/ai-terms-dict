@@ -1,23 +1,23 @@
 ---
-title: "ライラ"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: ライラ
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /ja/terms/lyra/
-date: "2026-07-18T11:22:38.835281Z"
-lastmod: "2026-07-18T11:44:45.118275Z"
+slug: lyra
+date: '2026-07-18T11:22:38.835281Z'
+lastmod: '2026-07-18T11:44:45.118275Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ライラは、情報の検索と発見を強化するために設計されたオープンソースの大規模言語モデル、または特定のAI搭載検索・発見ツールなど、さまざまなAIイニシアチブやモデルを指します。"
+source: agnes_llm
+status: published
+language: ja
+description: ライラは、情報の検索と発見を強化するために設計されたオープンソースの大規模言語モデル、または特定のAI搭載検索・発見ツールなど、さまざまなAIイニシアチブやモデルを指します。
 ---
-
 ## Definition
 
 現代のAI用語の文脈において、ライラは自然言語処理を通じてユーザーインタラクションを強化することに焦点を当てた専門的なAIシステムを示すことが多くあります。これは、開発されたオープンソースのLLMを指す場合もあります

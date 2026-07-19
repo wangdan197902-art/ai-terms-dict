@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /hu/terms/furthermore/
 date: "2026-07-18T15:26:31.091710Z"
 lastmod: "2026-07-18T17:15:09.720845Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy átvezető határozószó, amelyet műszaki szövegekben további információk bevezetésére vagy egy korábbi érv megerősítésére használnak."
 ---
-
 ## Definition
 
 Bár nem technikai algoritmus, a „továbbá” kritikus nyelvi eszköz az MI dokumentációban és kutatási cikkekben. Célja az ötletek összekapcsolása, jelezve, hogy a következő állítás súlyt vagy

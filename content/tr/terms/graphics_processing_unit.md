@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "graphics_processing_unit"
-aliases:
-  - /tr/terms/graphics_processing_unit/
 date: "2026-07-18T15:55:56.276305Z"
 lastmod: "2026-07-18T16:38:07.315133Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Hızlı görüntü manipülasyonu ve işleme amacıyla başlangıçta tasarlanmış, şimdi yapay zekada paralel hesaplama için yaygın olarak kullanılan özel bir elektronik devre."
 ---
-
 ## Definition
 
 Bir GPU (Grafik İşlem Birimi), grafik işleme görevlerini yönetmek için orijinal olarak geliştirilen yüksek performanslı bir işlemcidir. Sıralı seri işleme için optimize edilmiş birkaç çekirdeğe sahip CPU'ların aksine, GPU'lar binlerce çekirdek içerir ve yoğun paralel hesaplama yüklerini verimli bir şekilde işleyebilir. Bu mimari, derin öğrenme modellerinin eğitiminde ve çıkarımında kritik öneme sahiptir.

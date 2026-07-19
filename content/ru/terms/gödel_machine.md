@@ -1,23 +1,25 @@
 ---
-title: "Машина Гёделя"
-term_id: "gödel_machine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "self-modification"]
+title: Машина Гёделя
+term_id: gödel_machine
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- Self Modification
 difficulty: 5
 weight: 1
-slug: "gödel_machine"
-aliases:
-  - /ru/terms/gödel_machine/
-date: "2026-07-18T15:56:47.752935Z"
-lastmod: "2026-07-18T16:38:07.164247Z"
+slug: gödel_machine
+date: '2026-07-18T15:56:47.752935Z'
+lastmod: '2026-07-18T16:38:07.164247Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Теоретическая самообучающаяся программа ИИ, способная переписывать свой собственный исходный код для повышения эффективности без изменения поставленных целей."
+source: agnes_llm
+status: published
+language: ru
+description: Теоретическая самообучающаяся программа ИИ, способная переписывать свой
+  собственный исходный код для повышения эффективности без изменения поставленных
+  целей.
 ---
-
 ## Definition
 
 Машина Гёделя — это гипотетический универсальный решатель задач, предложенный Юргеном Шмидхубером, основанный на формальной логике и теории вычислимости. Она работает путем непрерывного анализа собственного исходного кода и поиска способов его оптимизации для повышения производительности при сохранении неизменной целевой функции (utility function).

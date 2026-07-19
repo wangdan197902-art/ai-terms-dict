@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /nl/terms/carlo/
 date: "2026-07-18T15:23:54.268590Z"
 lastmod: "2026-07-18T17:15:08.681126Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Verwijst naar Monte Carlo-methoden, een klasse computationele algoritmen die vertrouwen op herhaalde willekeurige steekproeven om numerieke resultaten te verkrijgen."
 ---
-
 ## Definition
 
 Monte Carlo-methoden zijn essentiële technieken in AI en statistiek voor het benaderen van complexe wiskundige problemen die analytisch moeilijk op te lossen zijn. Door duizenden of miljoenen willekeurige steekproeven te genereren, worden schattingen gemaakt.

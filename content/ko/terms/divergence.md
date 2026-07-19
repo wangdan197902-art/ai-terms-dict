@@ -1,23 +1,23 @@
 ---
-title: "발산(Divergence)"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: 발산(Divergence)
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /ko/terms/divergence/
-date: "2026-07-18T15:23:57.551295Z"
-lastmod: "2026-07-18T16:38:06.771797Z"
+slug: divergence
+date: '2026-07-18T15:23:57.551295Z'
+lastmod: '2026-07-18T16:38:06.771797Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "훈련 중 머신러닝 알고리즘의 손실 함수가 감소하지 않아 불안정하거나 악화되는 성능을 보이는 현상."
+source: agnes_llm
+status: published
+language: ko
+description: 훈련 중 머신러닝 알고리즘의 손실 함수가 감소하지 않아 불안정하거나 악화되는 성능을 보이는 현상.
 ---
-
 ## Definition
 
 최적화 관점에서 발산은 모델의 파라미터 업데이트가 손실을 감소시키지 않고 오히려 증가시킬 때 발생합니다. 이는 종종 NaN 값이나 무한大的인 그래디언트, 그리고 학습 과정의 불안정으로 이어집니다.

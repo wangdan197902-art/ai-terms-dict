@@ -1,23 +1,24 @@
 ---
-title: "Model wiara-pożądanie-intencja"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Model wiara-pożądanie-intencja
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /pl/terms/beliefdesireintention_model/
-date: "2026-07-18T15:44:21.525770Z"
-lastmod: "2026-07-18T17:15:08.850963Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T15:44:21.525770Z'
+lastmod: '2026-07-18T17:15:08.850963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Filozoficzny framework stosowany w sztucznej inteligencji do modelowania racjonalnych agentów na podstawie ich wierzeń, pożądań i intencji."
+source: agnes_llm
+status: published
+language: pl
+description: Filozoficzny framework stosowany w sztucznej inteligencji do modelowania
+  racjonalnych agentów na podstawie ich wierzeń, pożądań i intencji.
 ---
-
 ## Definition
 
 Model Wiara-Pożądanie-Intencja (BDI) to architektura poznawcza służąca do projektowania autonomicznych agentów podejmujących racjonalne decyzje. Wiary reprezentują wiedzę agenta o świecie, pożądania to...

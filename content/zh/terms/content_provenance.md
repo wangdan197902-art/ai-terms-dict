@@ -1,23 +1,23 @@
 ---
-title: "内容溯源"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: 内容溯源
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /zh/terms/content_provenance/
-date: "2026-07-18T11:11:27.290189Z"
-lastmod: "2026-07-18T11:44:45.462727Z"
+slug: content_provenance
+date: '2026-07-18T11:11:27.290189Z'
+lastmod: '2026-07-18T11:44:45.462727Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "数字资产来源、历史和所有权的可验证记录。"
+source: agnes_llm
+status: published
+language: zh
+description: 数字资产来源、历史和所有权的可验证记录。
 ---
-
 ## Definition
 
 内容溯源是指对数字内容的来源、创建方式以及随时间推移的修改情况进行文档记录和验证。在人工智能领域，这对于打击（虚假内容）至关重要。

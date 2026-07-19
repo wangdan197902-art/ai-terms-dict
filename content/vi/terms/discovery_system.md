@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /vi/terms/discovery_system/
 date: "2026-07-18T15:49:58.203417Z"
 lastmod: "2026-07-18T16:38:07.750890Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung làm việc hoặc quy trình thuật toán tự động được thiết kế để xác định, khám phá và đánh giá các giải pháp, mẫu hình hoặc giả thuyết tiềm năng trong không gian tìm kiếm lớn."
 ---
-
 ## Definition
 
 Hệ thống khám phá là một khung tính toán nhằm tăng tốc các bước đột phá khoa học hoặc phân tích bằng cách tự động hóa việc khám phá các không gian dữ liệu khổng lồ. Khác với tối ưu hóa truyền thống chỉ tập trung vào việc cải thiện các tham số đã biết.

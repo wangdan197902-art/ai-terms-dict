@@ -1,23 +1,24 @@
 ---
-title: "Beräkningsintelligens"
-term_id: "computational_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["paradigms", "adaptive", "nature-inspired"]
+title: Beräkningsintelligens
+term_id: computational_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- paradigms
+- adaptive
+- Nature Inspired
 difficulty: 3
 weight: 1
-slug: "computational_intelligence"
-aliases:
-  - /sv/terms/computational_intelligence/
-date: "2026-07-18T15:49:36.210168Z"
-lastmod: "2026-07-18T17:15:08.986206Z"
+slug: computational_intelligence
+date: '2026-07-18T15:49:36.210168Z'
+lastmod: '2026-07-18T17:15:08.986206Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En gren inom AI som handlar om adaptiva system som efterliknar biologiska processer för att lösa komplexa problem."
+source: agnes_llm
+status: published
+language: sv
+description: En gren inom AI som handlar om adaptiva system som efterliknar biologiska
+  processer för att lösa komplexa problem.
 ---
-
 ## Definition
 
 Beräkningsintelligens (CI) omfattar en mängd naturinspirerade beräkningsparadigm, inklusive neuronnät, fuzzy-logik och evolutionär beräkning. Dessa system är utformade för att hantera

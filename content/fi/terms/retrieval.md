@@ -1,23 +1,24 @@
 ---
-title: "Haku"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Haku
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /fi/terms/retrieval/
-date: "2026-07-18T15:38:18.025165Z"
-lastmod: "2026-07-18T17:15:09.374799Z"
+slug: retrieval
+date: '2026-07-18T15:38:18.025165Z'
+lastmod: '2026-07-18T17:15:09.374799Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Prosessi, jossa haetaan relevanttia dataa tietokannasta tai tietokannasta mallin syötteiden laajentamiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Prosessi, jossa haetaan relevanttia dataa tietokannasta tai tietokannasta
+  mallin syötteiden laajentamiseksi.
 ---
-
 ## Definition
 
 Haku viittaa tekniseen prosessiin, jossa etsitään ja poimitaan tiettyjä tietoja suurista datamääristä tai ulkoisista tietokannoista käyttäjän kyselyiden tai kontekstin perusteella. Nykyisissä tekoälyjärjestelmissä se on

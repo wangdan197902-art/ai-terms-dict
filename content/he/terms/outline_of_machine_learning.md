@@ -7,8 +7,6 @@ tags: ["fundamentals", "taxonomy", "analytics"]
 difficulty: 2
 weight: 1
 slug: "outline_of_machine_learning"
-aliases:
-  - /he/terms/outline_of_machine_learning/
 date: "2026-07-18T16:15:26.354249Z"
 lastmod: "2026-07-18T17:15:09.571249Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "סיווג מקיף של פרדיגמות, אלגוריתמים ומדדי הערכה בתחום למידת המכונה."
 ---
-
 ## Definition
 
 מונח זה מתאר את הסיווג המבני של למידת המכונה לשלושה סוגים עיקריים: למידה מפוקחת, למידה לא מפוקחת, למידה למחצה-מפוקחת ולמידה חיזוקית. הוא כולל משפחות אלגוריתמים ליבה כמו רגרסיה לינארית, עצי החלטה וסיווג.

@@ -1,23 +1,24 @@
 ---
-title: "البيانات الموسومة"
-term_id: "labeled_data"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "supervised_learning", "fundamentals"]
+title: البيانات الموسومة
+term_id: labeled_data
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Supervised Learning
+- fundamentals
 difficulty: 1
 weight: 1
-slug: "labeled_data"
-aliases:
-  - /ar/terms/labeled_data/
-date: "2026-07-18T16:05:20.138241Z"
-lastmod: "2026-07-18T17:15:08.520783Z"
+slug: labeled_data
+date: '2026-07-18T16:05:20.138241Z'
+lastmod: '2026-07-18T17:15:08.520783Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "بيانات يتم فيها توفير المخرجات الصحيحة أو قيمة الهدف جنباً إلى جنب مع ميزات الإدخال."
+source: agnes_llm
+status: published
+language: ar
+description: بيانات يتم فيها توفير المخرجات الصحيحة أو قيمة الهدف جنباً إلى جنب مع
+  ميزات الإدخال.
 ---
-
 ## Definition
 
 تتكون البيانات الموسومة من عينات إدخال مقترنة بتسميات الحقيقة الأساسية المقابلة، مما يشكل الأساس لتعلم الآلة الخاضع للإشراف. تتيح هذه البيانات للخوارزميات تعلم العلاقة بين مدخلات

@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /it/terms/relu/
-date: "2026-07-18T15:37:31.194404Z"
-lastmod: "2026-07-18T17:15:08.589343Z"
+slug: relu
+date: '2026-07-18T15:37:31.194404Z'
+lastmod: '2026-07-18T17:15:08.589343Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "La funzione unitaria lineare rettificata (ReLU) è una funzione di attivazione che restituisce l'input direttamente se positivo, altrimenti zero."
+source: agnes_llm
+status: published
+language: it
+description: La funzione unitaria lineare rettificata (ReLU) è una funzione di attivazione
+  che restituisce l'input direttamente se positivo, altrimenti zero.
 ---
-
 ## Definition
 
 ReLU è ampiamente utilizzata nelle reti neurali profonde grazie alla sua efficienza computazionale e alla capacità di mitigare il problema del gradiente nullo. Matematicamente definita come f(x) = max(0, x), introduce non linearità nella rete permettendo l'apprendimento di pattern complessi.

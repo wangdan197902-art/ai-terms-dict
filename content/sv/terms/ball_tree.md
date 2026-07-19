@@ -1,23 +1,24 @@
 ---
-title: "Ball tree"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Ball tree
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /sv/terms/ball_tree/
-date: "2026-07-18T15:47:07.607868Z"
-lastmod: "2026-07-18T17:15:08.979492Z"
+slug: ball_tree
+date: '2026-07-18T15:47:07.607868Z'
+lastmod: '2026-07-18T17:15:08.979492Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En binär trädstruktur som används för att organisera punkter i rummet, vilket optimerar sökningar efter närmaste grannar i högdimensionella datamängder."
+source: agnes_llm
+status: published
+language: sv
+description: En binär trädstruktur som används för att organisera punkter i rummet,
+  vilket optimerar sökningar efter närmaste grannar i högdimensionella datamängder.
 ---
-
 ## Definition
 
 En Ball tree delar upp datapunkter i nästlade hypersfärer (bollar) snarare än hyperrektanglar. Denna struktur möjliggör effektiv beskärning under frågor om närmaste grannar genom att beräkna avstånd mellan sfärer.

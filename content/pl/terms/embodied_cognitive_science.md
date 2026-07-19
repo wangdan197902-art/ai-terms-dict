@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /pl/terms/embodied_cognitive_science/
 date: "2026-07-18T15:53:12.759085Z"
 lastmod: "2026-07-18T17:15:08.870007Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Nauka o poznaniu ucieleśnionym to ramy teoretyczne postulujące, że ludzkie poznanie jest fundamentalnie kształtowane przez interakcje ciała ze środowiskiem."
 ---
-
 ## Definition
 
 Ta dziedzina kwestionuje tradycyjne poglądy traktujące umysł jako komputer przetwarzający abstrakcyjne symbole. Zamiast tego twierdzi, że procesy poznawcze są głęboko zakorzenione w fizycznych cechach ciała i jego interakcjach z otoczeniem.

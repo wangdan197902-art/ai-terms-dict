@@ -1,23 +1,24 @@
 ---
-title: "Szybkość uczenia"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: Szybkość uczenia
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /pl/terms/learning_rate/
-date: "2026-07-18T15:35:44.902505Z"
-lastmod: "2026-07-18T17:15:08.833542Z"
+slug: learning_rate
+date: '2026-07-18T15:35:44.902505Z'
+lastmod: '2026-07-18T17:15:08.833542Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Hiperpametram kontrolujący wielkość kroku podczas optymalizacji modelu w celu zminimalizowania funkcji straty."
+source: agnes_llm
+status: published
+language: pl
+description: Hiperpametram kontrolujący wielkość kroku podczas optymalizacji modelu
+  w celu zminimalizowania funkcji straty.
 ---
-
 ## Definition
 
 Szybkość uczenia określa, o ile wagi modelu są aktualizowane względem obliczonego gradientu podczas każdej iteracji treningu. Zbyt wysoka szybkość może spowodować, że model przeskoczy przez optimum...

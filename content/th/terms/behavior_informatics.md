@@ -1,23 +1,23 @@
 ---
-title: "วิทยาการสารสนเทศพฤติกรรม"
-term_id: "behavior_informatics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interdisciplinary", "data_analysis", "human_behavior"]
+title: วิทยาการสารสนเทศพฤติกรรม
+term_id: behavior_informatics
+category: basic_concepts
+subcategory: ''
+tags:
+- interdisciplinary
+- Data Analysis
+- Human Behavior
 difficulty: 3
 weight: 1
-slug: "behavior_informatics"
-aliases:
-  - /th/terms/behavior_informatics/
-date: "2026-07-18T15:44:10.003749Z"
-lastmod: "2026-07-18T16:38:07.579671Z"
+slug: behavior_informatics
+date: '2026-07-18T15:44:10.003749Z'
+lastmod: '2026-07-18T16:38:07.579671Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สาขาวิชาข้ามศาสตร์ที่ศึกษาพฤติกรรมมนุษย์ผ่านการรวบรวมและวิเคราะห์ข้อมูลดิจิทัล"
+source: agnes_llm
+status: published
+language: th
+description: สาขาวิชาข้ามศาสตร์ที่ศึกษาพฤติกรรมมนุษย์ผ่านการรวบรวมและวิเคราะห์ข้อมูลดิจิทัล
 ---
-
 ## Definition
 
 วิทยาการสารสนเทศพฤติกรรมผสมผสานวิทยาศาสตร์คอมพิวเตอร์ จิตวิทยา และสถิติ เพื่อวิเคราะห์ข้อมูลพฤติกรรมขนาดใหญ่ที่เกิดจากปฏิสัมพันธ์ดิจิทัล มุ่งเน้นการสกัดรูปแบบ การทำนายอนาคต และการทำความเข้าใจกลไกbehavioural ผ่านข้อมูลดิจิทัล

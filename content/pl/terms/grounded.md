@@ -1,23 +1,25 @@
 ---
-title: "Ugruntowany"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Ugruntowany
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /pl/terms/grounded/
-date: "2026-07-18T15:26:20.255730Z"
-lastmod: "2026-07-18T17:15:08.812741Z"
+slug: grounded
+date: '2026-07-18T15:26:20.255730Z'
+lastmod: '2026-07-18T17:15:08.812741Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Odnosi się do systemów sztucznej inteligencji, które łączą abstrakcyjne symbole lub język z danymi sensorycznymi ze świata rzeczywistego lub fizycznymi działaniami."
+source: agnes_llm
+status: published
+language: pl
+description: Odnosi się do systemów sztucznej inteligencji, które łączą abstrakcyjne
+  symbole lub język z danymi sensorycznymi ze świata rzeczywistego lub fizycznymi
+  działaniami.
 ---
-
 ## Definition
 
 W sztucznej inteligencji termin „ugruntowany” opisuje proces łączenia reprezentacji symbolicznych, takich jak słowa lub twierdzenia logiczne, z ich rzeczywistymi odpowiednikami w świecie fizycznym lub doświadczeniami sensorycznymi.

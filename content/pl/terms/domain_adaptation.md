@@ -7,8 +7,6 @@ tags: ["Training", "Generalization", "Deep Learning"]
 difficulty: 4
 weight: 1
 slug: "domain_adaptation"
-aliases:
-  - /pl/terms/domain_adaptation/
 date: "2026-07-18T15:52:38.616435Z"
 lastmod: "2026-07-18T17:15:08.868326Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Metoda uczenia maszynowego poprawiająca wydajność modelu na docelowej domenie poprzez wykorzystanie wiedzy z domeny źródłowej."
 ---
-
 ## Definition
 
 Adaptacja domeny rozwiązuje problem występujący, gdy dane treningowe i testowe pochodzą z różnych rozkładów. Poprzez wyrównanie reprezentacji cech między oznaczoną domeną źródłową a nieoznaczoną lub słabo oznaczoną domeną docelową, model może lepiej uogólniać wiedzę.

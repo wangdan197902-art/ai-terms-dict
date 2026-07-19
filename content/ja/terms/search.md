@@ -1,23 +1,22 @@
 ---
-title: "探索"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: 探索
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /ja/terms/search/
-date: "2026-07-18T10:54:45.449963Z"
-lastmod: "2026-07-18T11:44:45.018907Z"
+slug: search
+date: '2026-07-18T10:54:45.449963Z'
+lastmod: '2026-07-18T11:44:45.018907Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "探索アルゴリズムは、AIタスクにおいて最適または満足できる結果を見つけるために、体系的に解空間を調査します。"
+source: agnes_llm
+status: published
+language: ja
+description: 探索アルゴリズムは、AIタスクにおいて最適または満足できる結果を見つけるために、体系的に解空間を調査します。
 ---
-
 ## Definition
 
 探索は、ゲームプレイやルート計画などの複雑な問題空間をナビゲートするために使用されるAIの基本パラダイムです。A*、Minimax、モンテカルロ木探索などのアルゴリズムは、潜在的な動きを評価し

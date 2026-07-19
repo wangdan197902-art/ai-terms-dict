@@ -7,8 +7,6 @@ tags: ["strategy", "risk", "enterprise"]
 difficulty: 3
 weight: 1
 slug: "generative_artificial_intelligence_dependency"
-aliases:
-  - /zh/terms/generative_artificial_intelligence_dependency/
 date: "2026-07-18T11:18:55.348407Z"
 lastmod: "2026-07-18T11:44:45.507637Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "组织对生成式AI系统进行关键业务操作所形成的依赖关系，由此产生与可用性、准确性和安全性相关的风险。"
 ---
-
 ## Definition
 
 这一概念指企业在内容创作、客户服务和数据分析等必要任务中，在战略和运营层面对生成式AI模型产生的依赖。随着采用率的提高，这种依赖性使得企业在系统中断、输出错误或安全漏洞面前变得脆弱，从而凸显了管理此类依赖关系的必要性。

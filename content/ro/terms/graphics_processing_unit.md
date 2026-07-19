@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "graphics_processing_unit"
-aliases:
-  - /ro/terms/graphics_processing_unit/
 date: "2026-07-18T16:01:44.610264Z"
 lastmod: "2026-07-18T17:15:09.662518Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un circuit electronic specializat, conceput inițial pentru manipularea și randarea rapidă a imaginilor, utilizat acum pe scară largă pentru calculul paralel în domeniul inteligenței artificiale."
 ---
-
 ## Definition
 
 O GPU (unitate de procesare grafică) este un procesor de înaltă performanță dezvoltat inițial pentru gestionarea sarcinilor de randare grafică. Spre deosebire de CPU-urile (unitățile centrale de procesare), care au puține nuclee optimizate pentru prelucrarea secvențială serială, GPU-urile conțin mii de nuclee...

@@ -1,23 +1,24 @@
 ---
-title: "päätöksenteko"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: päätöksenteko
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /fi/terms/decision_making/
-date: "2026-07-18T15:33:24.436115Z"
-lastmod: "2026-07-18T17:15:09.363337Z"
+slug: decision_making
+date: '2026-07-18T15:33:24.436115Z'
+lastmod: '2026-07-18T17:15:09.363337Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kognitiivinen prosessi, jossa valitaan toimintalinja useiden vaihtoehtojen joukosta saatavilla olevan tiedon perusteella."
+source: agnes_llm
+status: published
+language: fi
+description: Kognitiivinen prosessi, jossa valitaan toimintalinja useiden vaihtoehtojen
+  joukosta saatavilla olevan tiedon perusteella.
 ---
-
 ## Definition
 
 Tekoälyssä päätöksenteko viittaa algoritmiseen prosessiin, jossa järjestelmä arvioi mahdollisia toimia tiettyjen kriteerien tai tavoitteiden perusteella valitakseen optimaalisen lopputuloksen. Tämä sisällyttää...

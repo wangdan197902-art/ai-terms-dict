@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /pl/terms/moreover/
 date: "2026-07-18T15:27:31.236904Z"
 lastmod: "2026-07-18T17:15:08.815863Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Przysówek łącznikowy używany do wprowadzenia dodatkowych informacji lub wzmocnienia poprzedniego argumentu."
 ---
-
 ## Definition
 
 W kontekście dokumentacji AI i pisania technicznego, 'Ponadto' pełni funkcję znacznika dyskursywnego, który sygnalizuje dodanie wspierających dowodów lub kolejnego punktu, który wzmacnia bieżącą dyskusję.

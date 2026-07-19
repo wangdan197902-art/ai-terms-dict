@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /pl/terms/rabbit_r1/
 date: "2026-07-18T16:14:16.521428Z"
 lastmod: "2026-07-18T17:15:08.912482Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Przenośne urządzenie zasilane sztuczną inteligencją, wyposażone w Duży Model Działań (LAM), zaprojektowane do autonomicznego wykonywania zadań."
 ---
-
 ## Definition
 
 Rabbit r1 to dedykowane urządzenie sprzętowe uruchomione przez Rabbit Inc., oparte na jego własnym Dużym Modelu Działań (LAM). W przeciwieństwie do ogólnego przeznaczenia smartfonów, koncentruje się on na wykonywaniu specyficznych...

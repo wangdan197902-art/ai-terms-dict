@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /pl/terms/view/
 date: "2026-07-18T15:31:12.631937Z"
 lastmod: "2026-07-18T17:15:08.824436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wirtualna tabela w bazie danych wynikająca z zapisanego zapytania, prezentująca dane z jednej lub więcej tabel bez ich fizycznego przechowywania."
 ---
-
 ## Definition
 
 W zarządzaniu bazami danych widok działa jako zapisane zapytanie SQL, które zachowuje się jak tabela, ale nie zawiera żadnych danych. Zapewnia uproszczony lub dostosowany widok danych podstawowych, zwiększając bezpieczeństwo i ułatwiając dostęp.

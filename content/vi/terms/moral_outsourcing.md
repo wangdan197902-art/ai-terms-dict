@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /vi/terms/moral_outsourcing/
 date: "2026-07-18T16:04:03.260444Z"
 lastmod: "2026-07-18T16:38:07.784407Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mối lo ngại về đạo đức khi cá nhân hoặc tổ chức ủy thác trách nhiệm ra quyết định đạo đức cho các hệ thống AI tự động."
 ---
-
 ## Definition
 
 Thuê ngoài Đạo đức đề cập đến hiện tượng con người giao phó phán xét đạo đức và trách nhiệm cho các thuật toán hoặc hệ thống AI. Điều này xảy ra khi mọi người dựa vào các quyết định tự động cho những vấn đề có ý nghĩa đạo đức quan trọng, dẫn đến nguy cơ thiếu trách nhiệm giải trình.

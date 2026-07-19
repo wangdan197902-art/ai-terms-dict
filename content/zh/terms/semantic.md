@@ -1,23 +1,22 @@
 ---
-title: "语义"
-term_id: "semantic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "meaning"]
+title: 语义
+term_id: semantic
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- meaning
 difficulty: 3
 weight: 1
-slug: "semantic"
-aliases:
-  - /zh/terms/semantic/
-date: "2026-07-18T10:54:51.109429Z"
-lastmod: "2026-07-18T11:44:45.384922Z"
+slug: semantic
+date: '2026-07-18T10:54:51.109429Z'
+lastmod: '2026-07-18T11:44:45.384922Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "与语言或数据中的意义相关，区别于句法结构或形式。"
+source: agnes_llm
+status: published
+language: zh
+description: 与语言或数据中的意义相关，区别于句法结构或形式。
 ---
-
 ## Definition
 
 AI中的语义分析侧重于理解输入的底层含义，而不仅仅是其表面模式。这涉及将单词或符号映射到概念，捕捉关系等。

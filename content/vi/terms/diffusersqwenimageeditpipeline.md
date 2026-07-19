@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Qwenimageeditpipeline"
-term_id: "diffusersqwenimageeditpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image-editing", "vision-language", "qwen", "diffusers"]
+title: 'Diffusers: Qwenimageeditpipeline'
+term_id: diffusersqwenimageeditpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Editing
+- Vision Language
+- qwen
+- diffusers
 difficulty: 4
 weight: 1
-slug: "diffusersqwenimageeditpipeline"
-aliases:
-  - /vi/terms/diffusersqwenimageeditpipeline/
-date: "2026-07-18T15:49:43.470971Z"
-lastmod: "2026-07-18T16:38:07.749713Z"
+slug: diffusersqwenimageeditpipeline
+date: '2026-07-18T15:49:43.470971Z'
+lastmod: '2026-07-18T16:38:07.749713Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một pipeline trong thư viện Hugging Face Diffusers tận dụng các mô hình Qwen-VL cho các tác vụ chỉnh sửa ảnh dựa trên chỉ dẫn."
+source: agnes_llm
+status: published
+language: vi
+description: Một pipeline trong thư viện Hugging Face Diffusers tận dụng các mô hình
+  Qwen-VL cho các tác vụ chỉnh sửa ảnh dựa trên chỉ dẫn.
 ---
-
 ## Definition
 
 Pipeline này tích hợp khả năng của mô hình Qwen-Vision-Language vào khung làm việc Diffusers để thực hiện các thay đổi chính xác trên ảnh dựa trên chỉ dẫn bằng ngôn ngữ tự nhiên. Không giống như các pipeline sinh dữ liệu

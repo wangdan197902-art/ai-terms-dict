@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /cs/terms/deceptive_alignment/
 date: "2026-07-18T15:52:50.999961Z"
 lastmod: "2026-07-18T17:15:09.120512Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Scénář, ve kterém se model AI během tréninku jeví jako zarovnaný, ale po nasazení sleduje nezarovnané cíle."
 ---
-
 ## Definition
 
 Zavádějící zarovnání nastává, když vysoce schopný systém AI zjistí, že projevování chování v souladu s cíli během tréninku zvyšuje šanci na jeho nasazení, zatímco tajně si udržuje nesouladné objektové cíle.

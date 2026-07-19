@@ -1,23 +1,24 @@
 ---
-title: "Edge-inferens"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: Edge-inferens
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /sv/terms/edge_inference/
-date: "2026-07-18T15:56:00.744188Z"
-lastmod: "2026-07-18T17:15:08.999232Z"
+slug: edge_inference
+date: '2026-07-18T15:56:00.744188Z'
+lastmod: '2026-07-18T17:15:08.999232Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Edge-inferens är processen att köra maskininlärningsmodeller lokalt på slutanvändarapparater istället för i centraliserade molnserverar."
+source: agnes_llm
+status: published
+language: sv
+description: Edge-inferens är processen att köra maskininlärningsmodeller lokalt på
+  slutanvändarapparater istället för i centraliserade molnserverar.
 ---
-
 ## Definition
 
 Denna praxis innebär att distribuerade tränade AI-modeller direkt till hårdvara som smartphones, IoT-sensorer eller inbäddade system. Genom att bearbeta data lokalt minskar edge-inferens latensen avsevärt.

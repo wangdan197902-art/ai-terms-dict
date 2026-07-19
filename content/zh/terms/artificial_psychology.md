@@ -7,8 +7,6 @@ tags: ["Cognitive Science", "AI Architecture", "Research", "Psychology"]
 difficulty: 5
 weight: 1
 slug: "artificial_psychology"
-aliases:
-  - /zh/terms/artificial_psychology/
 date: "2026-07-18T11:06:59.857945Z"
 lastmod: "2026-07-18T11:44:45.445887Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个研究如何设计具有模仿人类心理过程认知架构的AI系统的领域。"
 ---
-
 ## Definition
 
 人工心理学是一个跨学科领域，专注于AI系统中认知架构的设计与实现。它借鉴认知科学和心理学的知识来模拟人类的...

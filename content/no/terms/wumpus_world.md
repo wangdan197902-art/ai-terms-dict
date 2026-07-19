@@ -7,8 +7,6 @@ tags: ["AI Education", "Logic", "Search Algorithms"]
 difficulty: 2
 weight: 1
 slug: "wumpus_world"
-aliases:
-  - /no/terms/wumpus_world/
 date: "2026-07-18T16:21:33.054709Z"
 lastmod: "2026-07-18T16:38:07.058741Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et klassisk kunstig intelligens-miljø brukt til å demonstrere resonnement under usikkerhet og delvis observerbarhet."
 ---
-
 ## Definition
 
 Wumpus-verdenen er et rutenettbasert miljø introdusert i Russell og Norvigs lærebok i kunstig intelligens. En agent må navigere gjennom rutenettet for å finne gull mens den unngår gruver og en Wumpus-monster. Agenten oppfatter...

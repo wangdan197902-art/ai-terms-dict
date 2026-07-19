@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /hu/terms/embedding/
 date: "2026-07-18T15:23:10.444214Z"
 lastmod: "2026-07-18T17:15:09.714153Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy technika, amely diszkrét objektumokat, például szavakat vagy képeket, folytonos vektorterekbe térképez át."
 ---
-
 ## Definition
 
 A beágyazások (embeddings) az adatok sűrű vektoros reprezentációi, ahol a szemantikai kapcsolatok megmaradnak a geometriai térben. A kategorikus vagy nagy dimenziójú bemenetek fix hosszúságú vektorokká alakításával a modell képes...

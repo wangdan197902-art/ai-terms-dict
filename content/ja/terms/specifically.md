@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /ja/terms/specifically/
 date: "2026-07-18T10:55:09.231543Z"
 lastmod: "2026-07-18T11:44:45.019759Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "より広い文脈における、正確で明確な、あるいは特定の詳細を指す。"
 ---
-
 ## Definition
 
 AIの用語において、「具体的には」はモデル、データポイント、または操作の定義における精度を示します。これは一般的なカテゴリから正確なパラメータを区別し、技術文書における明確さを確保します。

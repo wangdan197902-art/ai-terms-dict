@@ -1,23 +1,23 @@
 ---
-title: "特征缩放"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: 特征缩放
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /zh/terms/feature_scaling/
-date: "2026-07-18T11:17:13.896121Z"
-lastmod: "2026-07-18T11:44:45.498954Z"
+slug: feature_scaling
+date: '2026-07-18T11:17:13.896121Z'
+lastmod: '2026-07-18T11:44:45.498954Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "将数据的独立变量或特征的范围进行归一化，以确保量级一致性的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 将数据的独立变量或特征的范围进行归一化，以确保量级一致性的过程。
 ---
-
 ## Definition
 
 特征缩放通过标准化输入变量的范围，防止量级较大的特征主导学习过程。常见方法包括归一化（最小-最大缩放）和标准化（Z-score标准化）。这一预处理步骤对于基于距离的算法和梯度下降优化至关重要，能加速收敛并提高模型性能。

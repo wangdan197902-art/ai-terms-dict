@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /id/terms/speaker_change_detection/
 date: "2026-07-18T16:09:33.086687Z"
 lastmod: "2026-07-18T16:38:07.509554Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses mengidentifikasi titik-titik dalam aliran audio di mana pembicara aktif berubah."
 ---
-
 ## Definition
 
 Deteksi Perubahan Pembicara (SCD) adalah teknik yang digunakan untuk menentukan timestamp tepat ketika satu pembicara berhenti berbicara dan yang lain mulai. Ini berfungsi sebagai langkah awal dalam diarisasi, membantu memotong konten menjadi segmen berdasarkan pembicara.

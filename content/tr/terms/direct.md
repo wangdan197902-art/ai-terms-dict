@@ -7,8 +7,6 @@ tags: ["architecture", "efficiency", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "direct"
-aliases:
-  - /tr/terms/direct/
 date: "2026-07-18T15:24:08.203340Z"
 lastmod: "2026-07-18T16:38:07.229977Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Arada karmaşık dönüşümler veya gizli temsiller olmadan girdileri doğrudan çıktılara eşleyen yöntemleri veya yolları ifade eder."
 ---
-
 ## Definition
 
 Yapay zeka bağlamlarında 'doğrudan', ara soyutlama katmanlarını atlayan mimarileri veya çıkarım yollarını tanımlar. Örneğin, pekiştirmeli öğrenmede doğrudan politika optimizasyonu veya doğrudan eşleme yöntemlerini kapsar.

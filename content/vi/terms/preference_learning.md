@@ -1,23 +1,24 @@
 ---
-title: "Học sở thích"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: Học sở thích
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /vi/terms/preference_learning/
-date: "2026-07-18T16:08:01.903069Z"
-lastmod: "2026-07-18T16:38:07.793905Z"
+slug: preference_learning
+date: '2026-07-18T16:08:01.903069Z'
+lastmod: '2026-07-18T16:38:07.793905Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật huấn luyện mô hình căn đầu ra với sở thích của con người bằng cách sử dụng phản hồi so sánh."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật huấn luyện mô hình căn đầu ra với sở thích của con người
+  bằng cách sử dụng phản hồi so sánh.
 ---
-
 ## Definition
 
 Học sở thích tập trung vào việc dạy các mô hình phân biệt giữa các đầu ra tốt và xấu dựa trên phán xét của con người thay vì các nhãn tuyệt đối. Nó thường liên quan đến việc thu thập các cặp phản hồi mà tại đó con người chỉ ra lựa chọn ưa thích hơn, sau đó sử dụng dữ liệu này để huấn luyện một mô hình phần thưởng hoặc tối ưu hóa hàm mục tiêu của mô hình chính.

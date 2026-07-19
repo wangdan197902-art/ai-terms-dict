@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /cs/terms/rademacher_complexity/
 date: "2026-07-18T16:15:08.506499Z"
 lastmod: "2026-07-18T17:15:09.195614Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Statistická míra používaná v teorii učení k kvantifikaci bohatosti třídy funkcí na základě jejich schopnosti přizpůsobit se náhodnému šumu."
 ---
-
 ## Definition
 
 Rademacherova složitost vyhodnocuje, jak dobře může třída hypotéz korelovat s náhodnými štítky (šumem). Slouží jako náhrada za kapacitu nebo flexibilitu modelu. Nižší složitost naznačuje lepší zobecnění.

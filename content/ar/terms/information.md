@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /ar/terms/information/
 date: "2026-07-18T15:27:07.219331Z"
 lastmod: "2026-07-18T17:15:08.440819Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تشير المعلومات إلى البيانات المعالجة التي تنقل معنى، أو تقلل من عدم اليقين، أو توفر سياقًا للمستقبل."
 ---
-
 ## Definition
 
 في سياق الذكاء الاصطناعي وعلوم الحاسوب، تختلف المعلومات عن البيانات الخام. فهي تمثل بيانات تم تنظيمها أو هيكلتها أو تفسيرها لتكون ذات دلالة وفائدة.

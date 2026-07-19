@@ -1,23 +1,24 @@
 ---
-title: "Tự động hóa trong xây dựng"
-term_id: "automation_in_construction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["construction", "robotics", "industry_4.0"]
+title: Tự động hóa trong xây dựng
+term_id: automation_in_construction
+category: basic_concepts
+subcategory: ''
+tags:
+- construction
+- robotics
+- Industry 4.0
 difficulty: 3
 weight: 1
-slug: "automation_in_construction"
-aliases:
-  - /vi/terms/automation_in_construction/
-date: "2026-07-18T15:41:55.146925Z"
-lastmod: "2026-07-18T16:38:07.731451Z"
+slug: automation_in_construction
+date: '2026-07-18T15:41:55.146925Z'
+lastmod: '2026-07-18T16:38:07.731451Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Việc áp dụng robot và AI để tinh gọn quy trình xây dựng và cải thiện an toàn tại công trường."
+source: agnes_llm
+status: published
+language: vi
+description: Việc áp dụng robot và AI để tinh gọn quy trình xây dựng và cải thiện
+  an toàn tại công trường.
 ---
-
 ## Definition
 
 Tự động hóa trong xây dựng đề cập đến việc tích hợp các hệ thống robot, máy bay không người lái (drone) và các công cụ quản lý dự án dựa trên AI vào vòng đời xây dựng. Các công nghệ này hỗ trợ trong nhiều nhiệm vụ, từ việc đặt gạch tự động, in 3D kết cấu đến giám sát tiến độ và kiểm tra an toàn, giúp tăng năng suất và giảm thiểu rủi ro cho con người.

@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /cs/terms/aporia/
 date: "2026-07-18T15:41:45.238119Z"
 lastmod: "2026-07-18T17:15:09.101430Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: ""
 ---
-
 ## Definition
 
 V filozofii a teorii AI aporie popisuje paradoxní situaci, kdy dva stejně platné argumenty vedou ke sporým výsledkům. Ve strojovém učení se to může projevit, když výkon modelu selhává při řešení protichůdných cílů nebo požadavků.

@@ -7,8 +7,6 @@ tags: ["evaluation", "theory", "robustness"]
 difficulty: 2
 weight: 1
 slug: "stability"
-aliases:
-  - /de/terms/stability/
 date: "2026-07-18T11:34:38.418371Z"
 lastmod: "2026-07-18T11:44:44.988184Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Eigenschaft eines maschinellen Lernmodells, konsistente Vorhersagen zu liefern, wenn es auf leicht unterschiedlichen Datensätzen trainiert wird."
 ---
-
 ## Definition
 
 Im maschinellen Lernen bezieht sich Stabilität auf die Robustheit der Leistung und der Parameter eines Modells, wenn es kleinen Störungen in den Trainingsdaten ausgesetzt wird. Ein stabiler Algorithmus liefert ähnliche Modelle und Vorhersagen, selbst wenn die Trainingsdaten geringfügig variieren, was auf eine geringe Varianz hindeutet.

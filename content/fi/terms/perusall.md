@@ -7,8 +7,6 @@ tags: ["edtech", "platform", "grading"]
 difficulty: 2
 weight: 1
 slug: "perusall"
-aliases:
-  - /fi/terms/perusall/
 date: "2026-07-18T16:15:31.892881Z"
 lastmod: "2026-07-18T17:15:09.443737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyyn perustuva sosiaalinen oppimisalusta, joka automatisoi opiskelijoiden huomautusten ja keskustelujen arvioinnin digitaalisissa teksteissä."
 ---
-
 ## Definition
 
 Perusall on koulutusteknologian alusta, joka hyödyntää tekoälyä yhteisöllisen lukemisen ja huomautusten tekemisen edistämiseksi. Se arvioi automaattisesti opiskelijoiden osallistumista kysymysten ja

@@ -1,23 +1,24 @@
 ---
-title: "Kontrasztív tanulás"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: Kontrasztív tanulás
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /hu/terms/contrastive_learning/
-date: "2026-07-18T15:51:46.265074Z"
-lastmod: "2026-07-18T17:15:09.765921Z"
+slug: contrastive_learning
+date: '2026-07-18T15:51:46.265074Z'
+lastmod: '2026-07-18T17:15:09.765921Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy önfelügyelet nélküli tanítási technika, amely pozitív párokat közelít egymáshoz, míg a negatív párokat távolítja egymástól a reprezentációk tanulásakor."
+source: agnes_llm
+status: published
+language: hu
+description: Egy önfelügyelet nélküli tanítási technika, amely pozitív párokat közelít
+  egymáshoz, míg a negatív párokat távolítja egymástól a reprezentációk tanulásakor.
 ---
-
 ## Definition
 
 A kontrasztív tanulás egy reprezentáció tanítási módszer, amely nem igényel címkézett adatokat. A módszer úgy működik, hogy ugyanazon bemenet augmentált (módosított) nézeteiből hoz létre pozitív párokat, és ezeket kontrasztba helyezi különböző bemenetekkel vagy augmentációkkal, hogy a modell megtanulja megkülönböztetni a hasonló és eltérő mintázatokat.

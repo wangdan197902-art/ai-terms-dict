@@ -1,23 +1,24 @@
 ---
-title: "Lokal tilfelle-kontroll-sampling"
-term_id: "local_case_control_sampling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sampling", "contrastive-learning", "optimization"]
+title: Lokal tilfelle-kontroll-sampling
+term_id: local_case_control_sampling
+category: basic_concepts
+subcategory: ''
+tags:
+- sampling
+- Contrastive Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "local_case_control_sampling"
-aliases:
-  - /no/terms/local_case_control_sampling/
-date: "2026-07-18T16:03:36.603542Z"
-lastmod: "2026-07-18T16:38:07.020510Z"
+slug: local_case_control_sampling
+date: '2026-07-18T16:03:36.603542Z'
+lastmod: '2026-07-18T16:38:07.020510Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En negativ samplingteknikk som velger «hard» negative eksempler fra umiddelbar nærhet av positive eksempler i innbyggingsrommet."
+source: agnes_llm
+status: published
+language: 'no'
+description: En negativ samplingteknikk som velger «hard» negative eksempler fra umiddelbar
+  nærhet av positive eksempler i innbyggingsrommet.
 ---
-
 ## Definition
 
 Lokal tilfelle-kontroll-sampling er en strategi som primært brukes under trening av kontrastive læringsmodeller eller anbefalingssystemer. I stedet for tilfeldig å velge negative prøver, identifiserer den «hard» negative eksempler som er nært knyttet til de positive eksemplene i innbyggingsrommet, noe som forbedrer modellens evne til å skille mellom fine detaljer.

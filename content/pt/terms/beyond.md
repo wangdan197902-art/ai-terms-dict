@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /pt/terms/beyond/
 date: "2026-07-18T14:33:38.720455Z"
 lastmod: "2026-07-18T15:51:59.425994Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um termo conceitual que se refere a avanços ou aplicações que excedem os limites tecnológicos atuais ou as fronteiras tradicionais da IA."
 ---
-
 ## Definition
 
 No contexto da terminologia de IA, 'além' frequentemente descreve paradigmas emergentes ou direções futuras que transcendem as capacidades atuais, como a Inteligência Artificial Geral (AGI) ou a computação quântica aprimorada.

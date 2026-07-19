@@ -1,23 +1,24 @@
 ---
-title: "Pencocokan Probabilitas"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: Pencocokan Probabilitas
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /id/terms/probability_matching/
-date: "2026-07-18T16:05:00.283533Z"
-lastmod: "2026-07-18T16:38:07.495978Z"
+slug: probability_matching
+date: '2026-07-18T16:05:00.283533Z'
+lastmod: '2026-07-18T16:38:07.495978Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Strategi pengambilan keputusan di mana agen memilih tindakan dengan frekuensi yang sebanding dengan perkiraan probabilitasnya."
+source: agnes_llm
+status: published
+language: id
+description: Strategi pengambilan keputusan di mana agen memilih tindakan dengan frekuensi
+  yang sebanding dengan perkiraan probabilitasnya.
 ---
-
 ## Definition
 
 Pencocokan probabilitas adalah pola perilaku yang sering diamati dalam pembelajaran penguatan dan psikologi, yang bertentangan dengan strategi 'memaksimalkan' yang optimal. Alih-alih selalu memilih tindakan dengan h

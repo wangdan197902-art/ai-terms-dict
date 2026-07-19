@@ -1,23 +1,24 @@
 ---
-title: "ניתוח רגשות רב-מודאלי"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: ניתוח רגשות רב-מודאלי
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /he/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:13:49.542720Z"
-lastmod: "2026-07-18T17:15:09.567170Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:13:49.542720Z'
+lastmod: '2026-07-18T17:15:09.567170Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "הניתוח החישובי של הרגשות האנושיים באמצעות שילוב רמזים טקסטואליים, ויזואליים ואודיטוריאליים."
+source: agnes_llm
+status: published
+language: he
+description: הניתוח החישובי של הרגשות האנושיים באמצעות שילוב רמזים טקסטואליים, ויזואליים
+  ואודיטוריאליים.
 ---
-
 ## Definition
 
 ניתוח רגשות רב-מודאלי מרחיב את גילוי הרגשות המבוסס על טקסט בלבד על ידי שילוב אותות נוספים כגון הבעות פנים, טון קול ושפת גוף. גישה הוליסטית זו משפרת את הדיוק.

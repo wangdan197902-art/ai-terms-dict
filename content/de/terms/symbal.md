@@ -1,23 +1,23 @@
 ---
-title: "Symbal"
-term_id: "symbal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "typo"]
+title: Symbal
+term_id: symbal
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- typo
 difficulty: 1
 weight: 1
-slug: "symbal"
-aliases:
-  - /de/terms/symbal/
-date: "2026-07-18T10:54:16.567996Z"
-lastmod: "2026-07-18T11:44:44.884732Z"
+slug: symbal
+date: '2026-07-18T10:54:16.567996Z'
+lastmod: '2026-07-18T11:44:44.884732Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Symbal ist kein in der künstlichen Intelligenz oder Informatik anerkannter Standardbegriff."
+source: agnes_llm
+status: published
+language: de
+description: Symbal ist kein in der künstlichen Intelligenz oder Informatik anerkannter
+  Standardbegriff.
 ---
-
 ## Definition
 
 Es gibt keine etablierte Definition für „Symbal“ im Kontext der KI-Terminologie. Es könnte ein Tippfehler für „Symbolic“ (symbolisch) sein, was sich auf die symbolische KI bezieht, oder ein nicht standardisierter Neologismus. Im strengen technischen Kontext...

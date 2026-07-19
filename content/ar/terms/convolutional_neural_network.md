@@ -1,23 +1,24 @@
 ---
-title: "الشبكة العصبية التلافيفية"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: الشبكة العصبية التلافيفية
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /ar/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:50.269401Z"
-lastmod: "2026-07-18T17:15:08.432433Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:50.269401Z'
+lastmod: '2026-07-18T17:15:08.432433Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "فئة متخصصة من الشبكات العصبية العميقة تُستخدم أساساً لمعالجة البيانات ذات البنية الشبكية، مثل الصور، من خلال تطبيق مرشحات تلافيفية."
+source: agnes_llm
+status: published
+language: ar
+description: فئة متخصصة من الشبكات العصبية العميقة تُستخدم أساساً لمعالجة البيانات
+  ذات البنية الشبكية، مثل الصور، من خلال تطبيق مرشحات تلافيفية.
 ---
-
 ## Definition
 
 تم تصميم الشبكات العصبية التلافيفية (CNNs) للتعلم التلقائي والتكيفي للتسلسلات الهرمية للميزات من المدخلات البصرية. فهي تستخدم طبقات تلافيفية تطبق مرشحات للكشف عن الأنماط المكانية والميزات المحلية في البيانات.

@@ -7,8 +7,6 @@ tags: ["reference", "education", "documentation"]
 difficulty: 1
 weight: 1
 slug: "glossary_of_artificial_intelligence"
-aliases:
-  - /ja/terms/glossary_of_artificial_intelligence/
 date: "2026-07-18T11:16:20.970043Z"
 lastmod: "2026-07-18T11:44:45.101905Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人工知能用語集とは、AIの研究および開発で使用される用語の定義を厳選してまとめたリストのことです。"
 ---
-
 ## Definition
 
 人工知能用語集は、専門用語、略語、概念を定義する参照ドキュメントとして機能します。これは、研究者、開発者、学生がAIの分野を理解し、共通の言語でコミュニケーションを取るのを支援します。

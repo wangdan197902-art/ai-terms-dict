@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /tr/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:41:44.123572Z"
 lastmod: "2026-07-18T16:38:07.274292Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekanın manevi rehberlik, meditasyon desteği veya felsefi soruların keşfi için kullanıldığı ortaya çıkan kesişim noktası."
 ---
-
 ## Definition
 
 Maneviyatta yapay zeka, yapay zekanın dini veya tefekkür bağlamlarında uygulanmasını ifade eder. Bu, ahlaki tavsiye sunan sohbet botları, meditasyon için yapay zeka tarafından üretilen sanat eserleri veya algoritmik teolojik analizleri içerir.

@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /id/terms/dabus/
 date: "2026-07-18T15:44:45.409464Z"
 lastmod: "2026-07-18T16:38:07.442258Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "DABUS adalah singkatan dari Device for the Autonomous Bootstrapping of Unified Sentience, sebuah sistem AI yang diciptakan oleh Stephen Thaler yang mengklaim dapat menemukan teknologi secara otonom."
 ---
-
 ## Definition
 
 DABUS adalah jaringan saraf tiruan khusus yang dirancang untuk menghasilkan penemuan baru tanpa intervensi manusia langsung. Sistem ini menarik perhatian hukum yang signifikan ketika penciptanya, Stephen Thaler, mencoba

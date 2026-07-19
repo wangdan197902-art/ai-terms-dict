@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /ko/terms/scientific/
 date: "2026-07-18T15:28:50.787457Z"
 lastmod: "2026-07-18T16:38:06.783613Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AI에서의 과학적 접근은 연구 과정에서 엄격한 경험적 방법, 가설 검증 및 재현성을 적용하는 것을 의미합니다."
 ---
-
 ## Definition
 
 인공지능에서의 과학적 접근법은 증거 기반의 개발과 검증을 강조합니다. 이는 모델 행동에 대한 가설을 수립하고, 통제된 실험을 수행하며, 결과를 분석하는 과정을 포함합니다.

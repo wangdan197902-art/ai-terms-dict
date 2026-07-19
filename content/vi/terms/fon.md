@@ -7,8 +7,6 @@ tags: ["theory", "foundations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "fon"
-aliases:
-  - /vi/terms/fon/
 date: "2026-07-18T15:53:56.037863Z"
 lastmod: "2026-07-18T16:38:07.758418Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Fon đề cập đến các nguyên tắc nền tảng và cơ sở lý thuyết hướng dẫn việc thiết kế và vận hành các hệ thống trí tuệ nhân tạo."
 ---
-
 ## Definition
 
 Trong ngữ cảnh thuật ngữ AI, 'Fon' thường được dùng để mô tả hệ thống bản thể học chức năng cốt lõi hoặc các cấu trúc logic nền tảng xác định cách một mô hình AI diễn giải đầu vào và tạo ra đầu ra. Nó

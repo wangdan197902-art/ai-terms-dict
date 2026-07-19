@@ -7,8 +7,6 @@ tags: ["military", "ethics", "applications"]
 difficulty: 3
 weight: 1
 slug: "ai_warfare"
-aliases:
-  - /no/terms/ai_warfare/
 date: "2026-07-18T15:40:26.494928Z"
 lastmod: "2026-07-18T16:38:06.966665Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Bruken av kunstig intelligens-teknologier i militære operasjoner, overvåking og autonome våpensystemer."
 ---
-
 ## Definition
 
 AI-krigføring refererer til integreringen av kunstig intelligens i militære strategier, inkludert autonome droner, prediktiv logistikk, cyberforsvar og beslutningsstøttesystemer for kommandanter.

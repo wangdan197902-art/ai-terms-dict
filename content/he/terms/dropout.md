@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /he/terms/dropout/
 date: "2026-07-18T15:36:22.156394Z"
 lastmod: "2026-07-18T17:15:09.498595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "Dropout הוא טכניקת רגולריזציה המתעלמת באופן אקראי מנוירונים במהלך האימון כדי למנוע התאמת יתר."
 ---
-
 ## Definition
 
 ברשתות נוירונים, Dropout מונע התאמת יתר על ידי הסרה זמנית של תת-קבוצה אקראית של נוירונים בכל צעד אימון. פעולה זו מכריחה את הרשת ללמוד תכונות חזקות ששימושיות בשילוב עם שאר הרשת.

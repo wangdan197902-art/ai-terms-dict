@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /ar/terms/mountain_car_problem/
 date: "2026-07-18T16:13:34.728026Z"
 lastmod: "2026-07-18T17:15:08.530056Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مهمة كلاسيكية في التعلم التعزيزي حيث يجب على وكيل قيادة سيارة صعود تل شديد الانحدار باستخدام ضوابط التسارع فقط."
 ---
-
 ## Definition
 
 تُعد مشكلة سيارة الجبل معياراً قياسياً في أبحاث التعلم التعزيزي. الهدف هو التحكم في سيارة غير كافية القوة للوصول إلى قمة تل شديد الانحدار. نظراً لأن السيارة لا تستطيع تسلق التل مباشرة

@@ -1,23 +1,24 @@
 ---
-title: "Матрица ошибок"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Матрица ошибок
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /ru/terms/confusion_matrix/
-date: "2026-07-18T15:46:12.165974Z"
-lastmod: "2026-07-18T16:38:07.133824Z"
+slug: confusion_matrix
+date: '2026-07-18T15:46:12.165974Z'
+lastmod: '2026-07-18T16:38:07.133824Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Таблица, используемая для описания качества работы модели классификации на наборе тестовых данных."
+source: agnes_llm
+status: published
+language: ru
+description: Таблица, используемая для описания качества работы модели классификации
+  на наборе тестовых данных.
 ---
-
 ## Definition
 
 Матрица ошибок — это специфическая табличная структура, позволяющая визуализировать производительность алгоритма, как правило, алгоритма обучения с учителем. Она показывает количество истинно положительных, истинно отрицательных, ложноположительных и ложноотрицательных результатов.

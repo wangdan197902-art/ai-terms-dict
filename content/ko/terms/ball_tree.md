@@ -1,23 +1,23 @@
 ---
-title: "볼 트리(Ball Tree)"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: 볼 트리(Ball Tree)
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /ko/terms/ball_tree/
-date: "2026-07-18T15:43:24.253795Z"
-lastmod: "2026-07-18T16:38:06.812300Z"
+slug: ball_tree
+date: '2026-07-18T15:43:24.253795Z'
+lastmod: '2026-07-18T16:38:06.812300Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "고차원 데이터셋에서 최근접 이웃 검색을 최적화하기 위해 공간상의 점을 조직하는 데 사용되는 이진 트리 데이터 구조입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 고차원 데이터셋에서 최근접 이웃 검색을 최적화하기 위해 공간상의 점을 조직하는 데 사용되는 이진 트리 데이터 구조입니다.
 ---
-
 ## Definition
 
 볼 트리는 데이터를 초입방체(hyperrectangles)가 아닌 중첩된 초구(볼)로 분할합니다. 이 구조는 거리 계산을 통해 최근접 이웃 쿼리 시 효율적인 가지치기(pruning)를 가능하게 합니다.

@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /ko/terms/reflection/
 date: "2026-07-18T16:13:06.224449Z"
 lastmod: "2026-07-18T16:38:06.903513Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AIモデルが自身の出力、推論プロセス、または内部状態を分析し、将来のパフォーマンス向上につなげる仕組み。"
 ---
-
 ## Definition
 
 AIにおけるリフレクションは、モデルが最終決定を下す前に、自身の生成プロセスや出力を評価するパラダイムです。これには、論理的整合性、事実の正確性、または安全性への準拠などを確認することが含まれ...

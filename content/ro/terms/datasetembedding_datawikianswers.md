@@ -7,8 +7,6 @@ tags: ["qa", "datasets", "matching"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datawikianswers"
-aliases:
-  - /ro/terms/datasetembedding_datawikianswers/
 date: "2026-07-18T15:52:22.771620Z"
 lastmod: "2026-07-18T17:15:09.643977Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date care cuprinde perechi întrebare-răspuns de pe WikiAnswers, utilizat pentru antrenarea modelelor de înțelegere a intenției și echivalenței semantice."
 ---
-
 ## Definition
 
 Acest set de date conține milioane de perechi întrebare-răspuns extrase de pe platforma acum defunctă WikiAnswers. Este utilizat în principal pentru antrenarea modelelor de recuperare densă a pasajelor și potrivire semantică. Prin exploatarea

@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /no/terms/real_time/
 date: "2026-07-18T15:35:40.988807Z"
 lastmod: "2026-07-18T16:38:06.954908Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Sanntidsbehandling refererer til systemer som beregner og leverer resultater innen strenge, garanterte tidsrammer umiddelbart etter mottak av input."
 ---
-
 ## Definition
 
 Innen kunstig intelligens betegner sanntid evnen til et system til å behandle input og generere output med minimal forsinkelse, ofte innen millisekunder. Dette er avgjørende for applikasjoner der forsinkelser kan føre til feil eller farlige situasjoner, krever deterministisk oppførsel.

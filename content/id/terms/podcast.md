@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /id/terms/podcast/
 date: "2026-07-18T16:04:14.079864Z"
 lastmod: "2026-07-18T16:38:07.494465Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "File audio atau digital yang tersedia di internet untuk diunduh atau ditonton secara streaming."
 ---
-
 ## Definition
 
 Dalam konteks AI dan teknologi, podcast merujuk pada konten media digital episodik yang didistribusikan melalui umpan RSS, memungkinkan pengguna berlangganan dan mendengarkan diskusi, wawancara, atau materi edukasi.

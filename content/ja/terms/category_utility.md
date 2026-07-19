@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /ja/terms/category_utility/
 date: "2026-07-18T11:07:05.986351Z"
 lastmod: "2026-07-18T11:44:45.075537Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "カテゴリユーティリティは、属性値に関する情報利得に基づいて、分類スキームの有効性を評価するために使用される数学的尺度です。"
 ---
-
 ## Definition
 
 この指標は、一連のカテゴリがそれらのカテゴリ内の属性の値をどれだけよく予測できるかを定量化します。カテゴリのサイズと、その内容の均質性のバランスを取ります。

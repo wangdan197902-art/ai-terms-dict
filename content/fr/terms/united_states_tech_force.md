@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /fr/terms/united_states_tech_force/
 date: "2026-07-18T11:42:07.460194Z"
 lastmod: "2026-07-18T11:44:45.354206Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un terme démographique et économique désignant l'ensemble de la main-d'œuvre qui stimule l'innovation technologique aux États-Unis."
 ---
-
 ## Definition
 
 L'expression « Main-d'œuvre technologique des États-Unis » désigne généralement la large part du marché du travail américain employée dans les secteurs technologiques, incluant le génie logiciel, la science des données, la fabrication de matériel, etc.

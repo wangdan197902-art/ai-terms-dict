@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /sv/terms/dynamic_epistemic_logic/
 date: "2026-07-18T15:54:47.696353Z"
 lastmod: "2026-07-18T17:15:08.998256Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett formellt ramverk för resonemang om förändringar i agenter:s kunskapsstatus som följer av informationsuppdateringar eller händelser."
 ---
-
 ## Definition
 
 Dynamisk epistemisk logik (DEL) utökar modallogiken för att modellera hur kunskap utvecklas när agenter mottar ny information. Den tillhandahåller verktyg för att analysera multiagent-system där övertygelser ändras på grund av offentliga meddelanden eller privata observationer.

@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /de/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T11:28:44.805975Z"
 lastmod: "2026-07-18T11:44:44.977773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die kumulative Weiterentwicklung der KI-Fähigkeiten durch Forschung, Entwicklung und Einsatz zunehmend anspruchsvoller Algorithmen und Hardware."
 ---
-
 ## Definition
 
 Dieser Begriff umfasst die historische und laufende Evolution von Systemen der künstlichen Intelligenz und markiert Meilensteine von der frühen symbolischen Logik bis zum modernen Deep Learning. Er spiegelt Verbesserungen in der Rechenleistung und Algorithmik wider.

@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /de/terms/sentence_similarity/
 date: "2026-07-18T11:33:04.663240Z"
 lastmod: "2026-07-18T11:44:44.984634Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Metrik oder Aufgabe, die quantifiziert, wie ähnlich sich zwei Sätze semantisch sind, oft dargestellt als numerischer Score."
 ---
-
 ## Definition
 
 Satzähnlichkeit misst das Ausmaß der semantischen Überlappung zwischen zwei verschiedenen Sätzen. Sie geht über die reine lexikalische Übereinstimmung hinaus, um Bedeutung, Kontext und Absicht zu verstehen. Dies wird typischerweise erreicht, indem die Sätze in Vektoren umgewandelt und deren Abstand berechnet wird.

@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /de/terms/galaxy_ai/
 date: "2026-07-18T11:15:36.270939Z"
 lastmod: "2026-07-18T11:44:44.942744Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Samsungs Markenbezeichnung für sein Angebot an On-Device- und Cloud-basierten KI-Funktionen, die in seine Galaxy-Smartphones und Geräte integriert sind."
 ---
-
 ## Definition
 
 Galaxy AI ist das proprietäre Ökosystem von KI-Funktionalitäten von Samsung, das darauf ausgelegt ist, die Benutzererfahrung über seine Hardware-Sortiment, hauptsächlich Smartphones, zu verbessern. Es umfasst Funktionen wie Echtzeit-Übersetzung, KI-gestützte Bildbearbeitung und Zusammenfassungen von Meeting-Notizen.

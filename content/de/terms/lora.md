@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /de/terms/lora/
 date: "2026-07-18T10:51:11.932679Z"
 lastmod: "2026-07-18T11:44:44.877352Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Low-Rank Adaptation ist eine parameter-effiziente Feinabstimmungsmethode, die trainierbare Rang-Zerlegungsmatrizen in bestehende Modellgewichte einfügt."
 ---
-
 ## Definition
 
 LoRA friert die vorab trainierten Modellgewichte ein und fügt jeder Schicht der Transformer-Architektur trainierbare Zerlegungsmatrizen hinzu. Durch die Optimierung nur dieser niedrigdimensionalen Matrizen reduziert LoRA erheblich...

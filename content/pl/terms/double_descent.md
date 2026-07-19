@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /pl/terms/double_descent/
 date: "2026-07-18T15:52:38.616443Z"
 lastmod: "2026-07-18T17:15:08.868445Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zjawisko, w którym błąd testowy maleje, rośnie, a następnie ponownie maleje, gdy złożoność modelu przekracza próg interpolacyjny."
 ---
-
 ## Definition
 
 Podwójny spadek kwestionuje tradycyjny kompromis między obciążeniem a wariancją, pokazując, że silnie przeparametryzowane modele mogą osiągać niski błąd testowy mimo interpolacji danych treningowych. Początkowo błąd rośnie wraz ze wzrostem złożoności, ale po przekroczeniu progu interpolacji zaczyna spadać.

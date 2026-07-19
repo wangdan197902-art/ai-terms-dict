@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /fr/terms/object/
 date: "2026-07-18T10:52:14.408749Z"
 lastmod: "2026-07-18T11:44:45.168136Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une entité distincte au sein d'un programme contenant des données et des méthodes pour manipuler ces données, centrale dans la programmation orientée objet."
 ---
-
 ## Definition
 
 Un objet est un concept fondamental en informatique, particulièrement en programmation orientée objet (POO). Il représente une instance d'une classe, encapsulant à la fois l'état (attributs ou données) et le comportement (méthodes) associés à cet élément spécifique.

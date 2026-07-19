@@ -1,23 +1,25 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /ro/terms/fp8/
-date: "2026-07-18T15:58:56.478590Z"
-lastmod: "2026-07-18T17:15:09.657599Z"
+slug: fp8
+date: '2026-07-18T15:58:56.478590Z'
+lastmod: '2026-07-18T17:15:09.657599Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "FP8 este un format de virgulă mobilă pe 8 biți conceput pentru a accelera antrenamentul și inferența învățării profunde, menținând totodată niveluri acceptabile de precizie."
+source: agnes_llm
+status: published
+language: ro
+description: FP8 este un format de virgulă mobilă pe 8 biți conceput pentru a accelera
+  antrenamentul și inferența învățării profunde, menținând totodată niveluri acceptabile
+  de precizie.
 ---
-
 ## Definition
 
 Virgula mobilă 8 (FP8) este un tip de date numeric care oferă un echilibru între eficiența computațională și acuratețe, fiind optimizat specific pentru hardware-ul modern de IA. Reduce cerințele de lățime de bandă a memoriei și viteza de procesare comparativ cu formatele mai mari, cum ar fi FP32.

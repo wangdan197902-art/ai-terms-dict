@@ -7,8 +7,6 @@ tags: ["GANs", "Deep Learning", "Failure Modes"]
 difficulty: 4
 weight: 1
 slug: "mode_collapse"
-aliases:
-  - /pl/terms/mode_collapse/
 date: "2026-07-18T16:07:45.628324Z"
 lastmod: "2026-07-18T17:15:08.898241Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zawalenie się trybu to awaria w generatywnych adversarialnych sieciach neuronowych (GAN), w której generator produkuje ograniczoną różnorodność wyników."
 ---
-
 ## Definition
 
 W GAN-ach zawalenie się trybu występuje, gdy generator uczy się wykorzystywać słabości dyskryminatora, produkując wąski zakres prawdopodobnych próbek, ignorując inne tryby rozkładu danych. To

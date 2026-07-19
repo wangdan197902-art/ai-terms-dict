@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /ar/terms/circuit/
 date: "2026-07-18T15:48:35.462751Z"
 lastmod: "2026-07-18T17:15:08.484132Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تشير الدائرة إلى البنية التحتية للأجهزة المادية، بما في ذلك الرقائق ووصلات الربط، التي تنفذ المهام الحسابية."
 ---
-
 ## Definition
 
 في سياق الذكاء الاصطناعي، يشير مصطلح الدائرة عادةً إلى بنية الأجهزة الأساسية مثل وحدات معالجة الرسومات (GPUs)، ووحدات معالجة Tensor (TPUs)، أو الرقائق العصبية، المصممة لتسريع عمليات المصفوفات والمعالجة المتوازية. هذه

@@ -1,23 +1,24 @@
 ---
-title: "Hyperparameterafstemming"
-term_id: "hyperparameter_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training", "techniques"]
+title: Hyperparameterafstemming
+term_id: hyperparameter_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- training
+- techniques
 difficulty: 3
 weight: 1
-slug: "hyperparameter_tuning"
-aliases:
-  - /nl/terms/hyperparameter_tuning/
-date: "2026-07-18T15:59:20.343583Z"
-lastmod: "2026-07-18T17:15:08.753621Z"
+slug: hyperparameter_tuning
+date: '2026-07-18T15:59:20.343583Z'
+lastmod: '2026-07-18T17:15:08.753621Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het proces van het systematisch zoeken naar de beste combinatie van hyperparameters om de modelprestaties te optimaliseren."
+source: agnes_llm
+status: published
+language: nl
+description: Het proces van het systematisch zoeken naar de beste combinatie van hyperparameters
+  om de modelprestaties te optimaliseren.
 ---
-
 ## Definition
 
 Hyperparameterafstemming houdt in dat verschillende sets hyperparameters worden geëvalueerd om de configuratie te vinden die de beste modelnauwkeurigheid oplevert of de laagste foutmarge heeft. Veelvoorkomende strategieën zijn roosterzoeking, w

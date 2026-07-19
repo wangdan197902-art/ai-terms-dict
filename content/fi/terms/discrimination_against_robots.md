@@ -1,23 +1,26 @@
 ---
-title: "Robotien syrjintä"
-term_id: "discrimination_against_robots"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "sociology", "human-robot-interaction", "bias"]
+title: Robotien syrjintä
+term_id: discrimination_against_robots
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- sociology
+- Human Robot Interaction
+- bias
 difficulty: 4
 weight: 1
-slug: "discrimination_against_robots"
-aliases:
-  - /fi/terms/discrimination_against_robots/
-date: "2026-07-18T15:54:59.970949Z"
-lastmod: "2026-07-18T17:15:09.405851Z"
+slug: discrimination_against_robots
+date: '2026-07-18T15:54:59.970949Z'
+lastmod: '2026-07-18T17:15:09.405851Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Eettinen ja oikeudellinen käsite, joka viittaa harhaanperäiseen kohteluun tai ennakkoluuloihin tekoälyagentteja tai autonomisia järjestelmiä kohtaan, joita aiheuttavat usein antropomorfinen projisoint"
+source: agnes_llm
+status: published
+language: fi
+description: Eettinen ja oikeudellinen käsite, joka viittaa harhaanperäiseen kohteluun
+  tai ennakkoluuloihin tekoälyagentteja tai autonomisia järjestelmiä kohtaan, joita
+  aiheuttavat usein antropomorfinen projisoint
 ---
-
 ## Definition
 
 Robotien syrjintä on nouseva eettinen ja sosiologinen käsite, joka tarkastelee sitä, miten ihmiset voivat kohdella tekoälyagentteja epäoikeudenmukaisesti, epäluottamuksellisesti tai negatiivisesti niiden luonteen vuoksi. Ilmiö liittyy ihmisten taipumukseen projisoida inhimillisiä piirteitä koneisiin ja siitä seuraavaan moraaliseen dilemaan.

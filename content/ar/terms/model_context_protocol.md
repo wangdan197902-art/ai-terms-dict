@@ -7,8 +7,6 @@ tags: ["Engineering", "Standards"]
 difficulty: 4
 weight: 1
 slug: "model_context_protocol"
-aliases:
-  - /ar/terms/model_context_protocol/
 date: "2026-07-18T15:37:42.111573Z"
 lastmod: "2026-07-18T17:15:08.463329Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "إطار عمل موحد مصمم لتسهيل الاتصال الآمن والكفء بين نماذج الذكاء الاصطناعي ومصادر البيانات أو الأدوات الخارجية."
 ---
-
 ## Definition
 
 بروتوكول سياق النموذج (MCP) هو معيار مفتوح يمكّن تطبيقات الذكاء الاصطناعي من الاتصال بمصادر بيانات متنوعة، مثل قواعد البيانات وواجهات برمجة التطبيقات (APIs) وأنظمة الملفات، بطريقة موحدة. فهو يجريد التعقيدات التقنية للاتصال.

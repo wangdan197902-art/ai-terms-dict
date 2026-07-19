@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /cs/terms/feedback_neural_network/
 date: "2026-07-18T15:57:59.975122Z"
 lastmod: "2026-07-18T17:15:09.130233Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Architektura neuronové sítě, kde spojení tvoří směrované cykly, což umožňuje přetrvávání informací v čase."
 ---
-
 ## Definition
 
 Zpětnovazebné neuronové sítě, také známé jako rekurentní neuronové sítě (RNN), obsahují smyčky, které umožňují signálům šířit se zpět do předchozích vrstev. Tato rekurze umožňuje síti udržovat vnitřní stav a zpracovávat sekvenční data.

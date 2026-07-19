@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /ja/terms/galaxy_ai/
 date: "2026-07-18T11:15:40.207716Z"
 lastmod: "2026-07-18T11:44:45.099922Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "サムスンがGalaxyスマートフォンやデバイスに統合した、オンデバイスおよびクラウドベースの人工知能機能スイートに対するブランド名。"
 ---
-
 ## Definition
 
 Galaxy AIは、主にスマートフォンを中心としたサムスンのハードウェアラインアップ全体でユーザー体験を向上させるために設計された、サムスン独自のAI機能エコシステムです。これには、リアルタイム翻訳、生成編集、会議メモの要約など、デバイス上で直接動作する機能や、クラウドと連携する機能が含まれています。

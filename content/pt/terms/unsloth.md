@@ -1,23 +1,26 @@
 ---
-title: "Unsloth"
-term_id: "unsloth"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "LLM", "training", "library"]
+title: Unsloth
+term_id: unsloth
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- LLM
+- training
+- library
 difficulty: 3
 weight: 1
-slug: "unsloth"
-aliases:
-  - /pt/terms/unsloth/
-date: "2026-07-18T15:26:24.969108Z"
-lastmod: "2026-07-18T15:51:59.540922Z"
+slug: unsloth
+date: '2026-07-18T15:26:24.969108Z'
+lastmod: '2026-07-18T15:51:59.540922Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Unsloth é uma biblioteca de código aberto que acelera o treinamento e a inferência de Grandes Modelos de Linguagem (LLMs) em até 2x por meio de gerenciamento de memória otimizado e implementações de k"
+source: agnes_llm
+status: published
+language: pt
+description: Unsloth é uma biblioteca de código aberto que acelera o treinamento e
+  a inferência de Grandes Modelos de Linguagem (LLMs) em até 2x por meio de gerenciamento
+  de memória otimizado e implementações de k
 ---
-
 ## Definition
 
 Unsloth é uma ferramenta especializada projetada para otimizar o ajuste fino (fine-tuning) e a implantação de Grandes Modelos de Linguagem (LLMs). Ela alcança aumentos significativos de velocidade e reduções de memória substituindo os kernels padrão do PyTorch por versões otimizadas.

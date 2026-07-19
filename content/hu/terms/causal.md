@@ -1,23 +1,24 @@
 ---
-title: "Ok-okozati"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: Ok-okozati
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /hu/terms/causal/
-date: "2026-07-18T15:24:10.963045Z"
-lastmod: "2026-07-18T17:15:09.716728Z"
+slug: causal
+date: '2026-07-18T15:24:10.963045Z'
+lastmod: '2026-07-18T17:15:09.716728Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az ok-okozati következtetés célja a változók közötti ok-okozati kapcsolatok meghatározása, nem csupán a statisztikai korrelációk azonosítása."
+source: agnes_llm
+status: published
+language: hu
+description: Az ok-okozati következtetés célja a változók közötti ok-okozati kapcsolatok
+  meghatározása, nem csupán a statisztikai korrelációk azonosítása.
 ---
-
 ## Definition
 
 A mesterséges intelligenciában az ok-okozati modellezés arra törekszik, megérteni, hogyan befolyásolják az egyes változókon végzett beavatkozások a másikat. A megfigyelt mintázatokra támaszkodó prediktív modellektől eltérően az ok-okozati MI strukturális egyenleteket használ.

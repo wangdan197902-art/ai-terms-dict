@@ -7,8 +7,6 @@ tags: ["journal", "academic", "reference"]
 difficulty: 2
 weight: 1
 slug: "nature_machine_intelligence"
-aliases:
-  - /ro/terms/nature_machine_intelligence/
 date: "2026-07-18T16:13:21.747439Z"
 lastmod: "2026-07-18T17:15:09.685673Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O revistă științifică recenzată de colegi, publicată de Springer Nature, axată pe cercetarea interdisciplinară în inteligența artificială."
 ---
-
 ## Definition
 
 Nature Machine Intelligence este o revistă academică de mare impact dedicată publicării de cercetări originale privind toate aspectele inteligenței artificiale. Acoperă subiecte care variază de la algoritmi fundamentali

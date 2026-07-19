@@ -1,23 +1,23 @@
 ---
-title: "เทคนิคการแยกตัวแปรใหม่ (Reparameterization Trick)"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: เทคนิคการแยกตัวแปรใหม่ (Reparameterization Trick)
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /th/terms/reparameterization_trick/
-date: "2026-07-18T16:13:54.445710Z"
-lastmod: "2026-07-18T16:38:07.650134Z"
+slug: reparameterization_trick
+date: '2026-07-18T16:13:54.445710Z'
+lastmod: '2026-07-18T16:38:07.650134Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่แยกตัวแปรสุ่มออกจากพารามิเตอร์ที่เรียนรู้ได้ เพื่อเปิดทางให้ใช้การหาค่าเหมาะที่สุดแบบใช้เกรเดียนต์ในการอนุมานแบบแปรผัน"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่แยกตัวแปรสุ่มออกจากพารามิเตอร์ที่เรียนรู้ได้ เพื่อเปิดทางให้ใช้การหาค่าเหมาะที่สุดแบบใช้เกรเดียนต์ในการอนุมานแบบแปรผัน
 ---
-
 ## Definition
 
 เทคนิคการแยกตัวแปรใหม่เป็นวิธีการพื้นฐานที่ใช้ในออโตเอนโคเดอร์แบบแปรผันและโมเดลความน่าจะเป็นอื่นๆ เทคนิคนี้ช่วยให้เกรเดียนต์สามารถไหลผ่านโหนดสุ่มได้ โดยการแสดงตัวแปรสุ่มในรูปของฟังก์ชันที่หาอนุพันธ์ได้ของตัวแปรสุ่มอื่นและพารามิเตอร์ที่เรียนรู้ได้ ซึ่งทำให้สามารถฝึกฝนโมเดลด้วยวิธี backpropagation ได้

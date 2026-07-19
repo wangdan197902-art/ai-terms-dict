@@ -7,8 +7,6 @@ tags: ["evaluation", "theory", "robustness"]
 difficulty: 2
 weight: 1
 slug: "stability"
-aliases:
-  - /pt/terms/stability/
 date: "2026-07-18T15:23:30.264312Z"
 lastmod: "2026-07-18T15:51:59.535072Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A propriedade de um modelo de aprendizado de máquina de produzir previsões consistentes quando treinado em conjuntos de dados ligeiramente diferentes."
 ---
-
 ## Definition
 
 Em aprendizado de máquina, estabilidade refere-se à robustez do desempenho e dos parâmetros de um modelo quando submetido a pequenas perturbações nos dados de treinamento. Um algoritmo estável produzirá modelos semelhantes

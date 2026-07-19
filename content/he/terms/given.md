@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /he/terms/given/
 date: "2026-07-18T15:25:59.459041Z"
 lastmod: "2026-07-18T17:15:09.478609Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מונח המציין נתונים, אילוצים או הקשר קיימים המסופקים כקלט לתהליך אלגוריתמי."
 ---
-
 ## Definition
 
 בהקשרים של בינה מלאכותית ומדעי המחשב, 'נתון' מתייחס למצב ההתחלתי, לערכת הנתונים או לפרמטרים המסופקים למודל או לפונקציה לפני תחילת החישוב, ומגדיר את תנאי הגבול.

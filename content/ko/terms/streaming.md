@@ -1,23 +1,23 @@
 ---
-title: "스트리밍"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: 스트리밍
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /ko/terms/streaming/
-date: "2026-07-18T16:17:21.908058Z"
-lastmod: "2026-07-18T16:38:06.911668Z"
+slug: streaming
+date: '2026-07-18T16:17:21.908058Z'
+lastmod: '2026-07-18T16:38:06.911668Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "정보를 대규모의 정적 배치(batch)로 처리하는 대신, 도착하는 대로 작은 단위로 지속적으로 처리하는 데이터 처리 패러다임."
+source: agnes_llm
+status: published
+language: ko
+description: 정보를 대규모의 정적 배치(batch)로 처리하는 대신, 도착하는 대로 작은 단위로 지속적으로 처리하는 데이터 처리 패러다임.
 ---
-
 ## Definition
 
 스트리밍은 데이터가 생성되는 실시간 또는 준실시간으로 데이터를 지속적으로 흡수하고 처리하는 것을 의미합니다. 고정된 데이터셋을 처리하는 배치 처리와 달리, 스트리밍 시스템은 무한한 데이터 흐름을 관리하며, 낮은 지연 시간과 증분 업데이트를 통해 즉각적인 인사이트를 제공합니다.

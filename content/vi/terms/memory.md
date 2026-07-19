@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /vi/terms/memory/
 date: "2026-07-18T15:36:21.530473Z"
 lastmod: "2026-07-18T16:38:07.710754Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khả năng của hệ thống AI trong việc lưu trữ, truy xuất và sử dụng thông tin qua các tương tác để duy trì ngữ cảnh và cải thiện hiệu suất theo thời gian."
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, bộ nhớ đề cập đến các cơ chế cho phép mô hình giữ lại thông tin vượt ra ngoài một bước suy luận đơn lẻ. Điều này bao gồm bộ nhớ làm việc ngắn hạn để xử lý ngữ cảnh ngay lập tức trong một phiên giao dịch hoặc chuỗi tương tác, cũng như bộ nhớ dài hạn để lưu trữ kiến thức bền vững.

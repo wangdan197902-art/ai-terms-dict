@@ -7,8 +7,6 @@ tags: ["AI Concepts", "Data Types", "Integration"]
 difficulty: 2
 weight: 1
 slug: "muiltimodal"
-aliases:
-  - /nl/terms/muiltimodal/
 date: "2026-07-18T16:08:58.832995Z"
 lastmod: "2026-07-18T17:15:08.769898Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Multimodaal verwijst naar AI-systemen die meerdere soorten datamodaliteiten, zoals tekst, afbeeldingen en audio, gelijktijdig verwerken en integreren."
 ---
-
 ## Definition
 
 In de kunstmatige intelligentie beschrijft multimodaliteit het vermogen van een model om informatie te begrijpen, genereren of correleren over verschillende zintuiglijke invoer of dataformaten heen. In tegenstelling tot unimodale modellen...

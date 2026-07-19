@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stablediffusionxlpipeline'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /tr/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:50:05.197037Z"
-lastmod: "2026-07-18T16:38:07.300111Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:50:05.197037Z'
+lastmod: '2026-07-18T16:38:07.300111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Önceki sürümlere göre artırılmış çözünürlük, detay ve isteme uyum sunan Stable Diffusion XL (SDXL) için bir boru hattı."
+source: agnes_llm
+status: published
+language: tr
+description: Önceki sürümlere göre artırılmış çözünürlük, detay ve isteme uyum sunan
+  Stable Diffusion XL (SDXL) için bir boru hattı.
 ---
-
 ## Definition
 
 Bu boru hattı, üstün detay ve kompozisyona sahip yüksek çözünürlüklü (1024x1024) görüntüler üretmek için rafine edilmiş bir temel model ve bir incelleme (refiner) modeli kullanan Stable Diffusion XL mimarisini uygular. İ

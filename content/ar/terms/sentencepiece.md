@@ -7,8 +7,6 @@ tags: ["Tools", "Tokenization", "Engineering"]
 difficulty: 2
 weight: 1
 slug: "sentencepiece"
-aliases:
-  - /ar/terms/sentencepiece/
 date: "2026-07-18T16:20:18.128648Z"
 lastmod: "2026-07-18T17:15:08.547192Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مكتبة لتجزئة وفك تجزئة النصوص بدون إشراف تعالج النص الخام كسلسلة من الكلمات الفرعية لمعالجة مسبقة في معالجة اللغة الطبيعية."
 ---
-
 ## Definition
 
 SentencePiece هي مكتبة مفتوحة المصدر شائعة لتطبيع النصوص وتجزئتها، وتُستخدم على نطاق واسع في خطوط أنابيب معالجة اللغة الطبيعية الحديثة. تقوم بتعلم غير خاضع للإشراف لمفردات مشتركة تجمع بين أسلوب الكلمة والأسلوب الفرعي...

@@ -7,8 +7,6 @@ tags: ["NLP", "interpretation", "input"]
 difficulty: 2
 weight: 1
 slug: "context"
-aliases:
-  - /no/terms/context/
 date: "2026-07-18T15:25:06.403507Z"
 lastmod: "2026-07-18T16:38:06.933973Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Kontekst refererer til den omkringliggende informasjonen eller miljøet som hjelper en AI-modell med å tolke inndata nøyaktig og generere relevante svar."
 ---
-
 ## Definition
 
 Innen naturlig språkbehandling er kontekst avgjørende for å løse tvetydighet, for eksempel ved å forstå pronomen eller idiomuttrykk basert på tidligere setninger. Moderne arkitekturer som transformers bruker oppmerksomhetsmekanismer for å veie betydningen av ulike deler av teksten.

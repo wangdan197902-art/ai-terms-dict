@@ -7,8 +7,6 @@ tags: ["fundamentals", "cognitive"]
 difficulty: 2
 weight: 1
 slug: "knowledge"
-aliases:
-  - /pl/terms/knowledge/
 date: "2026-07-18T15:26:34.104570Z"
 lastmod: "2026-07-18T17:15:08.813624Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wiedza to ustrukturyzowane zrozumienie, fakty, umiejętności i spostrzeżenia wyprowadzone z informacji, doświadczenia lub rozumowania, umożliwiające skuteczne podejmowanie decyzji."
 ---
-
 ## Definition
 
 W AI wiedza często odnosi się do jawnych informacji przechowywanych w bazach danych, ontologiach lub wagach sieci neuronowych, które pozwalają na rozumowanie i wnioskowanie. Znajduje się powyżej informacji w hierarchii DIKW...

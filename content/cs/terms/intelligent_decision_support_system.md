@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /cs/terms/intelligent_decision_support_system/
 date: "2026-07-18T16:03:47.666771Z"
 lastmod: "2026-07-18T17:15:09.143443Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Systém vylepšený umělou inteligencí, který pomáhá lidem při složitých rozhodovacích procesech analýzou dat a poskytováním akcionovatelných poznatků."
 ---
-
 ## Definition
 
 Inteligentní systém podpory rozhodování (IDSS) integruje techniky umělé inteligence, jako je strojové učení a zpracování přirozeného jazyka, s tradičními rámci pro podporu rozhodování. Umožňuje efektivnější zpracování velkých objemů informací a nabízí doporučení založená na datech, která podporují lidské rozhodování v komplexních situacích.

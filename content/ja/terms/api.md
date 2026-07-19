@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /ja/terms/api/
 date: "2026-07-18T07:41:35.330987Z"
 lastmod: "2026-07-18T11:44:44.585226Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "異なるソフトウェアシステム間の通信とデータ交換を可能にするアプリケーションプログラミングインタフェース。"
 ---
-
 ## Definition
 
 APIは、ソフトウェアやアプリケーションを構築するためのプロトコルとツールのセットを定義します。AIの分野では、APIにより開発者は、モデルをローカルにホストすることなく、LLMや画像生成モデルなどの強力なモデルにアクセスできます。

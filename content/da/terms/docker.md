@@ -7,8 +7,6 @@ tags: ["DevOps", "Infrastructure", "Deployment"]
 difficulty: 2
 weight: 1
 slug: "docker"
-aliases:
-  - /da/terms/docker/
 date: "2026-07-18T15:34:56.413668Z"
 lastmod: "2026-07-18T17:15:09.243631Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Docker er en platform til udvikling, distribution og kørsel af applikationer i letvægts, bærbare containere."
 ---
-
 ## Definition
 
 Docker gør det muligt for udviklere at pakke en applikation sammen med alle dens afhængigheder ind i en standardiseret enhed til softwareudvikling. Disse containere isolerer softwaren fra dens miljø, hvilket sikrer konsistens.

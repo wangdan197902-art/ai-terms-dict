@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /id/terms/regularization/
 date: "2026-07-18T16:07:03.481326Z"
 lastmod: "2026-07-18T16:38:07.500501Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Serangkaian teknik yang digunakan selama pelatihan untuk mencegah overfitting dengan menambahkan penalti pada fungsi kerugian atau membatasi kompleksitas model."
 ---
-
 ## Definition
 
 Regularisasi adalah konsep penting dalam pembelajaran mesin yang dirancang untuk mengurangi kesalahan generalisasi tanpa meningkatkan kesalahan pelatihan secara signifikan. Teknik ini bekerja dengan mencegah model belajar pola yang terlalu spesifik.

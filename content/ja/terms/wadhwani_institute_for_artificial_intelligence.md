@@ -1,23 +1,23 @@
 ---
-title: "ワドワニ人工知能研究所"
-term_id: "wadhwani_institute_for_artificial_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["organization", "social_impact", "research"]
+title: ワドワニ人工知能研究所
+term_id: wadhwani_institute_for_artificial_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- organization
+- Social Impact
+- research
 difficulty: 4
 weight: 1
-slug: "wadhwani_institute_for_artificial_intelligence"
-aliases:
-  - /ja/terms/wadhwani_institute_for_artificial_intelligence/
-date: "2026-07-18T11:36:21.548655Z"
-lastmod: "2026-07-18T11:44:45.154578Z"
+slug: wadhwani_institute_for_artificial_intelligence
+date: '2026-07-18T11:36:21.548655Z'
+lastmod: '2026-07-18T11:44:45.154578Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ワドワニ人工知能研究所は、発展途上国の医療と農業における重要な課題に対処するためにAIソリューションの適用に焦点を当てた研究機関です。"
+source: agnes_llm
+status: published
+language: ja
+description: ワドワニ人工知能研究所は、発展途上国の医療と農業における重要な課題に対処するためにAIソリューションの適用に焦点を当てた研究機関です。
 ---
-
 ## Definition
 
 ワドワニ財団からの多額の寄付により設立されたこの研究所は、大規模な社会的問題の解決に向けて、高度な機械学習とコンピュータビジョン技術を活用しています。その主な...

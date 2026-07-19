@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /he/terms/knowledge_level/
 date: "2026-07-18T16:08:42.995639Z"
 lastmod: "2026-07-18T17:15:09.554474Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "פרספקטיבת עיצוב מופשדת המתמקדת במה שהסוכן יודע, ולא כיצד הוא מעבד מידע פנימית."
 ---
-
 ## Definition
 
 מונח זה, שטבע אלן ניוול, מנתח מערכות אינטליגנטיות על בסיס האמונות והמטרות שלהן, ללא תלות ביישום הפיזי שלהן. הוא מפריד בין הרציונליות של פעולות הסוכן לבין המנגנונים הטכניים המממשים אותן.

@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /no/terms/training_free/
 date: "2026-07-18T15:35:54.944611Z"
 lastmod: "2026-07-18T16:38:06.955386Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Metoder som tilpasser eller forbedrer modeller uten å utføre gradientbaserte parameteroppdateringer."
 ---
-
 ## Definition
 
 Treningfrie tilnærminger refererer til teknikker som modifiserer modellatferd eller utdata uten å oppdatere de underliggende vektene via bakoverpropagering. Disse metodene utnytter ofte promptingeniørfag, funksjonsegenskaper eller eksterne hukommelsesmekanismer for å oppnå tilpasning uten kostnad for modelltrening.

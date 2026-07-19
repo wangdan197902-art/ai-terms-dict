@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /ko/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:42:02.548274Z"
 lastmod: "2026-07-18T16:38:06.809459Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "이력서 스크리닝, 후보자 매칭 및 면접 분석을 포함하여 채용 프로세스를 간소화하기 위한 AI 도구 사용."
 ---
-
 ## Definition
 
 채용용 AI는 알고리즘을 활용하여 채용 생명주기의 다양한 단계를 자동화하고 강화합니다. 이러한 도구는 이력서에서 키워드 관련성을 분석하고, 예측 모델을 통해 후보자의 적합성을 평가하며, 채용 과정을 최적화합니다.

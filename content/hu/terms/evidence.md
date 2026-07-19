@@ -7,8 +7,6 @@ tags: ["evaluation", "data", "validation"]
 difficulty: 2
 weight: 1
 slug: "evidence"
-aliases:
-  - /hu/terms/evidence/
 date: "2026-07-18T15:26:02.436623Z"
 lastmod: "2026-07-18T17:15:09.719279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Hipotézis alátámasztására vagy egy AI modell teljesítményének validálására használt adatok vagy információk."
 ---
-
 ## Definition
 
 Az mesterséges intelligencia területén a bizonyíték empirikus adatokra, statisztikai eredményekre vagy megfigyelhető kimenetelekre utal, amelyek alátámasztják azokat az állításokat, amelyek a modell viselkedésére, pontosságára vagy hatékonyságára vonatkoznak. Alapvető szerepet játszik a modellek megbízhatóságának igazolásában.

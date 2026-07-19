@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Classification"]
 difficulty: 2
 weight: 1
 slug: "datasetyahoo_answers_topics"
-aliases:
-  - /hu/terms/datasetyahoo_answers_topics/
 date: "2026-07-18T15:55:35.396696Z"
 lastmod: "2026-07-18T17:15:09.772849Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A Yahoo Answers-ból származó adathalmaz, amely felhasználók által generált kérdéseket és válaszokat tartalmaz, specifikus témakörökbe rendezve a szemantikai illeszkedés és osztályozás érdekében."
 ---
-
 ## Definition
 
 A Yahoo Answers Topics adathalmaz a nagyobb Yahoo Answers archívum egy részhalmaza, amely a kérdésekre és válaszokra fókuszál, különálló témakör-kategóriákba szervezve. Gyakran használják szövegosztályozási és szemantikai hasonlósági feladatoknál, mivel valós életbeli, informális nyelvezetet tartalmaz.

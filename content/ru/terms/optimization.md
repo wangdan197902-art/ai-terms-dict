@@ -1,23 +1,24 @@
 ---
-title: "Оптимизация"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Оптимизация
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /ru/terms/optimization/
-date: "2026-07-18T15:35:11.623598Z"
-lastmod: "2026-07-18T16:38:07.108448Z"
+slug: optimization
+date: '2026-07-18T15:35:11.623598Z'
+lastmod: '2026-07-18T16:38:07.108448Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Математический процесс минимизации или максимизации целевой функции для нахождения наилучших параметров решения."
+source: agnes_llm
+status: published
+language: ru
+description: Математический процесс минимизации или максимизации целевой функции для
+  нахождения наилучших параметров решения.
 ---
-
 ## Definition
 
 В машинном обучении оптимизация относится к алгоритмам, используемым для настройки параметров модели с целью минимизации функции потерь, тем самым улучшая производительность модели. К распространенным методам относятся градиентный спуск и его вариации.

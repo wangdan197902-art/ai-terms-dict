@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /pl/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T15:49:03.873391Z"
 lastmod: "2026-07-18T17:15:08.862009Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Zbiór danych zawierający oryginalne zdania oraz ich skompresowane wersje, służący do trenowania modeli w zakresie zachowania informacji."
 ---
-
 ## Definition
 
 Zbiory danych do kompresji zdań składają się z par, w których zdanie docelowe jest skróconą wersją zdania źródłowego, zachowującą główne znaczenie przy jednoczesnym usunięciu redundancji. Te zbiory danych są...

@@ -1,23 +1,24 @@
 ---
-title: "Estimarea densității kernel"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: Estimarea densității kernel
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /ro/terms/kernel_density_estimation/
-date: "2026-07-18T16:06:45.361020Z"
-lastmod: "2026-07-18T17:15:09.671041Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:06:45.361020Z'
+lastmod: '2026-07-18T17:15:09.671041Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O metodă neparametrică utilizată pentru a estima funcția de densitate de probabilitate a unei variabile aleatoare pe baza unui eșantion finit de date."
+source: agnes_llm
+status: published
+language: ro
+description: O metodă neparametrică utilizată pentru a estima funcția de densitate
+  de probabilitate a unei variabile aleatoare pe baza unui eșantion finit de date.
 ---
-
 ## Definition
 
 Estimarea densității kernel (KDE) este o tehnică statistică fundamentală care netezește punctele de date discrete pentru a crea o curbă continuă a distribuției de probabilitate. Plasează o funcție kernel, de obicei G

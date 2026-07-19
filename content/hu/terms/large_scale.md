@@ -7,8 +7,6 @@ tags: ["infrastructure", "scaling"]
 difficulty: 2
 weight: 1
 slug: "large_scale"
-aliases:
-  - /hu/terms/large_scale/
 date: "2026-07-18T15:35:22.926290Z"
 lastmod: "2026-07-18T17:15:09.735471Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan AI rendszereket vagy halmazokat ír le, amelyek hatalmas mennyiségű adatot, paramétert vagy számítási erőforrást használnak."
 ---
-
 ## Definition
 
 A nagy méretarányú megközelítés az AI rendszer komponenseinek nagyságrendjére utal, amely gyakran milliárdos paramétereket, terabájtnyi tanítóadatot vagy elosztott számítási klasztereket foglal magában. Ez az alapvető modellek fejlesztésének alapja.

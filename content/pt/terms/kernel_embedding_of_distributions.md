@@ -1,23 +1,25 @@
 ---
-title: "Incorporação de Distribuições por Kernel"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Incorporação de Distribuições por Kernel
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /pt/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T15:06:51.263799Z"
-lastmod: "2026-07-18T15:51:59.504435Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T15:06:51.263799Z'
+lastmod: '2026-07-18T15:51:59.504435Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma técnica que mapeia distribuições de probabilidade para um Espaço de Hilbert de Kernel Reprodutor (RKHS) para permitir comparação e manipulação por meio de operações vetoriais."
+source: agnes_llm
+status: published
+language: pt
+description: Uma técnica que mapeia distribuições de probabilidade para um Espaço
+  de Hilbert de Kernel Reprodutor (RKHS) para permitir comparação e manipulação por
+  meio de operações vetoriais.
 ---
-
 ## Definition
 
 A Incorporação de Distribuições por Kernel permite que objetos probabilísticos sejam tratados como pontos em um espaço de características de alta dimensão chamado Espaço de Hilbert de Kernel Reprodutor (RKHS). Ao mapear distribuições para este espaço, operações algébricas lineares podem ser realizadas diretamente nas distribuições, facilitando tarefas como comparação e teste de hipóteses.

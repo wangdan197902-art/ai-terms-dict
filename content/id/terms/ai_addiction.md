@@ -7,8 +7,6 @@ tags: ["psychology", "health", "ethics"]
 difficulty: 2
 weight: 1
 slug: "ai_addiction"
-aliases:
-  - /id/terms/ai_addiction/
 date: "2026-07-18T15:36:58.340964Z"
 lastmod: "2026-07-18T16:38:07.422314Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ketergantungan psikologis pada interaksi dengan sistem kecerdasan buatan, yang menyebabkan perilaku penggunaan kompulsif."
 ---
-
 ## Definition
 
 Kecanduan AI menggambarkan kondisi perilaku di mana individu mengembangkan ketergantungan kompulsif pada interaksi berbasis AI, seperti chatbot atau algoritma media sosial. Ketergantungan ini sering kali berasal dari umpan balik dopamin yang diberikan oleh respons AI yang dipersonalisasi dan selalu tersedia.

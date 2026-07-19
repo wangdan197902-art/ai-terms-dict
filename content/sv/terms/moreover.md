@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /sv/terms/moreover/
 date: "2026-07-18T15:29:10.733233Z"
 lastmod: "2026-07-18T17:15:08.946748Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En övergångsadverb som används för att introducera ytterligare information eller förstärka ett tidigare argument."
 ---
-
 ## Definition
 
 Inom AI-dokumentation och teknisk skrivning fungerar 'dessutom' som ett diskursmarkör som signalerar tillägg av stödjande bevis eller en ytterligare punkt som stärker den aktuella diskussionen.

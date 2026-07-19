@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /pl/terms/multi_task_learning/
 date: "2026-07-18T16:08:17.191180Z"
 lastmod: "2026-07-18T17:15:08.899793Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Uczenie wielozadaniowe to paradygmat uczenia maszynowego, w którym model jest trenowany na wielu powiązanych zadaniach jednocześnie, aby poprawić uogólnianie."
 ---
-
 ## Definition
 
 Ta technika wykorzystuje wspólny bias indukcyjny wśród powiązanych zadań, aby zwiększyć wydajność i skuteczność nauki. Trenując pojedynczy model do wykonywania kilku zadań naraz, model uczy się wspólnej...

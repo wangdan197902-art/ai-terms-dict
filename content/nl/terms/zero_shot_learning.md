@@ -1,23 +1,25 @@
 ---
-title: "Zero-shot Learning"
-term_id: "zero_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategy", "generalization", "efficiency"]
+title: Zero-shot Learning
+term_id: zero_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategy
+- generalization
+- efficiency
 difficulty: 4
 weight: 1
-slug: "zero_shot_learning"
-aliases:
-  - /nl/terms/zero_shot_learning/
-date: "2026-07-18T15:39:30.283076Z"
-lastmod: "2026-07-18T17:15:08.710811Z"
+slug: zero_shot_learning
+date: '2026-07-18T15:39:30.283076Z'
+lastmod: '2026-07-18T17:15:08.710811Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Zero-shot learning is een techniek waarbij een model taken uitvoert op klassen die het tijdens het trainen nooit heeft gezien, door gebruik te maken van semantische associaties."
+source: agnes_llm
+status: published
+language: nl
+description: Zero-shot learning is een techniek waarbij een model taken uitvoert op
+  klassen die het tijdens het trainen nooit heeft gezien, door gebruik te maken van
+  semantische associaties.
 ---
-
 ## Definition
 
 Zero-shot learning stelt een machine learning-model in staat instanties van klassen te classificeren die niet aanwezig waren in de trainingsdataset. In plaats van te vertrouwen op gelabelde voorbeelden voor elke mogelijke klasse, maakt de

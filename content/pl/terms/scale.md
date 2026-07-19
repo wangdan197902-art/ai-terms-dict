@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /pl/terms/scale/
 date: "2026-07-18T15:29:23.621934Z"
 lastmod: "2026-07-18T17:15:08.820163Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Skalowanie odnosi się do wielkości danych, parametrów lub zasobów obliczeniowych wykorzystywanych w modelach uczenia maszynowego."
 ---
-
 ## Definition
 
 W sztucznej inteligencji skalowanie zazwyczaj obejmuje zwiększanie rozmiaru zbiorów danych, liczby parametrów modelu lub mocy obliczeniowej w celu poprawy wydajności. Pojęcie to jest kluczowe dla uczenia głębokiego, gdzie duże

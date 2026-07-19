@@ -1,23 +1,24 @@
 ---
-title: "Модель, основанная на данных"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Модель, основанная на данных
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /ru/terms/data_driven_model/
-date: "2026-07-18T15:47:31.321783Z"
-lastmod: "2026-07-18T16:38:07.138945Z"
+slug: data_driven_model
+date: '2026-07-18T15:47:31.321783Z'
+lastmod: '2026-07-18T16:38:07.138945Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Вычислительная модель, параметры и структура которой обучаются непосредственно на эмпирических данных, а не задаются явным программированием."
+source: agnes_llm
+status: published
+language: ru
+description: Вычислительная модель, параметры и структура которой обучаются непосредственно
+  на эмпирических данных, а не задаются явным программированием.
 ---
-
 ## Definition
 
 Модель, основанная на данных, — это тип системы искусственного интеллекта, поведение и прогнозы которой формируются на основе паттернов, выявленных в исторических данных, а не определяются жестко закодированными правилами или явными математическими уравнениями. Такие модели полагаются на статистический вывод и эмпирическое обучение.

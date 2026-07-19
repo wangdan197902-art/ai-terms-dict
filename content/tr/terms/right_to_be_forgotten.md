@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /tr/terms/right_to_be_forgotten/
 date: "2026-07-18T16:21:57.826876Z"
 lastmod: "2026-07-18T16:38:07.379405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bireylerin kuruluşlar tarafından tutulan kişisel verilerinin silinmesini talep etmesine izin veren yasal bir kavram."
 ---
-
 ## Definition
 
 Unutulma hakkı, kullanıcıların kişisel bilgilerini veritabanlarından ve yapay zeka eğitim setlerinden kaldırılmasını talep etmelerini sağlar. Makine öğreniminde bunun uygulanması, modellerin...

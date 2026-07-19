@@ -1,23 +1,23 @@
 ---
-title: "Teste"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Teste
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /pt/terms/test/
-date: "2026-07-18T14:40:01.057802Z"
-lastmod: "2026-07-18T15:51:59.440577Z"
+slug: test
+date: '2026-07-18T14:40:01.057802Z'
+lastmod: '2026-07-18T15:51:59.440577Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Teste refere-se à fase de avaliação onde um modelo de IA treinado é avaliado em dados não vistos para medir o desempenho."
+source: agnes_llm
+status: published
+language: pt
+description: Teste refere-se à fase de avaliação onde um modelo de IA treinado é avaliado
+  em dados não vistos para medir o desempenho.
 ---
-
 ## Definition
 
 O conjunto de teste é uma parte dos dados mantida de lado durante o processo de treinamento para avaliar a capacidade de generalização do modelo final. Diferente dos conjuntos de validação usados para ajuste de hiperparâmetros, o conjunto de teste fornece uma estimativa imparcial do desempenho do modelo em dados novos.

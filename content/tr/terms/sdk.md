@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /tr/terms/sdk/
 date: "2026-07-18T15:37:16.649709Z"
 lastmod: "2026-07-18T16:38:07.263222Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Uygulama geliştirmek için araçlar, kütüphaneler ve dokümantasyon sağlayan Yazılım Geliştirme Kiti."
 ---
-
 ## Definition
 
 SDK, geliştiricilerin belirli platformlar veya hizmetler için uygulamalar oluşturmasını sağlayan yazılım geliştirme araçları koleksiyonudur. Yapay zeka için SDK'ler, önceden hazırlanmış kütüphaneler, API'ler ve

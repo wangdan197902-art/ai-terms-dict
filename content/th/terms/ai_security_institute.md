@@ -7,8 +7,6 @@ tags: ["security", "governance", "research"]
 difficulty: 3
 weight: 1
 slug: "ai_security_institute"
-aliases:
-  - /th/terms/ai_security_institute/
 date: "2026-07-18T15:38:24.783746Z"
 lastmod: "2026-07-18T16:38:07.567589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "องค์กรที่อุทิศตนสำหรับการวิจัย พัฒนา และส่งเสริมแนวปฏิบัติที่ดีที่สุดในการรักษาความปลอดภัยของระบบปัญญาประดิษฐ์"
 ---
-
 ## Definition
 
 สถาบันความปลอดภัย AI คือหน่วยงานเฉพาะทางที่มุ่งเน้นการลดความเสี่ยงที่เกี่ยวข้องกับเทคโนโลยีปัญญาประดิษฐ์ สถาบันเหล่านี้ทำการวิจัยเกี่ยวกับการโจมตีแบบปฏิปักษ์ (adversarial attacks) ความปลอดภัยของข้อมูล

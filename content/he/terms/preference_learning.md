@@ -1,23 +1,23 @@
 ---
-title: "למידת העדפות"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: למידת העדפות
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /he/terms/preference_learning/
-date: "2026-07-18T16:18:27.730766Z"
-lastmod: "2026-07-18T17:15:09.574632Z"
+slug: preference_learning
+date: '2026-07-18T16:18:27.730766Z'
+lastmod: '2026-07-18T17:15:09.574632Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה המאמנת מודלים להתאים פלט להעדפות אנושיות באמצעות משוב השוואתי."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה המאמנת מודלים להתאים פלט להעדפות אנושיות באמצעות משוב השוואתי.
 ---
-
 ## Definition
 
 למידת העדפות מתמקדת בהוראת מודלים להבחין בין פלט טוב לפלט גרוע בהתבסס על שיפוט אנושי ולא על תוויות מוחלטות. היא כוללת בדרך כלל איסוף זוגות תגובות כאשר אחד נחשב עדיף על השני, ומאפשרת למודל ללמוד פונקציית פרסום המשקפת העדפות אנושיות.

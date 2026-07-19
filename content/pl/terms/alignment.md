@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /pl/terms/alignment/
 date: "2026-07-18T15:22:22.749374Z"
 lastmod: "2026-07-18T17:15:08.804935Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces zapewniający, że cele i zachowania systemu AI są zgodne z ludzkimi wartościami i intencjami."
 ---
-
 ## Definition
 
 Uzgodnienie koncentruje się na zapewnieniu, że systemy AI robią to, czego ludzie naprawdę chcą, a nie tylko to, co dosłownie poprosili. Obejmuje techniki takie jak Uczenie Wzmocnione z Ludzką Opiną (RLHF) w celu dopasowania zachowań modelu do oczekiwań.

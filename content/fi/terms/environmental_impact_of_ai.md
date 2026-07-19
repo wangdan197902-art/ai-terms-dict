@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /fi/terms/environmental_impact_of_ai/
 date: "2026-07-18T15:56:43.379597Z"
 lastmod: "2026-07-18T17:15:09.408816Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekeälymallien kehittämisestä, kouluttamisesta ja käyttöönotosta johtuvat ekologiset seuraukset, mukaan lukien energiankulutus ja hiilidioksidipäästöt."
 ---
-
 ## Definition
 
 Tämä termi viittaa tekoälyteknologioiden merkittäviin resurssitarpeisiin, erityisesti suurten mallien koulutusvaiheessa. Se kattaa datakeskusten sähkönkulutuksen, veden käytön jäähdytyksessä sekä laitteiston valmistukseen liittyvät päästöt.

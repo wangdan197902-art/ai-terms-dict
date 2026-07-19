@@ -1,23 +1,24 @@
 ---
-title: "Przetwarzanie asynchroniczne"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Przetwarzanie asynchroniczne
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /pl/terms/async_processing/
-date: "2026-07-18T15:41:49.656450Z"
-lastmod: "2026-07-18T17:15:08.847419Z"
+slug: async_processing
+date: '2026-07-18T15:41:49.656450Z'
+lastmod: '2026-07-18T17:15:08.847419Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Paradygmat programowania, w którym zadania są wykonywane niezależnie od głównego wątku wykonania, co umożliwia operacje nieblokujące."
+source: agnes_llm
+status: published
+language: pl
+description: Paradygmat programowania, w którym zadania są wykonywane niezależnie
+  od głównego wątku wykonania, co umożliwia operacje nieblokujące.
 ---
-
 ## Definition
 
 Przetwarzanie asynchroniczne pozwala oprogramowaniu na wykonywanie długotrwałych zadań, takich jak operacje we/wy lub złożone obliczenia, bez zamrażania interfejsu aplikacji głównej ani blokowania innych procesów. Dzięki

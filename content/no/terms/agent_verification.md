@@ -1,23 +1,24 @@
 ---
-title: "Agentverifisering"
-term_id: "agent_verification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["verification", "safety", "formal_methods"]
+title: Agentverifisering
+term_id: agent_verification
+category: application_paradigms
+subcategory: ''
+tags:
+- verification
+- safety
+- Formal Methods
 difficulty: 5
 weight: 1
-slug: "agent_verification"
-aliases:
-  - /no/terms/agent_verification/
-date: "2026-07-18T15:41:08.958474Z"
-lastmod: "2026-07-18T16:38:06.968654Z"
+slug: agent_verification
+date: '2026-07-18T15:41:08.958474Z'
+lastmod: '2026-07-18T16:38:06.968654Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Agentverifisering er prosessen med formelt å bevise at en autonom agent vil oppføre seg korrekt og trygt under alle spesifiserte forhold."
+source: agnes_llm
+status: published
+language: 'no'
+description: Agentverifisering er prosessen med formelt å bevise at en autonom agent
+  vil oppføre seg korrekt og trygt under alle spesifiserte forhold.
 ---
-
 ## Definition
 
 Dette involverer bruk av matematiske metoder for å sikre at en agents handlinger overholder forhåndsdefinerte begrensninger, som sikkerhetsrammer eller etiske retningslinjer. Det er spesielt viktig for agenter som opererer...

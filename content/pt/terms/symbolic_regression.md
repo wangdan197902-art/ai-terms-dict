@@ -1,23 +1,24 @@
 ---
-title: "Regressão Simbólica"
-term_id: "symbolic_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "model_discovery"]
+title: Regressão Simbólica
+term_id: symbolic_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Model Discovery
 difficulty: 4
 weight: 1
-slug: "symbolic_regression"
-aliases:
-  - /pt/terms/symbolic_regression/
-date: "2026-07-18T15:24:14.267918Z"
-lastmod: "2026-07-18T15:51:59.537165Z"
+slug: symbolic_regression
+date: '2026-07-18T15:24:14.267918Z'
+lastmod: '2026-07-18T15:51:59.537165Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A regressão simbólica é uma técnica que busca expressões matemáticas que melhor se ajustam a um conjunto de dados, com o objetivo de descobrir fórmulas interpretáveis."
+source: agnes_llm
+status: published
+language: pt
+description: A regressão simbólica é uma técnica que busca expressões matemáticas
+  que melhor se ajustam a um conjunto de dados, com o objetivo de descobrir fórmulas
+  interpretáveis.
 ---
-
 ## Definition
 
 A regressão simbólica é um tipo de análise de regressão que procura encontrar uma expressão matemática, geralmente representada como uma estrutura de árvore, que se ajuste opticamente aos dados observados. Diferente da regressão tradicional...

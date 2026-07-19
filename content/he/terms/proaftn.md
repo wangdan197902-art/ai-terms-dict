@@ -1,23 +1,24 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /he/terms/proaftn/
-date: "2026-07-18T16:18:43.604710Z"
-lastmod: "2026-07-18T17:15:09.575355Z"
+slug: proaftn
+date: '2026-07-18T16:18:43.604710Z'
+lastmod: '2026-07-18T17:15:09.575355Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אלגברה יחסית הסתברותית לרשתות זמן פונקציונליות, מסגרת למודלינג של מערכות דינמיות."
+source: agnes_llm
+status: published
+language: he
+description: אלגברה יחסית הסתברותית לרשתות זמן פונקציונליות, מסגרת למודלינג של מערכות
+  דינמיות.
 ---
-
 ## Definition
 
 Praftn היא מסגרת חישובית ייעודית המיועדת לטיפול בנתוני זמן פונקציונליים במבנים יחסיים. היא משלבת היגיון הסתברותי עם פעולות אלגבריות כדי למדל מערכות מורכבות.

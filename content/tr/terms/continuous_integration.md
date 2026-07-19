@@ -1,23 +1,24 @@
 ---
-title: "Sürekli Entegrasyon"
-term_id: "continuous_integration"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Sürekli Entegrasyon
+term_id: continuous_integration
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_integration"
-aliases:
-  - /tr/terms/continuous_integration/
-date: "2026-07-18T15:34:02.789677Z"
-lastmod: "2026-07-18T16:38:07.255826Z"
+slug: continuous_integration
+date: '2026-07-18T15:34:02.789677Z'
+lastmod: '2026-07-18T16:38:07.255826Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Geliştiricilerin kod değişikliklerini sık sık merkezi bir depoya birleştirdiği, otomatik derlemeleri ve testleri tetikleyen bir yazılım geliştirme uygulaması."
+source: agnes_llm
+status: published
+language: tr
+description: Geliştiricilerin kod değişikliklerini sık sık merkezi bir depoya birleştirdiği,
+  otomatik derlemeleri ve testleri tetikleyen bir yazılım geliştirme uygulaması.
 ---
-
 ## Definition
 
 Sürekli Entegrasyon (CI), çok sayıda katılımcının kod değişikliklerini tek bir yazılım projesinde birleştirmeyi otomatize eden kritik bir DevOps uygulamasıdır. Otomatik derlemeler ve testler çalıştırılarak entegrasyon süreci sağlanır.

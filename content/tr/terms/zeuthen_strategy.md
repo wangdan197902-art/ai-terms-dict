@@ -7,8 +7,6 @@ tags: ["Game Theory", "Multi-Agent", "Negotiation"]
 difficulty: 4
 weight: 1
 slug: "zeuthen_strategy"
-aliases:
-  - /tr/terms/zeuthen_strategy/
 date: "2026-07-18T16:21:43.537812Z"
 lastmod: "2026-07-18T16:38:07.378648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çok ajanlı sistemlerde bir ajanın, fay kaybına dayalı olarak çatışma riskini ne zaman alması gerektiğini belirleyen bir müzakere protokolüdür."
 ---
-
 ## Definition
 
 Zeuthen stratejisi, çok ajanlı müzakerelerde pazarlık için kural tabanlı bir yaklaşımdır. Bir ajanın, tercih ettiği sonuca ulaşmak için almak istediği maksimum riski hesaplar; bu risk, tercih edilen sonucu elde etmek için...

@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /vi/terms/inductive_programming/
 date: "2026-07-18T15:57:53.964008Z"
 lastmod: "2026-07-18T16:38:07.769829Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một lĩnh vực của tổng hợp chương trình tự động tạo ra các chương trình máy tính từ các ví dụ đầu vào - đầu ra."
 ---
-
 ## Definition
 
 Lập trình quy nạp, thường được gọi là Tổng hợp chương trình, liên quan đến việc tạo ra mã phần mềm dựa trên các đặc tả được cung cấp dưới dạng các cặp đầu vào - đầu ra thay vì các hướng dẫn tường minh. Hệ thống suy luận logic từ các ví dụ để xây dựng mã nguồn thực thi.

@@ -7,8 +7,6 @@ tags: ["debugging", "performance", "observability"]
 difficulty: 3
 weight: 1
 slug: "tracing"
-aliases:
-  - /tr/terms/tracing/
 date: "2026-07-18T16:18:27.884049Z"
 lastmod: "2026-07-18T16:38:07.374577Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İzleme, hata ayıklama ve performans optimizasyonunu kolaylaştırmak amacıyla bir programın veya yapay zeka modeli çıkarımının yürütme yolunu ve ara durumlarını kaydeden bir tekniktir."
 ---
-
 ## Definition
 
 Yapay zeka mühendisliği bağlamında izleme, verinin bir model veya uygulama içinde nasıl aktığını, her adımdaki girdileri, çıktıları, gecikmeyi ve kaynak kullanımını dahil olmak üzere detaylı günlükleri yakalamayı içerir. Bu süreç, sistemin davranışını şeffaflaştırarak analiz etmeyi sağlar.

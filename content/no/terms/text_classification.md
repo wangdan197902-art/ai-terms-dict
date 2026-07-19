@@ -1,23 +1,24 @@
 ---
-title: "Tekstklassifisering"
-term_id: "text_classification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "classification", "applications"]
+title: Tekstklassifisering
+term_id: text_classification
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Classification
+- applications
 difficulty: 3
 weight: 1
-slug: "text_classification"
-aliases:
-  - /no/terms/text_classification/
-date: "2026-07-18T16:18:22.970393Z"
-lastmod: "2026-07-18T16:38:07.052722Z"
+slug: text_classification
+date: '2026-07-18T16:18:22.970393Z'
+lastmod: '2026-07-18T16:38:07.052722Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med å kategorisere tekst i organiserte grupper basert på innhold eller semantisk mening."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med å kategorisere tekst i organiserte grupper basert på innhold
+  eller semantisk mening.
 ---
-
 ## Definition
 
 Tekstklassifisering er en oppsynslært oppgave der algoritmer tildeler forhåndsdefinerte kategorier til up strukturert tekstdat. Vanlige teknikker inkluderer Naiv Bayes, Støttevektormaskiner og Dyp Læring.

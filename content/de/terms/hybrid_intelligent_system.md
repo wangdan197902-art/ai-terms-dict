@@ -1,23 +1,24 @@
 ---
-title: "Hybrides intelligentes System"
-term_id: "hybrid_intelligent_system"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "ai_paradigms", "explainability"]
+title: Hybrides intelligentes System
+term_id: hybrid_intelligent_system
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- AI Paradigms
+- explainability
 difficulty: 4
 weight: 1
-slug: "hybrid_intelligent_system"
-aliases:
-  - /de/terms/hybrid_intelligent_system/
-date: "2026-07-18T11:18:39.920962Z"
-lastmod: "2026-07-18T11:44:44.949498Z"
+slug: hybrid_intelligent_system
+date: '2026-07-18T11:18:39.920962Z'
+lastmod: '2026-07-18T11:44:44.949498Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine KI-Architektur, die mehrere Techniken der computergestützten Intelligenz, wie neuronale Netze und symbolische Logik, kombiniert, um komplexe Probleme zu lösen."
+source: agnes_llm
+status: published
+language: de
+description: Eine KI-Architektur, die mehrere Techniken der computergestützten Intelligenz,
+  wie neuronale Netze und symbolische Logik, kombiniert, um komplexe Probleme zu lösen.
 ---
-
 ## Definition
 
 Ein Hybrides Intelligentes System (HIS) verbindet verschiedene KI-Paradigmen, typischerweise indem es connectionistische Ansätze wie neuronale Netze mit symbolischen Methoden wie Expertensystemen oder Fuzzy-Logik kombiniert. Diese Inte

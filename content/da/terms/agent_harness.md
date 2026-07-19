@@ -1,23 +1,24 @@
 ---
-title: "Agent-harnes"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Agent-harnes
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /da/terms/agent_harness/
-date: "2026-07-18T15:40:23.641454Z"
-lastmod: "2026-07-18T17:15:09.256779Z"
+slug: agent_harness
+date: '2026-07-18T15:40:23.641454Z'
+lastmod: '2026-07-18T17:15:09.256779Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et agent-harnes er et rammeværk eller infrastrukturlag, der styrer livscyklus, kommunikation og ressourceallokering af flere AI-agenter inden for et system."
+source: agnes_llm
+status: published
+language: da
+description: Et agent-harnes er et rammeværk eller infrastrukturlag, der styrer livscyklus,
+  kommunikation og ressourceallokering af flere AI-agenter inden for et system.
 ---
-
 ## Definition
 
 Det fungerer som rygraden for multi-agent-systemer og giver værktøjer til orkestrering, overvågning og koordinering mellem agenter. Harnes'et sikrer, at agenter kan operere effektivt uden indblanding fra hinanden.

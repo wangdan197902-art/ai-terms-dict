@@ -1,23 +1,24 @@
 ---
-title: "Paketin koko"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: Paketin koko
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /fi/terms/batch_size/
-date: "2026-07-18T15:45:17.608884Z"
-lastmod: "2026-07-18T17:15:09.387579Z"
+slug: batch_size
+date: '2026-07-18T15:45:17.608884Z'
+lastmod: '2026-07-18T17:15:09.387579Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Stokastisen gradienttinalgoritmin yhden iteraation aikana käytettyjen koulutusyksiköiden määrä."
+source: agnes_llm
+status: published
+language: fi
+description: Stokastisen gradienttinalgoritmin yhden iteraation aikana käytettyjen
+  koulutusyksiköiden määrä.
 ---
-
 ## Definition
 
 Paketin koko on kriittinen hyperparametri, joka määrittää, kuinka monta näytettä käsitellään ennen mallin sisäisten parametrien päivittämistä. Suurempi paketin koko tarjoaa tarkemman arvion gradientista, mutta vaatii enemmän muistia.

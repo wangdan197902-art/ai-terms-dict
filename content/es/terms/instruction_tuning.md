@@ -1,23 +1,24 @@
 ---
-title: "Ajuste por Instrucciones"
-term_id: "instruction_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm"]
+title: Ajuste por Instrucciones
+term_id: instruction_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
 difficulty: 3
 weight: 1
-slug: "instruction_tuning"
-aliases:
-  - /es/terms/instruction_tuning/
-date: "2026-07-18T10:24:00.169685Z"
-lastmod: "2026-07-18T11:44:44.743373Z"
+slug: instruction_tuning
+date: '2026-07-18T10:24:00.169685Z'
+lastmod: '2026-07-18T11:44:44.743373Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El ajuste por instrucciones es una técnica de ajuste fino donde un modelo de lenguaje preentrenado se entrena en un conjunto de datos de instrucciones y sus respuestas correspondientes para mejorar su"
+source: agnes_llm
+status: published
+language: es
+description: El ajuste por instrucciones es una técnica de ajuste fino donde un modelo
+  de lenguaje preentrenado se entrena en un conjunto de datos de instrucciones y sus
+  respuestas correspondientes para mejorar su
 ---
-
 ## Definition
 
 Este proceso cierra la brecha entre el preentrenamiento general y el rendimiento específico de tareas. Al exponer el modelo a diversas parejas de instrucción-respuesta, aprende a generalizar a tareas no vistas sin necesidad de ad

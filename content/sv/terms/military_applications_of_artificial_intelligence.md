@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /sv/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T16:09:41.387485Z"
 lastmod: "2026-07-18T17:15:09.026404Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Detta avser användningen av AI-teknologier inom försvarssektorn, inklusive autonoma vapen, övervakning, logistikoptimering och beslutsstödssystem."
 ---
-
 ## Definition
 
 Militära tillämpningar av AI omfattar ett brett spektrum av teknologier utformade för att öka operativ effektivitet och strategiskt övertag. Dessa inkluderar autonoma drönare för spaning, prediktiv...

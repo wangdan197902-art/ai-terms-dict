@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /ar/terms/perceiver/
 date: "2026-07-18T16:16:03.744053Z"
 lastmod: "2026-07-18T17:15:08.536245Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "نظام أو وحدة مسؤولة عن استقبال وتفسير المدخلات الحسية من البيئة."
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي وعلم النفس المعرفي، يشير المُدرك إلى مكون النظام الذكي الذي يعالج البيانات الحسية الخام إلى معلومات ذات معنى. وعلى عكس أجهزة الاستشعار البسيطة التي تكتشف الإشارات فقط، فإن...

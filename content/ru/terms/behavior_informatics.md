@@ -1,23 +1,24 @@
 ---
-title: "Поведенческая информатика"
-term_id: "behavior_informatics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interdisciplinary", "data_analysis", "human_behavior"]
+title: Поведенческая информатика
+term_id: behavior_informatics
+category: basic_concepts
+subcategory: ''
+tags:
+- interdisciplinary
+- Data Analysis
+- Human Behavior
 difficulty: 3
 weight: 1
-slug: "behavior_informatics"
-aliases:
-  - /ru/terms/behavior_informatics/
-date: "2026-07-18T15:43:26.646185Z"
-lastmod: "2026-07-18T16:38:07.127119Z"
+slug: behavior_informatics
+date: '2026-07-18T15:43:26.646185Z'
+lastmod: '2026-07-18T16:38:07.127119Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Междисциплинарная область, изучающая человеческое поведение посредством сбора и анализа цифровых данных."
+source: agnes_llm
+status: published
+language: ru
+description: Междисциплинарная область, изучающая человеческое поведение посредством
+  сбора и анализа цифровых данных.
 ---
-
 ## Definition
 
 Поведенческая информатика объединяет компьютерные науки, психологию и статистику для анализа крупномасштабных поведенческих данных, генерируемых цифровыми взаимодействиями. Она сосредоточена на извлечении закономерностей, прогнозировании будущ...

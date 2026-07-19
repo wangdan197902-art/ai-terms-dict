@@ -1,23 +1,25 @@
 ---
-title: "Εύθυμη μάθηση"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: Εύθυμη μάθηση
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /el/terms/eager_learning/
-date: "2026-07-18T16:04:34.148143Z"
-lastmod: "2026-07-18T17:15:09.903498Z"
+slug: eager_learning
+date: '2026-07-18T16:04:34.148143Z'
+lastmod: '2026-07-18T17:15:09.903498Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η εύθυμη μάθηση είναι μια προσέγγιση μηχανικής μάθησης όπου η συνάρτηση γενίκευσης μαθαίνεται κατά τη φάση εκπαίδευσης, επιτρέποντας γρήγορους χρόνους πρόβλεψης μετά την ολοκλήρωση της εκπαίδευσης."
+source: agnes_llm
+status: published
+language: el
+description: Η εύθυμη μάθηση είναι μια προσέγγιση μηχανικής μάθησης όπου η συνάρτηση
+  γενίκευσης μαθαίνεται κατά τη φάση εκπαίδευσης, επιτρέποντας γρήγορους χρόνους πρόβλεψης
+  μετά την ολοκλήρωση της εκπαίδευσης.
 ---
-
 ## Definition
 
 Στην εύθυμη μάθηση, το σύστημα κατασκευάζει μια γενική συνάρτηση ή μοντέλο στόχου βασισμένο στα δεδομένα εκπαίδευσης πριν συναντήσει νέα παραδείγματα. Αυτό αντιτίθεται στην «διστακτική μάθηση» (lazy learning), η οποία καθυστερεί τη διαδικασία γενίκευσης μέχρι τη στιγμή της πρόβλεψης, αποθηκεύοντας απλώς τα δεδομένα εκπαίδευσης.

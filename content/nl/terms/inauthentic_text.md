@@ -7,8 +7,6 @@ tags: ["security", "ethics", "detection"]
 difficulty: 2
 weight: 1
 slug: "inauthentic_text"
-aliases:
-  - /nl/terms/inauthentic_text/
 date: "2026-07-18T16:00:00.030314Z"
 lastmod: "2026-07-18T17:15:08.755104Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Tekstinhoud die kunstmatig is gegenereerd of gemanipuleerd om lezers te misleiden over de oorsprong, auteurschap of feitelijke basis."
 ---
-
 ## Definition
 
 Onauthentic tekst verwijst naar geschreven materiaal dat is geproduceerd door AI-systemen of mensen met bedrieglijke intentie, zonder echte menselijke ervaring of feitelijke grondslag. Het omvat door AI gegenereerde spam, verzonnen nieuws...

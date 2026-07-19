@@ -1,23 +1,25 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /id/terms/mauve/
-date: "2026-07-18T15:59:07.740996Z"
-lastmod: "2026-07-18T16:38:07.480156Z"
+slug: mauve
+date: '2026-07-18T15:59:07.740996Z'
+lastmod: '2026-07-18T16:38:07.480156Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "MAUVE (Measuring Alignment Using Virtual Embeddings) adalah metrik yang digunakan dalam pemrosesan bahasa alami untuk mengevaluasi keselarasan antara distribusi teks yang dihasilkan dan distribusi tek"
+source: agnes_llm
+status: published
+language: id
+description: MAUVE (Measuring Alignment Using Virtual Embeddings) adalah metrik yang
+  digunakan dalam pemrosesan bahasa alami untuk mengevaluasi keselarasan antara distribusi
+  teks yang dihasilkan dan distribusi tek
 ---
-
 ## Definition
 
 MAUVE adalah ukuran statistik yang dirancang untuk menilai seberapa dekat output model bahasa generatif menyerupai penggunaan bahasa manusia. Berbeda dengan skor perplexity sederhana, MAUVE menggunakan embedding virtual untuk

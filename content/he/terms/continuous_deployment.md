@@ -1,23 +1,24 @@
 ---
-title: "פריסה מתמשכת"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: פריסה מתמשכת
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /he/terms/continuous_deployment/
-date: "2026-07-18T15:50:05.967080Z"
-lastmod: "2026-07-18T17:15:09.523331Z"
+slug: continuous_deployment
+date: '2026-07-18T15:50:05.967080Z'
+lastmod: '2026-07-18T17:15:09.523331Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פרקטיקה בהנדסת תוכנה שבה כל שינוי בקוד שעובר בדיקות אוטומטיות משוחרר באופן אוטומטי לסביבת הייצור."
+source: agnes_llm
+status: published
+language: he
+description: פרקטיקה בהנדסת תוכנה שבה כל שינוי בקוד שעובר בדיקות אוטומטיות משוחרר
+  באופן אוטומטי לסביבת הייצור.
 ---
-
 ## Definition
 
 פריסה מתמשכת היא הרחבה של מסירה מתמשכת (Continuous Delivery) המאוטמטית את כל תהליך השחרור. ברגע ששינויי הקוד עוברים את כל שעורי האיכות, כולל בדיקות יחידה, בדיקות אינטגרציה ובדיקות אבטחה, הם מופצים אוטומטית למשתמשים.

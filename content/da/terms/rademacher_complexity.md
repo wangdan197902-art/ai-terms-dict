@@ -7,8 +7,6 @@ tags: ["theory", "statistics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "rademacher_complexity"
-aliases:
-  - /da/terms/rademacher_complexity/
 date: "2026-07-18T16:14:33.056059Z"
 lastmod: "2026-07-18T17:15:09.326562Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et statistisk mål inden for læringsteori, der kvantificerer rigdommen af en funktionsklasse ved hjælp af dens evne til at tilpasse sig tilfældig støj."
 ---
-
 ## Definition
 
 Rademacher-kompleksitet evaluerer, hvor godt en hypoteseklasse kan korrelere med tilfældige etiketter (støj). Det fungerer som en proxy for modellens kapacitet eller fleksibilitet. Lavere kompleksitet antyder bedre generaliseringsevne.

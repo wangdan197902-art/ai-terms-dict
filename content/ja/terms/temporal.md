@@ -1,23 +1,22 @@
 ---
-title: "時系列的"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: 時系列的
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /ja/terms/temporal/
-date: "2026-07-18T10:55:24.558862Z"
-lastmod: "2026-07-18T11:44:45.020801Z"
+slug: temporal
+date: '2026-07-18T10:55:24.558862Z'
+lastmod: '2026-07-18T11:44:45.020801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "時系列的とは、時間のシーケンスに関連し、データの変化や依存関係が時間とともにどのように進化するか侧重于焦点を当てます。"
+source: agnes_llm
+status: published
+language: ja
+description: 時系列的とは、時間のシーケンスに関連し、データの変化や依存関係が時間とともにどのように進化するか侧重于焦点を当てます。
 ---
-
 ## Definition
 
 AIにおける時系列的な概念には、株価、センサー読み取り値、自然言語の文章など、時間順に並べられたデータポイントの分析が含まれます。時系列データを扱うモデルは、シーケンスの順序や時間的な依存関係を考慮する必要があります。

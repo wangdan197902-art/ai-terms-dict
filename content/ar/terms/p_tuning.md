@@ -1,23 +1,24 @@
 ---
-title: "الضبط الدلالي (P-Tuning)"
-term_id: "p_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "nlp"]
+title: الضبط الدلالي (P-Tuning)
+term_id: p_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- NLP
 difficulty: 4
 weight: 1
-slug: "p_tuning"
-aliases:
-  - /ar/terms/p_tuning/
-date: "2026-07-18T16:15:35.971814Z"
-lastmod: "2026-07-18T17:15:08.535011Z"
+slug: p_tuning
+date: '2026-07-18T16:15:35.971814Z'
+lastmod: '2026-07-18T17:15:08.535011Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "الضبط الدلالي (P-Tuning) هو طريقة لضبط النماذج بكفاءة في المعلمات، تحسن تضمينات المطالب المستمرة بدلاً من تحديث أوزون النموذج المدرب مسبقاً بالكامل."
+source: agnes_llm
+status: published
+language: ar
+description: الضبط الدلالي (P-Tuning) هو طريقة لضبط النماذج بكفاءة في المعلمات، تحسن
+  تضمينات المطالب المستمرة بدلاً من تحديث أوزون النموذج المدرب مسبقاً بالكامل.
 ---
-
 ## Definition
 
 الضبط الدلالي (المعروف أيضاً بضبط المطالب Prompt Tuning) هو تقنية مصممة لتكييف نماذج اللغات الكبيرة المدربة مسبقاً مع مهام محددة بأقل تكلفة حسابية ممكنة. بدلاً من ضبط جميع معاملات النموذج، يتم تثبيت الأوزان الأصلية وتحسين فقط متجهات المطالب الافتراضية، مما يسمح بتخصيص النموذج بسرعة مع الحفاظ على الموارد.

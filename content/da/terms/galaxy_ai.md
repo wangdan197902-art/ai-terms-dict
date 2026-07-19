@@ -7,8 +7,6 @@ tags: ["Consumer Tech", "Mobile", "Branding"]
 difficulty: 1
 weight: 1
 slug: "galaxy_ai"
-aliases:
-  - /da/terms/galaxy_ai/
 date: "2026-07-18T15:56:49.831086Z"
 lastmod: "2026-07-18T17:15:09.290946Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Samsungs brandforing til deres suite af AI-funktioner på enheden og i skyen, integreret i deres Galaxy-smartphones og enheder."
 ---
-
 ## Definition
 
 Galaxy AI er Samsungs proprietære økosystem af AI-funktionaliteter designet til at forbedre brugeroplevelsen på tværs af deres hardwarelinje, primært smartphones. Det inkluderer funktioner som realtidsoversættelse...

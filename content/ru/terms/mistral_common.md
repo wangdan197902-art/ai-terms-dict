@@ -7,8 +7,6 @@ tags: ["tools", "libraries", "implementation"]
 difficulty: 4
 weight: 1
 slug: "mistral_common"
-aliases:
-  - /ru/terms/mistral_common/
 date: "2026-07-18T16:04:48.388689Z"
 lastmod: "2026-07-18T16:38:07.180895Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ru"
 description: "Библиотека общих функций для токенизации и обработки данных, совместимая с различными вариантами моделей Mistral AI."
 ---
-
 ## Definition
 
 Mistral Common — это пакет Python, поддерживаемый Mistral AI, который предоставляет стандартизированные инструменты для взаимодействия с их моделями. Он в первую очередь реализует токенизатор, необходимый для преобразования текстовых данных...

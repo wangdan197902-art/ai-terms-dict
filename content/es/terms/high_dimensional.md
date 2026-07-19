@@ -1,23 +1,24 @@
 ---
-title: "de alta dimensión"
-term_id: "high_dimensional"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_structure", "math", "challenges"]
+title: de alta dimensión
+term_id: high_dimensional
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structure
+- math
+- challenges
 difficulty: 3
 weight: 1
-slug: "high_dimensional"
-aliases:
-  - /es/terms/high_dimensional/
-date: "2026-07-18T10:28:18.356365Z"
-lastmod: "2026-07-18T11:44:44.756571Z"
+slug: high_dimensional
+date: '2026-07-18T10:28:18.356365Z'
+lastmod: '2026-07-18T11:44:44.756571Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Describe espacios de datos con un gran número de características o dimensiones, lo que a menudo conduce a la escasez y desafíos computacionales."
+source: agnes_llm
+status: published
+language: es
+description: Describe espacios de datos con un gran número de características o dimensiones,
+  lo que a menudo conduce a la escasez y desafíos computacionales.
 ---
-
 ## Definition
 
 Alta dimensión se refiere a conjuntos de datos o espacios vectoriales que contienen una gran cantidad de atributos o características. En IA, esto es común en incrustaciones de texto, píxeles de imágenes o

@@ -1,23 +1,25 @@
 ---
-title: "Αλγόριθμος EM και μοντέλο GMM"
-term_id: "em_algorithm_and_gmm_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "clustering", "optimization"]
+title: Αλγόριθμος EM και μοντέλο GMM
+term_id: em_algorithm_and_gmm_model
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Clustering
+- Optimization
 difficulty: 4
 weight: 1
-slug: "em_algorithm_and_gmm_model"
-aliases:
-  - /el/terms/em_algorithm_and_gmm_model/
-date: "2026-07-18T16:04:34.148129Z"
-lastmod: "2026-07-18T17:15:09.903376Z"
+slug: em_algorithm_and_gmm_model
+date: '2026-07-18T16:04:34.148129Z'
+lastmod: '2026-07-18T17:15:09.903376Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ο αλγόριθμος Expectation-Maximization (EM) είναι μια επαναληπτική μέθοδος για την εύρεση εκτιμήσεων μέγιστης πιθανοφάνειας σε στατιστικά μοντέλα με κρυφές μεταβλητές, χρησιμοποιείται συχνά για την προ"
+source: agnes_llm
+status: published
+language: el
+description: Ο αλγόριθμος Expectation-Maximization (EM) είναι μια επαναληπτική μέθοδος
+  για την εύρεση εκτιμήσεων μέγιστης πιθανοφάνειας σε στατιστικά μοντέλα με κρυφές
+  μεταβλητές, χρησιμοποιείται συχνά για την προ
 ---
-
 ## Definition
 
 Ο όρος αυτός αναφέρεται στη συνεργατική σχέση μεταξύ του αλγορίθμου Expectation-Maximization (EM) και των Μοντέλων Μίξης Gaussian (GMM). Ένα GMM υποθέτει ότι όλα τα σημεία δεδομένων παράγονται από ένα μείγμα κατανομών, και ο αλγόριθμος EM χρησιμοποιείται για την εκτίμηση των παραμέτρων αυτών των κατανομών (μέσοι όροι, διακυμάνσεις και βάρη) μέσω επαναληπτικής βελτιστοποίησης.

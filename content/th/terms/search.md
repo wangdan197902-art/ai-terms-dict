@@ -1,23 +1,23 @@
 ---
-title: "การค้นหา"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: การค้นหา
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /th/terms/search/
-date: "2026-07-18T15:30:16.912286Z"
-lastmod: "2026-07-18T16:38:07.548846Z"
+slug: search
+date: '2026-07-18T15:30:16.912286Z'
+lastmod: '2026-07-18T16:38:07.548846Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อัลกอริทึมการค้นหาสำรวจพื้นที่คำตอบอย่างเป็นระบบเพื่อหาผลลัพธ์ที่เหมาะสมที่สุดหรือเป็นที่พอใจในงาน AI"
+source: agnes_llm
+status: published
+language: th
+description: อัลกอริทึมการค้นหาสำรวจพื้นที่คำตอบอย่างเป็นระบบเพื่อหาผลลัพธ์ที่เหมาะสมที่สุดหรือเป็นที่พอใจในงาน
+  AI
 ---
-
 ## Definition
 
 การค้นหาเป็นรูปแบบพื้นฐานใน AI ที่ใช้สำหรับการนำทางผ่านพื้นที่ปัญหาที่ซับซ้อน เช่น การเล่นเกมหรือการวางแผนเส้นทาง อัลกอริทึมเช่น A*, Minimax หรือ Monte Carlo Tree Search จะประเมินการเคลื่อนไหวที่เป็นไปได้

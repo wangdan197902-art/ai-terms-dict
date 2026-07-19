@@ -7,8 +7,6 @@ tags: ["logic", "reasoning", "autonomy"]
 difficulty: 4
 weight: 1
 slug: "agentive_logic"
-aliases:
-  - /nl/terms/agentive_logic/
 date: "2026-07-18T15:41:43.910923Z"
 lastmod: "2026-07-18T17:15:08.715362Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Agentieve logica verwijst naar de formele redeneringskaders die worden gebruikt om de intenties, doelen en besluitvormingsprocessen van autonome agents te modelleren."
 ---
-
 ## Definition
 
 Het breidt traditionele logica uit om rekening te houden met agentuur, waardoor systemen overtuigingen, wensen en intenties kunnen representeren (BDI-modellen). Deze logica stelt agents in staat om dynamisch acties te plannen op basis van veranderende omstandigheden en informatie.

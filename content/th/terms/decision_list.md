@@ -1,23 +1,22 @@
 ---
-title: "รายการตัดสินใจ (Decision List)"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: รายการตัดสินใจ (Decision List)
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /th/terms/decision_list/
-date: "2026-07-18T15:49:29.263975Z"
-lastmod: "2026-07-18T16:38:07.596724Z"
+slug: decision_list
+date: '2026-07-18T15:49:29.263975Z'
+lastmod: '2026-07-18T16:38:07.596724Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ตัวจำแนกประเภทที่ตีความได้ง่าย ซึ่งประกอบด้วยรายการกฎที่มีลำดับ โดยกฎแรกที่ตรงกันจะเป็นผู้กำหนดผลลัพธ์"
+source: agnes_llm
+status: published
+language: th
+description: ตัวจำแนกประเภทที่ตีความได้ง่าย ซึ่งประกอบด้วยรายการกฎที่มีลำดับ โดยกฎแรกที่ตรงกันจะเป็นผู้กำหนดผลลัพธ์
 ---
-
 ## Definition
 
 รายการตัดสินใจเป็นประเภทของโมเดลการเรียนรู้ของเครื่องที่แสดงความรู้เป็นลำดับของกฎเงื่อนไข แต่ละกฎประกอบด้วยเงื่อนไขและป้ายชั้นที่คาดการณ์ เมื่อทำการจำแนกประเภทข้อมูลใหม่ กฎแรกในรายการที่ตรงกับข้อมูลจะถูกเลือกเพื่อระบุผลลัพธ์

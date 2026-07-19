@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /fr/terms/pedagogical_agent/
 date: "2026-07-18T11:32:52.333016Z"
 lastmod: "2026-07-18T11:44:45.310804Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une entité d'intelligence artificielle conçue pour faciliter l'apprentissage en fournissant instruction, feedback et orientation."
 ---
-
 ## Definition
 
 Un agent pédagogique est un composant logiciel, souvent incarné sous forme de personnage virtuel, qui agit comme un enseignant ou un tuteur dans des environnements éducatifs. Ces agents utilisent le traitement du langage naturel et

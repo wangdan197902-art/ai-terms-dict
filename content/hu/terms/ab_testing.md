@@ -1,23 +1,24 @@
 ---
-title: "A/B tesztelés"
-term_id: "ab_testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["experimentation", "statistics", "optimization"]
+title: A/B tesztelés
+term_id: ab_testing
+category: engineering_practice
+subcategory: ''
+tags:
+- experimentation
+- statistics
+- Optimization
 difficulty: 3
 weight: 1
-slug: "ab_testing"
-aliases:
-  - /hu/terms/ab_testing/
-date: "2026-07-18T15:40:37.432403Z"
-lastmod: "2026-07-18T17:15:09.747468Z"
+slug: ab_testing
+date: '2026-07-18T15:40:37.432403Z'
+lastmod: '2026-07-18T17:15:09.747468Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy statisztikai módszer, amely két változó verzióját hasonlítja össze annak meghatározására, melyik teljesít jobban."
+source: agnes_llm
+status: published
+language: hu
+description: Egy statisztikai módszer, amely két változó verzióját hasonlítja össze
+  annak meghatározására, melyik teljesít jobban.
 ---
-
 ## Definition
 
 Az A/B tesztelés egy randomizált kontrollált kísérlet, amelyben két variánst, az A-t és a B-t hasonlítják össze annak felmérésére, hogy melyik hoz jobb eredményeket egy adott mutató szempontjából. Az AI mérnöki gyakorlatban kulcsfontosságú az optimalizáláshoz.

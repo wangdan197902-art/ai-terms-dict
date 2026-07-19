@@ -1,23 +1,24 @@
 ---
-title: "בלום"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: בלום
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /he/terms/bloom/
-date: "2026-07-18T15:46:58.107666Z"
-lastmod: "2026-07-18T17:15:09.518101Z"
+slug: bloom
+date: '2026-07-18T15:46:58.107666Z'
+lastmod: '2026-07-18T17:15:09.518101Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "בהקשר של למידת מכונה, 'בלום' מתייחס בדרך כלל לטקסונומיה של בלום בחינוך ל-AI או למודלים ספציפיים כמו מודל הטמעת הטקסט Bloom."
+source: agnes_llm
+status: published
+language: he
+description: בהקשר של למידת מכונה, 'בלום' מתייחס בדרך כלל לטקסונומיה של בלום בחינוך
+  ל-AI או למודלים ספציפיים כמו מודל הטמעת הטקסט Bloom.
 ---
-
 ## Definition
 
 בעוד שהיסטורית זה מתייחס לטקסונומיה החינוכית של בנימין בלום, בהקשרים מודרניים של AI, זה לעיתים קרובות מציין את מודל הטקסט Bloom שפותח על ידי BigScience. מודל זה מייצר הטמעות איכותיות להבנת שפה טבעית.

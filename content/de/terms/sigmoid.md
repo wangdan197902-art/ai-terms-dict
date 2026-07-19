@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Activation Functions"]
 difficulty: 2
 weight: 1
 slug: "sigmoid"
-aliases:
-  - /de/terms/sigmoid/
 date: "2026-07-18T11:33:18.365080Z"
 lastmod: "2026-07-18T11:44:44.985397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine mathematische Funktion, die jede reelle Zahl auf einen Wert zwischen Null und Eins abbildet und eine S-förmige Kurve bildet."
 ---
-
 ## Definition
 
 Die Sigmoid-Funktion, definiert als σ(z) = 1 / (1 + e^-z), wird im maschinellen Lernen häufig zur Modellierung von Wahrscheinlichkeiten verwendet. Sie komprimiert Eingabewerte in den Bereich (0, 1), was sie für binäre Klassifikationsaufgaben geeignet macht.

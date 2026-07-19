@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /tr/terms/semantic_analysis/
 date: "2026-07-18T16:13:28.355998Z"
 lastmod: "2026-07-18T16:38:07.363389Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Semantik analiz, doğal dil işlemede kelimeler arasındaki ilişkileri ve bağlamı anlayarak metinden anlam çıkarma sürecidir."
 ---
-
 ## Definition
 
 Sözdizimsel yapıların ötesine geçerek dil girdilerinin gerçek niyetini ve önemini yorumlar. Bu süreç, bağlama göre kelime anlamlarını belirsizlikten kurtarmayı, varlıkları tanımlamayı ve cümlelerin derin anlamını kavramayı içerir.

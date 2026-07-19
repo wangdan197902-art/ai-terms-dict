@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /pt/terms/machine_unlearning/
 date: "2026-07-18T15:09:46.819932Z"
 lastmod: "2026-07-18T15:51:59.510741Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O desaprendizado de máquina é o processo de remover pontos de dados específicos ou sua influência de um modelo treinado, sem a necessidade de retreiná-lo do zero."
 ---
-
 ## Definition
 
 Esta técnica atende a regulamentações de privacidade, como o 'direito ao esquecimento' do GDPR, permitindo que os modelos esqueçam dados específicos dos usuários enquanto retêm o conhecimento geral. O objetivo é aproximar o desempenho do modelo como se esses dados nunca tivessem sido usados no treinamento.

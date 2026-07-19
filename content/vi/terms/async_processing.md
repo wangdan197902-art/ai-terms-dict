@@ -1,23 +1,24 @@
 ---
-title: "Xử lý bất đồng bộ"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Xử lý bất đồng bộ
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /vi/terms/async_processing/
-date: "2026-07-18T15:41:21.521388Z"
-lastmod: "2026-07-18T16:38:07.729956Z"
+slug: async_processing
+date: '2026-07-18T15:41:21.521388Z'
+lastmod: '2026-07-18T16:38:07.729956Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mô hình lập trình trong đó các tác vụ được thực thi độc lập với luồng thực thi chính, cho phép các hoạt động không chặn."
+source: agnes_llm
+status: published
+language: vi
+description: Một mô hình lập trình trong đó các tác vụ được thực thi độc lập với luồng
+  thực thi chính, cho phép các hoạt động không chặn.
 ---
-
 ## Definition
 
 Xử lý bất đồng bộ cho phép phần mềm thực hiện các tác vụ chạy dài, chẳng hạn như các thao tác I/O hoặc tính toán phức tạp, mà không làm đóng băng giao diện ứng dụng chính hoặc chặn các quy trình khác. Bằng cách d

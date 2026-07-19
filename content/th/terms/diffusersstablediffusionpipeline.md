@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Diffusers: Stablediffusionpipeline'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /th/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:50:41.166744Z"
-lastmod: "2026-07-18T16:38:07.599551Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:50:41.166744Z'
+lastmod: '2026-07-18T16:38:07.599551Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เพย์ปไลน์มาตรฐานสำหรับรัน Stable Diffusion v1.5 โดยใช้ U-Net และตัวเข้ารหัส CLIP สำหรับการสร้างภาพจากข้อความ"
+source: agnes_llm
+status: published
+language: th
+description: เพย์ปไลน์มาตรฐานสำหรับรัน Stable Diffusion v1.5 โดยใช้ U-Net และตัวเข้ารหัส
+  CLIP สำหรับการสร้างภาพจากข้อความ
 ---
-
 ## Definition
 
 นี่คือเพย์ปไลน์พื้นฐานสำหรับโมเดล Stable Diffusion v1.5 ซึ่งนิยมใช้สำหรับการสังเคราะห์ภาพจากข้อความทั่วไป โดยอาศัยตัวลดสัญญาณรบกวน U-Net และตัวเข้ารหัสข้อความ CLIP ในการแมปข้อความคำสั่งเข้ากับปริภูมิแฝง

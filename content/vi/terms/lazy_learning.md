@@ -1,23 +1,24 @@
 ---
-title: "Học lười"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: Học lười
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /vi/terms/lazy_learning/
-date: "2026-07-18T15:59:51.756920Z"
-lastmod: "2026-07-18T16:38:07.774767Z"
+slug: lazy_learning
+date: '2026-07-18T15:59:51.756920Z'
+lastmod: '2026-07-18T16:38:07.774767Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp học trì hoãn việc khái quát hóa cho đến thời điểm phân loại, bằng cách lưu trữ các thể huấn luyện thay vì xây dựng một mô hình tường minh."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp học trì hoãn việc khái quát hóa cho đến thời điểm phân
+  loại, bằng cách lưu trữ các thể huấn luyện thay vì xây dựng một mô hình tường minh.
 ---
-
 ## Definition
 
 Các bộ học lười, chẳng hạn như k-Láng giềng gần nhất (k-NN), ghi nhớ toàn bộ tập dữ liệu huấn luyện và thực hiện tính toán chỉ khi đưa ra dự đoán. Điều này trái ngược với học tham vọng (eager learning), vốn xây dựng mô hình khái quát ngay từ đầu.

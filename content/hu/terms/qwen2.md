@@ -1,23 +1,24 @@
 ---
-title: "Qwen2"
-term_id: "qwen2"
-category: "basic_concepts"
-subcategory: ""
-tags: ["version-history", "model-generation", "performance"]
+title: Qwen2
+term_id: qwen2
+category: basic_concepts
+subcategory: ''
+tags:
+- Version History
+- Model Generation
+- performance
 difficulty: 3
 weight: 1
-slug: "qwen2"
-aliases:
-  - /hu/terms/qwen2/
-date: "2026-07-18T16:20:21.971093Z"
-lastmod: "2026-07-18T17:15:09.827399Z"
+slug: qwen2
+date: '2026-07-18T16:20:21.971093Z'
+lastmod: '2026-07-18T17:15:09.827399Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Qwen2 a Qwen nagy nyelvi modell sorozat második fő generációja, javított teljesítménnyel."
+source: agnes_llm
+status: published
+language: hu
+description: A Qwen2 a Qwen nagy nyelvi modell sorozat második fő generációja, javított
+  teljesítménnyel.
 ---
-
 ## Definition
 
 A Qwen2 a Qwen modellcsalád második jelentős generációját jelenti, amely architektúrális fejlesztéseket és kibővített képzési adatokat vezet be. Ez a verzió kiválóbb képességeket kínál többnyelvű támogatásban.

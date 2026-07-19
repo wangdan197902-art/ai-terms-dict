@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /fr/terms/intrinsic_motivation/
 date: "2026-07-18T11:24:04.141077Z"
 lastmod: "2026-07-18T11:44:45.279009Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un concept d'apprentissage par renforcement où les agents poursuivent des objectifs basés sur la curiosité interne ou l'acquisition de connaissances plutôt que sur des récompenses externes."
 ---
-
 ## Definition
 
 En apprentissage par renforcement, la motivation intrinsèque pousse un agent à explorer son environnement en recherchant la nouveauté, en réduisant l'incertitude ou en maîtrisant de nouvelles compétences, indépendamment des récompenses extrinsèques liées à la tâche spécifique. Cela permet aux agents d'apprendre de manière autonome dans des environnements complexes.

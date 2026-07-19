@@ -7,8 +7,6 @@ tags: ["architecture", "workflow", "modular"]
 difficulty: 3
 weight: 1
 slug: "chain"
-aliases:
-  - /pl/terms/chain/
 date: "2026-07-18T15:45:27.159884Z"
 lastmod: "2026-07-18T17:15:08.853199Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Łańcuch to sekwencja połączonych kroków lub modułów przetwarzających dane kolejno w celu wykonania złożonego zadania."
 ---
-
 ## Definition
 
 W rozwoju aplikacji AI, Łańcuch odnosi się do struktury liniowej lub skierowanego grafu, w którym wiele komponentów, takich jak wywołania LLM, parsery czy zewnętrzne narzędzia, są połączone ze sobą. Dane przepływają od jednego elementu do drugiego.

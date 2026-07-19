@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /id/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:45:56.161162Z"
 lastmod: "2026-07-18T16:38:07.445222Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dataset berskala besar berbasis publikasi dan kutipan Ilmu Komputer, dirancang untuk melatih model embedding makalah akademik."
 ---
-
 ## Definition
 
 Dataset Specter dibangun dari kumpulan luas makalah Ilmu Komputer, memanfaatkan jaringan kutipan untuk menciptakan sinyal pembelajaran terawasi. Dataset ini memasangkan abstrak dengan makalah yang mengutipnya untuk

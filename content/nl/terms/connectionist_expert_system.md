@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /nl/terms/connectionist_expert_system/
 date: "2026-07-18T15:47:25.931681Z"
 lastmod: "2026-07-18T17:15:08.728394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een intelligent systeem dat de leercapaciteiten van neurale netwerken combineert met structuren voor symbolisch redeneren."
 ---
-
 ## Definition
 
 Een connectionistisch expert systeem integreert de sterke punten van patroonherkenning en leren van neurale netwerken (connectionisme) met de expliciete kennisrepresentatie en logische redenering van traditionele symbolische systemen.

@@ -1,23 +1,24 @@
 ---
-title: "Cực tiểu hóa rủi ro thực nghiệm"
-term_id: "empirical_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "supervised_learning", "theory"]
+title: Cực tiểu hóa rủi ro thực nghiệm
+term_id: empirical_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Supervised Learning
+- theory
 difficulty: 3
 weight: 1
-slug: "empirical_risk_minimization"
-aliases:
-  - /vi/terms/empirical_risk_minimization/
-date: "2026-07-18T15:51:44.570924Z"
-lastmod: "2026-07-18T16:38:07.753854Z"
+slug: empirical_risk_minimization
+date: '2026-07-18T15:51:44.570924Z'
+lastmod: '2026-07-18T16:38:07.753854Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một nguyên tắc cơ bản trong học máy nhằm cực tiểu hóa tổn thất trung bình trên dữ liệu huấn luyện đã quan sát."
+source: agnes_llm
+status: published
+language: vi
+description: Một nguyên tắc cơ bản trong học máy nhằm cực tiểu hóa tổn thất trung
+  bình trên dữ liệu huấn luyện đã quan sát.
 ---
-
 ## Definition
 
 Cực tiểu hóa Rủi ro Thực nghiệm (ERM) là hàm mục tiêu tiêu chuẩn để huấn luyện các mô hình học có giám sát. Nó liên quan đến việc lựa chọn một giả thuyết (hypothesis) từ một lớp các hàm sao cho cực tiểu hóa lỗi trung bình (tổng tổn thất) trên tập dữ liệu huấn luyện. ERM dựa trên giả thuyết rằng việc tối ưu hóa hiệu suất trên dữ liệu huấn luyện sẽ dẫn đến khả năng tổng quát hóa tốt trên dữ liệu chưa nhìn thấy.

@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /th/terms/encoder/
 date: "2026-07-18T15:35:22.605775Z"
 lastmod: "2026-07-18T16:38:07.560255Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ตัวเข้ารหัสคือองค์ประกอบของโครงข่ายประสาทเทียมที่แปลงข้อมูลขาเข้าให้เป็นตัวแทนที่กระชับและมีความหมาย"
 ---
-
 ## Definition
 
 ตัวเข้ารหัสประมวลผลลำดับข้อมูลหรือโครงสร้างข้อมูลดิบและแปลงเป็นตัวแทนในพื้นที่แฝง (latent space) ซึ่งมักเรียกว่า เอบเบอดดิ้ง หรือโค้ด ตัวเข้ารหัสเป็นศูนย์กลางของสถาปัตยกรรมเช่น Transformer และ Autoencoder

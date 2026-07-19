@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้แบบไม่มีผู้ดูแล"
-term_id: "unsupervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ML_basics", "data_minining", "algorithms"]
+title: การเรียนรู้แบบไม่มีผู้ดูแล
+term_id: unsupervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML_basics
+- Data Minining
+- algorithms
 difficulty: 3
 weight: 1
-slug: "unsupervised_learning"
-aliases:
-  - /th/terms/unsupervised_learning/
-date: "2026-07-18T15:37:57.327715Z"
-lastmod: "2026-07-18T16:38:07.566515Z"
+slug: unsupervised_learning
+date: '2026-07-18T15:37:57.327715Z'
+lastmod: '2026-07-18T16:38:07.566515Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการเรียนรู้ของเครื่องที่โมเดลเรียนรู้รูปแบบจากข้อมูลที่ไม่มีป้ายกำกับ โดยไม่มีการแนะนำหรือคำตอบที่ถูกต้องชัดเจน"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการเรียนรู้ของเครื่องที่โมเดลเรียนรู้รูปแบบจากข้อมูลที่ไม่มีป้ายกำกับ
+  โดยไม่มีการแนะนำหรือคำตอบที่ถูกต้องชัดเจน
 ---
-
 ## Definition
 
 การเรียนรู้แบบไม่มีผู้ดูแลระบุโครงสร้างแฝง กลุ่มข้อมูล หรือการกระจายตัวภายในข้อมูลดิบอย่างอัตโนมัติ วิธีการทั่วไป ได้แก่ การจัดกลุ่ม การลดมิติข้อมูล และการสร้างแบบจำลองเชิงกำเนิด

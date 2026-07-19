@@ -1,23 +1,24 @@
 ---
-title: "Actor-critic-algoritme"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: Actor-critic-algoritme
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /nl/terms/actor_critic_algorithm/
-date: "2026-07-18T15:41:09.059692Z"
-lastmod: "2026-07-18T17:15:08.714547Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T15:41:09.059692Z'
+lastmod: '2026-07-18T17:15:08.714547Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een kader voor versterkend leren dat waargebaseerde en beleidsgebaseerde methoden combineert met behulp van twee neurale netwerken: een actor en een critic."
+source: agnes_llm
+status: published
+language: nl
+description: 'Een kader voor versterkend leren dat waargebaseerde en beleidsgebaseerde
+  methoden combineert met behulp van twee neurale netwerken: een actor en een critic.'
 ---
-
 ## Definition
 
 Het actor-critic-algoritme maakt gebruik van twee componenten: de actor, die het beleid bijwerkt om acties te selecteren, en de critic, die de kwaliteit van die acties evalueert door de waardefunctie te schatten.

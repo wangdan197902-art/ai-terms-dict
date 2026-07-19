@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /pl/terms/lyra/
-date: "2026-07-18T16:05:23.150725Z"
-lastmod: "2026-07-18T17:15:08.894125Z"
+slug: lyra
+date: '2026-07-18T16:05:23.150725Z'
+lastmod: '2026-07-18T17:15:08.894125Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Lyra odnosi się do różnych inicjatyw lub modeli SI, najbardziej znanego jako otwarty duży model językowy (LLM) lub specyficzne narzędzie wyszukiwania i odkrywania informacji napędzane przez SI, mające"
+source: agnes_llm
+status: published
+language: pl
+description: Lyra odnosi się do różnych inicjatyw lub modeli SI, najbardziej znanego
+  jako otwarty duży model językowy (LLM) lub specyficzne narzędzie wyszukiwania i
+  odkrywania informacji napędzane przez SI, mające
 ---
-
 ## Definition
 
 W kontekście współczesnej terminologii SI, Lyra często oznacza wyspecjalizowane systemy SI skupiające się na ulepszaniu interakcji z użytkownikiem dzięki przetwarzaniu języka naturalnego. Może odnosić się do otwartego modelu LLM opracowanego

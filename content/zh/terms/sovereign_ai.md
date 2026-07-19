@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /zh/terms/sovereign_ai/
 date: "2026-07-18T11:34:33.031943Z"
 lastmod: "2026-07-18T11:44:45.555746Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种战略方法，国家或实体开发和控制自己的AI基础设施和模型，以确保数据隐私和监管独立性。"
 ---
-
 ## Definition
 
 主权人工智能描述了一个国家或组织独立构建、部署和管理人工智能系统的能力，而不依赖外国云提供商或专有技术。这旨在维护数据主权、国家安全和技术自主权。

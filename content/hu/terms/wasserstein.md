@@ -1,23 +1,24 @@
 ---
-title: "Wasserstein-távolság"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Wasserstein-távolság
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /hu/terms/wasserstein/
-date: "2026-07-18T15:34:11.284509Z"
-lastmod: "2026-07-18T17:15:09.733559Z"
+slug: wasserstein
+date: '2026-07-18T15:34:11.284509Z'
+lastmod: '2026-07-18T17:15:09.733559Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy olyan metrika, amely a valószínűségi eloszlások közötti távolságot méri az egyikből a másikba történő átalakítás minimális költségén alapulva."
+source: agnes_llm
+status: published
+language: hu
+description: Egy olyan metrika, amely a valószínűségi eloszlások közötti távolságot
+  méri az egyikből a másikba történő átalakítás minimális költségén alapulva.
 ---
-
 ## Definition
 
 A Wasserstein-távolság, más néven Földmunka-távolság (Earth Mover's Distance), két valószínűségi eloszlás közötti hasonlóság hiányát kvantifikálja azzal, hogy kiszámítja a tömeg egyik eloszlásból a másikba történő mozgatásához szükséges minimális 'munkát'.

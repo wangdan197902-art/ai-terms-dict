@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /ro/terms/evaluation/
 date: "2026-07-18T15:25:08.838663Z"
 lastmod: "2026-07-18T17:15:09.592990Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Evaluarea este procesul de apreciere a performanței, acurateței și robusteții unui model AI față de metrici și seturi de date predefinite."
 ---
-
 ## Definition
 
 Evaluarea implică măsurarea sistematică a modului în care un model AI performează pe sarcini specifice, folosind metrici cantitative (de ex., acuratețe, scor F1, BLEU) și evaluări calitative. Aceasta include validarea

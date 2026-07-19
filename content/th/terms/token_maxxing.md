@@ -1,23 +1,23 @@
 ---
-title: "โทเค็นแมกซิ่ง (Token Maxxing)"
-term_id: "token_maxxing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["prompt_engineering", "optimization", "llm"]
+title: โทเค็นแมกซิ่ง (Token Maxxing)
+term_id: token_maxxing
+category: basic_concepts
+subcategory: ''
+tags:
+- Prompt Engineering
+- Optimization
+- LLM
 difficulty: 3
 weight: 1
-slug: "token_maxxing"
-aliases:
-  - /th/terms/token_maxxing/
-date: "2026-07-18T16:18:40.543853Z"
-lastmod: "2026-07-18T16:38:07.663251Z"
+slug: token_maxxing
+date: '2026-07-18T16:18:40.543853Z'
+lastmod: '2026-07-18T16:38:07.663251Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กลยุทธ์การปรับแต่งในวิศวกรรมคำสั่ง (Prompt Engineering) ที่มีเป้าหมายเพื่อเพิ่มประสิทธิภาพสูงสุดหรือคุณภาพผลลัพธ์จากการใช้จำนวนโทเค็นเฉพาะเจาะจงในแบบจำลองภาษาขนาดใหญ่"
+source: agnes_llm
+status: published
+language: th
+description: กลยุทธ์การปรับแต่งในวิศวกรรมคำสั่ง (Prompt Engineering) ที่มีเป้าหมายเพื่อเพิ่มประสิทธิภาพสูงสุดหรือคุณภาพผลลัพธ์จากการใช้จำนวนโทเค็นเฉพาะเจาะจงในแบบจำลองภาษาขนาดใหญ่
 ---
-
 ## Definition
 
 โทเค็นแมกซิ่งเกี่ยวข้องกับการออกแบบอินพุตอย่างพิถีพิถันเพื่อใช้ประโยชน์จากหน้าต่างบริบท (context window) ของโมเดลให้เต็มศักยภาพ หรือเพื่อเพิ่มความหนาแน่นของความหมายของโทเค็นเพื่อให้ได้ประสิทธิภาพการทำงานที่ดีขึ้น ผู้ปฏิบัติอาจเติมข้อความส่วนเกิน (padding) หรือปรับโครงสร้างประโยคเพื่อให้โมเดลประมวลผลข้อมูลได้อย่างมีประสิทธิภาพสูงสุดภายใต้ข้อจำกัดของทรัพยากร

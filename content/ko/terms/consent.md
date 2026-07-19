@@ -7,8 +7,6 @@ tags: ["ethics", "privacy", "legal"]
 difficulty: 2
 weight: 1
 slug: "consent"
-aliases:
-  - /ko/terms/consent/
 date: "2026-07-18T15:46:22.188789Z"
 lastmod: "2026-07-18T16:38:06.820720Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "개인정보를 AI 목적을 위해 수집 및 처리하는 것에 대해 개인이 명시적이고 정보에 기반한 동의를 제공하는 것."
 ---
-
 ## Definition
 
 AI 윤리에서 동의란 사용자의 개인 데이터가 수집, 저장되거나 머신러닝 모델에서 활용되기 전에 사용자가 자발적이고 정보에 기반한 허락을 부여하는 것을 의미합니다. 이는 완전한 형식입니다.

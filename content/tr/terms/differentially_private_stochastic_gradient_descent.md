@@ -1,23 +1,26 @@
 ---
-title: "Ayrıcalık Gizliliğine Sahip Stokastik Gradyan İnişi"
-term_id: "differentially_private_stochastic_gradient_descent"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "privacy", "deep_learning", "algorithms"]
+title: Ayrıcalık Gizliliğine Sahip Stokastik Gradyan İnişi
+term_id: differentially_private_stochastic_gradient_descent
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- privacy
+- Deep Learning
+- algorithms
 difficulty: 5
 weight: 1
-slug: "differentially_private_stochastic_gradient_descent"
-aliases:
-  - /tr/terms/differentially_private_stochastic_gradient_descent/
-date: "2026-07-18T15:49:49.459452Z"
-lastmod: "2026-07-18T16:38:07.298888Z"
+slug: differentially_private_stochastic_gradient_descent
+date: '2026-07-18T15:49:49.459452Z'
+lastmod: '2026-07-18T16:38:07.298888Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Gradyanları kırpıp gürültü ekleyerek eğitilen modelin ayrıcalık gizliliği kısıtlamalarını karşılamasını sağlayan standart SGD'yi değiştiren bir optimizasyon algoritması."
+source: agnes_llm
+status: published
+language: tr
+description: Gradyanları kırpıp gürültü ekleyerek eğitilen modelin ayrıcalık gizliliği
+  kısıtlamalarını karşılamasını sağlayan standart SGD'yi değiştiren bir optimizasyon
+  algoritması.
 ---
-
 ## Definition
 
 DP-SGD, eğitim verisinin gizliliğini korumak üzere tasarlanmış Stokastik Gradyan İnişi'nin bir varyantıdır. Duyarlılığı sınırlamak için her örneğin gradyan katkısını kırpma ve ardından G (Gauss) gürültüsü ekleme yoluyla çalışır.

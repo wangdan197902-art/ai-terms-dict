@@ -7,8 +7,6 @@ tags: ["Software Engineering", "Development Tools", "User Interface"]
 difficulty: 1
 weight: 1
 slug: "cli"
-aliases:
-  - /ko/terms/cli/
 date: "2026-07-18T15:33:36.473870Z"
 lastmod: "2026-07-18T16:38:06.793187Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "터미널에 명령어를 입력하여 소프트웨어 프로그램과 상호 작용하는 텍스트 기반 방법입니다."
 ---
-
 ## Definition
 
 명령줄 인터페이스(CLI)는 그래픽 요소 대신 텍스트 명령어를 입력하여 소프트웨어를 제어할 수 있게 합니다. AI 개발 환경에서는 스크립트 실행, 모델 관리, 데이터 파이프라인 자동화 등에 필수적입니다. CLI는 리소스 소비가 적고, 스크립팅 및 자동화에 적합하며, 원격 서버에서 효율적으로 작업을 수행할 수 있다는 장점이 있습니다.

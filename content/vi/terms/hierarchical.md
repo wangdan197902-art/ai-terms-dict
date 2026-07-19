@@ -1,23 +1,24 @@
 ---
-title: "Phân cấp (Hierarchical)"
-term_id: "hierarchical"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "rl", "nlp"]
+title: Phân cấp (Hierarchical)
+term_id: hierarchical
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- RL
+- NLP
 difficulty: 3
 weight: 1
-slug: "hierarchical"
-aliases:
-  - /vi/terms/hierarchical/
-date: "2026-07-18T15:26:08.243930Z"
-lastmod: "2026-07-18T16:38:07.687553Z"
+slug: hierarchical
+date: '2026-07-18T15:26:08.243930Z'
+lastmod: '2026-07-18T16:38:07.687553Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Chỉ các kiến trúc hoặc chiến lược học AI được tổ chức thành nhiều mức độ trừu tượng khác nhau, trong đó các mức cao hơn kiểm soát các mức thấp hơn."
+source: agnes_llm
+status: published
+language: vi
+description: Chỉ các kiến trúc hoặc chiến lược học AI được tổ chức thành nhiều mức
+  độ trừu tượng khác nhau, trong đó các mức cao hơn kiểm soát các mức thấp hơn.
 ---
-
 ## Definition
 
 Các hệ thống AI phân cấp tổ chức thông tin hoặc kiểm soát thành một cấu trúc dạng cây gồm các lớp lồng nhau. Trong Học tăng cường, Học tăng cường phân cấp phân tách các nhiệm vụ phức tạp thành các mục tiêu phụ do các...

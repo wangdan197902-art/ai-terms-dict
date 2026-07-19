@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /pl/terms/embodied/
 date: "2026-07-18T15:24:52.509146Z"
 lastmod: "2026-07-18T17:15:08.810164Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Ucieleśniona sztuczna inteligencja odnosi się do inteligentnych systemów, które interagują ze światem fizycznym za pomocą czujników i aktuatorów w ramach ciała."
 ---
-
 ## Definition
 
 Ucieleśniona sztuczna inteligencja zakłada, że inteligencja wynika z interakcji między fizyczną formą agenta a jego środowiskiem. W przeciwieństwie do nieucielesnionej SI przetwarzającej abstrakcyjne dane, agenci ucieleśnieni używają czujników

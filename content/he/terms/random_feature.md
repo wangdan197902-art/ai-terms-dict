@@ -1,23 +1,24 @@
 ---
-title: "תכונה אקראית"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: תכונה אקראית
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /he/terms/random_feature/
-date: "2026-07-18T16:21:56.955839Z"
-lastmod: "2026-07-18T17:15:09.579313Z"
+slug: random_feature
+date: '2026-07-18T16:21:56.955839Z'
+lastmod: '2026-07-18T17:15:09.579313Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה הממפה נתוני קלט למרחב בעל ממדים גבוהים יותר באמצעות הטלות אקראיות, כדי לקרב שיטות ליבה ביעילות."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה הממפה נתוני קלט למרחב בעל ממדים גבוהים יותר באמצעות הטלות אקראיות,
+  כדי לקרב שיטות ליבה ביעילות.
 ---
-
 ## Definition
 
 מיפויי תכונות אקראיים ממירים קלטים למרחב חדש שבו מודלים ליניאריים יכולים לקרב פונקציות ליבה לא-ליניאריות. גישה זו, הקשורה לעיתים קרובות לשיטת ניסטרום או לתכונות פורייה, מאפשרת יישום יעיל יותר.

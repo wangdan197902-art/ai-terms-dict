@@ -1,23 +1,25 @@
 ---
-title: "Le gagnant prend tout dans la sélection d'actions"
-term_id: "winner_take_all_in_action_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "decision_making", "rl"]
+title: Le gagnant prend tout dans la sélection d'actions
+term_id: winner_take_all_in_action_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Decision Making
+- RL
 difficulty: 3
 weight: 1
-slug: "winner_take_all_in_action_selection"
-aliases:
-  - /fr/terms/winner_take_all_in_action_selection/
-date: "2026-07-18T11:43:05.960141Z"
-lastmod: "2026-07-18T11:44:45.358865Z"
+slug: winner_take_all_in_action_selection
+date: '2026-07-18T11:43:05.960141Z'
+lastmod: '2026-07-18T11:44:45.358865Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un mécanisme de prise de décision où le neurone ou l'agent avec le niveau d'activation le plus élevé supprime tous les autres pour sélectionner une seule action."
+source: agnes_llm
+status: published
+language: fr
+description: Un mécanisme de prise de décision où le neurone ou l'agent avec le niveau
+  d'activation le plus élevé supprime tous les autres pour sélectionner une seule
+  action.
 ---
-
 ## Definition
 
 Le principe du « gagnant prend tout » (WTA) est un processus compétitif utilisé dans les réseaux neuronaux et l'apprentissage par renforcement pour résoudre les conflits entre plusieurs actions ou hypothèses concurrentes. Dans ce schéma, l'unité présentant l'activation la plus forte émerge comme le seul choix valide, inhibant les autres propositions via l'inhibition latérale.

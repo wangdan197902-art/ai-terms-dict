@@ -7,8 +7,6 @@ tags: ["tools", "cloud", "education"]
 difficulty: 1
 weight: 1
 slug: "google_colab"
-aliases:
-  - /hu/terms/google_colab/
 date: "2026-07-18T16:02:00.188691Z"
 lastmod: "2026-07-18T17:15:09.789349Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy felhőalapú Jupyter notebook környezet, amely lehetővé teszi a felhasználók számára, hogy Python kódot írjanak és futtassanak böngészőn keresztül, ingyenes GPU-hozzáféréssel."
 ---
-
 ## Definition
 
 A Google Colaboratory, köznyelvben Colab, egy hosztolt Jupyter notebook szolgáltatás, amely nem igényel telepítést, és ingyenes hozzáférést biztosít számítási erőforrásokhoz, beleértve a Grafikus Feldolgozó Egységeket (GPU-kat) is.

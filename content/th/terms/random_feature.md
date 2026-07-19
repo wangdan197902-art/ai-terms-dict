@@ -1,23 +1,24 @@
 ---
-title: "ฟีเจอร์สุ่ม (Random feature)"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: ฟีเจอร์สุ่ม (Random feature)
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /th/terms/random_feature/
-date: "2026-07-18T16:13:21.972280Z"
-lastmod: "2026-07-18T16:38:07.648869Z"
+slug: random_feature
+date: '2026-07-18T16:13:21.972280Z'
+lastmod: '2026-07-18T16:38:07.648869Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคที่แมปข้อมูลอินพุตไปยังปริภูมิที่มีมิติสูงกว่าโดยใช้โปรเจกชันแบบสุ่ม เพื่อประมาณวิธีการเคอร์เนลอย่างมีประสิทธิภาพ"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคที่แมปข้อมูลอินพุตไปยังปริภูมิที่มีมิติสูงกว่าโดยใช้โปรเจกชันแบบสุ่ม
+  เพื่อประมาณวิธีการเคอร์เนลอย่างมีประสิทธิภาพ
 ---
-
 ## Definition
 
 การแมปฟีเจอร์สุ่มเปลี่ยนอินพุตไปยังปริภูมิใหม่ซึ่งโมเดลเชิงเส้นสามารถประมาณฟังก์ชันเคอร์เนลแบบไม่เชิงเส้นได้ วิธีการนี้มักเกี่ยวข้องกับวิธีนีสโตรม (Nystrom method) หรือฟีเจอร์ฟูเรียร์ (Fourier features) ซึ่งอนุญาตให้

@@ -1,23 +1,23 @@
 ---
-title: "Κλάδεμα δέντρου αποφάσεων"
-term_id: "decision_tree_pruning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "trees"]
+title: Κλάδεμα δέντρου αποφάσεων
+term_id: decision_tree_pruning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- trees
 difficulty: 3
 weight: 1
-slug: "decision_tree_pruning"
-aliases:
-  - /el/terms/decision_tree_pruning/
-date: "2026-07-18T16:01:37.127542Z"
-lastmod: "2026-07-18T17:15:09.899354Z"
+slug: decision_tree_pruning
+date: '2026-07-18T16:01:37.127542Z'
+lastmod: '2026-07-18T17:15:09.899354Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική για τη μείωση του μεγέθους των δέντρων αποφάσεων αφαιρώντας τμήματα που προσφέρουν μικρή ισχύ στην ταξινόμηση των περιπτώσεων."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική για τη μείωση του μεγέθους των δέντρων αποφάσεων αφαιρώντας
+  τμήματα που προσφέρουν μικρή ισχύ στην ταξινόμηση των περιπτώσεων.
 ---
-
 ## Definition
 
 Το κλάδεμα είναι μια μέθοδος που χρησιμοποιείται για την πρόληψη της υπερπροσαρμογής σε μοντέλα δέντρων αποφάσεων, αφαιρώντας κλαδιά με ασθενή προβλεπτική ισχύ. Μπορεί να πραγματοποιηθεί ως προκαταρκτικό κλάδεμα (σταματώντας νωρίς την ανάπτυξη του δέντρου) ή ως μεταγενέστερο κλάδεμα (αφαιρώντας κλαδιά από ένα πλήρως αναπτυγμένο δέντρο).

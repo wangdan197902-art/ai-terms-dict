@@ -7,8 +7,6 @@ tags: ["safety", "moderation", "application"]
 difficulty: 2
 weight: 1
 slug: "content_filtering"
-aliases:
-  - /ro/terms/content_filtering/
 date: "2026-07-18T15:50:32.237624Z"
 lastmod: "2026-07-18T17:15:09.639530Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Procesul de blocare sau permitere a accesului la conținutul digital pe baza criteriilor predefinite sau a modelelor de clasificare."
 ---
-
 ## Definition
 
 Filtrarea conținutului implică utilizarea algoritmilor și a regulilor pentru a scana, clasifica și controla fluxul informațiilor prezentate utilizatorilor. În contextul IA, aceasta utilizează adesea procesarea limbajului natural (NLP) și analiza computerizată a imaginilor pentru a identifica conținut neadecvat.

@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /zh/terms/bayesian_programming/
 date: "2026-07-18T11:09:03.756075Z"
 lastmod: "2026-07-18T11:44:45.450694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种形式化的概率推理框架，将贝叶斯推断扩展至复杂的分层模型。"
 ---
-
 ## Definition
 
 贝叶斯编程是一种数学框架，它将贝叶斯定理泛化以处理复杂的多层概率依赖关系。它允许开发者定义分层模型，其中变量之间存在条件依赖结构，从而能够更灵活地建模不确定性。

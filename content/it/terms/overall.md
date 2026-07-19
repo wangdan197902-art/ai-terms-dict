@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "overall"
-aliases:
-  - /it/terms/overall/
 date: "2026-07-18T15:27:34.966771Z"
 lastmod: "2026-07-18T17:15:08.571422Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Complessivo si riferisce alle prestazioni aggregate, all'accuratezza o all'impatto di un sistema IA su tutti i casi di test o scenari operativi."
 ---
-
 ## Definition
 
 Quando si valutano i modelli IA, le metriche 'complessive' forniscono una visione olistica delle prestazioni del sistema piuttosto che concentrarsi su componenti isolati. Questo include l'accuratezza complessiva, la precisione media media o il totale...

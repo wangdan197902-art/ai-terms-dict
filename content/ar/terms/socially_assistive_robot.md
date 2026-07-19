@@ -7,8 +7,6 @@ tags: ["robotics", "healthcare", "hri"]
 difficulty: 3
 weight: 1
 slug: "socially_assistive_robot"
-aliases:
-  - /ar/terms/socially_assistive_robot/
 date: "2026-07-18T16:21:01.486731Z"
 lastmod: "2026-07-18T17:15:08.548748Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "روبوت مصمم للتفاعل مع البشر لتحسين رفاهيتهم الجسدية أو النفسية دون أداء مهام جسدية مباشرة."
 ---
-
 ## Definition
 
 الروبوتات المساعدة اجتماعياً (SARs) هي مجموعة فرعية من تفاعل الإنسان مع الروبوت تركز على تقديم المساعدة من خلال وسائل اجتماعية بدلاً من التلاعب المادي. وهي تستخدم استراتيجيات غير تلامسية مثل...

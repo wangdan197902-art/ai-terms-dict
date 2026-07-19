@@ -1,23 +1,24 @@
 ---
-title: "מתמטיקאי אוטומטי (Automated Mathematician)"
-term_id: "automated_mathematician"
-category: "basic_concepts"
-subcategory: ""
-tags: ["research", "symbolic_ai", "mathematics"]
+title: מתמטיקאי אוטומטי (Automated Mathematician)
+term_id: automated_mathematician
+category: basic_concepts
+subcategory: ''
+tags:
+- research
+- Symbolic AI
+- mathematics
 difficulty: 5
 weight: 1
-slug: "automated_mathematician"
-aliases:
-  - /he/terms/automated_mathematician/
-date: "2026-07-18T15:43:43.021677Z"
-lastmod: "2026-07-18T17:15:09.515236Z"
+slug: automated_mathematician
+date: '2026-07-18T15:43:43.021677Z'
+lastmod: '2026-07-18T17:15:09.515236Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מערכת AI המיועדת לגלות משפטים, השערות או הוכחות מתמטיות חדשות באמצעות חיפוש חישובי וסיבתיות."
+source: agnes_llm
+status: published
+language: he
+description: מערכת AI המיועדת לגלות משפטים, השערות או הוכחות מתמטיות חדשות באמצעות
+  חיפוש חישובי וסיבתיות.
 ---
-
 ## Definition
 
 מתמטיקאי אוטומטי משתמש בלמידת מכונה ובהיגיון סמלי כדי לחקור מרחבים מתמטיים העולים על האינטואיציה האנושית. מערכות אלו יכולות לייצר השערות, לאמת הוכחות ולמצוא דפוסים מורכבים, ובכך להאיץ את הקצב של גילויים מתמטיים.

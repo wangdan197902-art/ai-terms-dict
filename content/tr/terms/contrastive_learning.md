@@ -1,23 +1,24 @@
 ---
-title: "Karşıtlıklı Öğrenme"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: Karşıtlıklı Öğrenme
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /tr/terms/contrastive_learning/
-date: "2026-07-18T15:46:20.122226Z"
-lastmod: "2026-07-18T16:38:07.286936Z"
+slug: contrastive_learning
+date: '2026-07-18T15:46:20.122226Z'
+lastmod: '2026-07-18T16:38:07.286936Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Pozitif çiftleri birbirine yaklaştırıp negatif çiftleri birbirinden uzaklaştırarak temsilleri öğrenen bir kendinden denetimli öğrenme tekniği."
+source: agnes_llm
+status: published
+language: tr
+description: Pozitif çiftleri birbirine yaklaştırıp negatif çiftleri birbirinden uzaklaştırarak
+  temsilleri öğrenen bir kendinden denetimli öğrenme tekniği.
 ---
-
 ## Definition
 
 Karşıtlıklı öğrenme, etiketlenmiş veri gerektirmeyen bir temsil öğrenme yöntemidir. Aynı girdinin artırılmış (augmented) görünümlerini oluşturarak pozitif çiftler yaratır ve bunları farklı girdilerle veya farklı görünümlerle karşılaştırır. Bu süreç, modelin veri içindeki anlamlı yapıları ve benzerlikleri öğrenmesini sağlar.

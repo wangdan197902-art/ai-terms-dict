@@ -1,23 +1,24 @@
 ---
-title: "Lineáris szétválaszthatóság"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: Lineáris szétválaszthatóság
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /hu/terms/linear_separability/
-date: "2026-07-18T16:10:35.353451Z"
-lastmod: "2026-07-18T17:15:09.803218Z"
+slug: linear_separability
+date: '2026-07-18T16:10:35.353451Z'
+lastmod: '2026-07-18T17:15:09.803218Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy adathalmaz tulajdonsága, ahol két osztály tökéletesen elválasztható egyetlen egyenessel vagy hipersíkkal."
+source: agnes_llm
+status: published
+language: hu
+description: Egy adathalmaz tulajdonsága, ahol két osztály tökéletesen elválasztható
+  egyetlen egyenessel vagy hipersíkkal.
 ---
-
 ## Definition
 
 A lineáris szétválaszthatóság azt a geometriai feltételt jelöli, amikor a különböző osztályokhoz tartozó adatpontok teljesen elválaszthatók egy lineáris határvonal által, például egy vonallal a 2D térben vagy egy hipersíkkal a magasabb dimenziós terekben.

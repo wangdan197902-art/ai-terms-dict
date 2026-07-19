@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /it/terms/explainability/
 date: "2026-07-18T15:35:19.963083Z"
 lastmod: "2026-07-18T17:15:08.585369Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La Spiegabilità si riferisce al grado in cui un essere umano può comprendere la causa di una decisione presa da un modello di IA."
 ---
-
 ## Definition
 
 Questo concetto affronta il problema della 'scatola nera' nei sistemi di IA complessi fornendo approfondimenti su come i modelli arrivano a specifiche previsioni. Tecniche come SHAP o LIME aiutano a visualizzare l'importanza delle

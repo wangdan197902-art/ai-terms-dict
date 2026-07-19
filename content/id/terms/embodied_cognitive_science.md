@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /id/terms/embodied_cognitive_science/
 date: "2026-07-18T15:49:08.238592Z"
 lastmod: "2026-07-18T16:38:07.454228Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Ilmu kognitif berwujud adalah kerangka teoretis yang mengusulkan bahwa kognisi manusia dibentuk secara mendasar oleh interaksi tubuh dengan lingkungan."
 ---
-
 ## Definition
 
 Bidang ini menantang pandangan tradisional yang menganggap pikiran sebagai komputer yang memproses simbol abstrak. Sebaliknya, bidang ini berargumen bahwa proses kognitif berakar kuat pada karakteristik fisik tubuh

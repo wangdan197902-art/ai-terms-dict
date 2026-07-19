@@ -1,23 +1,24 @@
 ---
-title: "Informática del comportamiento"
-term_id: "behavior_informatics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interdisciplinary", "data_analysis", "human_behavior"]
+title: Informática del comportamiento
+term_id: behavior_informatics
+category: basic_concepts
+subcategory: ''
+tags:
+- interdisciplinary
+- Data Analysis
+- Human Behavior
 difficulty: 3
 weight: 1
-slug: "behavior_informatics"
-aliases:
-  - /es/terms/behavior_informatics/
-date: "2026-07-18T10:38:20.251347Z"
-lastmod: "2026-07-18T11:44:44.782473Z"
+slug: behavior_informatics
+date: '2026-07-18T10:38:20.251347Z'
+lastmod: '2026-07-18T11:44:44.782473Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La disciplina interdisciplinaria que estudia el comportamiento humano mediante la recopilación y análisis de datos digitales."
+source: agnes_llm
+status: published
+language: es
+description: La disciplina interdisciplinaria que estudia el comportamiento humano
+  mediante la recopilación y análisis de datos digitales.
 ---
-
 ## Definition
 
 La informática del comportamiento combina ciencias de la computación, psicología y estadística para analizar grandes volúmenes de datos conductuales generados por interacciones digitales. Se centra en extraer patrones, predecir comportamientos futuros y entender las dinámicas humanas a escala masiva, utilizando técnicas avanzadas de minería de datos y aprendizaje automático.

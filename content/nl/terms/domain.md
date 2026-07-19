@@ -1,23 +1,24 @@
 ---
-title: "Domein"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Domein
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /nl/terms/domain/
-date: "2026-07-18T15:25:23.630975Z"
-lastmod: "2026-07-18T17:15:08.682744Z"
+slug: domain
+date: '2026-07-18T15:25:23.630975Z'
+lastmod: '2026-07-18T17:15:08.682744Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "A domain represents a specific context or distribution of data characterized by its feature space and underlying probability distribution."
+source: agnes_llm
+status: published
+language: nl
+description: A domain represents a specific context or distribution of data characterized
+  by its feature space and underlying probability distribution.
 ---
-
 ## Definition
 
 Een domein vertegenwoordigt een specifieke context of verdeling van gegevens, gekenmerkt door zijn functieruimte en onderliggende waarschijnlijkheidsverdeling.

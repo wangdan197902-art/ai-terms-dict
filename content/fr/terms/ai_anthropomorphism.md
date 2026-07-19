@@ -7,8 +7,6 @@ tags: ["psychology", "HCI", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_anthropomorphism"
-aliases:
-  - /fr/terms/ai_anthropomorphism/
 date: "2026-07-18T11:02:43.375065Z"
 lastmod: "2026-07-18T11:44:45.192049Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La tendance des humains à attribuer des caractéristiques, des émotions ou des intentions humaines aux systèmes IA."
 ---
-
 ## Definition
 
 L'anthropomorphisme de l'IA fait référence au phénomène psychologique où les utilisateurs projettent des traits humains sur des entités non humaines, telles que des chatbots ou des robots. Cela peut entraîner des attentes irréalistes concernant les capacités émotionnelles ou cognitives de la machine.

@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /vi/terms/smart_object/
 date: "2026-07-18T16:12:00.355689Z"
 lastmod: "2026-07-18T16:38:07.805492Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thực thể vật lý được trang bị cảm biến, cơ cấu chấp hành và khả năng kết nối để thu thập dữ liệu và tương tác thông minh với môi trường."
 ---
-
 ## Definition
 
 Các đối tượng thông minh là thành phần của Internet of Things (IoT), sở hữu định danh duy nhất và khả năng truyền dữ liệu qua mạng mà không cần tương tác trực tiếp giữa người với người hoặc người với máy tính...

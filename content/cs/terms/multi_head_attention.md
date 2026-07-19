@@ -1,23 +1,24 @@
 ---
-title: "Multi-Head Attention"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Multi-Head Attention
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /cs/terms/multi_head_attention/
-date: "2026-07-18T15:27:14.908065Z"
-lastmod: "2026-07-18T17:15:09.073558Z"
+slug: multi_head_attention
+date: '2026-07-18T15:27:14.908065Z'
+lastmod: '2026-07-18T17:15:09.073558Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Mechanismus v modelech typu transformer, který umožňuje modelu současně věnovat pozornost informacím z různých podprostorů reprezentace."
+source: agnes_llm
+status: published
+language: cs
+description: Mechanismus v modelech typu transformer, který umožňuje modelu současně
+  věnovat pozornost informacím z různých podprostorů reprezentace.
 ---
-
 ## Definition
 
 Multi-Head Attention rozšiřuje standardní mechanismus pozornosti tím, že jej spouští vícekrát paralelně s různými naučenými lineárními projekcemi. To umožňuje modelu společně sledovat informace z různých perspektiv.

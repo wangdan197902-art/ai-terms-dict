@@ -1,23 +1,23 @@
 ---
-title: "디코더"
-term_id: "decoder"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "nlp", "architecture"]
+title: 디코더
+term_id: decoder
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- NLP
+- architecture
 difficulty: 4
 weight: 1
-slug: "decoder"
-aliases:
-  - /ko/terms/decoder/
-date: "2026-07-18T15:34:04.841847Z"
-lastmod: "2026-07-18T16:38:06.793884Z"
+slug: decoder
+date: '2026-07-18T15:34:04.841847Z'
+lastmod: '2026-07-18T16:38:06.793884Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "인코딩된 잠재 표현(latent representations)으로부터 출력 시퀀스를 생성하는 역할을 하는 신경망 구성 요소입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 인코딩된 잠재 표현(latent representations)으로부터 출력 시퀀스를 생성하는 역할을 하는 신경망 구성 요소입니다.
 ---
-
 ## Definition
 
 시퀀스 투 시퀀스(sequence-to-sequence) 모델에서 디코더는 인코더가 생성한 컨텍스트 벡터를 입력받아 대상 출력을 단계별로 생성합니다. 이는 관련 있는 부분에 집중하기 위해 어텐션 메커니즘(attention mechanisms)을 사용합니다.

@@ -1,23 +1,24 @@
 ---
-title: "Kuvagenerointi"
-term_id: "image_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "multimedia"]
+title: Kuvagenerointi
+term_id: image_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- multimedia
 difficulty: 3
 weight: 1
-slug: "image_generation"
-aliases:
-  - /fi/terms/image_generation/
-date: "2026-07-18T16:02:46.659561Z"
-lastmod: "2026-07-18T17:15:09.421163Z"
+slug: image_generation
+date: '2026-07-18T16:02:46.659561Z'
+lastmod: '2026-07-18T17:15:09.421163Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kuvagenerointi on prosessi, jossa luodaan uutta visuaalista sisältöä alusta alkaen tai muokataan olemassa olevia kuvia generatiivisten tekoälymallien avulla."
+source: agnes_llm
+status: published
+language: fi
+description: Kuvagenerointi on prosessi, jossa luodaan uutta visuaalista sisältöä
+  alusta alkaen tai muokataan olemassa olevia kuvia generatiivisten tekoälymallien
+  avulla.
 ---
-
 ## Definition
 
 Tämä paradigma käyttää malleja kuten Stable Diffusiota tai DALL-E tuottaakseen korkealaatuisia kuvia tekstipohjaisista syötteistä. Se perustuu monimutkaisten datajakaumien oppimiseen realististen kuvien syntetisoimiseksi.

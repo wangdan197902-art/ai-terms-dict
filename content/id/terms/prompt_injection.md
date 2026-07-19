@@ -1,23 +1,24 @@
 ---
-title: "Injeksi Prompt"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: Injeksi Prompt
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /id/terms/prompt_injection/
-date: "2026-07-18T15:35:38.270804Z"
-lastmod: "2026-07-18T16:38:07.417466Z"
+slug: prompt_injection
+date: '2026-07-18T15:35:38.270804Z'
+lastmod: '2026-07-18T16:38:07.417466Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Serangan adversarial di mana input jahat memanipulasi model AI untuk melewati filter keamanan atau mengeksekusi perintah yang tidak disengaja."
+source: agnes_llm
+status: published
+language: id
+description: Serangan adversarial di mana input jahat memanipulasi model AI untuk
+  melewati filter keamanan atau mengeksekusi perintah yang tidak disengaja.
 ---
-
 ## Definition
 
 Injeksi prompt memanfaatkan cara model bahasa besar menafsirkan instruksi pengguna dengan menanamkan direktif tersembunyi atau bertentangan di dalam teks input. Hal ini dapat menyebabkan model mengabaikan instruksi asli atau kebijakan keselamatannya.

@@ -7,8 +7,6 @@ tags: ["theoretical", "quantum", "biology"]
 difficulty: 5
 weight: 1
 slug: "quantum_artificial_life"
-aliases:
-  - /he/terms/quantum_artificial_life/
 date: "2026-07-18T16:21:10.581334Z"
 lastmod: "2026-07-18T17:15:09.577778Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "תחום החוקר מערכות אוטונומיות ותהליכים אבולוציוניים באמצעות עקרונות של מחשוב קוונטי."
 ---
-
 ## Definition
 
 חיים מלאכותיים קוונטיים (QAL) חוקרים את הצומת שבין מכניקת הקוונטים למחקר החיים המלאכותיים, במטרה לדמות אבולוציה ביולוגית ומערכות מסתכמות באמצעות מחשבים קוונטיים.

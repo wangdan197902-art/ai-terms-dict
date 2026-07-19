@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /pl/terms/neural_network/
 date: "2026-07-18T15:28:04.415301Z"
 lastmod: "2026-07-18T17:15:08.816658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "System obliczeniowy inspirowany biologicznym mózgiem, składający się z połączonych węzłów lub neuronów zorganizowanych w warstwy."
 ---
-
 ## Definition
 
 Sieć neuronowa to seria algorytmów dążących do rozpoznawania ukrytych zależności w zbiorze danych poprzez proces naśladujący działanie ludzkiego mózgu. Składa się z warstw neuronów połączonych wagami, które są optymalizowane podczas treningu w celu poprawy dokładności predykcji.

@@ -1,23 +1,22 @@
 ---
-title: "三因子学习"
-term_id: "three_factor_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["rl", "optimization"]
+title: 三因子学习
+term_id: three_factor_learning
+category: training_techniques
+subcategory: ''
+tags:
+- RL
+- Optimization
 difficulty: 4
 weight: 1
-slug: "three_factor_learning"
-aliases:
-  - /zh/terms/three_factor_learning/
-date: "2026-07-18T11:36:49.925200Z"
-lastmod: "2026-07-18T11:44:45.563792Z"
+slug: three_factor_learning
+date: '2026-07-18T11:36:49.925200Z'
+lastmod: '2026-07-18T11:44:45.563792Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种利用奖励、价值和策略因子来优化智能体行为的强化学习框架。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种利用奖励、价值和策略因子来优化智能体行为的强化学习框架。
 ---
-
 ## Definition
 
 三因子学习是强化学习中的一种特定方法，它将学习过程分解为三个不同的组成部分：奖励信号、价值函数和策略。奖励信号提供即时反馈，价值函数评估长期预期收益，而策略则决定智能体的行动选择。这种分解有助于更精细地调整和优化智能体在复杂环境中的行为表现。

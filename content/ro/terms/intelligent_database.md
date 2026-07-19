@@ -1,23 +1,25 @@
 ---
-title: "Bază de date inteligentă"
-term_id: "intelligent_database"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_management", "ai", "infrastructure"]
+title: Bază de date inteligentă
+term_id: intelligent_database
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Management
+- AI
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "intelligent_database"
-aliases:
-  - /ro/terms/intelligent_database/
-date: "2026-07-18T16:05:48.606813Z"
-lastmod: "2026-07-18T17:15:09.669895Z"
+slug: intelligent_database
+date: '2026-07-18T16:05:48.606813Z'
+lastmod: '2026-07-18T17:15:09.669895Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un sistem de baze de date care integrează capacități de inteligență artificială pentru a automatiza gestionarea datelor, optimizarea interogărilor și generarea de informații."
+source: agnes_llm
+status: published
+language: ro
+description: Un sistem de baze de date care integrează capacități de inteligență artificială
+  pentru a automatiza gestionarea datelor, optimizarea interogărilor și generarea
+  de informații.
 ---
-
 ## Definition
 
 O bază de date inteligentă folosește învățarea automată și inteligența artificială pentru a îmbunătăți funcționalitățile standard ale bazelor de date dincolo de simpla stocare și recuperare. Poate optimiza automat performanța interogărilor, poate prezice utilizarea

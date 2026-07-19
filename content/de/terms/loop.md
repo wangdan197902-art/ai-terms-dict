@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /de/terms/loop/
 date: "2026-07-18T10:51:24.590421Z"
 lastmod: "2026-07-18T11:44:44.877764Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Programmierkonstruktion, die einen Codeblock wiederholt, bis eine bestimmte Bedingung erfüllt ist."
 ---
-
 ## Definition
 
 Eine grundlegende Steuerflussstruktur in der Informatik und KI-Entwicklung. Eine Schleife ermöglicht es Algorithmen, durch Datensätze zu iterieren, wiederholte Berechnungen durchzuführen oder Trainings-Epochen auszuführen.

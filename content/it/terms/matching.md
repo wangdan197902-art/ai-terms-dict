@@ -1,23 +1,24 @@
 ---
-title: "Matching"
-term_id: "matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "computer-vision", "algorithms"]
+title: Matching
+term_id: matching
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- Computer Vision
+- algorithms
 difficulty: 2
 weight: 1
-slug: "matching"
-aliases:
-  - /it/terms/matching/
-date: "2026-07-18T15:26:39.475720Z"
-lastmod: "2026-07-18T17:15:08.569775Z"
+slug: matching
+date: '2026-07-18T15:26:39.475720Z'
+lastmod: '2026-07-18T17:15:08.569775Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il matching consiste nell'allineare due insiemi di punti dati o caratteristiche per identificare corrispondenze, somiglianze o accoppiamenti ottimali tra di essi."
+source: agnes_llm
+status: published
+language: it
+description: Il matching consiste nell'allineare due insiemi di punti dati o caratteristiche
+  per identificare corrispondenze, somiglianze o accoppiamenti ottimali tra di essi.
 ---
-
 ## Definition
 
 Il matching è una tecnica critica nell'apprendimento automatico utilizzata per stabilire relazioni tra entità dati disparate. Nella visione artificiale, il matching delle caratteristiche identifica punti corrispondenti attraverso le immagini

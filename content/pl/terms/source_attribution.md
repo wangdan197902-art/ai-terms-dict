@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /pl/terms/source_attribution/
 date: "2026-07-18T16:17:19.776574Z"
 lastmod: "2026-07-18T17:15:08.918915Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces identyfikowania i przypisywania autorstwa oryginalnym twórcom lub zbiorom danych używanym do wygenerowania konkretnej treści lub wniosków."
 ---
-
 ## Definition
 
 Atrybucja źródła odnosi się do systematycznego śledzenia i oznaczania pochodzenia danych, modeli lub wygenerowanych wyników w systemach sztucznej inteligencji. Zapewnia ona przejrzystość poprzez powiązanie ostatecznych rezultatów z ich źródłami.

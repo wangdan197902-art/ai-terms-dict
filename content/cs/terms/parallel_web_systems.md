@@ -1,23 +1,24 @@
 ---
-title: "Paralelní webové systémy"
-term_id: "parallel_web_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "distributed-systems", "web-development"]
+title: Paralelní webové systémy
+term_id: parallel_web_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Distributed Systems
+- Web Development
 difficulty: 3
 weight: 1
-slug: "parallel_web_systems"
-aliases:
-  - /cs/terms/parallel_web_systems/
-date: "2026-07-18T16:12:16.282825Z"
-lastmod: "2026-07-18T17:15:09.187860Z"
+slug: parallel_web_systems
+date: '2026-07-18T16:12:16.282825Z'
+lastmod: '2026-07-18T17:15:09.187860Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Architektury distribuovaného výpočtu využívající souběžné zpracování na více uzlech k efektivnímu zvládání pracovní zátěže v měřítku webu."
+source: agnes_llm
+status: published
+language: cs
+description: Architektury distribuovaného výpočtu využívající souběžné zpracování
+  na více uzlech k efektivnímu zvládání pracovní zátěže v měřítku webu.
 ---
-
 ## Definition
 
 Paralelní webové systémy označují návrhy infrastruktury, při kterých jsou výpočetní úkoly rozděleny a prováděny současně na více serverech nebo procesorech propojených sítí. Tento přístup umožňuje škálovatelnost a vysokou dostupnost.

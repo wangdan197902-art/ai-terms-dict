@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 2
 weight: 1
 slug: "responsible_ai"
-aliases:
-  - /hu/terms/responsible_ai/
 date: "2026-07-18T16:21:30.695215Z"
 lastmod: "2026-07-18T17:15:09.829897Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy keretrendszer, amely biztosítja, hogy az AI rendszereket etikus módon fejlesszék és vezessék be, kiemelve az igazságosságot, átláthatóságot, elszámoltathatóságot és biztonságot."
 ---
-
 ## Definition
 
 A felelős AI magában foglalja azokat az elveket és gyakorlatokat, amelyek célja a mesterséges intelligenciával járó kockázatok mérséklése. Ide tartozik a modellek torzításra vonatkozó auditálása, a döntések magyarázhatóságának biztosítása, valamint a társadalmi felelősségvállalás előmozdítása.

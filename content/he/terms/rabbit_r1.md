@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /he/terms/rabbit_r1/
 date: "2026-07-18T16:21:41.790770Z"
 lastmod: "2026-07-18T17:15:09.579041Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מכשיר ידני המופעל על ידי בינה מלאכותית ומבוסס על Large Action Model (LAM), המיועד לבצע משימות באופן אוטונומי."
 ---
-
 ## Definition
 
 ה-Rabbit r1 הוא מכשיר חומרה ייעודי שהושק על ידי Rabbit Inc., המבוסס על הדגל הייחודי שלהם, Large Action Model (LAM). בניגוד לסמארטפונים רב-תכליתיים, המכשיר מתמקד בביצוע משימות דיגיטליות ספציפיות באמצעות הבנת כוונות המשתמש.

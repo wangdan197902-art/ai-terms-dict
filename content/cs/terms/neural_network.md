@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /cs/terms/neural_network/
 date: "2026-07-18T15:27:29.491114Z"
 lastmod: "2026-07-18T17:15:09.073868Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Výpočetní systém inspirovaný biologickým mozkem, skládající se z propojených uzlů nebo neuronů uspořádaných do vrstev."
 ---
-
 ## Definition
 
 Neuronová síť je řada algoritmů, které se snaží rozpoznat skryté vztahy v sadě dat prostřednictvím procesu napodobujícího fungování lidského mozku. Skládá se z vrstev vzájemně propojených umělých neuronů, které zpracovávají vstupní data a předávají výsledky dále, čímž umožňují učení se na datech bez explicitního programování pravidel.

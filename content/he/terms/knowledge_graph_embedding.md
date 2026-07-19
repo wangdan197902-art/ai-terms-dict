@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /he/terms/knowledge_graph_embedding/
 date: "2026-07-18T16:08:42.995605Z"
 lastmod: "2026-07-18T17:15:09.554186Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טכניקה הממפה ישויות וקשרים בגרף ידע למרחבים וקטוריים רציפים תוך שמירה על המשמעות המבנית."
 ---
-
 ## Definition
 
 שיטות הטמעת גרף ידע, כגון TransE או DistMult, הופכות מבנים גרפיים בדידים לווקטורים צפופים ממדים נמוכים. פעולה זו מאפשרת למודלי למידת מכונה לבצע פעולות מתמטיות על הידע המובנה.

@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /sv/terms/gaussian/
 date: "2026-07-18T15:26:19.004778Z"
 lastmod: "2026-07-18T17:15:08.942688Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Relaterat till normalfördelningen, en klockformad kurva som är grundläggande för statistik och brusmodellering inom AI."
 ---
-
 ## Definition
 
 Gaussisk syftar på normalfördelningen, en kontinuerlig sannolikhetsfördelning som kännetecknas av sitt medelvärde och varians. Inom AI används den flitigt inom sannolikhetsmodellering, bayesiansk inferens och

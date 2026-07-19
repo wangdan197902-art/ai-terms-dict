@@ -1,23 +1,23 @@
 ---
-title: "การใช้ LLM เป็นผู้ตัดสิน"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: การใช้ LLM เป็นผู้ตัดสิน
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /th/terms/llm_as_a_judge/
-date: "2026-07-18T16:01:45.007271Z"
-lastmod: "2026-07-18T16:38:07.623830Z"
+slug: llm_as_a_judge
+date: '2026-07-18T16:01:45.007271Z'
+lastmod: '2026-07-18T16:38:07.623830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการประเมินผลลัพธ์ของโมเดลภาษาขนาดใหญ่โดยใช้โมเดลภาษาอีกตัวหนึ่งให้คะแนนหรือจัดอันดับการตอบสนองตามเกณฑ์ที่กำหนด"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการประเมินผลลัพธ์ของโมเดลภาษาขนาดใหญ่โดยใช้โมเดลภาษาอีกตัวหนึ่งให้คะแนนหรือจัดอันดับการตอบสนองตามเกณฑ์ที่กำหนด
 ---
-
 ## Definition
 
 LLM-as-a-Judge เป็นรูปแบบการประเมินที่โมเดลภาษาขนาดใหญ่ทำหน้าที่เป็นผู้ประเมินคุณภาพของผลลัพธ์จากโมเดลอื่นโดยอัตโนมัติ แทนที่จะพึ่งพาผู้ anotate มนุษย์หรือเมตริกแบบเดิมเพียงอย่างเดียว วิธีการนี้ใช้พรอมต์วิศวกรรมเพื่อกำหนดบทบาทและเกณฑ์การให้คะแนนแก่โมเดลผู้ตัดสิน ซึ่งช่วยให้สามารถประเมินคุณภาพของข้อความ ความสร้างสรรค์ หรือความปลอดภัยได้อย่างรวดเร็วและมีมาตรฐานสม่ำเสมอในระดับใหญ่

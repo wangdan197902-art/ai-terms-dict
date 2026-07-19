@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /fi/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:43:12.490725Z"
 lastmod: "2026-07-18T17:15:09.383938Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kilpailutilanne, jossa maat tai organisaatiot kehittävät tekoälykyvykkyyksiään nopeasti saadakseen strategisen edun."
 ---
-
 ## Definition
 
 Tekoälyn asevarustelukilpailu viittaa intensiiviseen kilpailuun maiden, yritysten ja tutkimuslaitosten välillä tekoälyteknologioiden johtoaseman saavuttamiseksi. Tämä kilpailu ajaa nopeaa innovaatiota ja teknologista kehitystä, mikä voi kuitenkin tuoda mukanaan riskejä turvallisuuden ja eettisten normien kannalta, jos nopeus asetetaan etusijalle.

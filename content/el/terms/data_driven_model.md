@@ -1,23 +1,24 @@
 ---
-title: "Δεδομενοκεντρικό Μοντέλο"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Δεδομενοκεντρικό Μοντέλο
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /el/terms/data_driven_model/
-date: "2026-07-18T15:59:11.055738Z"
-lastmod: "2026-07-18T17:15:09.895238Z"
+slug: data_driven_model
+date: '2026-07-18T15:59:11.055738Z'
+lastmod: '2026-07-18T17:15:09.895238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα υπολογιστικό μοντέλο των οποίων οι παράμετροι και η δομή μαθαίνονται απευθείας από εμπειρικά δεδομένα αντί για ρητό προγραμματισμό."
+source: agnes_llm
+status: published
+language: el
+description: Ένα υπολογιστικό μοντέλο των οποίων οι παράμετροι και η δομή μαθαίνονται
+  απευθείας από εμπειρικά δεδομένα αντί για ρητό προγραμματισμό.
 ---
-
 ## Definition
 
 Ένα δεδομενοκεντρικό μοντέλο είναι ένας τύπος συστήματος τεχνητής νοημοσύνης όπου η συμπεριφορά και οι προβλέψεις προκύπτουν από μοτίβα που εντοπίζονται μέσα σε ιστορικά δεδομένα, αντί να ορίζονται από αυστηρά κωδικοποιημένους κανόνες ή θεωρητικές εξισώσεις.

@@ -1,23 +1,24 @@
 ---
-title: "Identifikasi Bahasa Ibu"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Identifikasi Bahasa Ibu
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /id/terms/native_language_identification/
-date: "2026-07-18T16:01:49.139633Z"
-lastmod: "2026-07-18T16:38:07.486878Z"
+slug: native_language_identification
+date: '2026-07-18T16:01:49.139633Z'
+lastmod: '2026-07-18T16:38:07.486878Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses menentukan bahasa ibu pembicara secara otomatis dari sampel ucapan atau teks mereka."
+source: agnes_llm
+status: published
+language: id
+description: Proses menentukan bahasa ibu pembicara secara otomatis dari sampel ucapan
+  atau teks mereka.
 ---
-
 ## Definition
 
 Identifikasi bahasa ibu (NLI) adalah subbidang pemrosesan bahasa alami yang berfokus pada pengenalan bahasa pertama yang dipelajari oleh seorang pembicara. Berbeda dengan deteksi bahasa umum yang hanya mengidentifikasi bahasa yang digunakan saat ini, NLI menganalisis fitur linguistik dan aksen yang melekat untuk menentukan latar belakang linguistik asli individu tersebut.

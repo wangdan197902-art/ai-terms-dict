@@ -1,23 +1,25 @@
 ---
-title: "Αποθήκη Χαρακτηριστικών (Feature Store)"
-term_id: "feature_store"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mlops", "infrastructure", "data-management"]
+title: Αποθήκη Χαρακτηριστικών (Feature Store)
+term_id: feature_store
+category: basic_concepts
+subcategory: ''
+tags:
+- mlops
+- infrastructure
+- Data Management
 difficulty: 3
 weight: 1
-slug: "feature_store"
-aliases:
-  - /el/terms/feature_store/
-date: "2026-07-18T16:07:16.335764Z"
-lastmod: "2026-07-18T17:15:09.908468Z"
+slug: feature_store
+date: '2026-07-18T16:07:16.335764Z'
+lastmod: '2026-07-18T17:15:09.908468Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας κεντρικός χώρος αποθήκευσης σχεδιασμένος για τη διαχείριση, κοινοποίηση και παροχή χαρακτηριστικών με συνέπεια σε όλη τη διαδικασία εκπαίδευσης και συμπερασματολογίας της μηχανικής μάθησης."
+source: agnes_llm
+status: published
+language: el
+description: Ένας κεντρικός χώρος αποθήκευσης σχεδιασμένος για τη διαχείριση, κοινοποίηση
+  και παροχή χαρακτηριστικών με συνέπεια σε όλη τη διαδικασία εκπαίδευσης και συμπερασματολογίας
+  της μηχανικής μάθησης.
 ---
-
 ## Definition
 
 Μια Αποθήκη Χαρακτηριστικών λειτουργεί ως γέφυρα μεταξύ των ομάδων μηχανικής δεδομένων και μηχανικής μάθησης, παρέχοντας μια ενοποιημένη άποψη των χαρακτηριστικών τόσο για την εκπαίδευση παρτίδας (batch) όσο και για την επαγωγή σε πραγματικό χρόνο. Διασφαλίζει συνέπεια μέσω

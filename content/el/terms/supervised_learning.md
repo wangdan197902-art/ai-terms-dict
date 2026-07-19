@@ -1,23 +1,24 @@
 ---
-title: "Εποπτευόμενη Μάθηση"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Εποπτευόμενη Μάθηση
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /el/terms/supervised_learning/
-date: "2026-07-18T15:45:07.264168Z"
-lastmod: "2026-07-18T17:15:09.871519Z"
+slug: supervised_learning
+date: '2026-07-18T15:45:07.264168Z'
+lastmod: '2026-07-18T17:15:09.871519Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα παράδειγμα μηχανικής μάθησης όπου ένα μοντέλο μαθαίνει να χαρτογραφεί εισόδους σε εξόδους με βάση παραδείγματα εκπαίδευσης με ετικέτες."
+source: agnes_llm
+status: published
+language: el
+description: Ένα παράδειγμα μηχανικής μάθησης όπου ένα μοντέλο μαθαίνει να χαρτογραφεί
+  εισόδους σε εξόδους με βάση παραδείγματα εκπαίδευσης με ετικέτες.
 ---
-
 ## Definition
 
 Στην εποπτευόμενη μάθηση, ο αλγόριθμος εκπαιδεύεται σε ένα σύνολο δεδομένων με ετικέτες, δηλαδή κάθε παράδειγμα εισόδου συνοδεύεται από την σωστή έξοδο. Ο στόχος είναι το μοντέλο να μάθει τη θεμελιώδη σχέση μεταξύ εισόδου και εξόδου.

@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /he/terms/observability/
 date: "2026-07-18T16:15:08.978531Z"
 lastmod: "2026-07-18T17:15:09.570320Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "נגישות למידע מערכתי היא מדד לכמות שבה ניתן להסיק על מצבים פנימיים של מערכת מתוך פלט חיצוני כמו יומנים (logs), מדדים (metrics) ושרשורים (traces)."
 ---
-
 ## Definition
 
 בהנדסת בינה מלאכותית, נגישות למידע מערכתי מתייחסת ליכולת להבין את המצב הפנימי של מערכות למידת מכונה מורכבות על ידי ניתוח הפלט החיצוני שלהן. היא חורגת מעבר לניטור מסורתי ומאפשרת הבנה עמוקה יותר של התנהגות המערכת בזמן אמת.

@@ -1,23 +1,25 @@
 ---
-title: "Yhteiskoulutus"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Yhteiskoulutus
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /fi/terms/co_training/
-date: "2026-07-18T15:46:53.840532Z"
-lastmod: "2026-07-18T17:15:09.391374Z"
+slug: co_training
+date: '2026-07-18T15:46:53.840532Z'
+lastmod: '2026-07-18T17:15:09.391374Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Yhteiskoulutus on puolivalvontaan perustuva oppimisalgoritmi, jossa datan kahta näkökulmaa käytetään erillisten luokittelijoiden kouluttamiseen, jotka merkitsevät vuorotellen toisilleen tunnistamattom"
+source: agnes_llm
+status: published
+language: fi
+description: Yhteiskoulutus on puolivalvontaan perustuva oppimisalgoritmi, jossa datan
+  kahta näkökulmaa käytetään erillisten luokittelijoiden kouluttamiseen, jotka merkitsevät
+  vuorotellen toisilleen tunnistamattom
 ---
-
 ## Definition
 
 Tämä menetelmä hyödyntää samoja datapisteitä koskevia useita erillisiä ominaisuusjoukkoja (näkökulmia). Aluksi kaksi luokittelijaa koulutetaan pienistä merkityistä joukoista kummastakin näkökulmasta. Ne ennustavat sitten tunnisteita tunnistamattomille

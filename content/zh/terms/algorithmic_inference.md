@@ -7,8 +7,6 @@ tags: ["deployment", "prediction"]
 difficulty: 3
 weight: 1
 slug: "algorithmic_inference"
-aliases:
-  - /zh/terms/algorithmic_inference/
 date: "2026-07-18T11:04:37.356465Z"
 lastmod: "2026-07-18T11:44:45.441352Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "算法推理是指经过训练的机器学习模型将学习到的模式应用于新的、未见过的数据以进行预测或决策的过程。"
 ---
-
 ## Definition
 
 也称为预测或评分，推理发生在模型训练阶段之后。算法接收输入特征，并通过其内部结构（如神经网络中的权重）处理

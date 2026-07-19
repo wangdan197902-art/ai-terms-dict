@@ -1,23 +1,23 @@
 ---
-title: "Qwen2"
-term_id: "qwen2"
-category: "basic_concepts"
-subcategory: ""
-tags: ["version-history", "model-generation", "performance"]
+title: Qwen2
+term_id: qwen2
+category: basic_concepts
+subcategory: ''
+tags:
+- Version History
+- Model Generation
+- performance
 difficulty: 3
 weight: 1
-slug: "qwen2"
-aliases:
-  - /th/terms/qwen2/
-date: "2026-07-18T16:12:42.221236Z"
-lastmod: "2026-07-18T16:38:07.647698Z"
+slug: qwen2
+date: '2026-07-18T16:12:42.221236Z'
+lastmod: '2026-07-18T16:38:07.647698Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "Qwen2 คือรุ่นที่สองของการพัฒนาซีรีส์โมเดลภาษาขนาดใหญ่ Qwen พร้อมกับการปรับปรุงประสิทธิภาพ"
+source: agnes_llm
+status: published
+language: th
+description: Qwen2 คือรุ่นที่สองของการพัฒนาซีรีส์โมเดลภาษาขนาดใหญ่ Qwen พร้อมกับการปรับปรุงประสิทธิภาพ
 ---
-
 ## Definition
 
 Qwen2 หมายถึงรุ่นที่สองที่สำคัญของตระกูลโมเดล Qwen ซึ่งนำเสนอการปรับปรุงสถาปัตยกรรมและข้อมูลการฝึกอบรมที่ขยายวงกว้างขึ้น รุ่นนี้มอบความสามารถที่เหนือกว่าในด้านหลายภาษา

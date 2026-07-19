@@ -7,8 +7,6 @@ tags: ["Database", "SQL", "Data Management"]
 difficulty: 2
 weight: 1
 slug: "view"
-aliases:
-  - /tr/terms/view/
 date: "2026-07-18T15:30:49.875104Z"
 lastmod: "2026-07-18T16:38:07.247907Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir veya daha fazla tablodan veri sunan ancak bunları fiziksel olarak depolamayan, saklı bir sorgudan kaynaklanan sanal bir tablo."
 ---
-
 ## Definition
 
 Veritabanı yönetiminde bir görünüm, kendisi veri içermeyen ancak bir tablo gibi davranan kaydedilmiş bir SQL sorgusu olarak hareket eder. Altta yatan verilere basitleştirilmiş veya özelleştirilmiş bir bakış açısı sağlayarak güvenliği artırır.

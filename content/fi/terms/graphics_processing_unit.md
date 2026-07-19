@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "graphics_processing_unit"
-aliases:
-  - /fi/terms/graphics_processing_unit/
 date: "2026-07-18T16:00:28.280947Z"
 lastmod: "2026-07-18T17:15:09.417039Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Erikoistunut elektroninen piiri, joka on alun perin suunniteltu nopeaan kuvankäsittelyyn ja renderöintiin, mutta jota käytetään laajasti rinnakkaislaskennassa tekoälyssä."
 ---
-
 ## Definition
 
 GPU (graafinen prosessoriyksikkö) on suorituskykyinen prosessori, joka on alun perin kehitetty käsittelemään graafisten tehtävien renderöintia. Toisin kuin CPU:t, joissa on vähän ytimiä sekvensiaaliseen sarjakäsittelyyn optimoituna, GPU:ssa on tuhansia ytimiä, jotka on suunniteltu massiiviseen rinnakkaislaskentaan. Tämä tekee niistä erinomaisia tekoälyn harjoittelussa ja inferenssissä tarvittaviin suurten matriisien laskentoihin.

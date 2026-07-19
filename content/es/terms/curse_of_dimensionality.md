@@ -1,23 +1,25 @@
 ---
-title: "Maldición de la dimensionalidad"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: Maldición de la dimensionalidad
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /es/terms/curse_of_dimensionality/
-date: "2026-07-18T10:41:27.031926Z"
-lastmod: "2026-07-18T11:44:44.790986Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T10:41:27.031926Z'
+lastmod: '2026-07-18T11:44:44.790986Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un fenómeno donde el volumen del espacio aumenta exponencialmente con las dimensiones, haciendo que los datos se vuelvan dispersos y que las métricas de distancia pierdan efectividad."
+source: agnes_llm
+status: published
+language: es
+description: Un fenómeno donde el volumen del espacio aumenta exponencialmente con
+  las dimensiones, haciendo que los datos se vuelvan dispersos y que las métricas
+  de distancia pierdan efectividad.
 ---
-
 ## Definition
 
 La maldición de la dimensionalidad se refiere a varios fenómenos que surgen al analizar datos en espacios de alta dimensión, los cuales no ocurren en configuraciones de baja dimensión. A medida que aumenta el número de características, la densidad de los datos disminuye drásticamente, lo que dificulta la distinción entre puntos cercanos y lejanos.

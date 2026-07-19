@@ -1,23 +1,23 @@
 ---
-title: "ปรากฏการณ์เอฟเฟกต์ของเอไอ"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: ปรากฏการณ์เอฟเฟกต์ของเอไอ
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /th/terms/ai_effect/
-date: "2026-07-18T15:38:47.118109Z"
-lastmod: "2026-07-18T16:38:07.568476Z"
+slug: ai_effect
+date: '2026-07-18T15:38:47.118109Z'
+lastmod: '2026-07-18T16:38:07.568476Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ปรากฏการณ์ที่งานซึ่งเคยถูกมองว่าต้องใช้ความอัจฉริยะ กลับถูกมองว่าเป็นเรื่องปกติธรรมดาเมื่อเครื่องจักรสามารถทำงานนั้นได้โดยอัตโนมัติ"
+source: agnes_llm
+status: published
+language: th
+description: ปรากฏการณ์ที่งานซึ่งเคยถูกมองว่าต้องใช้ความอัจฉริยะ กลับถูกมองว่าเป็นเรื่องปกติธรรมดาเมื่อเครื่องจักรสามารถทำงานนั้นได้โดยอัตโนมัติ
 ---
-
 ## Definition
 
 ปรากฏการณ์เอฟเฟกต์ของเอไอ (AI effect) อธิบายถึงขอบเขตที่เปลี่ยนแปลงไปของสิ่งที่ถือเป็น 'ปัญญาประดิษฐ์' เมื่ออัลกอริทึมมีความซับซ้อนและสามารถปฏิบัติงานเฉพาะด้านได้ดีขึ้น งานเหล่านั้นมักจะถูกจัดประเภทใหม่จากสิ่งที่ต้องการความฉลาด เป็นเพียงกระบวนการอัตโนมัติทั่วไป

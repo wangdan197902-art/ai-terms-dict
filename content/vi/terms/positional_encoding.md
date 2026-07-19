@@ -1,23 +1,24 @@
 ---
-title: "Mã hóa vị trí"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Mã hóa vị trí
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /vi/terms/positional_encoding/
-date: "2026-07-18T15:36:48.459168Z"
-lastmod: "2026-07-18T16:38:07.712092Z"
+slug: positional_encoding
+date: '2026-07-18T15:36:48.459168Z'
+lastmod: '2026-07-18T16:38:07.712092Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật đưa thông tin về vị trí tương đối hoặc tuyệt đối của các token trong một chuỗi vào các mô hình Transformer."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật đưa thông tin về vị trí tương đối hoặc tuyệt đối của các
+  token trong một chuỗi vào các mô hình Transformer.
 ---
-
 ## Definition
 
 Vì các mô hình Transformer xử lý tất cả các token song song thay vì tuần tự như RNN, chúng thiếu kiến thức nội tại về thứ tự của token. Mã hóa vị trí thêm các vectơ cụ thể vào các embedding đầu vào để xác định thứ tự này.

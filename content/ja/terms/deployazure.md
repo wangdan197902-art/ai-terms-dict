@@ -1,23 +1,22 @@
 ---
-title: "デプロイ：Azure"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: デプロイ：Azure
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /ja/terms/deployazure/
-date: "2026-07-18T11:11:57.692617Z"
-lastmod: "2026-07-18T11:44:45.090217Z"
+slug: deployazure
+date: '2026-07-18T11:11:57.692617Z'
+lastmod: '2026-07-18T11:44:45.090217Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "Microsoft Azureクラウドインフラストラクチャ上で機械学習モデルをホストして実行するプロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: Microsoft Azureクラウドインフラストラクチャ上で機械学習モデルをホストして実行するプロセス。
 ---
-
 ## Definition
 
 Azureへのデプロイには、Azure Machine Learning、Azure Kubernetes Service (AKS)、または Azure Functions などのクラウドネイティブツールを活用し、大規模な機械学習モデルを提供します。これには、コンピューティングリソースの管理、スケーリング、およびモデルサービングの最適化が含まれます。

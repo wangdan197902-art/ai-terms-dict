@@ -1,23 +1,24 @@
 ---
-title: "التدريب المسبق التبايني للغة والصور"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: التدريب المسبق التبايني للغة والصور
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /ar/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:49:58.061556Z"
-lastmod: "2026-07-18T17:15:08.488078Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:49:58.061556Z'
+lastmod: '2026-07-18T17:15:08.488078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "طريقة تدريب مسبق متعددة الوسائط لمحاذاة تمثيلات الصور والنصوص باستخدام دوال الخسارة التباينية."
+source: agnes_llm
+status: published
+language: ar
+description: طريقة تدريب مسبق متعددة الوسائط لمحاذاة تمثيلات الصور والنصوص باستخدام
+  دوال الخسارة التباينية.
 ---
-
 ## Definition
 
 التدريب المسبق التبايني للغة والصور (CLIP) هو بنية شبكة عصبية تم تدريبها على الصور ووصفاتها النصية المقابلة لها من الإنترنت. يستخدم هدفاً تباينياً لتعظيم التشابه بين أزواج الصور والنصوص المتطابقة وتقليله للأزواج غير المتطابقة.

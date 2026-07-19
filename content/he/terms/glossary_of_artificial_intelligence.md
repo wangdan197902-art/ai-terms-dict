@@ -7,8 +7,6 @@ tags: ["reference", "education", "documentation"]
 difficulty: 1
 weight: 1
 slug: "glossary_of_artificial_intelligence"
-aliases:
-  - /he/terms/glossary_of_artificial_intelligence/
 date: "2026-07-18T16:01:37.512369Z"
 lastmod: "2026-07-18T17:15:09.544036Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מילון מונחים של בינה מלאכותית הוא רשימה מסודרת של הגדרות למונחים המשמשים במחקר ופיתוח של בינה מלאכותית."
 ---
-
 ## Definition
 
 מילון מונחים של בינה מלאכותית משמש כמסמך הפניה המגדיר טרמינולוגיה מיוחדת, ראשי תיבות ומושגים בתחום. הוא מסייע לחוקרים, מפתחים וסטודנטים בהבנת המושגים המקצועיים.

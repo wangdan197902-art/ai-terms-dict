@@ -7,8 +7,6 @@ tags: ["AI Theory", "Cognitive Science", "Architecture"]
 difficulty: 3
 weight: 1
 slug: "knowledge_level"
-aliases:
-  - /fi/terms/knowledge_level/
 date: "2026-07-18T16:05:18.968639Z"
 lastmod: "2026-07-18T17:15:09.425744Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Abstrakti suunnittelunäkökulma, joka keskittyy siihen, mitä agentti tietää, sen sijaan että tarkasteltaisiin sen sisäistä informaationkäsittelyä."
 ---
-
 ## Definition
 
 Allen Newellin luoman termin mukaisesti tietotaso analysoi älykkäitä järjestelmiä niiden uskomusten ja tavoitteiden perusteella riippumatta fyysisestä toteutuksesta. Se erottaa agentin toiminnan rationaalisuuden sen teknisestä toteutustavasta.

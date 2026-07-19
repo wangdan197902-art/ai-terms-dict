@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /cs/terms/harmful_content/
 date: "2026-07-18T16:01:01.702355Z"
 lastmod: "2026-07-18T17:15:09.137676Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Informace, které představují riziko pro jednotlivce nebo společnost, včetně nenávistných projevů, násilí a protizákonných činů."
 ---
-
 ## Definition
 
 Škodlivý obsah označuje digitální média nebo texty, která mohou způsobit fyzické, psychologické nebo sociální poškození. V oblasti bezpečnosti AI je detekce a filtrování takového obsahu klíčové pro prevenci generování škodlivých výstupů modely.

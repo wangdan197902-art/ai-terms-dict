@@ -1,23 +1,24 @@
 ---
-title: "Tekstsammendrag"
-term_id: "summarization"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "text-processing", "applications"]
+title: Tekstsammendrag
+term_id: summarization
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- applications
 difficulty: 3
 weight: 1
-slug: "summarization"
-aliases:
-  - /da/terms/summarization/
-date: "2026-07-18T15:37:59.426726Z"
-lastmod: "2026-07-18T17:15:09.250301Z"
+slug: summarization
+date: '2026-07-18T15:37:59.426726Z'
+lastmod: '2026-07-18T17:15:09.250301Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En NLP-opgave, der genererer et koncist og sammenhængende sammendrag af en længere tekst, mens de vigtigste oplysninger bevares."
+source: agnes_llm
+status: published
+language: da
+description: En NLP-opgave, der genererer et koncist og sammenhængende sammendrag
+  af en længere tekst, mens de vigtigste oplysninger bevares.
 ---
-
 ## Definition
 
 Tekstsammendrag reducerer store mængder tekst til kortere versioner uden at miste kritisk mening. Det kan være ekstraktivt, hvor vigtige sætninger udvælges fra kildeteksten, eller abstraktivt, hvor ny tekst genereres.

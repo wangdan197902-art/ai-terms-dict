@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /pl/terms/bayesian_programming/
 date: "2026-07-18T15:44:21.525698Z"
 lastmod: "2026-07-18T17:15:08.850413Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Formalny framework do wnioskowania probabilistycznego, który rozszerza wnioskowanie bayesowskie na złożone modele hierarchiczne."
 ---
-
 ## Definition
 
 Programowanie bayesowskie to matematyczny framework uogólniający twierdzenie Bayesa w celu obsługi złożonych, wielowarstwowych zależności probabilistycznych. Pozwala programistom definiować modele hierarchiczne, gdzie...

@@ -1,23 +1,24 @@
 ---
-title: "Normalisation par couche"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Normalisation par couche
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /fr/terms/layer_normalization/
-date: "2026-07-18T11:25:14.947324Z"
-lastmod: "2026-07-18T11:44:45.283210Z"
+slug: layer_normalization
+date: '2026-07-18T11:25:14.947324Z'
+lastmod: '2026-07-18T11:44:45.283210Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique qui normalise les activations d'une couche de réseau neuronal à travers la dimension des fonctionnalités pour chaque échantillon individuel."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique qui normalise les activations d'une couche de réseau neuronal
+  à travers la dimension des fonctionnalités pour chaque échantillon individuel.
 ---
-
 ## Definition
 
 La normalisation par couche stabilise l'entraînement en réduisant le décalage de covariante interne, particulièrement efficace dans les architectures récurrentes et les transformateurs. Contrairement à la normalisation par lot, qui dépend des statistiques du lot...

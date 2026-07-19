@@ -1,23 +1,24 @@
 ---
-title: "Perspectiva limbaj/acțiune"
-term_id: "languageaction_perspective"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "linguistics", "theory"]
+title: Perspectiva limbaj/acțiune
+term_id: languageaction_perspective
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- linguistics
+- theory
 difficulty: 4
 weight: 1
-slug: "languageaction_perspective"
-aliases:
-  - /ro/terms/languageaction_perspective/
-date: "2026-07-18T16:07:50.475036Z"
-lastmod: "2026-07-18T17:15:09.673226Z"
+slug: languageaction_perspective
+date: '2026-07-18T16:07:50.475036Z'
+lastmod: '2026-07-18T17:15:09.673226Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un cadru teoretic care privește limbajul în principal ca o formă de acțiune socială, nu doar ca un sistem de descriere a realității."
+source: agnes_llm
+status: published
+language: ro
+description: Un cadru teoretic care privește limbajul în principal ca o formă de acțiune
+  socială, nu doar ca un sistem de descriere a realității.
 ---
-
 ## Definition
 
 Înrădăcinată în teoria actului de vorbire și în pragmatică, această perspectivă subliniază modul în care enunțurile îndeplinesc funcții precum solicitarea, promisiunea sau comandarea. În Procesarea Limbajului Natural, aceasta informează dezvoltarea sistemelor care înțeleg intenția din spatele comunicării.

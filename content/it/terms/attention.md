@@ -1,23 +1,25 @@
 ---
-title: "Attenzione"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: Attenzione
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /it/terms/attention/
-date: "2026-07-18T15:34:31.530006Z"
-lastmod: "2026-07-18T17:15:08.583338Z"
+slug: attention
+date: '2026-07-18T15:34:31.530006Z'
+lastmod: '2026-07-18T17:15:08.583338Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un meccanismo che consente alle reti neurali di ponderare dinamicamente l'importanza delle diverse parti della sequenza di input."
+source: agnes_llm
+status: published
+language: it
+description: Un meccanismo che consente alle reti neurali di ponderare dinamicamente
+  l'importanza delle diverse parti della sequenza di input.
 ---
-
 ## Definition
 
 I meccanismi di attenzione permettono ai modelli di concentrarsi sulle informazioni rilevanti durante l'elaborazione degli input, in particolare nei dati sequenziali come il testo. Calcolando i punteggi di attenzione, il modello determina quali eleme

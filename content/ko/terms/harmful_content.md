@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /ko/terms/harmful_content/
 date: "2026-07-18T15:58:18.703441Z"
 lastmod: "2026-07-18T16:38:06.849148Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "혐오 표현, 폭력, 불법 행위 등을 포함하여 개인이나 사회에 위험을 초래하는 정보입니다."
 ---
-
 ## Definition
 
 유해 콘텐츠란 신체적, 심리적 또는 사회적 손상을 일으킬 수 있는 디지털 미디어나 텍스트를 의미합니다. AI 안전성 분야에서 이러한 콘텐츠를 탐지하고 필터링하는 것은 모델이 유해한 출력을 생성하는 것을 방지하기 위해...

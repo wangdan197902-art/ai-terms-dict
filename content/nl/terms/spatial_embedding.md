@@ -1,23 +1,24 @@
 ---
-title: "Ruimtelijke embedding"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: Ruimtelijke embedding
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /nl/terms/spatial_embedding/
-date: "2026-07-18T16:17:52.450740Z"
-lastmod: "2026-07-18T17:15:08.789039Z"
+slug: spatial_embedding
+date: '2026-07-18T16:17:52.450740Z'
+lastmod: '2026-07-18T17:15:08.789039Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een techniek die ruimtelijke relaties tussen objecten of locaties mapt naar vectorrepresentaties voor machine learning-modellen."
+source: agnes_llm
+status: published
+language: nl
+description: Een techniek die ruimtelijke relaties tussen objecten of locaties mapt
+  naar vectorrepresentaties voor machine learning-modellen.
 ---
-
 ## Definition
 
 Ruimtelijke embedding houdt in dat fysieke of abstracte ruimtelijke relaties worden omgezet naar dichte vectorruimtes, waardoor algoritmen nabijheid, oriëntatie en topologie kunnen begrijpen. Deze techniek is essentieel voor toepassingen die ruimtelijk inzicht vereisen.

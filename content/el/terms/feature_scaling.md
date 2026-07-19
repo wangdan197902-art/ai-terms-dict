@@ -1,23 +1,24 @@
 ---
-title: "Κλιμάκωση Χαρακτηριστικών (Feature Scaling)"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Κλιμάκωση Χαρακτηριστικών (Feature Scaling)
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /el/terms/feature_scaling/
-date: "2026-07-18T16:07:16.335748Z"
-lastmod: "2026-07-18T17:15:09.908355Z"
+slug: feature_scaling
+date: '2026-07-18T16:07:16.335748Z'
+lastmod: '2026-07-18T17:15:09.908355Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία κανονικοποίησης του εύρους των ανεξάρτητων μεταβλητών ή χαρακτηριστικών των δεδομένων για να διασφαλιστεί η ομοιομορφία στο μέγεθος."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία κανονικοποίησης του εύρους των ανεξάρτητων μεταβλητών ή
+  χαρακτηριστικών των δεδομένων για να διασφαλιστεί η ομοιομορφία στο μέγεθος.
 ---
-
 ## Definition
 
 Η κλιμάκωση χαρακτηριστικών τυποποιεί το εύρος των μεταβλητών εισόδου για να αποτρέψει τα χαρακτηριστικά με μεγαλύτερο μέγεθος από το να κυριαρχήσουν στη διαδικασία μάθησης. Κοινές μέθοδοι περιλαμβάνουν την κανονικοποίηση (κλιμάκωση min-max) και την πρότυπη

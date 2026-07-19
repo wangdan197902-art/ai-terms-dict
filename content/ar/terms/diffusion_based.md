@@ -1,23 +1,24 @@
 ---
-title: "قائم على الانتشار"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: قائم على الانتشار
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /ar/terms/diffusion_based/
-date: "2026-07-18T15:33:03.218598Z"
-lastmod: "2026-07-18T17:15:08.453571Z"
+slug: diffusion_based
+date: '2026-07-18T15:33:03.218598Z'
+lastmod: '2026-07-18T17:15:08.453571Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نهج نمذجة توليدية ينشئ البيانات عن طريق عكس عملية إضافة الضوضاء التدريجية من خلال خطوات تعلم إزالة التشويش."
+source: agnes_llm
+status: published
+language: ar
+description: نهج نمذجة توليدية ينشئ البيانات عن طريق عكس عملية إضافة الضوضاء التدريجية
+  من خلال خطوات تعلم إزالة التشويش.
 ---
-
 ## Definition
 
 النماذج القائمة على الانتشار هي فئة من نماذج الذكاء الاصطناعي التوليدية التي تنشئ عينات بيانات جديدة عن طريق إزالة الضوضاء بشكل تكراري من توزيع عشوائي. تبدأ العملية بمرحلة أمامية تضيف ببطء ضوضاء غاوسية...

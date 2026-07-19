@@ -1,23 +1,22 @@
 ---
-title: "nollanäyte"
-term_id: "zero_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigm", "LLM"]
+title: nollanäyte
+term_id: zero_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigm
+- LLM
 difficulty: 4
 weight: 1
-slug: "zero_shot"
-aliases:
-  - /fi/terms/zero_shot/
-date: "2026-07-18T15:34:57.275717Z"
-lastmod: "2026-07-18T17:15:09.367193Z"
+slug: zero_shot
+date: '2026-07-18T15:34:57.275717Z'
+lastmod: '2026-07-18T17:15:09.367193Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Kyky suorittaa tehtäviä tuntemattomilla luokilla ilman aiempia koulutusaineistoja."
+source: agnes_llm
+status: published
+language: fi
+description: Kyky suorittaa tehtäviä tuntemattomilla luokilla ilman aiempia koulutusaineistoja.
 ---
-
 ## Definition
 
 Nollanäyteoppiminen mahdollistaa mallien yleistämisen uusiin kategorioihin tai tehtäviin, joille ei ole annettu merkittyjä koulutusdataa alkuperäisen koulutusvaiheen aikana. Tämä saavutetaan yleensä hyödyntämällä semanttisia...

@@ -7,8 +7,6 @@ tags: ["theory", "bayesian", "inference"]
 difficulty: 4
 weight: 1
 slug: "inferential_theory_of_learning"
-aliases:
-  - /ko/terms/inferential_theory_of_learning/
 date: "2026-07-18T16:00:03.207693Z"
 lastmod: "2026-07-18T16:38:06.854783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "학습을 베이지안 추론으로 보고, 관측된 데이터를 바탕으로 가설에 대한 신념을 업데이트하는 프레임워크."
 ---
-
 ## Definition
 
 이 이론은 학습이 본질적으로 확률적 추론 과정이라고 주장합니다. 학습자는 데이터를 암기하는 대신 가능한 모델이나 가설들에 대한 확률 분포를 유지합니다. 새로운 데이터가 관측되면 베이즈 정리를 사용하여 이 분포를 업데이트합니다.

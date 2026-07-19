@@ -1,23 +1,24 @@
 ---
-title: "Translation"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Translation
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /en/terms/translation/
-date: "2026-07-18T09:43:02.324571Z"
-lastmod: "2026-07-18T11:44:44.634388Z"
+slug: translation
+date: '2026-07-18T09:43:02.324571Z'
+lastmod: '2026-07-18T11:44:44.634388Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "The process of converting text from a source natural language into a target natural language while preserving meaning."
+source: agnes_llm
+status: published
+language: en
+description: The process of converting text from a source natural language into a
+  target natural language while preserving meaning.
 ---
-
 ## Definition
 
 Translation in AI refers to neural machine translation, where deep learning models map semantic representations between languages. Unlike rule-based systems, modern approaches learn contextual nuances, idioms, and grammar structures from vast parallel corpora. This technology facilitates global communication, content localization, and cross-cultural understanding by providing accurate, fluent, and context-aware conversions between diverse linguistic pairs.

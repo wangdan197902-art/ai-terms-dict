@@ -1,23 +1,25 @@
 ---
-title: "Distillation"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: Distillation
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /fr/terms/distillation/
-date: "2026-07-18T10:49:43.580730Z"
-lastmod: "2026-07-18T11:44:45.160962Z"
+slug: distillation
+date: '2026-07-18T10:49:43.580730Z'
+lastmod: '2026-07-18T11:44:45.160962Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La distillation de connaissances est une technique de compression de modèle où un petit modèle « élève » apprend à imiter le comportement d'un grand modèle « professeur »."
+source: agnes_llm
+status: published
+language: fr
+description: La distillation de connaissances est une technique de compression de
+  modèle où un petit modèle « élève » apprend à imiter le comportement d'un grand
+  modèle « professeur ».
 ---
-
 ## Definition
 
 Ce processus consiste à transférer les connaissances d'un réseau neuronal complexe et performant (le « professeur ») vers un réseau plus simple et plus efficace (l'« élève »). L'élève apprend non seulement à partir des étiquettes exactes, mais aussi des probabilités adoucies (soft targets) fournies par le professeur.

@@ -1,23 +1,24 @@
 ---
-title: "Correspondência de probabilidades"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: Correspondência de probabilidades
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /pt/terms/probability_matching/
-date: "2026-07-18T15:17:51.877817Z"
-lastmod: "2026-07-18T15:51:59.524149Z"
+slug: probability_matching
+date: '2026-07-18T15:17:51.877817Z'
+lastmod: '2026-07-18T15:51:59.524149Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma estratégia de tomada de decisão na qual um agente seleciona ações com frequências proporcionais às suas probabilidades estimadas."
+source: agnes_llm
+status: published
+language: pt
+description: Uma estratégia de tomada de decisão na qual um agente seleciona ações
+  com frequências proporcionais às suas probabilidades estimadas.
 ---
-
 ## Definition
 
 A correspondência de probabilidades é um padrão comportamental frequentemente observado em aprendizado por reforço e psicologia, contrastando com estratégias ótimas de 'maximização'. Em vez de sempre escolher a ação com a maior probabilidade esperada, o agente escolhe ações aleatoriamente de acordo com sua distribuição de probabilidade.

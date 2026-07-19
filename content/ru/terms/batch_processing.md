@@ -1,23 +1,24 @@
 ---
-title: "Пакетная обработка"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Пакетная обработка
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /ru/terms/batch_processing/
-date: "2026-07-18T15:42:59.118149Z"
-lastmod: "2026-07-18T16:38:07.125914Z"
+slug: batch_processing
+date: '2026-07-18T15:42:59.118149Z'
+lastmod: '2026-07-18T16:38:07.125914Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Вычислительный метод, при котором данные собираются в течение определенного времени и обрабатываются группами, а не по отдельности."
+source: agnes_llm
+status: published
+language: ru
+description: Вычислительный метод, при котором данные собираются в течение определенного
+  времени и обрабатываются группами, а не по отдельности.
 ---
-
 ## Definition
 
 Пакетная обработка предполагает агрегацию входных данных в группу (пакет) перед выполнением вычислений или выводом модели. Этот подход контрастирует с обработкой потоковых данных в реальном времени, позволяя оптимизировать использование ресурсов за счет

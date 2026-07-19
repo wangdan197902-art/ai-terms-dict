@@ -1,23 +1,24 @@
 ---
-title: "Parité hiérarchique des risques"
-term_id: "hierarchical_risk_parity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "optimization", "clustering"]
+title: Parité hiérarchique des risques
+term_id: hierarchical_risk_parity
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Optimization
+- Clustering
 difficulty: 4
 weight: 1
-slug: "hierarchical_risk_parity"
-aliases:
-  - /fr/terms/hierarchical_risk_parity/
-date: "2026-07-18T11:22:13.817399Z"
-lastmod: "2026-07-18T11:44:45.269821Z"
+slug: hierarchical_risk_parity
+date: '2026-07-18T11:22:13.817399Z'
+lastmod: '2026-07-18T11:44:45.269821Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique d'optimisation de portefeuille qui utilise le clustering pour gérer la corrélation des actifs et alloue le risque au sein de clusters hiérarchiques."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique d'optimisation de portefeuille qui utilise le clustering
+  pour gérer la corrélation des actifs et alloue le risque au sein de clusters hiérarchiques.
 ---
-
 ## Definition
 
 La parité hiérarchique des risques (HRP) est une méthode de construction de portefeuille qui pallie les limites de l'optimisation moyenne-variance traditionnelle en intégrant les structures de corrélation. Elle utilise des algorithmes de regroupement hiérarchique pour déterminer l'allocation des poids, offrant ainsi une solution plus robuste et moins sensible aux erreurs d'estimation de la matrice de covariance.

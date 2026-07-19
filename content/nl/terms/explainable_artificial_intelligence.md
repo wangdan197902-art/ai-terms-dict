@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /nl/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:54:49.347714Z"
 lastmod: "2026-07-18T17:15:08.743501Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Verklarende AI (XAI) verwijst naar methoden en technieken binnen de toepassing van kunstmatige intelligentie, zodat de resultaten van de oplossing door menselijke experts kunnen worden begrepen."
 ---
-
 ## Definition
 
 Naarmate machine learning-modellen complexer worden, vooral diepe neurale netwerken, worden hun besluitvormingsprocessen vaak ondoorzichtige 'zwarte dozen'. XAI heeft als doel deze beslissingen interpreteerbaar en begrijpelijk te maken.

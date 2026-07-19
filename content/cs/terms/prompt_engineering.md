@@ -7,8 +7,6 @@ tags: ["LLM", "UX", "Optimization"]
 difficulty: 2
 weight: 1
 slug: "prompt_engineering"
-aliases:
-  - /cs/terms/prompt_engineering/
 date: "2026-07-18T15:22:18.954363Z"
 lastmod: "2026-07-18T17:15:09.060996Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Praxe navrhování a optimalizace vstupních textů k řízení velkých jazykových modelů k požadovaným výstupům."
 ---
-
 ## Definition
 
 Inženýrství promptů zahrnuje vytváření specifických vstupů, známých jako prompty, aby se od generativních AI modelů vyvolaly přesné, relevantní a kvalitní odpovědi. Vyžaduje pochopení toho, jak modely interpretují kontext a instrukce.

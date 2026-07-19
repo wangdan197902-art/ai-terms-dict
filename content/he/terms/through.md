@@ -1,23 +1,22 @@
 ---
-title: "דרך / דרך מעבר"
-term_id: "through"
-category: "basic_concepts"
-subcategory: ""
-tags: ["invalid_term", "grammar"]
+title: דרך / דרך מעבר
+term_id: through
+category: basic_concepts
+subcategory: ''
+tags:
+- Invalid Term
+- grammar
 difficulty: 1
 weight: 1
-slug: "through"
-aliases:
-  - /he/terms/through/
-date: "2026-07-18T15:31:03.998184Z"
-lastmod: "2026-07-18T17:15:09.489081Z"
+slug: through
+date: '2026-07-18T15:31:03.998184Z'
+lastmod: '2026-07-18T17:15:09.489081Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "המילה 'Through' היא מילת יחס ואינה מהווה מונח טכני ספציפי בבינה מלאכותית."
+source: agnes_llm
+status: published
+language: he
+description: המילה 'Through' היא מילת יחס ואינה מהווה מונח טכני ספציפי בבינה מלאכותית.
 ---
-
 ## Definition
 
 למונח 'Through' אין הגדרה עצמאית בטרמינולוגיה של בינה מלאכותית. הוא משמש לעיתים קרובות בביטויים כמו 'Throughput' (קצב עיבוד) או בהקשר של שכבות ברשת נוירונים שבהן אותות עוברים דרך צמתים. ללא...

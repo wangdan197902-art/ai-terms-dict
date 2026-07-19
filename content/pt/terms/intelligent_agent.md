@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /pt/terms/intelligent_agent/
 date: "2026-07-18T15:05:42.632401Z"
 lastmod: "2026-07-18T15:51:59.502469Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Uma entidade de software autônoma que percebe seu ambiente, raciocina sobre ações e executa tarefas para alcançar objetivos específicos."
 ---
-
 ## Definition
 
 Um agente inteligente é um sistema capaz de perceber seu entorno através de sensores ou entradas de dados, processar essas informações usando algoritmos de raciocínio e agir sobre o ambiente através de atuadores

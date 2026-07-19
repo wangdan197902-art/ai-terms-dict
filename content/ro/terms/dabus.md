@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /ro/terms/dabus/
 date: "2026-07-18T15:51:32.912055Z"
 lastmod: "2026-07-18T17:15:09.641437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "DABUS este acronimul pentru Device for the Autonomous Bootstrapping of Unified Sentience (Dispozitiv pentru Învățarea Autonomă a Conștiinței Unificate), un sistem de inteligență artificială creat de S"
 ---
-
 ## Definition
 
 DABUS este o rețea neuronală artificială specifică, concepută să genereze invenții noi fără intervenție umană directă. A atras o atenție juridică semnificativă atunci când creatorul său, Stephen Thaler, a încercat

@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /sv/terms/ocr/
 date: "2026-07-18T16:12:15.194703Z"
 lastmod: "2026-07-18T17:15:09.033014Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "OCR är en teknik som konverterar olika typer av dokument, såsom skannade pappersdokument eller bilder, till redigerbar och sökbar data."
 ---
-
 ## Definition
 
 Optisk teckenigenkänning (OCR) använder bildbehandling och mönsterigenkänningsalgoritmer för att identifiera text inom digitala bilder. Den omvandlar utskrivna eller handskrivna tecken till maskinkodad text som kan bearbetas av programvara.

@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /de/terms/reranking/
 date: "2026-07-18T11:32:10.084760Z"
 lastmod: "2026-07-18T11:44:44.981896Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein zweistufiger Abrufprozess, bei dem eine initiale grobe Rangfolge von einem rechenintensiveren Modell verfeinert wird, um die Relevanz der Ergebnisse zu verbessern."
 ---
-
 ## Definition
 
 Reranking ist eine Strategie im Information Retrieval und in Empfehlungssystemen zur Steigerung der Genauigkeit. Zuerst ruft ein schnelles, aber weniger genaues Modell einen großen Kandidatenpool ab. Anschließend ordnet ein langsamerer, aber präziserer Modell diese Kandidaten neu, um die besten Ergebnisse hervorzuheben.

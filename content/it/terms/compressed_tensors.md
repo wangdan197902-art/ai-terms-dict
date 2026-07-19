@@ -1,23 +1,24 @@
 ---
-title: "Tensori compressi"
-term_id: "compressed_tensors"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "hardware", "performance"]
+title: Tensori compressi
+term_id: compressed_tensors
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- hardware
+- performance
 difficulty: 4
 weight: 1
-slug: "compressed_tensors"
-aliases:
-  - /it/terms/compressed_tensors/
-date: "2026-07-18T15:52:16.955293Z"
-lastmod: "2026-07-18T17:15:08.608231Z"
+slug: compressed_tensors
+date: '2026-07-18T15:52:16.955293Z'
+lastmod: '2026-07-18T17:15:08.608231Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Tensori la cui precisione o dimensione dei dati è stata ridotta per ottimizzare lo stoccaggio e l'efficienza computazionale."
+source: agnes_llm
+status: published
+language: it
+description: Tensori la cui precisione o dimensione dei dati è stata ridotta per ottimizzare
+  lo stoccaggio e l'efficienza computazionale.
 ---
-
 ## Definition
 
 I tensori compressi sono array multidimensionali utilizzati nel deep learning in cui la precisione numerica (ad esempio, da float32 a int8) o la sparsità è stata ridotta. Questa tecnica, nota come quantizzazione o compressione, mira a ridurre l'impronta di memoria e accelerare l'inferenza.

@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /ja/terms/fine_tuning/
 date: "2026-07-18T07:42:13.833779Z"
 lastmod: "2026-07-18T11:44:44.586909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "事前学習済みモデルを、より小さなデータセットを使用して特定のダウンストリームタスクに適応させるプロセス。"
 ---
-
 ## Definition
 
 ファインチューニングとは、大規模な一般データセットで既に訓練されたモデルを取り出し、専門的なデータセットでさらに訓練を行うことを指します。これにより、モデルは一般的な知識を維持しつつ、特定のタスクに必要な能力を獲得します。

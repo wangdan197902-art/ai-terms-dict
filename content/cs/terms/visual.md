@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /cs/terms/visual/
 date: "2026-07-18T15:31:13.392617Z"
 lastmod: "2026-07-18T17:15:09.081783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vztahující se k zraku nebo obrazu, často odkazující na úkoly počítačového vidění, které zpracovávají a interpretují vizuální data, jako jsou obrázky a videa."
 ---
-
 ## Definition
 
 Termín 'vizuální' v AI primárně souvisí s Počítačovým viděním (Computer Vision), oborem věnujícím se umožnění strojům odvozovat smysluplné informace z digitálních obrázků, videí a jiných vizuálních vstupů.

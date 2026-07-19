@@ -1,23 +1,24 @@
 ---
-title: "Hashing de características"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Hashing de características
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /es/terms/feature_hashing/
-date: "2026-07-18T10:49:18.358246Z"
-lastmod: "2026-07-18T11:44:44.805785Z"
+slug: feature_hashing
+date: '2026-07-18T10:49:18.358246Z'
+lastmod: '2026-07-18T11:44:44.805785Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica que mapea características dispersas de alta dimensión a un vector de tamaño fijo utilizando una función hash."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica que mapea características dispersas de alta dimensión a un
+  vector de tamaño fijo utilizando una función hash.
 ---
-
 ## Definition
 
 El hashing de características, también conocido como el truco del hashing, permite que los modelos de aprendizaje automático manejen espacios de características grandes y dispersos sin mantener un mapeo explícito entre las características y sus índices. Al aplicar

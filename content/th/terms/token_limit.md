@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /th/terms/token_limit/
 date: "2026-07-18T15:37:57.327682Z"
 lastmod: "2026-07-18T16:38:07.566021Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "จำนวนโทเค็นสูงสุดที่โมเดล AI สามารถประมวลผลได้ในลำดับข้อมูลเข้าหรือออกครั้งเดียว"
 ---
-
 ## Definition
 
 ขีดจำกัดโทเค็นกำหนดขนาดของหน้าต่างบริบท (context window) สำหรับโมเดลภาษาขนาดใหญ่ โดยจำกัดปริมาณข้อความที่สามารถวิเคราะห์หรือสร้างได้ในครั้งเดียว ขอบเขตทางสถาปัตยกรรมนี้มีผลกระทบต่อการจัดการหน่วยความจำ

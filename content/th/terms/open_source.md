@@ -1,23 +1,22 @@
 ---
-title: "โอเพนซอร์ส (Open-source)"
-term_id: "open_source"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software_models", "ecosystem"]
+title: โอเพนซอร์ส (Open-source)
+term_id: open_source
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- ecosystem
 difficulty: 1
 weight: 1
-slug: "open_source"
-aliases:
-  - /th/terms/open_source/
-date: "2026-07-18T15:33:52.352491Z"
-lastmod: "2026-07-18T16:38:07.556511Z"
+slug: open_source
+date: '2026-07-18T15:33:52.352491Z'
+lastmod: '2026-07-18T16:38:07.556511Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ซอฟต์แวร์whose source code ถูกเปิดเผยให้ใช้งาน แก้ไข และแจกจ่ายได้อย่างอิสระโดยทุกคน"
+source: agnes_llm
+status: published
+language: th
+description: ซอฟต์แวร์whose source code ถูกเปิดเผยให้ใช้งาน แก้ไข และแจกจ่ายได้อย่างอิสระโดยทุกคน
 ---
-
 ## Definition
 
 โอเพนซอร์สหมายถึงรูปแบบการพัฒนาที่โค้ดพื้นฐานของโปรเจกต์ซอฟต์แวร์สามารถเข้าถึงได้โดยสาธารณะ ในด้าน AI สิ่งนี้ทำให้ผู้วิจัยและนักพัฒนาสามารถตรวจสอบ แก้ไข และกระจายอัลกอริทึมใหม่ได้

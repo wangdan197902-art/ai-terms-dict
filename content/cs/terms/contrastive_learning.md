@@ -1,23 +1,24 @@
 ---
-title: "Kontrastní učení"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: Kontrastní učení
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /cs/terms/contrastive_learning/
-date: "2026-07-18T15:49:36.046707Z"
-lastmod: "2026-07-18T17:15:09.114081Z"
+slug: contrastive_learning
+date: '2026-07-18T15:49:36.046707Z'
+lastmod: '2026-07-18T17:15:09.114081Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika samořízeného učení, která se učí reprezentace tím, že přitahuje pozitivní páry k sobě a oddaluje negativní páry od sebe."
+source: agnes_llm
+status: published
+language: cs
+description: Technika samořízeného učení, která se učí reprezentace tím, že přitahuje
+  pozitivní páry k sobě a oddaluje negativní páry od sebe.
 ---
-
 ## Definition
 
 Kontrastní učení je metoda učení reprezentací, která nevyžaduje označená data. Funguje tak, že vytváří augmentované pohledy na stejný vstup (pozitivní páry) a kontrastuje je s různými vstupy (negativní páry), aby se naučily užitečné funkce.

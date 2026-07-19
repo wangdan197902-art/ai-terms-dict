@@ -7,8 +7,6 @@ tags: ["architecture", "models", "efficiency"]
 difficulty: 4
 weight: 1
 slug: "mixtral"
-aliases:
-  - /ja/terms/mixtral/
 date: "2026-07-18T11:24:02.776670Z"
 lastmod: "2026-07-18T11:44:45.122911Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "Mistral AIによるスパースMixture of Experts（MoE）大規模言語モデル。各トークンに対してパラメータの一部のみを活性化します。"
 ---
-
 ## Definition
 
 Mixtralは、スパースMixture of Experts（MoE）アーキテクチャを活用した先駆的なオープンウェイトLLMです。すべてのトークンに対して全パラメータを使用する密なモデルとは異なり、Mixtralは各トークンを特定の「エキスパート」にルーティングし、計算効率を高めます。

@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /fi/terms/pattern_theory/
 date: "2026-07-18T16:15:17.544055Z"
 lastmod: "2026-07-18T17:15:09.442801Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Matemaattinen viitekehys monimutkaisten rakenteiden kuvaamiseksi analysoimalla kuvioita datatiloissa."
 ---
-
 ## Definition
 
 Kuvionteoria tarjoaa tiukan matemaattisen perustan ymmärtääksesi, miten monimutkaisia esineitä ja ilmiöitä voidaan kuvata kuvioiden avulla. Se väittää, että mikä tahansa esine voidaan karakterisoida sen kuvion perusteella.

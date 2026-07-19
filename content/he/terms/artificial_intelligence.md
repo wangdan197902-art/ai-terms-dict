@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /he/terms/artificial_intelligence/
 date: "2026-07-18T15:22:26.486680Z"
 lastmod: "2026-07-18T17:15:09.470197Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "סימולציה של תהליכי אינטליגנציה אנוחית על ידי מערכות מחשב."
 ---
-
 ## Definition
 
 בינה מלאכותית (AI) מתייחסת ליכולתן של מחשבים דיגיטליים או רובוטים הנשלטים על ידי מחשב לבצע משימות הקשורות בדרך כלל לישויות חכמות. היא כוללת מגוון תחומי משנה.

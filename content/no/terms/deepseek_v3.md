@@ -7,8 +7,6 @@ tags: ["moE", "efficiency", "reasoning"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v3"
-aliases:
-  - /no/terms/deepseek_v3/
 date: "2026-07-18T15:50:54.888912Z"
 lastmod: "2026-07-18T16:38:06.992722Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "DeepSeek V3 er en svært effektiv ekspertblande-språkmodell (MoE) som oppnår topplasserte resultater med betydelig reduserte treningskostnader."
 ---
-
 ## Definition
 
 DeepSeek V3 er en avansert iterasjon i DeepSeek-modelfamilien, preget av sin tette aktivering av kun en liten del av parameterne under inferens via ekspertblandingsruting. Denne arkitekturen

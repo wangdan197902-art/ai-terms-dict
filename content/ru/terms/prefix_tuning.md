@@ -1,23 +1,24 @@
 ---
-title: "Префиксное тонкое настраивание"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: Префиксное тонкое настраивание
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /ru/terms/prefix_tuning/
-date: "2026-07-18T16:10:35.660110Z"
-lastmod: "2026-07-18T16:38:07.192801Z"
+slug: prefix_tuning
+date: '2026-07-18T16:10:35.660110Z'
+lastmod: '2026-07-18T16:38:07.192801Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод эффективного по параметрам тонкого настраивания, который добавляет обучаемые непрерывные векторы во вход слоев трансформера."
+source: agnes_llm
+status: published
+language: ru
+description: Метод эффективного по параметрам тонкого настраивания, который добавляет
+  обучаемые непрерывные векторы во вход слоев трансформера.
 ---
-
 ## Definition
 
 Префиксное тонкое настраивание — это техника адаптации с эффективностью по количеству параметров для предварительно обученных трансформеров. Вместо обновления всех весов модели, она-prepend (добавляет в начало) последовательность обучаемых непрерывных векторов (префикс) к входам каждого слоя трансформера. Это позволяет адаптировать модель под конкретную задачу, сохраняя веса базовой модели замороженными.

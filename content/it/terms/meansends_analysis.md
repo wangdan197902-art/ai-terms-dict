@@ -1,23 +1,24 @@
 ---
-title: "Analisi mezzi-fini"
-term_id: "meansends_analysis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["planning", "problem_solving", "history"]
+title: Analisi mezzi-fini
+term_id: meansends_analysis
+category: basic_concepts
+subcategory: ''
+tags:
+- planning
+- Problem Solving
+- history
 difficulty: 3
 weight: 1
-slug: "meansends_analysis"
-aliases:
-  - /it/terms/meansends_analysis/
-date: "2026-07-18T16:10:44.060981Z"
-lastmod: "2026-07-18T17:15:08.647971Z"
+slug: meansends_analysis
+date: '2026-07-18T16:10:44.060981Z'
+lastmod: '2026-07-18T17:15:08.647971Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un metodo euristico di risoluzione dei problemi che riduce la differenza tra lo stato attuale e lo stato obiettivo identificando sotto-obiettivi."
+source: agnes_llm
+status: published
+language: it
+description: Un metodo euristico di risoluzione dei problemi che riduce la differenza
+  tra lo stato attuale e lo stato obiettivo identificando sotto-obiettivi.
 ---
-
 ## Definition
 
 L'analisi mezzi-fini è una strategia cognitiva utilizzata nell'intelligenza artificiale e nella psicologia per risolvere problemi complessi. Coinvolge il confronto dello stato attuale di un problema con lo stato obiettivo desiderato, identificando le differenze e selezionando azioni (mezzi) che riducono tali differenze, spesso scomponendo il problema in sotto-obiettivi più gestibili.

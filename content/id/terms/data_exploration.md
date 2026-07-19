@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /id/terms/data_exploration/
 date: "2026-07-18T15:45:29.909143Z"
 lastmod: "2026-07-18T16:38:07.442928Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Analisis awal terhadap kumpulan data untuk menemukan pola, mendeteksi anomali, dan menguji hipotesis sebelum pemodelan formal."
 ---
-
 ## Definition
 
 Eksplorasi data, yang sering disebut sebagai Analisis Data Eksploratori (Exploratory Data Analysis/EDA), adalah langkah awal yang kritis dalam alur kerja pembelajaran mesin. Langkah ini melibatkan peringkasan karakteristik utama dari data, yang sering kali menggunakan visualisasi statistik dan metode ringkasan deskriptif untuk memahami struktur dan distribusi data sebelum proses pemodelan dimulai.

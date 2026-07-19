@@ -1,23 +1,24 @@
 ---
-title: "Divergens"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Divergens
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /sv/terms/divergence/
-date: "2026-07-18T15:25:19.412365Z"
-lastmod: "2026-07-18T17:15:08.939984Z"
+slug: divergence
+date: '2026-07-18T15:25:19.412365Z'
+lastmod: '2026-07-18T17:15:08.939984Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Divergens avser misslyckandet hos en maskininlärningsalgoritms förlustfunktion att minska under träningen, vilket resulterar i instabil eller försämrad prestanda."
+source: agnes_llm
+status: published
+language: sv
+description: Divergens avser misslyckandet hos en maskininlärningsalgoritms förlustfunktion
+  att minska under träningen, vilket resulterar i instabil eller försämrad prestanda.
 ---
-
 ## Definition
 
 Inom optimering uppstår divergens när modellparametrarna uppdateras på ett sätt som får förlusten att öka snarare än minska. Detta leder ofta till numerisk instabilitet, såsom NaN-värden (Not a Number) eller oändliga gradienter, vilket gör att modellen inte kan lära sig korrekta mönster.

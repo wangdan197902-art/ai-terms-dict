@@ -1,23 +1,23 @@
 ---
-title: "วาเชอร์สไตน์"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: วาเชอร์สไตน์
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /th/terms/wasserstein/
-date: "2026-07-18T15:31:52.827114Z"
-lastmod: "2026-07-18T16:38:07.553124Z"
+slug: wasserstein
+date: '2026-07-18T15:31:52.827114Z'
+lastmod: '2026-07-18T16:38:07.553124Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เมตริกที่ใช้วัดระยะห่างระหว่างการแจกแจงความน่าจะเป็น โดยคำนวณจากต้นทุนขั้นต่ำในการแปลงการแจกแจงหนึ่งไปเป็นอีกการแจกแจงหนึ่ง"
+source: agnes_llm
+status: published
+language: th
+description: เมตริกที่ใช้วัดระยะห่างระหว่างการแจกแจงความน่าจะเป็น โดยคำนวณจากต้นทุนขั้นต่ำในการแปลงการแจกแจงหนึ่งไปเป็นอีกการแจกแจงหนึ่ง
 ---
-
 ## Definition
 
 ระยะทางวาเชอร์สไตน์ (Wasserstein distance) หรือที่รู้จักกันในชื่อ ระยะทางคนยกดิน (Earth Mover's Distance) ใช้วัดความแตกต่างระหว่างการแจกแจงความน่าจะเป็นสองแบบ โดยการคำนวณ "งาน" ขั้นต่ำที่ต้องใช้ในการเคลื่อนย้ายมวลจากความน่าจะเป็นหนึ่งไปยังอีกความน่าจะเป็นหนึ่ง

@@ -1,23 +1,25 @@
 ---
-title: "Giọng nói"
-term_id: "voice"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "speech", "input_modality"]
+title: Giọng nói
+term_id: voice
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- speech
+- Input Modality
 difficulty: 1
 weight: 1
-slug: "voice"
-aliases:
-  - /vi/terms/voice/
-date: "2026-07-18T16:16:00.808325Z"
-lastmod: "2026-07-18T16:38:07.815750Z"
+slug: voice
+date: '2026-07-18T16:16:00.808325Z'
+lastmod: '2026-07-18T16:38:07.815750Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Giọng nói đề cập đến âm thanh do con người tạo ra thông qua lời nói, đóng vai trò là phương thức đầu vào chính cho các hệ thống nhận diện và tổng hợp giọng nói."
+source: agnes_llm
+status: published
+language: vi
+description: Giọng nói đề cập đến âm thanh do con người tạo ra thông qua lời nói,
+  đóng vai trò là phương thức đầu vào chính cho các hệ thống nhận diện và tổng hợp
+  giọng nói.
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, giọng nói bao gồm các tín hiệu âm học được tạo ra bởi dây thanh quản của con người, mang thông tin ngôn ngữ. Nó khác với âm thanh chung vì nó đặc biệt liên quan đến lời nói.

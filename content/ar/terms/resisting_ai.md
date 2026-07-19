@@ -1,23 +1,24 @@
 ---
-title: "مقاومة الذكاء الاصطناعي"
-term_id: "resisting_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["security", "privacy", "adversarial_ml"]
+title: مقاومة الذكاء الاصطناعي
+term_id: resisting_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- security
+- privacy
+- Adversarial ML
 difficulty: 3
 weight: 1
-slug: "resisting_ai"
-aliases:
-  - /ar/terms/resisting_ai/
-date: "2026-07-18T16:19:23.349012Z"
-lastmod: "2026-07-18T17:15:08.544605Z"
+slug: resisting_ai
+date: '2026-07-18T16:19:23.349012Z'
+lastmod: '2026-07-18T17:15:08.544605Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "استراتيجيات وتقنيات تُستخدم لتجنب الكشف أو التلاعب أو التحكم من قبل أنظمة الذكاء الاصطناعي."
+source: agnes_llm
+status: published
+language: ar
+description: استراتيجيات وتقنيات تُستخدم لتجنب الكشف أو التلاعب أو التحكم من قبل أنظمة
+  الذكاء الاصطناعي.
 ---
-
 ## Definition
 
 تشير مقاومة الذكاء الاصطناعي إلى الأساليب التي يستخدمها الأفراد أو الكيانات لتجنب التأثير أو التتبع أو التصنيف بواسطة خوارزميات الذكاء الاصطناعي. يتضمن ذلك الهجمات العدائية على أنظمة الإدراك، وأدوات الحفاظ على الخصوصية، ومقاومة المراقبة، بهدف حماية الاستقلالية والبيانات الشخصية من التدخل الآلي.

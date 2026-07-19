@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /no/terms/rabbit_r1/
 date: "2026-07-18T16:14:00.748425Z"
 lastmod: "2026-07-18T16:38:07.041245Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En håndholdt AI-drevet enhet som bruker den store handlingsmodellen (LAM) for å utføre oppgaver autonomt."
 ---
-
 ## Definition
 
 Rabbit r1 er en dedikert maskinvareenhet lansert av Rabbit Inc., sentrert rundt deres egenutviklede store handlingsmodell (LAM). I motsetning til allmenne smarttelefoner, fokuserer den på å utføre spesifikke digitale oppgaver automatisk.

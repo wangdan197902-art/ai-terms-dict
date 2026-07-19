@@ -1,23 +1,24 @@
 ---
-title: "Верификация агента"
-term_id: "agent_verification"
-category: "application_paradigms"
-subcategory: ""
-tags: ["verification", "safety", "formal_methods"]
+title: Верификация агента
+term_id: agent_verification
+category: application_paradigms
+subcategory: ''
+tags:
+- verification
+- safety
+- Formal Methods
 difficulty: 5
 weight: 1
-slug: "agent_verification"
-aliases:
-  - /ru/terms/agent_verification/
-date: "2026-07-18T15:39:44.874369Z"
-lastmod: "2026-07-18T16:38:07.117066Z"
+slug: agent_verification
+date: '2026-07-18T15:39:44.874369Z'
+lastmod: '2026-07-18T16:38:07.117066Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Верификация агента — это процесс формального доказательства того, что автономный агент будет вести себя корректно и безопасно при всех заданных условиях."
+source: agnes_llm
+status: published
+language: ru
+description: Верификация агента — это процесс формального доказательства того, что
+  автономный агент будет вести себя корректно и безопасно при всех заданных условиях.
 ---
-
 ## Definition
 
 Это включает использование математических методов для обеспечения того, чтобы действия агента соответствовали заранее определенным ограничениям, таким как границы безопасности или этические нормы. Это особенно важно для агентов, работающих...

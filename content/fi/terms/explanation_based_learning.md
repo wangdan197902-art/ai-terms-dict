@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /fi/terms/explanation_based_learning/
 date: "2026-07-18T15:57:19.362788Z"
 lastmod: "2026-07-18T17:15:09.410262Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Selontoon perustuva oppiminen on koneoppimismenetelmä, joka käyttää alateoriaa ja yhtä koulusesimerkkiä selonteon luomiseen, joka yleistetään sitten uudeksi säännöksi."
 ---
-
 ## Definition
 
 EBL yhdistää symbolisen päättelyn koneoppimiseen nopeuttaakseen oppimisprosessia. Sen sijaan, että se luottaisi suuriin tietojoukkoihin, se ottaa yhden positiivisen esimerkin ja käyttää olemassa olevaa alateoriaa...

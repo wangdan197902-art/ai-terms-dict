@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /en/terms/datasetembedding_dataspecter/
 date: "2026-07-18T09:53:29.582180Z"
 lastmod: "2026-07-18T11:44:44.661118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A large-scale dataset based on Computer Science publications and citations, designed for training academic paper embedding models."
 ---
-
 ## Definition
 
 The Specter dataset is constructed from a vast collection of Computer Science papers, utilizing citation networks to create supervised learning signals. It pairs abstracts with their citing papers to train models that understand semantic relationships within academic literature. This dataset enables the creation of embeddings that can effectively measure similarity between research papers, facilitating tasks such as recommendation systems for scholars, automated citation prediction, and organizing scientific knowledge bases efficiently.

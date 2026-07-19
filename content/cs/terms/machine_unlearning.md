@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /cs/terms/machine_unlearning/
 date: "2026-07-18T16:07:46.377076Z"
 lastmod: "2026-07-18T17:15:09.151445Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Strojové nezapomínání je proces odstranění konkrétních datových bodů nebo jejich vlivu z natrénovaného modelu bez nutnosti jeho přeškolení od začátku."
 ---
-
 ## Definition
 
 Tato technika řeší předpisy o ochraně osobních údajů, jako je právo být zapomenutý v GDPR, umožnění modelům zapomenout specifická uživatelská data při zachování obecných znalostí. Cílem je aproximovat výkon

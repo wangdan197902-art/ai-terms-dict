@@ -1,23 +1,24 @@
 ---
-title: "rezervat (held-out)"
-term_id: "held_out"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "data_splitting", "validation"]
+title: rezervat (held-out)
+term_id: held_out
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Data Splitting
+- validation
 difficulty: 2
 weight: 1
-slug: "held_out"
-aliases:
-  - /ro/terms/held_out/
-date: "2026-07-18T15:32:40.193584Z"
-lastmod: "2026-07-18T17:15:09.608405Z"
+slug: held_out
+date: '2026-07-18T15:32:40.193584Z'
+lastmod: '2026-07-18T17:15:09.608405Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Eșantioane de date rezervate din setul de antrenament pentru a evalua performanța modelului și a preveni suprainfitarea în timpul dezvoltării."
+source: agnes_llm
+status: published
+language: ro
+description: Eșantioane de date rezervate din setul de antrenament pentru a evalua
+  performanța modelului și a preveni suprainfitarea în timpul dezvoltării.
 ---
-
 ## Definition
 
 Un set de date „rezervat” (held-out) constă din exemple excluse intenționat din faza de antrenament a unui model de învățare automată. Acest subansamblu este utilizat pentru a evalua cât de bine se generalizează modelul la date necunoscute, oferind o estimare neînșelătoare a capacității sale de predicție pe date noi, distincte de cele folosite pentru ajustarea parametrilor.

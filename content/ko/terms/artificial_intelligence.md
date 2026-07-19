@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /ko/terms/artificial_intelligence/
 date: "2026-07-18T15:22:07.926629Z"
 lastmod: "2026-07-18T16:38:06.765482Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "컴퓨터 시스템이 인간의 지능 과정을 모방하는 것."
 ---
-
 ## Definition
 
 인공지능(AI)은 디지털 컴퓨터나 컴퓨터 제어 로봇이 지능적인 존재와 일반적으로 연관된 작업을 수행할 수 있는 능력을 의미합니다. 이는 다양한 하위 분야를 포괄합니다.

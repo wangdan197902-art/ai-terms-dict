@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /ko/terms/human_centered_ai/
 date: "2026-07-18T15:59:02.593224Z"
 lastmod: "2026-07-18T16:38:06.851055Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "시스템 전 생애주기 동안 인간의 가치, 필요 및 웰빙을 최우선으로 하는 AI 설계 및 개발 접근법."
 ---
-
 ## Definition
 
 인간 중심 AI는 인공지능 개발의 핵심에 인간을置く하는 설계 철학입니다. 이는 투명하고 공정하며 사회에 유익한 시스템을 창출하는 것을 강조하며, 기술이 인간의 삶의 질을 향상시키는 데 초점을 맞춥니다.

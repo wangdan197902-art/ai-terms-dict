@@ -1,23 +1,23 @@
 ---
-title: "kaksivaiheinen"
-term_id: "two_stage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "computer_vision"]
+title: kaksivaiheinen
+term_id: two_stage
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "two_stage"
-aliases:
-  - /fi/terms/two_stage/
-date: "2026-07-18T15:34:57.275690Z"
-lastmod: "2026-07-18T17:15:09.366962Z"
+slug: two_stage
+date: '2026-07-18T15:34:57.275690Z'
+lastmod: '2026-07-18T17:15:09.366962Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Putkistoarkkitehtuuri, jossa käsittely tapahtuu erillisissä, peräkkäisissä vaiheissa."
+source: agnes_llm
+status: published
+language: fi
+description: Putkistoarkkitehtuuri, jossa käsittely tapahtuu erillisissä, peräkkäisissä
+  vaiheissa.
 ---
-
 ## Definition
 
 Kaksivaiheiset arkkitehtuurit jakavat monimutkaisen tehtävän kahteen erilliseen vaiheeseen, jotka sisältävät tyypillisesti havaitsemisen, jota seuraa luokittelu tai hienosäätö. Tietokonenäössä esimerkkejä ovat objektihavaintojärjestelmät kuten...

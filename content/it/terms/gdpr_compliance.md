@@ -7,8 +7,6 @@ tags: ["regulation", "privacy", "ethics"]
 difficulty: 2
 weight: 1
 slug: "gdpr_compliance"
-aliases:
-  - /it/terms/gdpr_compliance/
 date: "2026-07-18T16:00:26.159929Z"
 lastmod: "2026-07-18T17:15:08.627589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "L'aderenza al Regolamento Generale sulla Protezione dei Dati, assicurando che i sistemi di intelligenza artificiale rispettino la privacy degli utenti e i loro diritti sui dati."
 ---
-
 ## Definition
 
 La conformità GDPR si riferisce alle misure legali e tecniche che gli sviluppatori di IA devono implementare per proteggere i dati personali degli individui nell'Unione Europea. Per i sistemi di IA, ciò implica principi come la minimizzazione dei dati, la trasparenza algoritmica, il diritto alla cancellazione e la necessità di basi giuridiche valide per il trattamento.

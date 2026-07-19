@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /pl/terms/artificial_brain/
 date: "2026-07-18T15:40:16.812182Z"
 lastmod: "2026-07-18T17:15:08.845412Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "System obliczeniowy zaprojektowany do naśladowania struktury i funkcji biologicznego ludzkiego mózgu, często przy użyciu sieci neuronowych."
 ---
-
 ## Definition
 
 Sztuczny mózg odnosi się do architektur sprzętowych lub programowych, które emulują struktury nerwowe i metody przetwarzania ludzkiego mózgu. Obejmuje to chipy obliczeń neuromorficznych, które replikują...

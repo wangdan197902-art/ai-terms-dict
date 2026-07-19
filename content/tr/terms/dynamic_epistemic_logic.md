@@ -7,8 +7,6 @@ tags: ["Logic", "Formal Methods", "Multi-Agent"]
 difficulty: 5
 weight: 1
 slug: "dynamic_epistemic_logic"
-aliases:
-  - /tr/terms/dynamic_epistemic_logic/
 date: "2026-07-18T15:50:40.325660Z"
 lastmod: "2026-07-18T16:38:07.302202Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bilgi güncellemeleri veya olaylar sonucunda ajanların bilgi durumlarında meydana gelen değişiklikler üzerine akıl yürütmek için kullanılan resmi bir çerçeve."
 ---
-
 ## Definition
 
 Dinamik Epistemik Mantık (DEM), modal mantığı genişleterek ajanların yeni bilgi aldıklarında bilgilerin nasıl evrildiğini modellemek için kullanılır. Açıkça yapılan bildirimler veya olaylar nedeniyle inançların değiştiği çoklu ajan sistemlerini analiz etmek için araçlar sağlar.

@@ -1,23 +1,24 @@
 ---
-title: "Motor educable de tres en raya con cajas de fósforos"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Motor educable de tres en raya con cajas de fósforos
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /es/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T10:59:17.452004Z"
-lastmod: "2026-07-18T11:44:44.830253Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T10:59:17.452004Z'
+lastmod: '2026-07-18T11:44:44.830253Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un dispositivo físico de aprendizaje por refuerzo construido por Donald Michie en 1961 para jugar al Tres en Raya utilizando cajas de fósforos y cuentas."
+source: agnes_llm
+status: published
+language: es
+description: Un dispositivo físico de aprendizaje por refuerzo construido por Donald
+  Michie en 1961 para jugar al Tres en Raya utilizando cajas de fósforos y cuentas.
 ---
-
 ## Definition
 
 El Motor de Tres en Raya con Cajas de Fósforos fue una demostración temprana del aprendizaje automático, específicamente del aprendizaje por refuerzo. Construido con 304 cajas de fósforos, cada una representando un estado único del tablero, el sistema

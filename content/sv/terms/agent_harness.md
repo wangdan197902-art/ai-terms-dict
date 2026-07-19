@@ -1,23 +1,24 @@
 ---
-title: "Agentramverk"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Agentramverk
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /sv/terms/agent_harness/
-date: "2026-07-18T15:44:26.667912Z"
-lastmod: "2026-07-18T17:15:08.973336Z"
+slug: agent_harness
+date: '2026-07-18T15:44:26.667912Z'
+lastmod: '2026-07-18T17:15:08.973336Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Ett agentramverk är ett infrastruktur lager som hanterar livscykel, kommunikation och resursallokering för flera AI-agenter inom ett system."
+source: agnes_llm
+status: published
+language: sv
+description: Ett agentramverk är ett infrastruktur lager som hanterar livscykel, kommunikation
+  och resursallokering för flera AI-agenter inom ett system.
 ---
-
 ## Definition
 
 Det fungerar som ryggraden för multi-agent-system, och tillhandahåller verktyg för orchestration, övervakning och samordning mellan agenter. Ramverket säkerställer att agenter kan operera effektivt utan att störa...

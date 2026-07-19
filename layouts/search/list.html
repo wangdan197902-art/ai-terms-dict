@@ -1,17 +1,35 @@
 {{ define "main" }}
-<section class="search-page">
+<section class="search-page" data-pagefind-body>
     <h1>{{ .Title }}</h1>
     {{ with .Content }}
     <div class="search-intro">{{ . }}</div>
     {{ end }}
-    <div class="search-container">
-        <input type="search"
-               id="search-input"
-               placeholder="{{ T "search_placeholder" | default "Search AI terms..." }}"
-               aria-label="Search"
-               autocomplete="off"
-               autofocus>
-        <div id="search-results" class="search-results"></div>
-    </div>
+
+    {{/* Pagefind 搜索 UI 容器 */}}
+    <div id="search" data-pagefind-ui></div>
 </section>
+{{ end }}
+
+{{ define "scripts" }}
+<link href="{{ "pagefind/pagefind-ui.css" | relURL }}" rel="stylesheet">
+<script src="{{ "pagefind/pagefind-ui.js" | relURL }}"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const lang = document.documentElement.lang.split('-')[0];
+    const search = new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: false,
+      pageSize: 10,
+      filters: {
+        lang: lang
+      },
+      translations: {
+        placeholder: "{{ i18n "search_placeholder" | default "Search terms..." }}",
+        empty: "{{ i18n "search_empty" | default "No results found" }}",
+        results: "{{ i18n "search_results" | default "results found" }}"
+      }
+    });
+  });
+</script>
 {{ end }}

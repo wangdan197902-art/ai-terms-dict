@@ -1,23 +1,22 @@
 ---
-title: "ระยะยาว"
-term_id: "long_horizon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "planning"]
+title: ระยะยาว
+term_id: long_horizon
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- planning
 difficulty: 4
 weight: 1
-slug: "long_horizon"
-aliases:
-  - /th/terms/long_horizon/
-date: "2026-07-18T15:33:25.309722Z"
-lastmod: "2026-07-18T16:38:07.555268Z"
+slug: long_horizon
+date: '2026-07-18T15:33:25.309722Z'
+lastmod: '2026-07-18T16:38:07.555268Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "หมายถึงงานที่ต้องอาศัยการตัดสินใจในช่วงเวลาที่ยาวนาน โดยผลตอบแทนหรือผลกระทบอาจปรากฏขึ้นล่าช้า"
+source: agnes_llm
+status: published
+language: th
+description: หมายถึงงานที่ต้องอาศัยการตัดสินใจในช่วงเวลาที่ยาวนาน โดยผลตอบแทนหรือผลกระทบอาจปรากฏขึ้นล่าช้า
 ---
-
 ## Definition
 
 ปัญหาที่มีมุมมองระยะยาวเกี่ยวข้องกับการกระทำต่อเนื่องกัน โดยผลกระทบจากการตัดสินใจในระยะแรกอาจปรากฏชัดเจนก็ต่อเมื่อผ่านขั้นตอนจำนวนมากแล้ว ปรากฏการณ์นี้พบได้บ่อยในหุ่นยนต์ การวางแผน และงานที่ต้องใช้เหตุผลหลายขั้นตอน ความท้าทายหลักคือการเชื่อมโยงการกระทำปัจจุบันกับผลลัพธ์ในอนาคต

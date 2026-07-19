@@ -1,23 +1,24 @@
 ---
-title: "تأثير الذكاء الاصطناعي"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: تأثير الذكاء الاصطناعي
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /ar/terms/ai_effect/
-date: "2026-07-18T15:41:06.495596Z"
-lastmod: "2026-07-18T17:15:08.469939Z"
+slug: ai_effect
+date: '2026-07-18T15:41:06.495596Z'
+lastmod: '2026-07-18T17:15:08.469939Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ظاهرة تصبح فيها المهام التي كانت تُعتبر ذكية في السابق عادية ومألوفة بمجرد أتمتتها بواسطة الآلات."
+source: agnes_llm
+status: published
+language: ar
+description: ظاهرة تصبح فيها المهام التي كانت تُعتبر ذكية في السابق عادية ومألوفة
+  بمجرد أتمتتها بواسطة الآلات.
 ---
-
 ## Definition
 
 يصف تأثير الذكاء الاصطناعي الحدود المتغيرة لما يُصنف على أنه 'ذكاء اصطناعي'. ومع تطور الخوارزميات وزيادة قدرتها على أداء مهام محددة، غالباً ما يتم إعادة تصنيف هذه المهام على أنها أعمال روتينية أو بسيطة.

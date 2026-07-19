@@ -7,8 +7,6 @@ tags: ["systems", "automation", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "control"
-aliases:
-  - /hu/terms/control/
 date: "2026-07-18T15:25:16.981232Z"
 lastmod: "2026-07-18T17:15:09.717394Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A rendszer viselkedésének és állapotának irányítása, szabályozása vagy felügyelete a kívánt eredmények elérésére."
 ---
-
 ## Definition
 
 Mesterséges intelligencia esetén a vezérlés azokat a mechanizmusokat és algoritmusokat jelöli, amelyek a jelenlegi állapotok és célok alapján irányítják a rendszer cselekvéseit. Ez visszacsatolási hurkokat foglal magában, ahol a kimenetet figyelik és a bemenethez igazítják.

@@ -7,8 +7,6 @@ tags: ["performance", "engineering"]
 difficulty: 3
 weight: 1
 slug: "throughput"
-aliases:
-  - /tr/terms/throughput/
 date: "2026-07-18T16:17:54.713844Z"
 lastmod: "2026-07-18T16:38:07.373606Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka sisteminin belirli bir zaman dilimi içinde başarıyla işleyebileceği veri veya istek miktarını ölçen metrik."
 ---
-
 ## Definition
 
 Yapay zeka mühendisliğinde verimlilik, sistem kapasitesini gösteren kritik bir performans metriğidir. Genellikle büyük dil modelleri (LLM'ler) için saniyedeki token sayısı, bilgisayarlı görü modelleri için saniyedeki görüntü sayısı veya genel sistemler için saniyedeki sorgu sayısı olarak ölçülür.

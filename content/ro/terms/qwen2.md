@@ -1,23 +1,24 @@
 ---
-title: "Qwen2"
-term_id: "qwen2"
-category: "basic_concepts"
-subcategory: ""
-tags: ["version-history", "model-generation", "performance"]
+title: Qwen2
+term_id: qwen2
+category: basic_concepts
+subcategory: ''
+tags:
+- Version History
+- Model Generation
+- performance
 difficulty: 3
 weight: 1
-slug: "qwen2"
-aliases:
-  - /ro/terms/qwen2/
-date: "2026-07-18T16:18:09.142033Z"
-lastmod: "2026-07-18T17:15:09.696643Z"
+slug: qwen2
+date: '2026-07-18T16:18:09.142033Z'
+lastmod: '2026-07-18T17:15:09.696643Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Qwen2 este a doua iterație majoră a seriei de modele lingvistice mari Qwen, cu performanțe îmbunătățite."
+source: agnes_llm
+status: published
+language: ro
+description: Qwen2 este a doua iterație majoră a seriei de modele lingvistice mari
+  Qwen, cu performanțe îmbunătățite.
 ---
-
 ## Definition
 
 Qwen2 semnifică a doua generație semnificativă a familiei de modele Qwen, introducând îmbunătățiri arhitecturale și date de antrenament extinse. Această versiune oferă capacități superioare în procesarea multilingvă și raționament complex.

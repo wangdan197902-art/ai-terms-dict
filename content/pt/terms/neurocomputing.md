@@ -1,23 +1,25 @@
 ---
-title: "Neurocomputação"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: Neurocomputação
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /pt/terms/neurocomputing/
-date: "2026-07-18T15:14:34.192270Z"
-lastmod: "2026-07-18T15:51:59.517538Z"
+slug: neurocomputing
+date: '2026-07-18T15:14:34.192270Z'
+lastmod: '2026-07-18T15:51:59.517538Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A neurocomputação é um campo interdisciplinar que combina neurociência, ciência da computação e engenharia para desenvolver modelos computacionais inspirados em sistemas neurais biológicos."
+source: agnes_llm
+status: published
+language: pt
+description: A neurocomputação é um campo interdisciplinar que combina neurociência,
+  ciência da computação e engenharia para desenvolver modelos computacionais inspirados
+  em sistemas neurais biológicos.
 ---
-
 ## Definition
 
 Este domínio foca na criação de arquiteturas de hardware e software que imitam a estrutura e a função do cérebro humano. Ele abrange redes neurais artificiais, chips neuromórficos e computação cognitiva...

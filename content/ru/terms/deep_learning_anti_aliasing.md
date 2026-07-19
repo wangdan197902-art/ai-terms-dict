@@ -1,23 +1,24 @@
 ---
-title: "Антиалиасинг в глубоком обучении"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: Антиалиасинг в глубоком обучении
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /ru/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T15:49:19.219958Z"
-lastmod: "2026-07-18T16:38:07.147543Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T15:49:19.219958Z'
+lastmod: '2026-07-18T16:38:07.147543Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техники использования нейронных сетей для устранения визуальных артефактов, таких как зубчатые края, на рендеринговых изображениях или при понижении размерности признаков."
+source: agnes_llm
+status: published
+language: ru
+description: Техники использования нейронных сетей для устранения визуальных артефактов,
+  таких как зубчатые края, на рендеринговых изображениях или при понижении размерности
+  признаков.
 ---
-
 ## Definition
 
 Антиалиасинг в глубоком обучении относится к методам, использующим нейронные сети для смягчения артефактов алиасинга, возникающих при дискретизации высокочастотных сигналов с недостаточной частотой. В компьютерной графике это помогает сгладить контуры объектов.

@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /ar/terms/adaptive/
 date: "2026-07-18T15:23:12.450051Z"
 lastmod: "2026-07-18T17:15:08.433517Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "قدرة النظام على تعديل سلوكه أو معاييره استجابةً لتغير الظروف."
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي، يصف مصطلح 'تكيفي' الأنظمة أو الخوارزميات التي يمكنها ضبط حالاتها الداخلية أو معاييره أو استراتيجياته ديناميكياً بناءً على بيانات جديدة أو ملاحظات بيئية. تتيح هذه القدرة للنموذج...

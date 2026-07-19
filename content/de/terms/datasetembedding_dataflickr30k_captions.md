@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataflickr30k_captions"
-aliases:
-  - /de/terms/datasetembedding_dataflickr30k_captions/
 date: "2026-07-18T11:10:01.096941Z"
 lastmod: "2026-07-18T11:44:44.925367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein multimodaler Datensatz, der 31.000 Bilder mit menschengenerierten Beschreibungen verknüpft, um cross-modale Einbettungsmodelle zu trainieren."
 ---
-
 ## Definition
 
 Flickr30K Captions ist ein weit verbreiteter Benchmark-Datensatz, der 31.783 Bilder umfasst, wobei jedes Bild mit fünf verschiedenen englischen Sätzen annotiert ist, die den visuellen Inhalt beschreiben. Es dient als grundlegende Ressource.

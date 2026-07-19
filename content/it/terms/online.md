@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /it/terms/online/
 date: "2026-07-18T15:27:27.158691Z"
 lastmod: "2026-07-18T17:15:08.571105Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Si riferisce a modelli di machine learning che imparano continuamente da nuovi flussi di dati in tempo reale senza dover essere riaddestrati da zero."
 ---
-
 ## Definition
 
 L'apprendimento online è un paradigma di machine learning in cui il modello viene aggiornato incrementalmente man mano che arrivano nuovi punti dati, anziché essere addestrato su un batch statico di dati tutto in una volta. Questo approccio è cruciale per applicazioni che richiedono adattabilità immediata a cambiamenti nei dati.

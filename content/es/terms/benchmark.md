@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /es/terms/benchmark/
 date: "2026-07-18T10:21:22.597275Z"
 lastmod: "2026-07-18T11:44:44.736500Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un punto de referencia o métrica estándar utilizado para evaluar el rendimiento de los modelos de IA frente a líneas base establecidas."
 ---
-
 ## Definition
 
 En inteligencia artificial, un punto de referencia es un conjunto de pruebas o un conjunto de datos estandarizado diseñado para medir las capacidades de los modelos de aprendizaje automático. Proporciona un marco coherente para comparar diferentes modelos.

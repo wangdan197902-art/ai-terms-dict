@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /zh/terms/react/
 date: "2026-07-18T11:01:41.442920Z"
 lastmod: "2026-07-18T11:44:45.404673Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "ReAct 是一种提示范式，通过结合推理和行动来提升大型语言模型在复杂任务上的表现。"
 ---
-
 ## Definition
 
 ReAct 框架使大语言模型能够以交错的方式生成推理轨迹和特定于任务的行动。通过模拟类人的思维过程，它允许模型与外部环境进行交互（原文截断，意为 interaction with external environment）。

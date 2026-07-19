@@ -1,23 +1,24 @@
 ---
-title: "Käyttäytymistieteilmiöt"
-term_id: "behavior_informatics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["interdisciplinary", "data_analysis", "human_behavior"]
+title: Käyttäytymistieteilmiöt
+term_id: behavior_informatics
+category: basic_concepts
+subcategory: ''
+tags:
+- interdisciplinary
+- Data Analysis
+- Human Behavior
 difficulty: 3
 weight: 1
-slug: "behavior_informatics"
-aliases:
-  - /fi/terms/behavior_informatics/
-date: "2026-07-18T15:45:35.304617Z"
-lastmod: "2026-07-18T17:15:09.388422Z"
+slug: behavior_informatics
+date: '2026-07-18T15:45:35.304617Z'
+lastmod: '2026-07-18T17:15:09.388422Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Monitieteinen ala, joka tutkii ihmiskäyttäytymistä keräämällä ja analysoimalla digitaalista dataa."
+source: agnes_llm
+status: published
+language: fi
+description: Monitieteinen ala, joka tutkii ihmiskäyttäytymistä keräämällä ja analysoimalla
+  digitaalista dataa.
 ---
-
 ## Definition
 
 Käyttäytymistieteilmiöt yhdistävät tietojenkäsittelytieteen, psykologian ja tilastotieteen analysoidakseen digitaalisten vuorovaikutusten tuottamaa suurta käyttäytymisdatabasista. Sen keskiössä on kuvioiden tunnistaminen, tulevaisuuden käyttäytymisen ennustaminen ja ihmisten toiminnan ymmärtäminen dataperusteisesti.

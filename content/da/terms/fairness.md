@@ -7,8 +7,6 @@ tags: ["ethics", "bias", "safety"]
 difficulty: 3
 weight: 1
 slug: "fairness"
-aliases:
-  - /da/terms/fairness/
 date: "2026-07-18T15:35:10.488911Z"
 lastmod: "2026-07-18T17:15:09.244264Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Fairness refererer til princippet om, at AI-systemer skal undgå at producere skæve eller diskriminerende resultater over for bestemte grupper."
 ---
-
 ## Definition
 
 Inden for kunstig intelligens er fairness en kritisk etisk målestok, der sikrer, at algoritmer ikke viderefører eller forstærker samfundsmæssige fordomme baseret på beskyttede attributter som race, køn eller alder. Det involverer metoder til at identificere og fjerne skævheder i datamodeller.

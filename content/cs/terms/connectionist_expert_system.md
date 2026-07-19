@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /cs/terms/connectionist_expert_system/
 date: "2026-07-18T15:49:20.444255Z"
 lastmod: "2026-07-18T17:15:09.112993Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Inteligentní systém, který kombinuje schopnosti učení neuronových sítí se strukturami symbolického usuzování."
 ---
-
 ## Definition
 
 Konektivistický expertní systém integruje síly neuronových sítí (konektivismus) v oblasti rozpoznávání vzorů a učení s explicitním reprezentováním znalostí a logickým usuzováním tradičních symbolických systémů.

@@ -1,23 +1,24 @@
 ---
-title: "Обучение с учителем"
-term_id: "supervised_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-basics", "training", "paradigms"]
+title: Обучение с учителем
+term_id: supervised_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Basics
+- training
+- paradigms
 difficulty: 1
 weight: 1
-slug: "supervised_learning"
-aliases:
-  - /ru/terms/supervised_learning/
-date: "2026-07-18T15:36:46.873576Z"
-lastmod: "2026-07-18T16:38:07.111010Z"
+slug: supervised_learning
+date: '2026-07-18T15:36:46.873576Z'
+lastmod: '2026-07-18T16:38:07.111010Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Парадигма машинного обучения, в которой модель учится отображать входные данные на выходные на основе размеченных примеров обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Парадигма машинного обучения, в которой модель учится отображать входные
+  данные на выходные на основе размеченных примеров обучения.
 ---
-
 ## Definition
 
 В обучении с учителем алгоритм тренируется на размеченном наборе данных, что означает, что каждый входной пример сопровождается правильным выходным значением. Цель состоит в том, чтобы модель научилась выявлять скрытые закономерности между входами и выходами.

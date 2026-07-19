@@ -1,23 +1,24 @@
 ---
-title: "شركة الفيزياء الذكية (Physical Intelligence Inc.)"
-term_id: "physical_intelligence_inc"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "companies", "embodied_ai"]
+title: شركة الفيزياء الذكية (Physical Intelligence Inc.)
+term_id: physical_intelligence_inc
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- companies
+- Embodied AI
 difficulty: 3
 weight: 1
-slug: "physical_intelligence_inc"
-aliases:
-  - /ar/terms/physical_intelligence_inc/
-date: "2026-07-18T16:16:32.312201Z"
-lastmod: "2026-07-18T17:15:08.537405Z"
+slug: physical_intelligence_inc
+date: '2026-07-18T16:16:32.312201Z'
+lastmod: '2026-07-18T17:15:08.537405Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "شركة روبوتات أسسها باحثون سابقون من ديب مايند تركز على المناولة الروبوتية العامة."
+source: agnes_llm
+status: published
+language: ar
+description: شركة روبوتات أسسها باحثون سابقون من ديب مايند تركز على المناولة الروبوتية
+  العامة.
 ---
-
 ## Definition
 
 شركة الفيزياء الذكية (PI) هي شركة ناشئة منفصلة عن جوجل ديب مايند، تأسست لتطوير مجال الذكاء الجسدي والروبوتات. تركز الشركة على تطوير روبوتات عامة قادرة على أداء مهام مناولة معقدة في بيئات العالم الحقيقي.

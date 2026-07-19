@@ -1,23 +1,23 @@
 ---
-title: "סינתטי"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: סינתטי
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /he/terms/synthetic/
-date: "2026-07-18T15:31:03.998160Z"
-lastmod: "2026-07-18T17:15:09.488673Z"
+slug: synthetic
+date: '2026-07-18T15:31:03.998160Z'
+lastmod: '2026-07-18T17:15:09.488673Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "סינתטי מתייחס לנתונים או לתוכן שנוצרו באופן מלאכותי על ידי אלגוריתמים, במקום להיאסף ממקורות טבעיים."
+source: agnes_llm
+status: published
+language: he
+description: סינתטי מתייחס לנתונים או לתוכן שנוצרו באופן מלאכותי על ידי אלגוריתמים,
+  במקום להיאסף ממקורות טבעיים.
 ---
-
 ## Definition
 
 בבינה מלאכותית, נתונים סינתטיים הם מידע שנוצר באופן מלאכותי ומחקה נתוני עולם אמיתי, אך אינו מכיל רשומות אישיות או רגישות אמיתיות. נתונים אלו קריטיים לאימון מודלים למידת מכונה כאשר אין גישה לנתונים...

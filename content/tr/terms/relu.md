@@ -1,23 +1,24 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /tr/terms/relu/
-date: "2026-07-18T15:37:03.168740Z"
-lastmod: "2026-07-18T16:38:07.262523Z"
+slug: relu
+date: '2026-07-18T15:37:03.168740Z'
+lastmod: '2026-07-18T16:38:07.262523Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Düzeltmeli Doğrusal Birim (Rectified Linear Unit), pozitifse girdiyi doğrudan çıktı olarak veren, aksi takdirde sıfır döndüren bir aktivasyon fonksiyonudur."
+source: agnes_llm
+status: published
+language: tr
+description: Düzeltmeli Doğrusal Birim (Rectified Linear Unit), pozitifse girdiyi
+  doğrudan çıktı olarak veren, aksi takdirde sıfır döndüren bir aktivasyon fonksiyonudur.
 ---
-
 ## Definition
 
 ReLU, hesaplama verimliliği ve kaybolan gradyan sorununu hafifletme yeteneği nedeniyle derin öğrenme sinir ağlarında yaygın olarak kullanılır. Matematiksel olarak f(x) = max(0, x) şeklinde tanımlanır ve doğrusal olmayanlık özelliği getirir.

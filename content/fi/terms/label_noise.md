@@ -1,23 +1,24 @@
 ---
-title: "Luokittelun kohina"
-term_id: "label_noise"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_preprocessing", "machine_learning_basics", "data_quality"]
+title: Luokittelun kohina
+term_id: label_noise
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Preprocessing
+- Machine Learning Basics
+- Data Quality
 difficulty: 2
 weight: 1
-slug: "label_noise"
-aliases:
-  - /fi/terms/label_noise/
-date: "2026-07-18T16:05:40.525873Z"
-lastmod: "2026-07-18T17:15:09.426701Z"
+slug: label_noise
+date: '2026-07-18T16:05:40.525873Z'
+lastmod: '2026-07-18T17:15:09.426701Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Virheet tai ristiriidat valvotussa koneoppimisessa käytettävän datan kohdemerkinnöissä."
+source: agnes_llm
+status: published
+language: fi
+description: Virheet tai ristiriidat valvotussa koneoppimisessa käytettävän datan
+  kohdemerkinnöissä.
 ---
-
 ## Definition
 
 Luokittelun kohina viittaa poikkeamiin datapisteen todellisten luokkien ja harjoitusjoukon annettujen merkintöjen välillä. Tämä voi johtua ihmisten tekemistä virheistä merkinnöissä, epäselvistä tapauksista tai systemaattisista mittausvirheistä.

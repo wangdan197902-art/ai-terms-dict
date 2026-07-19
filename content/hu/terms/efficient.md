@@ -1,23 +1,24 @@
 ---
-title: "Hatékony"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: Hatékony
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /hu/terms/efficient/
-date: "2026-07-18T15:25:47.934808Z"
-lastmod: "2026-07-18T17:15:09.718668Z"
+slug: efficient
+date: '2026-07-18T15:25:47.934808Z'
+lastmod: '2026-07-18T17:15:09.718668Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az AI-ban a hatékonyság az optimális teljesítmény elérését jelenti minimális erőforrás-felhasználással, mint például idővel, memóriával vagy számítási teljesítménnyel."
+source: agnes_llm
+status: published
+language: hu
+description: Az AI-ban a hatékonyság az optimális teljesítmény elérését jelenti minimális
+  erőforrás-felhasználással, mint például idővel, memóriával vagy számítási teljesítménnyel.
 ---
-
 ## Definition
 
 A hatékonyság kritikus mutató a mesterséges intelligenciában, amely azt méri, hogy egy modell vagy algoritmus mennyire jól használja ki az elérhető erőforrásokat. Magában foglalja a számítási hatékonyságot (az inference és a képzés sebessége), valamint az erőforrások optimalizálását.

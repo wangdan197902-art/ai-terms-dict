@@ -7,8 +7,6 @@ tags: ["probability", "bayesian", "logic"]
 difficulty: 5
 weight: 1
 slug: "inductive_probability"
-aliases:
-  - /he/terms/inductive_probability/
 date: "2026-07-18T16:06:30.197891Z"
 lastmod: "2026-07-18T17:15:09.550914Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מידה עד כמה ראיות תומכות בהשעיה, השונה מודאות דדוקטיבית."
 ---
-
 ## Definition
 
 הסתברות אינדוקטיבית כמותית את הסבירות שהשעיה נכונה בהינתן ראיות שנצפו, תוך הכרה בכך שמסקנות הן סבירות ולא ודאיות. היא מהווה את הבסיס להסקה בייסיאנית, שבה עדכונים מתבצעים באופן בייסיאני.

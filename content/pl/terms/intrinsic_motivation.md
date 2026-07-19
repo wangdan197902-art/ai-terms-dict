@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /pl/terms/intrinsic_motivation/
 date: "2026-07-18T16:01:48.090277Z"
 lastmod: "2026-07-18T17:15:08.887207Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Koncepcja uczenia przez wzmacnianie, w której agenci dążą do celów opartych na wewnętrznej ciekawości lub zdobywaniu wiedzy, a nie na zewnętrznych nagrodach."
 ---
-
 ## Definition
 
 W uczeniu przez wzmacnianie motywacja wewnętrzna napędza agenta do eksploracji środowiska poprzez poszukiwanie nowości, redukcję niepewności lub opanowywanie umiejętności, niezależnie od zewnętrznych nagród zadaniowych. Mechanizm ten pozwala agentom na samodzielną naukę w otwartych środowiskach, gdzie nagrody są rzadkie lub niejasne. Agenci z motywacją wewnętrzną są skłonni do podejmowania działań, które zwiększają ich zrozumienie świata, co prowadzi do bardziej efektywnej eksploracji i lepszego ogólnego zachowania w złożonych zadaniach.

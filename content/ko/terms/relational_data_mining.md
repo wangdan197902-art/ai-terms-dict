@@ -7,8 +7,6 @@ tags: ["Data Mining", "Databases", "Analytics"]
 difficulty: 3
 weight: 1
 slug: "relational_data_mining"
-aliases:
-  - /ko/terms/relational_data_mining/
 date: "2026-07-18T16:13:19.672889Z"
 lastmod: "2026-07-18T16:38:06.903911Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "여러 개의 서로 연관된 테이블이나 엔터티로 구성된 데이터에서 패턴과 지식을 발견하는 과정."
 ---
-
 ## Definition
 
 관계형 데이터 마이닝은 단일 평평한 테이블이 아니라 여러 관련 테이블로 조직화된 데이터베이스에서 유용한 정보를 추출하는 데 중점을 둡니다. 이는 테이블 간의 관계와 연결성을 활용하여 더 풍부한 인사이트를 도출합니다.

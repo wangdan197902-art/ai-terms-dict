@@ -7,8 +7,6 @@ tags: ["video", "enhancement", "upscaling", "cv"]
 difficulty: 4
 weight: 1
 slug: "video_super_resolution"
-aliases:
-  - /pl/terms/video_super_resolution/
 date: "2026-07-18T16:21:51.695431Z"
 lastmod: "2026-07-18T17:15:08.927261Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Super rozdzielczość wideo (VSR) to technika wizji komputerowej, która poprawia rozdzielczość przestrzenną i czasową kadrów wideo niskiej jakości za pomocą uczenia głębokiego."
 ---
-
 ## Definition
 
 Super rozdzielczość wideo polega na wykorzystaniu sieci neuronowych do skalowania treści wideo z niższych rozdzielczości (np. 480p) na wyższe (np. 4K) przy jednoczesnym zachowaniu szczegółów i redukcji artefaktów. W przeciwieństwie do

@@ -1,23 +1,24 @@
 ---
-title: "Epistemik Modal Mantık"
-term_id: "epistemic_modal_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["logic", "formal_methods", "theoretical"]
+title: Epistemik Modal Mantık
+term_id: epistemic_modal_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- logic
+- Formal Methods
+- theoretical
 difficulty: 5
 weight: 1
-slug: "epistemic_modal_logic"
-aliases:
-  - /tr/terms/epistemic_modal_logic/
-date: "2026-07-18T15:52:27.124995Z"
-lastmod: "2026-07-18T16:38:07.305310Z"
+slug: epistemic_modal_logic
+date: '2026-07-18T15:52:27.124995Z'
+lastmod: '2026-07-18T16:38:07.305310Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Ajanların bilgi ve inanç durumlarını temsil etmek ve bunlar hakkında akıl yürütmek için formal sistemler kullanan modal mantığın bir dalı."
+source: agnes_llm
+status: published
+language: tr
+description: Ajanların bilgi ve inanç durumlarını temsil etmek ve bunlar hakkında
+  akıl yürütmek için formal sistemler kullanan modal mantığın bir dalı.
 ---
-
 ## Definition
 
 Epistemik modal mantık, bir ajanın neyi bildiğini veya inandığını gösteren operatörlerle klasik mantığı genişletir. Diğer katılımcıların bilgisini akıl yürütmenin kritik olduğu çoklu ajan sistemlerinde önemlidir.

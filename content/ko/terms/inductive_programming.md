@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /ko/terms/inductive_programming/
 date: "2026-07-18T16:00:03.207690Z"
 lastmod: "2026-07-18T16:38:06.854589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "입출력 예제를 기반으로 컴퓨터 프로그램을 자동으로 생성하는 프로그램 합성의 한 분야."
 ---
-
 ## Definition
 
 프로그램 합성이라고도 불리는 귀납적 프로그래밍은 명시적인 지시사항 대신 입출력 쌍으로 제공된 사양에 기반하여 소프트웨어 코드를 생성하는 과정입니다. 시스템은 주어진 예제들로부터 논리를 추론하여 코드를 만들어냅니다.

@@ -7,8 +7,6 @@ tags: ["methods", "statistics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "carlo"
-aliases:
-  - /en/terms/carlo/
 date: "2026-07-18T09:30:33.573740Z"
 lastmod: "2026-07-18T11:44:44.594375Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Refers to Monte Carlo methods, a class of computational algorithms that rely on repeated random sampling to obtain numerical results."
 ---
-
 ## Definition
 
 Monte Carlo methods are essential techniques in AI and statistics for approximating complex mathematical problems that are difficult to solve analytically. By generating thousands or millions of random samples, these methods estimate probabilities, optimize functions, or simulate physical systems. They are widely used in reinforcement learning for policy evaluation, Bayesian inference, and risk analysis where exact calculations are computationally infeasible.

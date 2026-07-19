@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /id/terms/maximum_inner_product_search/
 date: "2026-07-18T16:00:03.637344Z"
 lastmod: "2026-07-18T16:38:07.482097Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah teknik pencarian kesamaan vektor khusus yang mengambil item dengan hasil perkalian titik tertinggi relatif terhadap vektor kueri."
 ---
-
 ## Definition
 
 Pencarian Inner-Product Maksimum (MIPS) adalah masalah mendasar dalam pengambilan informasi dan pembelajaran mesin, khususnya dalam sistem rekomendasi. Berbeda dengan pencarian kesamaan kosinus standar yang mengukur...

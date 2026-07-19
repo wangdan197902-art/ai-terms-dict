@@ -7,8 +7,6 @@ tags: ["RL", "systems"]
 difficulty: 2
 weight: 1
 slug: "state"
-aliases:
-  - /it/terms/state/
 date: "2026-07-18T15:29:39.936039Z"
 lastmod: "2026-07-18T17:15:08.575106Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "La configurazione completa di un sistema o di un agente in un momento specifico del tempo."
 ---
-
 ## Definition
 
 Uno stato rappresenta tutte le informazioni rilevanti necessarie per determinare il comportamento futuro in sistemi come i Processi Decisionali di Markov (MDP). Nell'apprendimento per rinforzo, lo stato racchiude la descrizione dell'ambiente.

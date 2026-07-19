@@ -1,23 +1,25 @@
 ---
-title: "Rastgele özellik"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Rastgele özellik
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /tr/terms/random_feature/
-date: "2026-07-18T16:11:38.785539Z"
-lastmod: "2026-07-18T16:38:07.358533Z"
+slug: random_feature
+date: '2026-07-18T16:11:38.785539Z'
+lastmod: '2026-07-18T16:38:07.358533Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Giriş verilerini, çekirdek yöntemlerini verimli bir şekilde yaklaştırmak için rastgele projeksiyonlar kullanarak daha yüksek boyutlu bir alana dönüştüren bir teknik."
+source: agnes_llm
+status: published
+language: tr
+description: Giriş verilerini, çekirdek yöntemlerini verimli bir şekilde yaklaştırmak
+  için rastgele projeksiyonlar kullanarak daha yüksek boyutlu bir alana dönüştüren
+  bir teknik.
 ---
-
 ## Definition
 
 Rastgele özellik haritalamaları, girdileri doğrusal modellerin doğrusal olmayan çekirdek fonksiyonlarını yaklaştırabileceği yeni bir uzaya dönüştürür. Bu yaklaşım, genellikle Nystrom yöntemi veya Fourier özellikleri ile ilişkilendirilir ve hesaplama maliyetini düşürerek ölçeklenebilirliği artırır.

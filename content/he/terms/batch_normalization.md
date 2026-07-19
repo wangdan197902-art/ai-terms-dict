@@ -1,23 +1,24 @@
 ---
-title: "נרמול אצווה"
-term_id: "batch_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep-learning", "optimization", "neural-networks"]
+title: נרמול אצווה
+term_id: batch_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Optimization
+- Neural Networks
 difficulty: 3
 weight: 1
-slug: "batch_normalization"
-aliases:
-  - /he/terms/batch_normalization/
-date: "2026-07-18T15:45:52.895238Z"
-lastmod: "2026-07-18T17:15:09.516085Z"
+slug: batch_normalization
+date: '2026-07-18T15:45:52.895238Z'
+lastmod: '2026-07-18T17:15:09.516085Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "נרמול אצווה הוא טכניקה המנרמלת את קלטים של שכבה לאורך מיני-אצווה (mini-batch) כדי ליצב ולהאיץ את אימון הרשת העצבית."
+source: agnes_llm
+status: published
+language: he
+description: נרמול אצווה הוא טכניקה המנרמלת את קלטים של שכבה לאורך מיני-אצווה (mini-batch)
+  כדי ליצב ולהאיץ את אימון הרשת העצבית.
 ---
-
 ## Definition
 
 שיטה זו מתאימה ומנרמלת את הפעלות הרשת כך שיהיו בעלות תוחלת אפס ושונות אחת בתוך כל מיני-אצווה במהלך האימון. היא מפחיתה את ההעתקה הקו-וריאנטית הפנימית, ומאפשרת קצבי למידה גבוהים יותר ואימון מהיר יותר.

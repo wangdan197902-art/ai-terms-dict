@@ -1,23 +1,24 @@
 ---
-title: "Позиционное кодирование"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Позиционное кодирование
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /ru/terms/positional_encoding/
-date: "2026-07-18T15:35:53.227250Z"
-lastmod: "2026-07-18T16:38:07.108784Z"
+slug: positional_encoding
+date: '2026-07-18T15:35:53.227250Z'
+lastmod: '2026-07-18T16:38:07.108784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Техника, которая внедряет информацию о относительном или абсолютном положении токенов в последовательность в модели трансформеров."
+source: agnes_llm
+status: published
+language: ru
+description: Техника, которая внедряет информацию о относительном или абсолютном положении
+  токенов в последовательность в модели трансформеров.
 ---
-
 ## Definition
 
 Поскольку трансформеры обрабатывают все токены параллельно, а не последовательно, как рекуррентные нейронные сети (RNN), они лишены встроенного понимания порядка следования токенов. Позиционное кодирование добавляет специфические векторы к входным эмбеддингам, чтобы предоставить модели информацию о позиции каждого токена в последовательности.

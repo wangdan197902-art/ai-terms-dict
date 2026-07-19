@@ -7,8 +7,6 @@ tags: ["TII", "Pretraining", "Web Data", "LLM"]
 difficulty: 3
 weight: 1
 slug: "datasettiiuaefalcon_refinedweb"
-aliases:
-  - /fi/terms/datasettiiuaefalcon_refinedweb/
 date: "2026-07-18T15:52:10.229334Z"
 lastmod: "2026-07-18T17:15:09.401192Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Valtava, korkealaatuinen verkkotietojoukko, jonka Technology Innovation Institute on koonnut suurten kielimallien (kuten Falcon) esikoulutusta varten."
 ---
-
 ## Definition
 
 RefinedWeb on suuri, suodatettu verkkosivustojen tietojoukko, joka on suunniteltu perusmallien esikoulutukseen. Se käsittelee biljoonia verkkosivustoja poistaakseen huonolaatuisen sisällön, duplikaatit ja haitallisen materiaalin.

@@ -1,23 +1,24 @@
 ---
-title: "Dikkat Mekanizması"
-term_id: "attention_mechanism"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "deep_learning", "nlp"]
+title: Dikkat Mekanizması
+term_id: attention_mechanism
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Deep Learning
+- NLP
 difficulty: 3
 weight: 1
-slug: "attention_mechanism"
-aliases:
-  - /tr/terms/attention_mechanism/
-date: "2026-07-18T15:22:34.133097Z"
-lastmod: "2026-07-18T16:38:07.224549Z"
+slug: attention_mechanism
+date: '2026-07-18T15:22:34.133097Z'
+lastmod: '2026-07-18T16:38:07.224549Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Sinir ağlarının çıktı üretirken girdi verisinin belirli kısımlarına odaklanmasını sağlayan bir teknik."
+source: agnes_llm
+status: published
+language: tr
+description: Sinir ağlarının çıktı üretirken girdi verisinin belirli kısımlarına odaklanmasını
+  sağlayan bir teknik.
 ---
-
 ## Definition
 
 Bir dikkat mekanizması, bir modelin girdi dizisi içindeki farklı öğelerin önemini dinamik olarak ağırlıklandırmasına olanak tanır. Tüm girdi verisini eşit şekilde ele almak yerine, değişen düzeylerde anlam yükler.

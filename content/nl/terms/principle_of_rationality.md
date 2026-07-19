@@ -1,23 +1,24 @@
 ---
-title: "Rationaliteitsbeginsel"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: Rationaliteitsbeginsel
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /nl/terms/principle_of_rationality/
-date: "2026-07-18T16:13:03.823004Z"
-lastmod: "2026-07-18T17:15:08.777963Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:13:03.823004Z'
+lastmod: '2026-07-18T17:15:08.777963Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "De fundamentele aanname dat intelligente agenten handelen om hun verwachte nut te maximaliseren op basis van beschikbare informatie."
+source: agnes_llm
+status: published
+language: nl
+description: De fundamentele aanname dat intelligente agenten handelen om hun verwachte
+  nut te maximaliseren op basis van beschikbare informatie.
 ---
-
 ## Definition
 
 Dit principe stelt dat de acties van een agent moeten worden gekozen om zijn verwachte prestatie te maximaliseren, gegeven zijn waarnemingsinput en voorkennis. Het dient als de hoeksteen voor besluitvormingstheorieën.

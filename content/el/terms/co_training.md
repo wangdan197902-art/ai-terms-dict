@@ -1,23 +1,25 @@
 ---
-title: "Συνεκπαίδευση"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Συνεκπαίδευση
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /el/terms/co_training/
-date: "2026-07-18T15:55:08.340401Z"
-lastmod: "2026-07-18T17:15:09.889047Z"
+slug: co_training
+date: '2026-07-18T15:55:08.340401Z'
+lastmod: '2026-07-18T17:15:09.889047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η συνεκπαίδευση είναι ένας αλγόριθμος ημι-εποπτευόμενης μάθησης όπου δύο διαφορετικές όψεις των δεδομένων χρησιμοποιούνται για την εκπαίδευση ξεχωριστών ταξινομητών που εναλλάξ ετικετοποιούν μη ετικετ"
+source: agnes_llm
+status: published
+language: el
+description: Η συνεκπαίδευση είναι ένας αλγόριθμος ημι-εποπτευόμενης μάθησης όπου
+  δύο διαφορετικές όψεις των δεδομένων χρησιμοποιούνται για την εκπαίδευση ξεχωριστών
+  ταξινομητών που εναλλάξ ετικετοποιούν μη ετικετ
 ---
-
 ## Definition
 
 Αυτή η μέθοδος αξιοποιεί πολλαπλά σύνολα χαρακτηριστικών (όψεις) των ίδιων σημείων δεδομένων. Αρχικά, εκπαιδεύονται δύο ταξινομητές σε μικρά σύνολα δεδομένων με ετικέτες από κάθε όψη. Στη συνέχεια, προβλέπουν ετικέτες για μη ετικετοποιημένα δεδομένα, επιλέγοντας μόνο τις υψηλής εμπιστοσύνης προβλέψεις για να ενημερώσουν τον άλλο ταξινομητή.

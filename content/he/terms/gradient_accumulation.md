@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Hardware"]
 difficulty: 4
 weight: 1
 slug: "gradient_accumulation"
-aliases:
-  - /he/terms/gradient_accumulation/
 date: "2026-07-18T16:02:09.913666Z"
 lastmod: "2026-07-18T17:15:09.544973Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "צבירת גרדיאנטים היא טכניקה המדמה גודל באץ' (Batch) גדול יותר על ידי סיכום גרדיאנטים לאורך מספר ריצות קדימה ואחורה לפני עדכון המשקלים."
 ---
-
 ## Definition
 
 אסטרטגיית האופטימיזציה הזו מאפשרת לאימוני מודלים ללמידה עמוקה להיעשות עם גודל באץ' אפקטיבי הגדול מהנפח הזמין בזיכרון ה-GPU. על ידי צבירת גרדיאנטים ממספר מיני-באצ'ים וביצוע עדכון משקלים משותף.

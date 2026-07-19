@@ -1,23 +1,25 @@
 ---
-title: "Βάση Γνώσης"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: Βάση Γνώσης
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /el/terms/knowledge_base/
-date: "2026-07-18T15:41:34.335014Z"
-lastmod: "2026-07-18T17:15:09.867339Z"
+slug: knowledge_base
+date: '2026-07-18T15:41:34.335014Z'
+lastmod: '2026-07-18T17:15:09.867339Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένας κεντρικός αποθηκευτικός χώρος δομημένης πληροφορίας που χρησιμοποιείται για την υποστήριξη της λήψης αποφάσεων και της παραγωγής ενισχυμένης με ανακτήσεις (RAG) σε εφαρμογές τεχνητής νοημοσύνης."
+source: agnes_llm
+status: published
+language: el
+description: Ένας κεντρικός αποθηκευτικός χώρος δομημένης πληροφορίας που χρησιμοποιείται
+  για την υποστήριξη της λήψης αποφάσεων και της παραγωγής ενισχυμένης με ανακτήσεις
+  (RAG) σε εφαρμογές τεχνητής νοημοσύνης.
 ---
-
 ## Definition
 
 Μια βάση γνώσης λειτουργεί ως μια ψηφιακή βιβλιοθήκη που περιέχει επιμελημένα δεδομένα, έγγραφα ή γεγονότα, τα οποία τα συστήματα τεχνητής νοημοσύνης μπορούν να ερωτήσουν για να παρέχουν ακριβείς και ευαισθητοποιημένες στο πλαίσιο απαντήσεις. Σε σύγχρονες αρχιτεκτονικές όπως η Ανακτήσεις Ενισχυμένης Παραγωγής (Retrieval-Augmented Generation - RAG), η βάση γνώσης αποτελεί τον πυρήνα για την παροχή έγκυρης πληροφορίας.

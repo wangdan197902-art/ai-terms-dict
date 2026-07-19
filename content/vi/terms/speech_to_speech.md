@@ -1,23 +1,24 @@
 ---
-title: "Giọng nói sang Giọng nói"
-term_id: "speech_to_speech"
-category: "application_paradigms"
-subcategory: ""
-tags: ["translation", "synthesis", "real_time"]
+title: Giọng nói sang Giọng nói
+term_id: speech_to_speech
+category: application_paradigms
+subcategory: ''
+tags:
+- translation
+- synthesis
+- Real Time
 difficulty: 5
 weight: 1
-slug: "speech_to_speech"
-aliases:
-  - /vi/terms/speech_to_speech/
-date: "2026-07-18T16:12:43.023481Z"
-lastmod: "2026-07-18T16:38:07.807404Z"
+slug: speech_to_speech
+date: '2026-07-18T16:12:43.023481Z'
+lastmod: '2026-07-18T16:38:07.807404Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mô hình dịch chuyển cho phép chuyển đổi trực tiếp đầu vào giọng nói thành giọng nói tổng hợp trong ngôn ngữ khác."
+source: agnes_llm
+status: published
+language: vi
+description: Một mô hình dịch chuyển cho phép chuyển đổi trực tiếp đầu vào giọng nói
+  thành giọng nói tổng hợp trong ngôn ngữ khác.
 ---
-
 ## Definition
 
 Dịch chuyển Giọng nói sang Giọng nói (STS) bỏ qua các đại diện văn bản trung gian để chuyển đổi trực tiếp ngôn ngữ nói A sang ngôn ngữ nói B. Phương pháp này nhằm mục đích bảo toàn ngữ điệu, cảm xúc và tính tự nhiên của giọng nói gốc.

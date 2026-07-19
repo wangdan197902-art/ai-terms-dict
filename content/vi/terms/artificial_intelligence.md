@@ -7,8 +7,6 @@ tags: ["fundamentals", "overview", "history"]
 difficulty: 1
 weight: 1
 slug: "artificial_intelligence"
-aliases:
-  - /vi/terms/artificial_intelligence/
 date: "2026-07-18T15:22:36.446055Z"
 lastmod: "2026-07-18T16:38:07.677660Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Sự mô phỏng các quá trình nhận thức của con người bởi các hệ thống máy tính."
 ---
-
 ## Definition
 
 Trí tuệ nhân tạo (AI) đề cập đến khả năng của các máy tính kỹ thuật số hoặc robot do máy tính điều khiển trong việc thực hiện các nhiệm vụ thường liên quan đến những sinh vật thông minh. Nó bao gồm nhiều lĩnh vực con khác nhau

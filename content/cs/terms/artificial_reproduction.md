@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /cs/terms/artificial_reproduction/
 date: "2026-07-18T15:43:20.880840Z"
 lastmod: "2026-07-18T17:15:09.103445Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Využití biotechnologií a AI k podpoře nebo replikaci biologických reprodukčních procesů, často v medicíně nebo zemědělství."
 ---
-
 ## Definition
 
 Umělé rozmnožování zahrnuje techniky, které usnadňují nebo replikují biologickou reprodukcí bez přímého pohlavního styku, silně využívajících technologii a stále více AI pro optimalizaci výsledků.

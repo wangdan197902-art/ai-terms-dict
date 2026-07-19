@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /da/terms/human_in_the_loop/
 date: "2026-07-18T15:35:20.527995Z"
 lastmod: "2026-07-18T17:15:09.245225Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En systemdesign, hvor mennesker aktivt deltager i beslutningsprocessen eller feedbackprocessen for en AI-model."
 ---
-
 ## Definition
 
 Human-in-the-loop (HITL) refererer til AI-systemer, der kræver menneskelig indblanding i forskellige faser af arbejdsgangen, såsom datamærkning, modelvurdering eller godkendelse af endelige beslutninger. Denne tilgang sikrer ansvarlighed og forbedrer modellens præcision gennem menneskelig feedback.

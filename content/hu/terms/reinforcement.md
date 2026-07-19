@@ -1,23 +1,23 @@
 ---
-title: "Megerősítés"
-term_id: "reinforcement"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "psychology"]
+title: Megerősítés
+term_id: reinforcement
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- psychology
 difficulty: 3
 weight: 1
-slug: "reinforcement"
-aliases:
-  - /hu/terms/reinforcement/
-date: "2026-07-18T15:30:38.388025Z"
-lastmod: "2026-07-18T17:15:09.728053Z"
+slug: reinforcement
+date: '2026-07-18T15:30:38.388025Z'
+lastmod: '2026-07-18T17:15:09.728053Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A megerősítés a viselkedés jutalmazással vagy büntetéssel történő módosításának folyamata a döntéshozatal optimalizálása érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: A megerősítés a viselkedés jutalmazással vagy büntetéssel történő módosításának
+  folyamata a döntéshozatal optimalizálása érdekében.
 ---
-
 ## Definition
 
 A megerősítés egy alapvető pszichológiai és számítástechnikai mechanizmus, ahol egy ügynök cselekvéseit a következmények formálják. A gépi tanulásban ez pozitív visszajelzések (jutalmak) biztosítását jelenti a kívánt viselkedés erősítésére, miközben a nemkívánatos cselekvéseket csökkentik.

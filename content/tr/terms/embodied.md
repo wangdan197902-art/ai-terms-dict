@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "physical"]
 difficulty: 3
 weight: 1
 slug: "embodied"
-aliases:
-  - /tr/terms/embodied/
 date: "2026-07-18T15:24:43.535158Z"
 lastmod: "2026-07-18T16:38:07.230809Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bedenselleşmiş yapay zeka, akıllı sistemlerin sensörler ve aktüatörler aracılığıyla fiziksel dünyada bir beden içinde etkileşime girmesini ifade eder."
 ---
-
 ## Definition
 
 Bedenselleşmiş yapay zeka, zekanın bir ajanın fiziksel formu ile çevresi arasındaki etkileşimden doğduğunu öne sürer. Soyut verileri işleyen bedensiz yapay zekadan farklı olarak, bedensel ajanlar sensörler kullanarak ortamdan bilgi toplar ve aktüatörler aracılığıyla fiziksel eylemler gerçekleştirir. Bu yaklaşım, robotik ve otonom sistemlerde temel bir paradigmadır.

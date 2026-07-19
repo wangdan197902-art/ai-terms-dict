@@ -1,23 +1,24 @@
 ---
-title: "Nollskotsinlärning"
-term_id: "zero_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training_strategy", "generalization", "efficiency"]
+title: Nollskotsinlärning
+term_id: zero_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Training Strategy
+- generalization
+- efficiency
 difficulty: 4
 weight: 1
-slug: "zero_shot_learning"
-aliases:
-  - /sv/terms/zero_shot_learning/
-date: "2026-07-18T15:41:22.039876Z"
-lastmod: "2026-07-18T17:15:08.969011Z"
+slug: zero_shot_learning
+date: '2026-07-18T15:41:22.039876Z'
+lastmod: '2026-07-18T17:15:08.969011Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Nollskotsinlärning är en teknik där en modell utför uppgifter på klasser den aldrig har sett under träningen genom att utnyttja semantiska associationer."
+source: agnes_llm
+status: published
+language: sv
+description: Nollskotsinlärning är en teknik där en modell utför uppgifter på klasser
+  den aldrig har sett under träningen genom att utnyttja semantiska associationer.
 ---
-
 ## Definition
 
 Nollskotsinlärning gör det möjligt för en maskininlärningsmodell att klassificera instanser av klasser som inte fanns med i dess träningsdataset. Istället för att lita på märkta exempel för varje möjlig klass,

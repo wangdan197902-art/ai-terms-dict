@@ -1,23 +1,24 @@
 ---
-title: "Χαρακτηριστικό"
-term_id: "feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "ml_basics", "input"]
+title: Χαρακτηριστικό
+term_id: feature
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- ML Basics
+- input
 difficulty: 1
 weight: 1
-slug: "feature"
-aliases:
-  - /el/terms/feature/
-date: "2026-07-18T16:06:59.647684Z"
-lastmod: "2026-07-18T17:15:09.907670Z"
+slug: feature
+date: '2026-07-18T16:06:59.647684Z'
+lastmod: '2026-07-18T17:15:09.907670Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια μεμονωμένη μετρήσιμη ιδιότητα ή χαρακτηριστικό ενός φαινομένου που παρατηρείται, η οποία λειτουργεί ως δεδομένα εισόδου για τα μοντέλα μηχανικής μάθησης."
+source: agnes_llm
+status: published
+language: el
+description: Μια μεμονωμένη μετρήσιμη ιδιότητα ή χαρακτηριστικό ενός φαινομένου που
+  παρατηρείται, η οποία λειτουργεί ως δεδομένα εισόδου για τα μοντέλα μηχανικής μάθησης.
 ---
-
 ## Definition
 
 Στη μηχανική μάθηση, ένα χαρακτηριστικό είναι μια διακριτή μεταβλητή ή ιδιότητα που περιγράφει μια περίπτωση μέσα σε ένα σύνολο δεδομένων. Τα χαρακτηριστικά μπορούν να είναι αριθμητικά, κατηγορικά ή κειμενικά και αποτελούν τη θεμελιώδη είσοδο για τα μοντέλα.

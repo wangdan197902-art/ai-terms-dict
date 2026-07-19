@@ -1,23 +1,24 @@
 ---
-title: "AI-veganisme"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: AI-veganisme
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /nl/terms/ai_veganism/
-date: "2026-07-18T15:40:31.922924Z"
-lastmod: "2026-07-18T17:15:08.713154Z"
+slug: ai_veganism
+date: '2026-07-18T15:40:31.922924Z'
+lastmod: '2026-07-18T17:15:08.713154Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een metaforisch concept dat suggereert dat AI-systemen moeten opereren zonder afhankelijk te zijn van door mensen gegenereerde data of arbeid."
+source: agnes_llm
+status: published
+language: nl
+description: Een metaforisch concept dat suggereert dat AI-systemen moeten opereren
+  zonder afhankelijk te zijn van door mensen gegenereerde data of arbeid.
 ---
-
 ## Definition
 
 AI-veganisme is een speculatieve en metaforische term die verwijst naar het idee van kunstmatige intelligentie die volledig leert uit synthetische, zelfgegenereerde of fysieke werelddata, in plaats van terugvallen op menselijke annotatie of datasets.

@@ -1,23 +1,24 @@
 ---
-title: "Bestärkendes Lernen"
-term_id: "reinforcement_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "algorithms"]
+title: Bestärkendes Lernen
+term_id: reinforcement_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- algorithms
 difficulty: 4
 weight: 1
-slug: "reinforcement_learning"
-aliases:
-  - /de/terms/reinforcement_learning/
-date: "2026-07-18T10:53:11.465000Z"
-lastmod: "2026-07-18T11:44:44.881881Z"
+slug: reinforcement_learning
+date: '2026-07-18T10:53:11.465000Z'
+lastmod: '2026-07-18T11:44:44.881881Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Bestärkendes Lernen ist eine Art des maschinellen Lernens, bei der Agenten lernen, Entscheidungen zu treffen, indem sie mit einer Umgebung interagieren, um Belohnungen zu maximieren."
+source: agnes_llm
+status: published
+language: de
+description: Bestärkendes Lernen ist eine Art des maschinellen Lernens, bei der Agenten
+  lernen, Entscheidungen zu treffen, indem sie mit einer Umgebung interagieren, um
+  Belohnungen zu maximieren.
 ---
-
 ## Definition
 
 Bestärkendes Lernen (RL) ist ein Zweig des maschinellen Lernens, der sich damit befasst, wie intelligente Agenten Aktionen in einer Umgebung ausführen sollten, um die kumulative Belohnung zu maximieren. Im Gegensatz zum überwachtes Lernen

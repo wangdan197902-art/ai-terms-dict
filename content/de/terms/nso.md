@@ -7,8 +7,6 @@ tags: ["acronym", "ethics", "surveillance"]
 difficulty: 2
 weight: 1
 slug: "nso"
-aliases:
-  - /de/terms/nso/
 date: "2026-07-18T11:25:44.483784Z"
 lastmod: "2026-07-18T11:44:44.970960Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Im KI-Kontext steht NSO oft für Neural Symbolic Optimization oder spezifische Organisationen wie die NSO Group, die in Überwachungstechnologien involviert ist."
 ---
-
 ## Definition
 
 Das Akronym NSO kann je nach Kontext mehrere Bedeutungen haben. In der technischen KI-Forschung kann es für Neural Symbolic Optimization stehen, das neuronale Netze mit symbolischer Logik kombiniert. Es ist jedoch m...

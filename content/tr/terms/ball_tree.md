@@ -1,23 +1,24 @@
 ---
-title: "Top Ağacı"
-term_id: "ball_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-structures", "algorithms", "machine-learning"]
+title: Top Ağacı
+term_id: ball_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Structures
+- algorithms
+- Machine Learning
 difficulty: 4
 weight: 1
-slug: "ball_tree"
-aliases:
-  - /tr/terms/ball_tree/
-date: "2026-07-18T15:43:09.718823Z"
-lastmod: "2026-07-18T16:38:07.277480Z"
+slug: ball_tree
+date: '2026-07-18T15:43:09.718823Z'
+lastmod: '2026-07-18T16:38:07.277480Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yüksek boyutlu veri kümelerinde en yakın komşu aramalarını optimize etmek için uzaydaki noktaları düzenleyen ikili bir ağaç veri yapısıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Yüksek boyutlu veri kümelerinde en yakın komşu aramalarını optimize etmek
+  için uzaydaki noktaları düzenleyen ikili bir ağaç veri yapısıdır.
 ---
-
 ## Definition
 
 Bir Top ağacı, veri noktalarını hiperdörtgenler yerine iç içe geçmiş hiperküreler (toplar) halinde böler. Bu yapı, komşular arasındaki mesafeleri hesaplayarak en yakın komşu sorguları sırasında verimli bir şekilde budama yapılmasını sağlar.

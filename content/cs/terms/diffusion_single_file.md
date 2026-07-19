@@ -1,23 +1,25 @@
 ---
-title: "Jednosouborový formát difuzních modelů"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Jednosouborový formát difuzních modelů
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /cs/terms/diffusion_single_file/
-date: "2026-07-18T15:54:48.492530Z"
-lastmod: "2026-07-18T17:15:09.123715Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:54:48.492530Z'
+lastmod: '2026-07-18T17:15:09.123715Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Formát distribuce difuzních modelů, kde jsou všechny váhy modelu, konfigurace a někdy i kód pro inferenci zabalené do jednoho souboru pro snadnou přenositelnost."
+source: agnes_llm
+status: published
+language: cs
+description: Formát distribuce difuzních modelů, kde jsou všechny váhy modelu, konfigurace
+  a někdy i kód pro inferenci zabalené do jednoho souboru pro snadnou přenositelnost.
 ---
-
 ## Definition
 
 Jednosouborový formát difuzních modelů označuje strategii balení strojových učebních modelů, zejména difuzních modelů, kdy je celý artefakt modelu – včetně binárních vah, hyperparametrů a architektury – zabalen do jednoho souboru.

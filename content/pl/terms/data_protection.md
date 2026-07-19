@@ -7,8 +7,6 @@ tags: ["privacy", "security", "compliance"]
 difficulty: 3
 weight: 1
 slug: "data_protection"
-aliases:
-  - /pl/terms/data_protection/
 date: "2026-07-18T15:34:47.637855Z"
 lastmod: "2026-07-18T17:15:08.830718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces zabezpieczania poufnych informacji przed nieautoryzowanym dostępem, uszkodzeniem lub kradzieżą przez cały ich cykl życia."
 ---
-
 ## Definition
 
 Ochrona danych obejmuje środki prawne, techniczne i organizacyjne mające na celu zabezpieczenie danych osobowych i własnościowych przed naruszeniami bezpieczeństwa i niewłaściwym wykorzystaniem. W kontekście sztucznej inteligencji obejmuje to implementację szyfrowania, kontrolę dostępu oraz anonimizację danych.

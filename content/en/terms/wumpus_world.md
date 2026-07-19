@@ -7,8 +7,6 @@ tags: ["AI Education", "Logic", "Search Algorithms"]
 difficulty: 2
 weight: 1
 slug: "wumpus_world"
-aliases:
-  - /en/terms/wumpus_world/
 date: "2026-07-18T10:20:18.822132Z"
 lastmod: "2026-07-18T11:44:44.733964Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A classic artificial intelligence environment used to demonstrate reasoning under uncertainty and partial observability."
 ---
-
 ## Definition
 
 The Wumpus World is a grid-based environment introduced in Russell and Norvig's AI textbook. An agent must navigate the grid to find gold while avoiding pits and a Wumpus monster. The agent perceives local cues like breezes near pits or a stench near the Wumpus, requiring logical inference to map safe paths. It serves as a foundational benchmark for understanding belief states, probabilistic reasoning, and search algorithms in partially observable, stochastic settings.

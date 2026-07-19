@@ -1,23 +1,24 @@
 ---
-title: "Apprendimento Contrastivo"
-term_id: "contrastive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["self_supervised", "representation_learning", "optimization"]
+title: Apprendimento Contrastivo
+term_id: contrastive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Self Supervised
+- Representation Learning
+- Optimization
 difficulty: 4
 weight: 1
-slug: "contrastive_learning"
-aliases:
-  - /it/terms/contrastive_learning/
-date: "2026-07-18T15:53:03.969802Z"
-lastmod: "2026-07-18T17:15:08.610374Z"
+slug: contrastive_learning
+date: '2026-07-18T15:53:03.969802Z'
+lastmod: '2026-07-18T17:15:08.610374Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tecnica di apprendimento auto-supervisionato che impara le rappresentazioni avvicinando le coppie positive e allontanando quelle negative."
+source: agnes_llm
+status: published
+language: it
+description: Una tecnica di apprendimento auto-supervisionato che impara le rappresentazioni
+  avvicinando le coppie positive e allontanando quelle negative.
 ---
-
 ## Definition
 
 L'apprendimento contrastivo è un metodo di apprendimento delle rappresentazioni che non richiede dati etichettati. Funziona creando viste augmentate dello stesso input (coppie positive) e confrontandole con diverse...

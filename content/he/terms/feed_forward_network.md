@@ -1,23 +1,24 @@
 ---
-title: "רשת קדימה"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: רשת קדימה
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /he/terms/feed_forward_network/
-date: "2026-07-18T15:57:27.420527Z"
-lastmod: "2026-07-18T17:15:09.540619Z"
+slug: feed_forward_network
+date: '2026-07-18T15:57:27.420527Z'
+lastmod: '2026-07-18T17:15:09.540619Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "סוג של רשת נוירונים מלאכותית שבה החיבורים בין הצמתים אינם יוצרים מעגלים, והמידע מועבר בכיוון אחד בלבד."
+source: agnes_llm
+status: published
+language: he
+description: סוג של רשת נוירונים מלאכותית שבה החיבורים בין הצמתים אינם יוצרים מעגלים,
+  והמידע מועבר בכיוון אחד בלבד.
 ---
-
 ## Definition
 
 רשתות קדימה (FFN), הידועות גם כמפרקים רב-שכבתיים (MLP), מעבדות נתונים ברצף דרך שכבות של נוירונים מהקלט לפלט ללא לולאות משוב. כל נוירון מקבל קלטים, מחשב סכום משוקלל שלהם, ומפעיל עליהם פונקציית אקטיבציה לפני העברת הפלט לשכבה הבאה. ארכיטקטורה זו מהווה את הבסיס הרב-תכליתי ביותר לרשתות נוירונים עמוקות.

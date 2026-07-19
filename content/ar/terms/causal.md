@@ -1,23 +1,24 @@
 ---
-title: "سببي"
-term_id: "causal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["inference", "statistics", "decision-making"]
+title: سببي
+term_id: causal
+category: basic_concepts
+subcategory: ''
+tags:
+- inference
+- statistics
+- Decision Making
 difficulty: 4
 weight: 1
-slug: "causal"
-aliases:
-  - /ar/terms/causal/
-date: "2026-07-18T15:24:06.454366Z"
-lastmod: "2026-07-18T17:15:08.435120Z"
+slug: causal
+date: '2026-07-18T15:24:06.454366Z'
+lastmod: '2026-07-18T17:15:08.435120Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يتضمن الاستدلال السببي تحديد علاقات السبب والنتيجة بين المتغيرات بدلاً من مجرد تحديد الارتباطات الإحصائية."
+source: agnes_llm
+status: published
+language: ar
+description: يتضمن الاستدلال السببي تحديد علاقات السبب والنتيجة بين المتغيرات بدلاً
+  من مجرد تحديد الارتباطات الإحصائية.
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي، يسعى النمذجة السببية إلى فهم كيفية تأثير التدخلات في متغير واحد على متغير آخر. وعلى عكس النماذج التنبؤية التي تعتمد على الأنماط المرصودة، يستخدم الذكاء الاصطناعي السببي المعادلات الهيكلية لتحليل العلاقات السببية بدقة.

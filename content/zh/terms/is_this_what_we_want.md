@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /zh/terms/is_this_what_we_want/
 date: "2026-07-18T11:22:43.864950Z"
 lastmod: "2026-07-18T11:44:45.519533Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种批判性的伦理框架，用于根据社会价值观、公平性和潜在有害后果来评估人工智能系统。"
 ---
-
 ## Definition
 
 这一短语代表了人工智能伦理和治理中的一个关键问题，促使利益相关者评估部署的人工智能技术是否符合人类价值观和公共利益。它涉及审查

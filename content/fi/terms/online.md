@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /fi/terms/online/
 date: "2026-07-18T15:29:19.481843Z"
 lastmod: "2026-07-18T17:15:09.356074Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Viittaa koneoppimismalleihin, jotka oppivat jatkuvasti uusista datavirroista reaaliajassa ilman uudelleenkouluttamista alusta alkaen."
 ---
-
 ## Definition
 
 Online-oppiminen on koneoppimisen paradigma, jossa mallia päivitetään inkrementaalisesti uusien datapisteiden saapuessa sen sijaan, että se koulutettaisiin kerralla staattisesta datapatterista. Tämä lähestymistapa on kriittinen...

@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /he/terms/mechanistic_interpretability/
 date: "2026-07-18T16:12:08.580062Z"
 lastmod: "2026-07-18T17:15:09.563566Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "גישה להבנת מודלי בינה מלאכותית באמצעות ניתוח רכיבים ומנגנונים פנימיים שלהם, במקום רק התנהגות הקלט-פלט."
 ---
-
 ## Definition
 
 אינטרפרטביליות מכניסטית מתמקדת בהנדסה לאחור של רשתות נוירונים כדי להבין כיצד הן מחשבות פונקציות ספציפיות ברמת הנוירונים הבודדים, המשקולות והמעגלים. במקום להתייחס למודל כקופסה שחורה, הגישה הזו מנסה לחשוף את הלוגיקה הפנימית והאלגוריתמית שמאחורי התוצאות.

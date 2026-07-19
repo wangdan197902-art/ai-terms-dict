@@ -1,23 +1,24 @@
 ---
-title: "الشبكة ذات التغذية الأمامية"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: الشبكة ذات التغذية الأمامية
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /ar/terms/feed_forward_network/
-date: "2026-07-18T15:57:51.470922Z"
-lastmod: "2026-07-18T17:15:08.504468Z"
+slug: feed_forward_network
+date: '2026-07-18T15:57:51.470922Z'
+lastmod: '2026-07-18T17:15:08.504468Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "فئة من الشبكات العصبية الاصطناعية حيث لا تشكل الاتصالات بين العقد دورات، مما ينشر المعلومات في اتجاه واحد."
+source: agnes_llm
+status: published
+language: ar
+description: فئة من الشبكات العصبية الاصطناعية حيث لا تشكل الاتصالات بين العقد دورات،
+  مما ينشر المعلومات في اتجاه واحد.
 ---
-
 ## Definition
 
 تعالج شبكات التغذية الأمامية (FFN)، المعروفة أيضاً باسم آلات متعدد الطبقات (MLPs)، البيانات تسلسلياً عبر طبقات من الخلايا العصبية من الإدخال إلى الإخراج دون حلقات تغذية راجعة. تتلقى كل خلية مدخلات، تطبق أوزاناً ودالة تنشيط، وتنقل النتيجة إلى الطبقة التالية، مما يشكل أساس العديد من المعماريات الحديثة.

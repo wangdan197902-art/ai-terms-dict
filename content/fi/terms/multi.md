@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /fi/terms/multi/
 date: "2026-07-18T15:29:05.638519Z"
 lastmod: "2026-07-18T17:15:09.355258Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Etuliite, joka osoittaa useiden instanssien, päiden tai modaalisuuksien läsnäolon järjestelmässä tai mallissa."
 ---
-
 ## Definition
 
 Etuliite 'moni-' käytetään usein tekoälyssä kuvaamaan arkkitehtuureita tai prosesseja, joissa on useita rinnakkaisia komponentteja. Esimerkkejä ovat Moni-Head Attention, joka mahdollistaa mallien keskittyvän eri esitystilan alueille.

@@ -1,23 +1,24 @@
 ---
-title: "Evolvabilitate"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: Evolvabilitate
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /ro/terms/evolvability/
-date: "2026-07-18T15:57:38.200110Z"
-lastmod: "2026-07-18T17:15:09.653815Z"
+slug: evolvability
+date: '2026-07-18T15:57:38.200110Z'
+lastmod: '2026-07-18T17:15:09.653815Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Capacitatea unui genotip sau sistem de a genera variații fenotipice ereditare care pot fi selectate pentru adaptare."
+source: agnes_llm
+status: published
+language: ro
+description: Capacitatea unui genotip sau sistem de a genera variații fenotipice ereditare
+  care pot fi selectate pentru adaptare.
 ---
-
 ## Definition
 
 În contexte computaționale, evolvabilitatea se referă la cât de ușor poate îmbunătăți un algoritm sau o arhitectură de rețea neuronală aptitudinea (fitness) de-a lungul generațiilor sau pașilor de antrenament. O evolvabilitate ridicată implică faptul că mici modificări pot duce la îmbunătățiri semnificative.

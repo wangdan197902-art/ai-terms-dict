@@ -1,23 +1,23 @@
 ---
-title: "Stable Diffusion"
-term_id: "stable_diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative", "image_synthesis", "diffusion"]
+title: Stable Diffusion
+term_id: stable_diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- generative
+- Image Synthesis
+- diffusion
 difficulty: 3
 weight: 1
-slug: "stable_diffusion"
-aliases:
-  - /ja/terms/stable_diffusion/
-date: "2026-07-18T11:33:20.376351Z"
-lastmod: "2026-07-18T11:44:45.147281Z"
+slug: stable_diffusion
+date: '2026-07-18T11:33:20.376351Z'
+lastmod: '2026-07-18T11:44:45.147281Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "テキストの説明から高品質な画像を効率的に生成できる潜在拡散モデル。"
+source: agnes_llm
+status: published
+language: ja
+description: テキストの説明から高品質な画像を効率的に生成できる潜在拡散モデル。
 ---
-
 ## Definition
 
 Stable Diffusionは、潜在拡散プロセスを用いてテキスト入力を条件として詳細な画像を生成するディープラーニングモデルです。ピクセル空間での拡散モデルとは異なり、圧縮された潜在空間（latent space）で操作を行うため、計算コストが大幅に削減され、高速かつ高品質な画像生成が可能になります。これは変分オートエンコーダー（VAE）と拡散モデルを組み合わせたアーキテクチャを採用しており、オープンソースコミュニティによって広く利用されています。

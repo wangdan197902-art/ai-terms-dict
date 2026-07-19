@@ -7,8 +7,6 @@ tags: ["metrics", "testing", "quality"]
 difficulty: 2
 weight: 1
 slug: "evaluation"
-aliases:
-  - /id/terms/evaluation/
 date: "2026-07-18T15:25:20.411585Z"
 lastmod: "2026-07-18T16:38:07.392173Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Evaluasi adalah proses menilai kinerja, akurasi, dan ketahanan model AI terhadap metrik dan dataset yang telah ditentukan sebelumnya."
 ---
-
 ## Definition
 
 Evaluasi melibatkan pengukuran sistematis terhadap seberapa baik model AI melakukan tugas tertentu menggunakan metrik kuantitatif (misalnya, akurasi, skor F1, BLEU) dan penilaian kualitatif. Hal ini termasuk validasi silang dan pengujian pada set data yang belum pernah dilihat.

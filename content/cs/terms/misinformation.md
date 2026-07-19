@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /cs/terms/misinformation/
 date: "2026-07-18T16:09:11.959040Z"
 lastmod: "2026-07-18T17:15:09.153591Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Nepravdivé nebo nepřesné informace šířené bez ohledu na úmysl klamat."
 ---
-
 ## Definition
 
 Dezinformace označuje nepravdivé nebo zavádějící informace sdílené bez vědomého úmyslu způsobit škodu nebo klamat. Liší se od disinformací, které jsou záměrně fabricovány. V kontextu AI...

@@ -7,8 +7,6 @@ tags: ["Logic", "Mathematics", "Theory"]
 difficulty: 5
 weight: 1
 slug: "gabbays_separation_theorem"
-aliases:
-  - /vi/terms/gabbays_separation_theorem/
 date: "2026-07-18T15:54:25.718961Z"
 lastmod: "2026-07-18T16:38:07.759735Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một kết quả trong logic phi cổ điển khẳng định rằng một số logic thời gian hoặc modal có thể được tách thành các thành phần riêng biệt dựa trên các đặc tính cấu trúc của chúng."
 ---
-
 ## Definition
 
 Định lý tách Gabbay là một khái niệm cơ bản trong logic toán học, đặc biệt là trong nghiên cứu về logic thời gian và logic modal. Định lý này cung cấp các điều kiện mà dưới đó một hệ thống logic có thể được phân rã hoặc tách biệt thành các phần độc lập hơn, giúp đơn giản hóa việc phân tích tính đúng đắn và khả năng quyết định.

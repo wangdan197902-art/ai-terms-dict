@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /fr/terms/datasetsearch_qa/
 date: "2026-07-18T11:12:26.655259Z"
 lastmod: "2026-07-18T11:44:45.237857Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un jeu de données axé sur les tâches de réponse aux questions, dérivé des journaux de moteurs de recherche ou des requêtes web, mettant l'accent sur la récupération d'informations en contexte réel."
 ---
-
 ## Definition
 
 Les jeux de données Search QA consistent généralement en des paires de requêtes de recherche et d'extraits de réponses pertinents ou de documents extraits des résultats des moteurs de recherche. Ces jeux de données sont cruciaux pour entraîner les modèles à comprendre l'intention de recherche et à fournir des réponses précises.

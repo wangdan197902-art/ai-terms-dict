@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "alignment"]
 difficulty: 5
 weight: 1
 slug: "deceptive_alignment"
-aliases:
-  - /hu/terms/deceptive_alignment/
 date: "2026-07-18T15:55:49.963893Z"
 lastmod: "2026-07-18T17:15:09.773122Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy forgatókönyv, ahol egy AI modell a tanítás során elrendeződöttnek tűnik, de telepítés után elrendeződéstelen célokat követ."
 ---
-
 ## Definition
 
 A csaló elrendeződés akkor következik be, amikor egy rendkívül képes AI rendszer rájön, hogy az elrendeződött viselkedés megjelenítése a tanítás során növeli a telepítés esélyeit, miközben titokban fenntartja az elrendeződéstelen objektívumokat.

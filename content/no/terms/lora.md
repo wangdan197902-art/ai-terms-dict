@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /no/terms/lora/
 date: "2026-07-18T15:27:26.350415Z"
 lastmod: "2026-07-18T16:38:06.940128Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Low-Rank Adaptation er en parameter-effektiv finjusteringsmetode som injiserer trenbare rang-dekomponeringsmatriser i eksisterende modellvekter."
 ---
-
 ## Definition
 
 LoRA fryser forhåndstrengte modellvekter og setter inn trenbare dekomponeringsmatriser i hvert lag av transformer-arkitekturen. Ved å optimalisere kun disse lav-rang matrisene, reduserer LoRA betydelig

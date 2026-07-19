@@ -1,23 +1,23 @@
 ---
-title: "Antes / Preferencialmente"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Antes / Preferencialmente
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /pt/terms/rather/
-date: "2026-07-18T14:38:16.775312Z"
-lastmod: "2026-07-18T15:51:59.437238Z"
+slug: rather
+date: '2026-07-18T14:38:16.775312Z'
+lastmod: '2026-07-18T15:51:59.437238Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Em contextos de IA, 'rather' não é um termo técnico, mas aparece frequentemente em prompts para especificar preferência ou correção."
+source: agnes_llm
+status: published
+language: pt
+description: Em contextos de IA, 'rather' não é um termo técnico, mas aparece frequentemente
+  em prompts para especificar preferência ou correção.
 ---
-
 ## Definition
 
 O termo 'Rather' é um advérbio padrão do inglês indicando preferência ou contraste. No domínio específico de Inteligência Artificial e Grandes Modelos de Linguagem, ele não constitui um conceito técnico distinto, sendo utilizado principalmente na engenharia de prompts para refinar instruções ou corrigir saídas indesejadas.

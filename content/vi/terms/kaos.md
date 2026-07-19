@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /vi/terms/kaos/
 date: "2026-07-18T15:58:51.062747Z"
 lastmod: "2026-07-18T16:38:07.772067Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khung tác nhân thông minh được thiết kế để quản lý các môi trường doanh nghiệp phân tán phức tạp thông qua tự động hóa dựa trên chính sách."
 ---
-
 ## Definition
 
 KAoS là một khung tác nhân thông minh được phát triển để xử lý sự phức tạp của các hệ thống doanh nghiệp quy mô lớn và phân tán. Nó sử dụng cách tiếp cận dựa trên chính sách, trong đó các mục tiêu quản lý cấp cao được chuyển đổi thành các quy tắc hành động cụ thể cho các tác nhân.

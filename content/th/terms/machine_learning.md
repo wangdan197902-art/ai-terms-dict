@@ -1,23 +1,22 @@
 ---
-title: "การเรียนรู้ของเครื่อง (Machine Learning)"
-term_id: "machine_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_concept", "AI"]
+title: การเรียนรู้ของเครื่อง (Machine Learning)
+term_id: machine_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
 difficulty: 2
 weight: 1
-slug: "machine_learning"
-aliases:
-  - /th/terms/machine_learning/
-date: "2026-07-18T15:26:38.883309Z"
-lastmod: "2026-07-18T16:38:07.542354Z"
+slug: machine_learning
+date: '2026-07-18T15:26:38.883309Z'
+lastmod: '2026-07-18T16:38:07.542354Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ส่วนหนึ่งของ AI ที่มุ่งเน้นการสร้างระบบที่สามารถเรียนรู้จากข้อมูลเพื่อปรับปรุงประสิทธิภาพโดยไม่ต้องเขียนโปรแกรมอย่างชัดเจน"
+source: agnes_llm
+status: published
+language: th
+description: ส่วนหนึ่งของ AI ที่มุ่งเน้นการสร้างระบบที่สามารถเรียนรู้จากข้อมูลเพื่อปรับปรุงประสิทธิภาพโดยไม่ต้องเขียนโปรแกรมอย่างชัดเจน
 ---
-
 ## Definition
 
 การเรียนรู้ของเครื่อง (ML) ช่วยให้คอมพิวเตอร์เรียนรู้รูปแบบจากข้อมูลในอดีตและทำการตัดสินใจหรือทำนายข้อมูลใหม่ที่ไม่เคยเห็นมาก่อน ML ครอบคลุมเทคนิคต่างๆ รวมถึงการเรียนรู้ภายใต้การดูแล (supervised learning) และการเรียนรู้โดยไม่มีการดูแล (unsupervised learning)

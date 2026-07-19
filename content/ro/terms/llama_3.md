@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "2024 Release"]
 difficulty: 2
 weight: 1
 slug: "llama_3"
-aliases:
-  - /ro/terms/llama_3/
 date: "2026-07-18T16:09:20.132480Z"
 lastmod: "2026-07-18T17:15:09.676004Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Llama 3 este lansarea din 2024 a Meta pentru modele avansate de limbaj mare, oferind capacități îmbunătățite semnificativ de raționament, programare și multilingvism, în dimensiuni de 8 miliarde și 70"
 ---
-
 ## Definition
 
 Introdus în aprilie 2024, Llama 3 construiește pe succesul Llama 2 cu îmbunătățiri substanțiale în performanță și capacitate. Familia de modele include versiuni de 8 miliarde și 70 miliarde de parametri,

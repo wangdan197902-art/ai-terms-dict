@@ -1,23 +1,25 @@
 ---
-title: "Antrenament comun"
-term_id: "co_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi_supervised", "algorithm", "data_efficiency"]
+title: Antrenament comun
+term_id: co_training
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- algorithm
+- Data Efficiency
 difficulty: 4
 weight: 1
-slug: "co_training"
-aliases:
-  - /ro/terms/co_training/
-date: "2026-07-18T15:49:19.178962Z"
-lastmod: "2026-07-18T17:15:09.636618Z"
+slug: co_training
+date: '2026-07-18T15:49:19.178962Z'
+lastmod: '2026-07-18T17:15:09.636618Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Antrenamentul comun este un algoritm de învățare semi-supervizată în care două perspective ale datelor sunt utilizate pentru a antrena clasificatori separați care etichetează iterativ datele netratate"
+source: agnes_llm
+status: published
+language: ro
+description: Antrenamentul comun este un algoritm de învățare semi-supervizată în
+  care două perspective ale datelor sunt utilizate pentru a antrena clasificatori
+  separați care etichetează iterativ datele netratate
 ---
-
 ## Definition
 
 Această metodă exploatează multiple seturi distincte de caracteristici (perspective) ale aceluiași punct de date. Inițial, doi clasificatori sunt antrenați pe seturi mici de date etichetate din fiecare perspectivă. Ei prezic apoi etichete pentru datele netratate

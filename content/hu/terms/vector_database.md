@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /hu/terms/vector_database/
 date: "2026-07-18T15:33:52.822558Z"
 lastmod: "2026-07-18T17:15:09.733089Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy specializált adatbázis, amelyet nagy dimenziós vektorok tárolására, indexelésére és lekérdezésére terveztek, amelyek adatjellemzőket képviselnek."
 ---
-
 ## Definition
 
 A vektoradatbázisok optimalizálják a nem strukturált adatok tárolását és lekérdezését azok numerikus beágyazásokká (embeddings) alakítása révén. Az Approximate Nearest Neighbor (ANN) nevű algoritmusokat használják a hasonló adatok hatékony megtalálására.

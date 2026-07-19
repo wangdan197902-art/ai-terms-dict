@@ -1,23 +1,24 @@
 ---
-title: "Traitement en flux continu"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Traitement en flux continu
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /fr/terms/streaming/
-date: "2026-07-18T11:39:09.758834Z"
-lastmod: "2026-07-18T11:44:45.335566Z"
+slug: streaming
+date: '2026-07-18T11:39:09.758834Z'
+lastmod: '2026-07-18T11:44:45.335566Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un paradigme de traitement des données où l'information est traitée continuellement par petits fragments à mesure qu'elle arrive, plutôt que par grands lots statiques."
+source: agnes_llm
+status: published
+language: fr
+description: Un paradigme de traitement des données où l'information est traitée continuellement
+  par petits fragments à mesure qu'elle arrive, plutôt que par grands lots statiques.
 ---
-
 ## Definition
 
 Le traitement en flux continu fait référence à l'ingestion et au traitement continus des données en temps réel ou quasi temps réel à mesure qu'elles sont générées. Contrairement au traitement par lots qui gère des ensembles de données fixes, les systèmes de flux gèrent des

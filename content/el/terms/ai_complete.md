@@ -1,23 +1,24 @@
 ---
-title: "Πλήρης ΤΝ"
-term_id: "ai_complete"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "agi", "complexity"]
+title: Πλήρης ΤΝ
+term_id: ai_complete
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- AGI
+- complexity
 difficulty: 4
 weight: 1
-slug: "ai_complete"
-aliases:
-  - /el/terms/ai_complete/
-date: "2026-07-18T15:47:13.160990Z"
-lastmod: "2026-07-18T17:15:09.875404Z"
+slug: ai_complete
+date: '2026-07-18T15:47:13.160990Z'
+lastmod: '2026-07-18T17:15:09.875404Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα πρόβλημα τόσο πολύπλοκο που η λύση του απαιτεί ανθρώπινη γενική νοημοσύνη, καθιστώντας το ισοδύναμο με την επίτευξη Γενικής Τεχνητής Νοημοσύνης."
+source: agnes_llm
+status: published
+language: el
+description: Ένα πρόβλημα τόσο πολύπλοκο που η λύση του απαιτεί ανθρώπινη γενική νοημοσύνη,
+  καθιστώντας το ισοδύναμο με την επίτευξη Γενικής Τεχνητής Νοημοσύνης.
 ---
-
 ## Definition
 
 Τα προβλήματα Πλήρους ΤΝ είναι εργασίες που, αν λυθούν, θα συνεπαγόταν την ύπαρξη Γενικής Τεχνητής Νοημοσύνης (AGI). Αυτά τα προβλήματα απαιτούν βαθ Verständnis, λογική σκέψη και προσαρμοστικότητα παρόμοια με την ανθρώπινη.

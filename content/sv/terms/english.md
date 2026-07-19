@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /sv/terms/english/
 date: "2026-07-18T15:25:34.556277Z"
 lastmod: "2026-07-18T17:15:08.940886Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Engelska är ett naturligt språk som fungerar som en dominerande benchmark-dataset och målutdata för många modeller inom naturlig språkbehandling (NLP)."
 ---
-
 ## Definition
 
 Även om det primärt är ett mänskligt språk, representerar 'engelska' inom AI-sammanhang den mest förekommande lingvistiska domänen för NLP-forskning på grund av mängden digital textdata som finns tillgänglig. De flesta grundläggande modeller (såsom BERT och GPT-serien) har först tränats på engelska korpusar, vilket gör engelska till standarden för prestandajämförelser, även om forskningen nu riktas mot multilingvism.

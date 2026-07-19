@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /ar/terms/robot/
 date: "2026-07-18T15:30:28.667596Z"
 lastmod: "2026-07-18T17:15:08.447274Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "آلة قابلة للبرمجة وقادرة على تنفيذ إجراءات معقدة تلقائياً."
 ---
-
 ## Definition
 
 الروبوت هو جهاز ميكانيكي مستقل أو شبه مستقل مصمم لأداء مهام إما بشكل مستقل أو تحت التحكم عن بعد. يتكون عادةً من أجهزة استشعار للإدراك البيئي، ومشغلات (actuators) للتنفيذ الحركي.

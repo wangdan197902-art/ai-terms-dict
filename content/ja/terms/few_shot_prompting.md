@@ -1,23 +1,23 @@
 ---
-title: "フューショットプロンプティング"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: フューショットプロンプティング
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /ja/terms/few_shot_prompting/
-date: "2026-07-18T10:59:07.505610Z"
-lastmod: "2026-07-18T11:44:45.047837Z"
+slug: few_shot_prompting
+date: '2026-07-18T10:59:07.505610Z'
+lastmod: '2026-07-18T11:44:45.047837Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "フューショットプロンプティングは、LLM（大規模言語モデル）の動作を誘導するため、プロンプト内に少数の入力-出力例を提供する手法です。"
+source: agnes_llm
+status: published
+language: ja
+description: フューショットプロンプティングは、LLM（大規模言語モデル）の動作を誘導するため、プロンプト内に少数の入力-出力例を提供する手法です。
 ---
-
 ## Definition
 
 この手法は、プロンプト内に直接的な例示的なサンプルを提供することで、大規模言語モデルのコンテキスト内学習（インコンテキストラーニング）能力を活用します。モデルの重みを更新するファインチューニングとは異なり、プロンプト工程のみでモデルの出力形式や振る舞いを制御できるため、迅速な適応が可能です。

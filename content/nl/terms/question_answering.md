@@ -1,23 +1,24 @@
 ---
-title: "Vraagbeantwoording"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Vraagbeantwoording
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /nl/terms/question_answering/
-date: "2026-07-18T15:38:16.596988Z"
-lastmod: "2026-07-18T17:15:08.707911Z"
+slug: question_answering
+date: '2026-07-18T15:38:16.596988Z'
+lastmod: '2026-07-18T17:15:08.707911Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een NLP-taak waarbij een systeem automatisch nauwkeurige antwoorden geeft op vragen die in natuurlijke taal worden gesteld."
+source: agnes_llm
+status: published
+language: nl
+description: Een NLP-taak waarbij een systeem automatisch nauwkeurige antwoorden geeft
+  op vragen die in natuurlijke taal worden gesteld.
 ---
-
 ## Definition
 
 Vraagbeantwoording (QA) houdt in het ophalen of genereren van nauwkeurige reacties op gebruikersvragen vanuit een gegeven context of kennisbank. Het varieert van closed-domain QA, dat afhankelijk is van specifieke documenten...

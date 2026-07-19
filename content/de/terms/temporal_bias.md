@@ -1,23 +1,24 @@
 ---
-title: "Zeitliche Verzerrung"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: Zeitliche Verzerrung
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /de/terms/temporal_bias/
-date: "2026-07-18T11:36:08.024208Z"
-lastmod: "2026-07-18T11:44:44.991542Z"
+slug: temporal_bias
+date: '2026-07-18T11:36:08.024208Z'
+lastmod: '2026-07-18T11:44:44.991542Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein systematischer Fehler, bei dem Modelle neuere Daten gegenüber historischen Kontexten bevorzugen, was zu verzerrten Vorhersagen führt."
+source: agnes_llm
+status: published
+language: de
+description: Ein systematischer Fehler, bei dem Modelle neuere Daten gegenüber historischen
+  Kontexten bevorzugen, was zu verzerrten Vorhersagen führt.
 ---
-
 ## Definition
 
 Eine zeitliche Verzerrung tritt auf, wenn Machine-Learning-Modelle jüngere Beobachtungen unverhältnismäßig stark gewichten im Vergleich zu älteren, oft aufgrund nicht-stationärer Datenverteilungen oder spezifischer Trainingsprotokolle.

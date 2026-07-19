@@ -7,8 +7,6 @@ tags: ["person", "research"]
 difficulty: 2
 weight: 1
 slug: "alexander_y_tetelbaum"
-aliases:
-  - /ja/terms/alexander_y_tetelbaum/
 date: "2026-07-18T11:03:26.813729Z"
 lastmod: "2026-07-18T11:44:45.064582Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "アレクサンダー・Y・テテルバウムは、人工知能および機械学習の分野において認められた研究者かつ貢献者です。"
 ---
-
 ## Definition
 
 アレクサンダー・Y・テテルバウムは、学術界および技術コミュニティにおいて、特にアルゴリズムの効率性やニューラルネットワークに関連する領域でのAI研究への貢献が認められている人物です。

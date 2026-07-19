@@ -1,23 +1,24 @@
 ---
-title: "Intelligent styrning"
-term_id: "intelligent_control"
-category: "basic_concepts"
-subcategory: ""
-tags: ["control_theory", "ai", "engineering"]
+title: Intelligent styrning
+term_id: intelligent_control
+category: basic_concepts
+subcategory: ''
+tags:
+- Control Theory
+- AI
+- engineering
 difficulty: 4
 weight: 1
-slug: "intelligent_control"
-aliases:
-  - /sv/terms/intelligent_control/
-date: "2026-07-18T16:04:45.761316Z"
-lastmod: "2026-07-18T17:15:09.016128Z"
+slug: intelligent_control
+date: '2026-07-18T16:04:45.761316Z'
+lastmod: '2026-07-18T17:15:09.016128Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Styrningssystem som använder AI-tekniker för att hantera komplexa, icke-linjära eller osäkra dynamiska processer."
+source: agnes_llm
+status: published
+language: sv
+description: Styrningssystem som använder AI-tekniker för att hantera komplexa, icke-linjära
+  eller osäkra dynamiska processer.
 ---
-
 ## Definition
 
 Intelligent styrning använder metoder för artificiell intelligens såsom fuzzy-logik, neurala nätverk och genetiska algoritmer för att reglera system där traditionell matematisk modellering är otillräcklig eller

@@ -7,8 +7,6 @@ tags: ["privacy", "legal"]
 difficulty: 3
 weight: 1
 slug: "right_to_be_forgotten"
-aliases:
-  - /de/terms/right_to_be_forgotten/
 date: "2026-07-18T11:38:54.182413Z"
 lastmod: "2026-07-18T11:44:45.001217Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein rechtliches Konzept, das Einzelpersonen ermöglicht, die Löschung ihrer von Organisationen gespeicherten personenbezogenen Daten zu verlangen."
 ---
-
 ## Definition
 
 Das Recht auf Vergessenwerden ermöglicht es Nutzern, die Entfernung ihrer persönlichen Informationen aus Datenbanken und KI-Trainingssets zu fordern. Die Umsetzung im maschinellen Lernen ist herausfordernd, da Modelle möglicherweise

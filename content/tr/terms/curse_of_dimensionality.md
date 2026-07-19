@@ -1,23 +1,24 @@
 ---
-title: "Boyutlanın Laneti"
-term_id: "curse_of_dimensionality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "data-science", "mathematics"]
+title: Boyutlanın Laneti
+term_id: curse_of_dimensionality
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Data Science
+- mathematics
 difficulty: 3
 weight: 1
-slug: "curse_of_dimensionality"
-aliases:
-  - /tr/terms/curse_of_dimensionality/
-date: "2026-07-18T15:46:47.292495Z"
-lastmod: "2026-07-18T16:38:07.288329Z"
+slug: curse_of_dimensionality
+date: '2026-07-18T15:46:47.292495Z'
+lastmod: '2026-07-18T16:38:07.288329Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Uzayın hacminin boyutlarla üssel olarak arttığı, verinin seyrelmesine ve mesafe ölçülerinin etkinliğini yitirdiği bir fenomendir."
+source: agnes_llm
+status: published
+language: tr
+description: Uzayın hacminin boyutlarla üssel olarak arttığı, verinin seyrelmesine
+  ve mesafe ölçülerinin etkinliğini yitirdiği bir fenomendir.
 ---
-
 ## Definition
 
 Boyutlanın laneti, yüksek boyutlu uzaylarda veri analizi sırasında ortaya çıkan ve düşük boyutlu ortamlarda bulunmayan çeşitli fenomenleri ifade eder. Özellik sayısı arttıkça, veri noktaları arasındaki mesafeler anlamsız hale gelir ve yeterli veri yoğunluğunu korumak için gereken veri miktarı katlanarak artar.

@@ -1,23 +1,25 @@
 ---
-title: "Προσαρμογέας"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: Προσαρμογέας
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /el/terms/adapter/
-date: "2026-07-18T15:37:49.844102Z"
-lastmod: "2026-07-18T17:15:09.863609Z"
+slug: adapter
+date: '2026-07-18T15:37:49.844102Z'
+lastmod: '2026-07-18T17:15:09.863609Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα ελαφρύ μοντέλο που παρεμβάλλεται σε προεκπαιδευμένα μοντέλα για να επιτρέψει την αποδοτική λεπτομερή προσαρμογή για συγκεκριμένες εργασίες."
+source: agnes_llm
+status: published
+language: el
+description: Ένα ελαφρύ μοντέλο που παρεμβάλλεται σε προεκπαιδευμένα μοντέλα για να
+  επιτρέψει την αποδοτική λεπτομερή προσαρμογή για συγκεκριμένες εργασίες.
 ---
-
 ## Definition
 
 Οι προσαρμογείς είναι μια τεχνική λεπτομερούς προσαρμογής με αποδοτικότητα παραμέτρων, που χρησιμοποιείται κυρίως σε μεγάλα γλωσσικά μοντέλα και μετασχηματιστές. Αντί να ενημερώνονται όλα τα βάρη του μοντέλου, κάτι που είναι υπολογιστικά απαιτητικό, οι προσαρμογείς εισάγουν μόνο έναν μικρό αριθμό νέων παραμέτρων.

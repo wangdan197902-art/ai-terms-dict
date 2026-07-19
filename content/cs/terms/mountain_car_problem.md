@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /cs/terms/mountain_car_problem/
 date: "2026-07-18T16:09:45.546965Z"
 lastmod: "2026-07-18T17:15:09.155245Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Klasický úkol posilovaného učení, kde musí agent řídit auto nahoru do strmého kopce pouze pomocí ovládání zrychlení."
 ---
-
 ## Definition
 
 Problém horského auta je standardním benchmarkem ve výzkumu posilovaného učení. Cílem je ovládat auto s nedostatečným výkonem tak, aby dosáhlo vrcholu strmého kopce. Protože auto nemůže stoupnout přímo, musí agent naučit strategii „tam a zpět“ pro získání dostatečné hybnosti.

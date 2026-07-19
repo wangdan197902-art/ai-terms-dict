@@ -1,23 +1,25 @@
 ---
-title: "Μηχανική Μάθηση Ευαισθησία στο Κόστος"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Μηχανική Μάθηση Ευαισθησία στο Κόστος
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /el/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:57:15.449501Z"
-lastmod: "2026-07-18T17:15:09.893102Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:57:15.449501Z'
+lastmod: '2026-07-18T17:15:09.893102Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα παράδειγμα μηχανικής μάθησης που ενσωματώνει το κόστος των λανθασμένων ταξινομήσεων στη διαδικασία εκπαίδευσης, βελτιστοποιώντας για οικονομικό αντίκτυπο αντί μόνο για ακρίβεια."
+source: agnes_llm
+status: published
+language: el
+description: Ένα παράδειγμα μηχανικής μάθησης που ενσωματώνει το κόστος των λανθασμένων
+  ταξινομήσεων στη διαδικασία εκπαίδευσης, βελτιστοποιώντας για οικονομικό αντίκτυπο
+  αντί μόνο για ακρίβεια.
 ---
-
 ## Definition
 
 Η μηχανική μάθηση ευαισθησία στο κόστος επεκτείνει την παραδοσιακή εποπτευόμενη μάθηση αναθέτοντας διαφορετικές ποινές σε διαφορετικούς τύπους σφαλμάτων. Σε πραγματικά σενάρια, τα ψευδώς θετικά και τα ψευδώς αρνητικά αποτελέσματα συχνά έχουν διαφορετικό κόστος.

@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /da/terms/ai_browser/
 date: "2026-07-18T15:38:56.535917Z"
 lastmod: "2026-07-18T17:15:09.253528Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En webbrowser integreret med AI-funktioner til at assistere med søgning, sammenfatning og indholdsanalyse."
 ---
-
 ## Definition
 
 En AI-browser er en webbrowsing-applikation, der inkorporerer kunstige intelligens-funktioner direkte i brugergrænsefladen. Disse funktioner inkluderer typisk naturlig sprog-søgning, automatisk indholdssammenfatning og kontekstuel hjælp.

@@ -7,8 +7,6 @@ tags: ["framework", "distributed", "spark"]
 difficulty: 4
 weight: 1
 slug: "muse_spark"
-aliases:
-  - /ja/terms/muse_spark/
 date: "2026-07-18T11:25:21.019866Z"
 lastmod: "2026-07-18T11:44:45.125693Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "大規模クラスター全体でスケーラブルなモデル学習を可能にする、Apache Spark上に構築された分散型ディープラーニングフレームワーク。"
 ---
-
 ## Definition
 
 Muse Sparkは、Apache Spark上で効率的に実行するように設計されたオープンソースのディープラーニングフレームワークです。分散クラスター全体にわたって複雑なニューラルネットワークの学習を行うことを可能にし、

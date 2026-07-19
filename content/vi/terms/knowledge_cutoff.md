@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /vi/terms/knowledge_cutoff/
 date: "2026-07-18T15:58:59.615808Z"
 lastmod: "2026-07-18T16:38:07.772923Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Knowledge Cutoff (Ngưỡng tri thức) là ngày cụ thể sau đó mô hình ngôn ngữ không còn được huấn luyện, do đó thiếu thông tin về các sự kiện xảy ra sau thời điểm đó."
 ---
-
 ## Definition
 
 Ngày Knowledge Cutoff xác định ranh giới thời gian của dữ liệu huấn luyện mô hình ngôn ngữ. Bất kỳ thông tin, sự kiện hoặc phát triển nào xảy ra sau ngày này thường nằm ngoài phạm vi hiểu biết của mô hình trừ khi

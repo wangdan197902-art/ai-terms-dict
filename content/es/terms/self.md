@@ -7,8 +7,6 @@ tags: ["agents", "theory"]
 difficulty: 3
 weight: 1
 slug: "self"
-aliases:
-  - /es/terms/self/
 date: "2026-07-18T10:26:33.808364Z"
 lastmod: "2026-07-18T11:44:44.751390Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "En IA, 'auto' se refiere al concepto de identidad de un agente o su capacidad para el procesamiento autorreferencial y la introspección."
 ---
-
 ## Definition
 
 Aunque la IA actual carece de conciencia, el término 'auto' a menudo describe capacidades metacognitivas donde un modelo analiza sus propias salidas, niveles de confianza o estados internos. Aparece en contextos como la autorregulación y la gestión de memoria persistente.

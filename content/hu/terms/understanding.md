@@ -7,8 +7,6 @@ tags: ["theory", "capabilities", "interpretability"]
 difficulty: 3
 weight: 1
 slug: "understanding"
-aliases:
-  - /hu/terms/understanding/
 date: "2026-07-18T15:33:37.364886Z"
 lastmod: "2026-07-18T17:15:09.732851Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AI-ban a modell azon képessége, hogy megértse a bemeneti adatok szemantikai jelentését, kontextusát és szándékát, nem csupán mintaillesztést végez."
 ---
-
 ## Definition
 
 Az AI megértése túlmutat a statisztikai korreláción, és értelmezi az adatok rejtett jelentését. Nyelvmodellek esetén ez magában foglalja a szintaxis, szemantika és pragmatika megértését a koherens és logikus kimenetek generálásához.

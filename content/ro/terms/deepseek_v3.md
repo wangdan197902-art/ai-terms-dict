@@ -7,8 +7,6 @@ tags: ["moE", "efficiency", "reasoning"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v3"
-aliases:
-  - /ro/terms/deepseek_v3/
 date: "2026-07-18T15:53:59.502878Z"
 lastmod: "2026-07-18T17:15:09.646943Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "DeepSeek V3 este un model lingvistic de tip Amestec de Experți (MoE) extrem de eficient, care atinge performanțe de top cu costuri de antrenament semnificativ reduse."
 ---
-
 ## Definition
 
 DeepSeek V3 este o iteratie avansată în familia de modele DeepSeek, caracterizată prin activarea densă doar a unui subset mic de parametri în timpul inferenței, prin intermediul rutării Amestec de Experți. Această arh

@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /ja/terms/inductive_programming/
 date: "2026-07-18T11:19:27.568049Z"
 lastmod: "2026-07-18T11:44:45.109348Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "入出力例からコンピュータプログラムを自動的に生成するプログラム合成の分野。"
 ---
-
 ## Definition
 
 帰納的プログラミング（プログラム合成とも呼ばれます）は、明示的な指示ではなく、入出力ペアとして提供される仕様に基づいてソフトウェアコードを作成することを伴います。システムは...

@@ -1,23 +1,23 @@
 ---
-title: "Entwicklungsrobotik"
-term_id: "developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "cognitive_science"]
+title: Entwicklungsrobotik
+term_id: developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Cognitive Science
 difficulty: 5
 weight: 1
-slug: "developmental_robotics"
-aliases:
-  - /de/terms/developmental_robotics/
-date: "2026-07-18T11:11:39.366943Z"
-lastmod: "2026-07-18T11:44:44.931739Z"
+slug: developmental_robotics
+date: '2026-07-18T11:11:39.366943Z'
+lastmod: '2026-07-18T11:44:44.931739Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein interdisziplinäres Feld, das untersucht, wie Roboter komplexe Fähigkeiten durch Interaktion mit ihrer Umgebung und Bezugspersonen erwerben können."
+source: agnes_llm
+status: published
+language: de
+description: Ein interdisziplinäres Feld, das untersucht, wie Roboter komplexe Fähigkeiten
+  durch Interaktion mit ihrer Umgebung und Bezugspersonen erwerben können.
 ---
-
 ## Definition
 
 Die Entwicklungsrobotik lässt sich von der menschlichen kognitiven Entwicklung inspirieren, um Roboter zu schaffen, die im Laufe der Zeit autonom lernen. Anstatt alle Verhaltensweisen vorzuprogrammieren, nutzen diese Systeme Mechanismen wie Imitationslernen und intrinsische Motivation.

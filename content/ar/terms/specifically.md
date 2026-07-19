@@ -7,8 +7,6 @@ tags: ["terminology", "precision"]
 difficulty: 1
 weight: 1
 slug: "specifically"
-aliases:
-  - /ar/terms/specifically/
 date: "2026-07-18T15:31:06.804896Z"
 lastmod: "2026-07-18T17:15:08.449179Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يشير إلى التفاصيل الدقيقة والمميزة أو الخاصة ضمن سياق أوسع."
 ---
-
 ## Definition
 
 في مصطلحات الذكاء الاصطناعي، يُشير 'تحديداً' إلى الدقة في تعريف النماذج، ونقاط البيانات، أو العمليات. ويميز بين المعلمات الدقيقة والفئات العامة، مما يضمن الوضوح في التوثيق التقني.

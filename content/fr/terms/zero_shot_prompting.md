@@ -7,8 +7,6 @@ tags: ["Prompting", "LLM Applications", "NLP"]
 difficulty: 2
 weight: 1
 slug: "zero_shot_prompting"
-aliases:
-  - /fr/terms/zero_shot_prompting/
 date: "2026-07-18T11:43:20.009814Z"
 lastmod: "2026-07-18T11:44:45.359643Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une technique où les grands modèles de langage exécutent des tâches sans exemples préalables ni ajustement fin, en s'appuyant uniquement sur des instructions en langage naturel."
 ---
-
 ## Definition
 
 L'incitation sans exemple consiste à demander à un modèle de langage pré-entraîné d'accomplir directement une tâche via une incitation textuelle, sans fournir d'exemples ni effectuer d'ajustement fin supplémentaire. Le mod

@@ -1,23 +1,24 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /ro/terms/hugging_face/
-date: "2026-07-18T16:03:21.207574Z"
-lastmod: "2026-07-18T17:15:09.665628Z"
+slug: hugging_face
+date: '2026-07-18T16:03:21.207574Z'
+lastmod: '2026-07-18T17:15:09.665628Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O platformă și comunitate de top care oferă instrumente, modele și seturi de date open-source pentru dezvoltarea învățării automate."
+source: agnes_llm
+status: published
+language: ro
+description: O platformă și comunitate de top care oferă instrumente, modele și seturi
+  de date open-source pentru dezvoltarea învățării automate.
 ---
-
 ## Definition
 
 Hugging Face este o companie proeminentă și o platformă online care a devenit centrală în ecosistemul AI open-source. Oferă un depozit vast de modele preantrenate, seturi de date și aplicații demonstrative.

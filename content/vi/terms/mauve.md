@@ -1,23 +1,25 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /vi/terms/mauve/
-date: "2026-07-18T16:01:33.530672Z"
-lastmod: "2026-07-18T16:38:07.778541Z"
+slug: mauve
+date: '2026-07-18T16:01:33.530672Z'
+lastmod: '2026-07-18T16:38:07.778541Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "MAUVE (Measuring Alignment Using Virtual Embeddings - Đo lường sự phù hợp bằng cách sử dụng nhúng ảo) là một chỉ số được sử dụng trong xử lý ngôn ngữ tự nhiên để đánh giá mức độ phù hợp giữa phân phối"
+source: agnes_llm
+status: published
+language: vi
+description: MAUVE (Measuring Alignment Using Virtual Embeddings - Đo lường sự phù
+  hợp bằng cách sử dụng nhúng ảo) là một chỉ số được sử dụng trong xử lý ngôn ngữ
+  tự nhiên để đánh giá mức độ phù hợp giữa phân phối
 ---
-
 ## Definition
 
 MAUVE là một phép đo thống kê được thiết kế để đánh giá mức độ gần gũi giữa đầu ra của mô hình ngôn ngữ sinh và cách sử dụng ngôn ngữ của con người. Không giống như các điểm số perplexity đơn giản, MAUVE sử dụng các nhúng ảo (virtual embeddings) để so sánh sự phân bố xác suất của văn bản, từ đó cung cấp cái nhìn sâu sắc hơn về tính tự nhiên và chất lượng của văn bản do AI tạo ra.

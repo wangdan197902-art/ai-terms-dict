@@ -7,8 +7,6 @@ tags: ["library", "tools", "ecosystem"]
 difficulty: 2
 weight: 1
 slug: "transformers"
-aliases:
-  - /zh/terms/transformers/
 date: "2026-07-18T10:55:40.663796Z"
 lastmod: "2026-07-18T11:44:45.387576Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "在此语境下，指Hugging Face Transformers库，这是一个流行的开源工具包，用于最先进的NLP和多模态模型。"
 ---
-
 ## Definition
 
 术语“Transformers”通常指由Hugging Face维护的广泛使用的Python库。它为下载、训练和部署基于Transformer架构的预训练模型提供了易于使用的接口。

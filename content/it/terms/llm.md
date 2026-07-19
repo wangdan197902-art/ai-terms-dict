@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /it/terms/llm/
 date: "2026-07-18T15:26:09.314080Z"
 lastmod: "2026-07-18T17:15:08.568505Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un modello di deep learning addestrato su vasti corpus di testo per comprendere e generare linguaggio simile a quello umano."
 ---
-
 ## Definition
 
 I Modelli Linguistici di Grande Dimensione (LLM) sono sistemi avanzati di intelligenza artificiale basati su architetture transformer, addestrati su dataset massicci di testo e codice. Apprendono modelli statistici nel linguaggio

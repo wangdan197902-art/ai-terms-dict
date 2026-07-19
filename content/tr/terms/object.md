@@ -7,8 +7,6 @@ tags: ["Programming", "OOP", "Software Engineering"]
 difficulty: 2
 weight: 1
 slug: "object"
-aliases:
-  - /tr/terms/object/
 date: "2026-07-18T15:27:26.488646Z"
 lastmod: "2026-07-18T16:38:07.239165Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Program içinde veri ve bu veriyi manipüle etme yöntemlerini içeren, nesne yönelimli programlamanın merkezinde yer alan ayrı bir varlık."
 ---
-
 ## Definition
 
 Bir nesne, özellikle nesne yönelimli programlama (OOP) olmak üzere bilgisayar bilimlerinde temel bir kavramdır. Bir sınıfın örneğini temsil eder ve hem durumu (öznitelikler veya veri) hem de davranışı kapsar.

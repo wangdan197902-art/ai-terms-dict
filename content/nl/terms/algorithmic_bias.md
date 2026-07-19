@@ -1,23 +1,24 @@
 ---
-title: "Algoritmische bias"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: Algoritmische bias
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /nl/terms/algorithmic_bias/
-date: "2026-07-18T15:41:57.271716Z"
-lastmod: "2026-07-18T17:15:08.715838Z"
+slug: algorithmic_bias
+date: '2026-07-18T15:41:57.271716Z'
+lastmod: '2026-07-18T17:15:08.715838Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Algoritmische bias verwijst naar systematische en herhaalbare fouten in computersystemen die tot oneerlijke uitkomsten leiden, zoals het begunstigen van de ene willekeurige groep boven andere."
+source: agnes_llm
+status: published
+language: nl
+description: Algoritmische bias verwijst naar systematische en herhaalbare fouten
+  in computersystemen die tot oneerlijke uitkomsten leiden, zoals het begunstigen
+  van de ene willekeurige groep boven andere.
 ---
-
 ## Definition
 
 Bias in algoritmen ontstaat meestal uit niet-representatieve trainingsgegevens, subjectieve ontwerpkiezen of feedbackloops die bestaande maatschappelijke vooroordelen versterken. Het manifesteert zich als scheve voorspellingen of beslissingen.

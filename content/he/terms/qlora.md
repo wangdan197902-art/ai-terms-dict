@@ -1,23 +1,24 @@
 ---
-title: "QLoRA"
-term_id: "qlora"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "fine-tuning", "efficiency"]
+title: QLoRA
+term_id: qlora
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Fine-Tuning
+- efficiency
 difficulty: 4
 weight: 1
-slug: "qlora"
-aliases:
-  - /he/terms/qlora/
-date: "2026-07-18T15:37:58.967373Z"
-lastmod: "2026-07-18T17:15:09.502953Z"
+slug: qlora
+date: '2026-07-18T15:37:58.967373Z'
+lastmod: '2026-07-18T17:15:09.502953Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "התאמה מדורגת נמוכה מקוונטזת (Quantized Low-Rank Adaptation), שיטה לכוונון עדין יעיל של מודלי שפה גדולים באמצעות קוונטיזציה ל-4 סיביות ומתאמים מדורגים נמוכים."
+source: agnes_llm
+status: published
+language: he
+description: התאמה מדורגת נמוכה מקוונטזת (Quantized Low-Rank Adaptation), שיטה לכוונון
+  עדין יעיל של מודלי שפה גדולים באמצעות קוונטיזציה ל-4 סיביות ומתאמים מדורגים נמוכים.
 ---
-
 ## Definition
 
 QLoRA משלבת התאמה מדורגת נמוכה (LoRA) עם קוונטיזציה ל-4 סיביות כדי להפחיש משמעותית את נפח הזיכרון הנדרש לכוונון עדין של מודלים ענקיים. על ידי אחסון המשקלים בפורמט 4 סיביות והוספת מתאמים קטנים.

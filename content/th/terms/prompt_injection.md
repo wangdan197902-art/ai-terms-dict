@@ -1,23 +1,23 @@
 ---
-title: "การฉีดพรอมต์"
-term_id: "prompt_injection"
-category: "ethics_safety"
-subcategory: ""
-tags: ["security", "llm", "ethics"]
+title: การฉีดพรอมต์
+term_id: prompt_injection
+category: ethics_safety
+subcategory: ''
+tags:
+- security
+- LLM
+- ethics
 difficulty: 4
 weight: 1
-slug: "prompt_injection"
-aliases:
-  - /th/terms/prompt_injection/
-date: "2026-07-18T15:36:58.190885Z"
-lastmod: "2026-07-18T16:38:07.563596Z"
+slug: prompt_injection
+date: '2026-07-18T15:36:58.190885Z'
+lastmod: '2026-07-18T16:38:07.563596Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การโจมตีแบบศัตรูที่ใช้อินพุตที่เป็นอันตรายเพื่อหลอกลวงโมเดล AI ให้ข้ามตัวกรองความปลอดภัยหรือสั่งงานที่ไม่ได้ตั้งใจ"
+source: agnes_llm
+status: published
+language: th
+description: การโจมตีแบบศัตรูที่ใช้อินพุตที่เป็นอันตรายเพื่อหลอกลวงโมเดล AI ให้ข้ามตัวกรองความปลอดภัยหรือสั่งงานที่ไม่ได้ตั้งใจ
 ---
-
 ## Definition
 
 การฉีดพรอมต์ใช้ประโยชน์จากวิธีที่โมเดลภาษาขนาดใหญ่ตีความคำแนะนำของผู้ใช้ โดยฝังคำสั่งที่ซ่อนอยู่หรือขัดแย้งกันไว้ในข้อความอินพุต สิ่งนี้อาจทำให้โมเดลเพิกเฉยต่อคำสั่งเดิมหรือพฤติกรรมที่ปลอดภัยที่กำหนดไว้ล่วงหน้า

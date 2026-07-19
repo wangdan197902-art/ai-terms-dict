@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /he/terms/knowledge_distillation/
 date: "2026-07-18T16:08:25.091907Z"
 lastmod: "2026-07-18T17:15:09.553828Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "דיסטילציה של ידע היא טכניקה לדחיסת מודל שבה מודל תלמיד קטן לומד לחקות את התנהגותו של מודל מורה גדול יותר."
 ---
-
 ## Definition
 
 דיסטילציה של ידע היא שיטה למידת מכונה המשמשת לדחוס רשת נוירונים גדולה ומורכבת (המורה) לתוך רשת קטנה ויעילה יותר (התלמיד). מודל התלמיד מאומן כדי

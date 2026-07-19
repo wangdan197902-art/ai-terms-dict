@@ -1,23 +1,24 @@
 ---
-title: "Árvore E-Ou"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: Árvore E-Ou
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /pt/terms/andor_tree/
-date: "2026-07-18T14:49:36.133854Z"
-lastmod: "2026-07-18T15:51:59.462306Z"
+slug: andor_tree
+date: '2026-07-18T14:49:36.133854Z'
+lastmod: '2026-07-18T15:51:59.462306Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma estrutura de grafo hierárquico usada em algoritmos de busca onde os nós representam estados e as arestas representam ações que levam a subobjetivos."
+source: agnes_llm
+status: published
+language: pt
+description: Uma estrutura de grafo hierárquico usada em algoritmos de busca onde
+  os nós representam estados e as arestas representam ações que levam a subobjetivos.
 ---
-
 ## Definition
 
 Uma árvore E-Ou é uma representação usada na resolução de problemas e planejamento, particularmente em algoritmos de busca de IA. Os nós 'Ou' representam escolhas entre diferentes ações, enquanto os nós 'E' indicam que a

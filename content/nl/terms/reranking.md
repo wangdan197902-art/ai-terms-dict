@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /nl/terms/reranking/
 date: "2026-07-18T16:15:38.361537Z"
 lastmod: "2026-07-18T17:15:08.783808Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een tweestaps ophaalproces waarbij een initiële ruwe rangschikking wordt verfijnd door een rekentechnisch duurder model om de relevantie van de resultaten te verbeteren."
 ---
-
 ## Definition
 
 Herordening is een strategie die wordt gebruikt in informatiewinning en aanbevelingssystemen om de nauwkeurigheid te verbeteren. Eerst haalt een snel maar minder nauwkeurig model een grote set kandidaten op. Vervolgens sorteert een langzamer, meer geavanceerd model deze kandidaten opnieuw op basis van complexere semantische overeenkomsten.

@@ -7,8 +7,6 @@ tags: ["AI", "Decision Making", "Enterprise Software"]
 difficulty: 3
 weight: 1
 slug: "intelligent_decision_support_system"
-aliases:
-  - /de/terms/intelligent_decision_support_system/
 date: "2026-07-18T11:20:02.473777Z"
 lastmod: "2026-07-18T11:44:44.953159Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein durch KI erweitertes System, das Menschen bei der Entscheidungsfindung in komplexen Situationen unterstützt, indem es Daten analysiert und handlungsrelevante Erkenntnisse liefert."
 ---
-
 ## Definition
 
 Ein Intelligentes Entscheidungshilfesystem (IDSS) integriert künstliche Intelligenz-Techniken, wie maschinelles Lernen und natürliche Sprachverarbeitung, mit traditionellen Entscheidungshilfe-Frameworks. Es

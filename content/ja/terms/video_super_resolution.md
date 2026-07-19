@@ -7,8 +7,6 @@ tags: ["video", "enhancement", "upscaling", "cv"]
 difficulty: 4
 weight: 1
 slug: "video_super_resolution"
-aliases:
-  - /ja/terms/video_super_resolution/
 date: "2026-07-18T11:36:08.593518Z"
 lastmod: "2026-07-18T11:44:45.153949Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ビデオスーパー解像度（VSR）は、ディープラーニングを使用して低画質の動画フレームの空間的・時間的解像度を向上させるコンピュータビジョン技術です。"
 ---
-
 ## Definition
 
 ビデオスーパー解像度は、ディテールを保持しアーティファクトを削減しながら、動画コンテンツを低い解像度（例：480p）から高い解像度（例：4K）にアップスケールするためにニューラルネットワークを使用する...

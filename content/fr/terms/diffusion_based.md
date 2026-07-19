@@ -1,23 +1,24 @@
 ---
-title: "basé sur la diffusion"
-term_id: "diffusion_based"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "deep_learning", "image_synthesis"]
+title: basé sur la diffusion
+term_id: diffusion_based
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- Deep Learning
+- Image Synthesis
 difficulty: 4
 weight: 1
-slug: "diffusion_based"
-aliases:
-  - /fr/terms/diffusion_based/
-date: "2026-07-18T10:56:51.491838Z"
-lastmod: "2026-07-18T11:44:45.177409Z"
+slug: diffusion_based
+date: '2026-07-18T10:56:51.491838Z'
+lastmod: '2026-07-18T11:44:45.177409Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une approche de modélisation générative qui crée des données en inversant un processus progressif d'ajout de bruit grâce à des étapes d'apprentissage du débruitage."
+source: agnes_llm
+status: published
+language: fr
+description: Une approche de modélisation générative qui crée des données en inversant
+  un processus progressif d'ajout de bruit grâce à des étapes d'apprentissage du débruitage.
 ---
-
 ## Definition
 
 Les modèles basés sur la diffusion sont une classe d'IA générative qui crée de nouveaux échantillons de données en retirant itérativement le bruit d'une distribution aléatoire. Le processus commence par une phase directe qui ajoute lentement un bruit gaussien

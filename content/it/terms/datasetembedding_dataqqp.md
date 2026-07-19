@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Datasets"]
 difficulty: 2
 weight: 1
 slug: "datasetembedding_dataqqp"
-aliases:
-  - /it/terms/datasetembedding_dataqqp/
 date: "2026-07-18T15:54:33.296620Z"
 lastmod: "2026-07-18T17:15:08.614023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il dataset Quora Question Pairs utilizzato per addestrare modelli a rilevare la similarità semantica tra domande."
 ---
-
 ## Definition
 
 Quora Question Pairs (QQP) è un dataset di classificazione binaria contenente oltre 400.000 coppie di domande dalla piattaforma Quora. Il compito consiste nel determinare se due domande hanno lo stesso intento o...

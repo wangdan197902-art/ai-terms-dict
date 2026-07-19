@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /cs/terms/beyond/
 date: "2026-07-18T15:23:43.862569Z"
 lastmod: "2026-07-18T17:15:09.064831Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Konceptuální termín označující pokroky nebo aplikace, které překračují současné technologické limity nebo tradiční hranice AI."
 ---
-
 ## Definition
 
 V kontextu terminologie AI 'beyond' často popisuje vznikající paradigmata nebo budoucí směry, které přesahují současné možnosti, jako je obecná umělá inteligence (AGI) nebo kvantově vylepšené systémy.

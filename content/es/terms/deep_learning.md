@@ -1,23 +1,25 @@
 ---
-title: "Aprendizaje Profundo"
-term_id: "deep_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural_networks", "ml"]
+title: Aprendizaje Profundo
+term_id: deep_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- ML
 difficulty: 3
 weight: 1
-slug: "deep_learning"
-aliases:
-  - /es/terms/deep_learning/
-date: "2026-07-18T07:39:52.796201Z"
-lastmod: "2026-07-18T11:44:44.581541Z"
+slug: deep_learning
+date: '2026-07-18T07:39:52.796201Z'
+lastmod: '2026-07-18T11:44:44.581541Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un subconjunto del aprendizaje automático que utiliza redes neuronales artificiales multicapa para modelar patrones complejos y representaciones en los datos."
+source: agnes_llm
+status: published
+language: es
+description: Un subconjunto del aprendizaje automático que utiliza redes neuronales
+  artificiales multicapa para modelar patrones complejos y representaciones en los
+  datos.
 ---
-
 ## Definition
 
 Los algoritmos de aprendizaje profundo intentan imitar los procesos analíticos y de aprendizaje del cerebro humano. Al apilar múltiples capas de nodos interconectados, estos modelos pueden aprender características jerárquicas desde datos sin procesar, extrayendo abstracciones cada vez más complejas.

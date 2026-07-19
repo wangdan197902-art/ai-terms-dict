@@ -7,8 +7,6 @@ tags: ["Logic", "Optimization", "AI Foundations"]
 difficulty: 3
 weight: 1
 slug: "knowledge_compilation"
-aliases:
-  - /ja/terms/knowledge_compilation/
 date: "2026-07-18T11:20:35.953134Z"
 lastmod: "2026-07-18T11:44:45.112554Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "知識コンパイルとは、クエリ応答や推論を高速化するために、知識表現をより効率的な形式へ変換するプロセスです。"
 ---
-
 ## Definition
 
 知識コンパイルは、充足可能性判定などの操作を迅速に行えるよう、知識ベースや論理理論を異なる表現形式に変換する人工知能の技法を指します。

@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /hu/terms/loop/
 date: "2026-07-18T15:27:46.327820Z"
 lastmod: "2026-07-18T17:15:09.724042Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy programozási szerkezet, amely egy kódblokkot többször is végrehajt, amíg egy feltétel nem teljesül."
 ---
-
 ## Definition
 
 Az informatikában és az AI fejlesztésben alapvető vezérlési szerkezet, amely lehetővé teszi az algoritmusok számára, hogy iteráljanak az adathalmazokon, ismételt számításokat végezzenek vagy futtassák a képzési epochákat. A gyakori típusok közé tartozik a for-hurok és a while-hurok.

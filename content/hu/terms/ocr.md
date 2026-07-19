@@ -7,8 +7,6 @@ tags: ["Computer Vision", "NLP", "Data Extraction"]
 difficulty: 2
 weight: 1
 slug: "ocr"
-aliases:
-  - /hu/terms/ocr/
 date: "2026-07-18T16:16:03.814433Z"
 lastmod: "2026-07-18T17:15:09.819037Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az OCR egy olyan technológia, amely különböző típusú dokumentumokat, például szkennelt papírdokumentumokat vagy képeket, szerkeszthető és kereshető adatokká alakít."
 ---
-
 ## Definition
 
 Az Optikai Karakterfelismerés (OCR) képfeldolgozási és mintafelismerő algoritmusokat használ a szöveg azonosítására digitális képekben. A nyomtatott vagy kézzel írt karaktereket géppel olvasható, strukturált adatformátumba konvertálja, lehetővé téve a szöveg szerkesztését és keresését.

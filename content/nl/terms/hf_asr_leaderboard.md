@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /nl/terms/hf_asr_leaderboard/
 date: "2026-07-18T15:58:35.202658Z"
 lastmod: "2026-07-18T17:15:08.751658Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een ranglijst op Hugging Face die de prestaties van automatische spraakherkenningsmodellen evalueert en vergelijkt."
 ---
-
 ## Definition
 
 Het HF ASR Leaderboard is een door de gemeenschap gedreven meetplatform gehost door Hugging Face, dat state-of-the-art prestaties in automatische spraakherkenning bijhoudt. Het stelt onderzoekers en ontwikkelaars in staat benchmarks te vergelijken en de beste modellen te selecteren.

@@ -1,23 +1,24 @@
 ---
-title: "Vårdat datamaskin"
-term_id: "wetware_computer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["biocomputing", "neuroscience", "emerging_tech"]
+title: Vårdat datamaskin
+term_id: wetware_computer
+category: basic_concepts
+subcategory: ''
+tags:
+- biocomputing
+- neuroscience
+- Emerging Tech
 difficulty: 4
 weight: 1
-slug: "wetware_computer"
-aliases:
-  - /no/terms/wetware_computer/
-date: "2026-07-18T16:21:24.432874Z"
-lastmod: "2026-07-18T16:38:07.058159Z"
+slug: wetware_computer
+date: '2026-07-18T16:21:24.432874Z'
+lastmod: '2026-07-18T16:38:07.058159Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et biologisk datasystem som bruker levende nevralt vev, som hjerne celler, til å behandle informasjon."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et biologisk datasystem som bruker levende nevralt vev, som hjerne celler,
+  til å behandle informasjon.
 ---
-
 ## Definition
 
 Vårdat datamaskinvirksomhet refererer til systemer der biologiske nevroner, ofte dyrket in vitro, fungerer som de primære prosesseringsenhetene i stedet for tradisjonelt silisiumbasert maskinvare. Disse systemene utnytter den...

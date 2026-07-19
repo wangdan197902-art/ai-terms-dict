@@ -7,8 +7,6 @@ tags: ["linguistics", "documentation"]
 difficulty: 1
 weight: 1
 slug: "moreover"
-aliases:
-  - /ro/terms/moreover/
 date: "2026-07-18T15:27:33.695199Z"
 lastmod: "2026-07-18T17:15:09.598824Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un adverb de tranziție utilizat pentru a introduce informații suplimentare sau a consolida un argument anterior."
 ---
-
 ## Definition
 
 În contextul documentației AI și al scrierii tehnice, „În plus” funcționează ca un marcator discursiv care semnalează adăugarea de dovezi de susținere sau a unui punct suplimentar care întărește discuția curentă.

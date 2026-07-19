@@ -7,8 +7,6 @@ tags: ["agents", "integration", "capabilities"]
 difficulty: 3
 weight: 1
 slug: "tool_use"
-aliases:
-  - /ja/terms/tool_use/
 date: "2026-07-18T11:01:28.545997Z"
 lastmod: "2026-07-18T11:44:45.058724Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIエージェントが、ネイティブな能力を超えた特定のタスクを実行するために外部関数やAPIを選択して実行するパラダイム。"
 ---
-
 ## Definition
 
 ツール利用により、言語モデルは計算機、検索エンジン、またはデータベースクエリなどの事前定義された関数を呼び出すことで、外部ソフトウェア環境と対話できます。このアプローチは、モデルの能力を拡張します。

@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /id/terms/semantic_folding/
 date: "2026-07-18T16:08:23.164455Z"
 lastmod: "2026-07-18T16:38:07.505424Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sebuah teknik yang memetakan representasi semantik berdimensi tinggi ke dalam ruang berdimensi lebih rendah sambil mempertahankan struktur relasional."
 ---
-
 ## Definition
 
 Pelipatan semantik mengacu pada proses mengompresi vektor embedding berdimensi tinggi dan kompleks menjadi representasi berdimensi lebih rendah yang lebih mudah dikelola tanpa kehilangan makna semantik secara signifikan.

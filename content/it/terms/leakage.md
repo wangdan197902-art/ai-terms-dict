@@ -1,23 +1,25 @@
 ---
-title: "Data Leakage"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Data Leakage
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /it/terms/leakage/
-date: "2026-07-18T16:07:45.528824Z"
-lastmod: "2026-07-18T17:15:08.642347Z"
+slug: leakage
+date: '2026-07-18T16:07:45.528824Z'
+lastmod: '2026-07-18T17:15:08.642347Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il data leakage si verifica quando informazioni esterne al dataset di addestramento influenzano involontariamente il modello, portando a stime delle prestazioni eccessivamente ottimistiche."
+source: agnes_llm
+status: published
+language: it
+description: Il data leakage si verifica quando informazioni esterne al dataset di
+  addestramento influenzano involontariamente il modello, portando a stime delle prestazioni
+  eccessivamente ottimistiche.
 ---
-
 ## Definition
 
 Il data leakage è un errore critico nell'apprendimento automatico in cui il modello ottiene accesso a informazioni durante l'addestramento che non sarebbero state disponibili al momento della previsione. Questo accade spesso a causa di una suddivisione dei dati impropria o di una manipolazione errata delle feature.

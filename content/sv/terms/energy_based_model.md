@@ -1,23 +1,24 @@
 ---
-title: "Energbaserad modell"
-term_id: "energy_based_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probability", "deep_learning"]
+title: Energbaserad modell
+term_id: energy_based_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- probability
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "energy_based_model"
-aliases:
-  - /sv/terms/energy_based_model/
-date: "2026-07-18T15:56:14.733736Z"
-lastmod: "2026-07-18T17:15:09.000306Z"
+slug: energy_based_model
+date: '2026-07-18T15:56:14.733736Z'
+lastmod: '2026-07-18T17:15:09.000306Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En sannolikhetsmodell som tilldelar låga energivärden till plausibla konfigurationer och höga energivärden till implausibla."
+source: agnes_llm
+status: published
+language: sv
+description: En sannolikhetsmodell som tilldelar låga energivärden till plausibla
+  konfigurationer och höga energivärden till implausibla.
 ---
-
 ## Definition
 
 Energbaserade modeller (EBM) definierar en sannolikhetsfördelning över indata med hjälp av en onormaliserad täthetsfunktion som härleds från en energifunktion. Energifunktionen avbildar datapunkter på reella tal...

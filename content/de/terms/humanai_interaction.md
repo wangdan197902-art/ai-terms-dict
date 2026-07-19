@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /de/terms/humanai_interaction/
 date: "2026-07-18T11:18:19.621567Z"
 lastmod: "2026-07-18T11:44:44.949113Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Untersuchung und Praxis dessen, wie Menschen mit künstlichen Intelligenzsystemen kommunizieren, sie steuern und mit ihnen zusammenarbeiten."
 ---
-
 ## Definition
 
 Mensch-KI-Interaktion (HAI) ist ein interdisziplinäres Feld, das die Dynamik zwischen Menschen und KI-Technologien untersucht. Es konzentriert sich auf das Design intuitiver Schnittstellen, Kommunikationsprotokolle und Zusammenarbeit...

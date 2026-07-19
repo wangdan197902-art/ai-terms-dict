@@ -1,23 +1,24 @@
 ---
-title: "Matrice di confusione"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Matrice di confusione
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /it/terms/confusion_matrix/
-date: "2026-07-18T15:52:46.934656Z"
-lastmod: "2026-07-18T17:15:08.609330Z"
+slug: confusion_matrix
+date: '2026-07-18T15:52:46.934656Z'
+lastmod: '2026-07-18T17:15:08.609330Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una tabella utilizzata per descrivere le prestazioni di un modello di classificazione su un insieme di dati di test."
+source: agnes_llm
+status: published
+language: it
+description: Una tabella utilizzata per descrivere le prestazioni di un modello di
+  classificazione su un insieme di dati di test.
 ---
-
 ## Definition
 
 Una matrice di confusione è una specifica disposizione tabellare che consente la visualizzazione delle prestazioni di un algoritmo, tipicamente di apprendimento supervisionato. Mostra i conteggi dei veri positivi, veri negativi, falsi positivi e falsi negativi, fornendo una panoramica dettagliata della capacità del modello di distinguere tra le diverse classi.

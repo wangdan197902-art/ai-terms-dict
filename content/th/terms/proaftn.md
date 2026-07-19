@@ -1,23 +1,24 @@
 ---
-title: "Praftn"
-term_id: "proaftn"
-category: "basic_concepts"
-subcategory: ""
-tags: ["time-series", "relational", "advanced"]
+title: Praftn
+term_id: proaftn
+category: basic_concepts
+subcategory: ''
+tags:
+- Time Series
+- relational
+- advanced
 difficulty: 5
 weight: 1
-slug: "proaftn"
-aliases:
-  - /th/terms/proaftn/
-date: "2026-07-18T16:11:33.848671Z"
-lastmod: "2026-07-18T16:38:07.644110Z"
+slug: proaftn
+date: '2026-07-18T16:11:33.848671Z'
+lastmod: '2026-07-18T16:38:07.644110Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "พีชคณิตเชิงสัมพันธ์ความน่าจะเป็นสำหรับเครือข่ายอนุกรมเวลาเชิงฟังก์ชัน กรอบงานสำหรับการจำลองระบบไดนามิก"
+source: agnes_llm
+status: published
+language: th
+description: พีชคณิตเชิงสัมพันธ์ความน่าจะเป็นสำหรับเครือข่ายอนุกรมเวลาเชิงฟังก์ชัน
+  กรอบงานสำหรับการจำลองระบบไดนามิก
 ---
-
 ## Definition
 
 Praftn เป็นกรอบงานการคำนวณเฉพาะทางที่ออกแบบมาเพื่อจัดการกับข้อมูลอนุกรมเวลาเชิงฟังก์ชันภายในโครงสร้างเชิงสัมพันธ์ โดยผสมผสานการให้เหตุผลความน่าจะเป็นกับการดำเนินการทางพีชคณิต เพื่อจำลองระบบที่ซับซ้อนและเปลี่ยนแปลงไปตามเวลา

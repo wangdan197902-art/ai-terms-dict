@@ -1,23 +1,24 @@
 ---
-title: "Automatiseret medicinsk skribent"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Automatiseret medicinsk skribent
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /da/terms/automated_medical_scribe/
-date: "2026-07-18T15:43:07.246750Z"
-lastmod: "2026-07-18T17:15:09.262635Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:43:07.246750Z'
+lastmod: '2026-07-18T17:15:09.262635Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et AI-drevet system, der automatisk genererer klinisk dokumentation fra læge-patient-samtaler."
+source: agnes_llm
+status: published
+language: da
+description: Et AI-drevet system, der automatisk genererer klinisk dokumentation fra
+  læge-patient-samtaler.
 ---
-
 ## Definition
 
 Automatiserede medicinske skribenter bruger naturlig sprogbehandling og talegenkendelse til at lytte til samtaler mellem læger og patienter og oprette strukturerede elektroniske journaler. Denne teknologi reducerer den administrative byrde for sundhedspersonale ved at fange detaljer i realtid og konvertere dem til formaterbare kliniske optegnelser, hvilket forbedrer nøjagtigheden og effektiviteten i patientsagerne.

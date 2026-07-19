@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /fi/terms/self_attention/
 date: "2026-07-18T15:31:12.051114Z"
 lastmod: "2026-07-18T17:15:09.359630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Mekanismi, joka mahdollistaa neuroverkon painottaa eri osien merkitystä syötesequenssissä suhteessa toisiinsa."
 ---
-
 ## Definition
 
 Itsehuomio mahdollistaa mallien havaita riippuvuudet sekvenssin kaikkien sijaintien välillä samanaikaisesti etäisyydestä riippumatta. Laskemalla huomiopisteet jokaisen token-parin välillä se mahdollistaa...

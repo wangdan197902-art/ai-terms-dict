@@ -1,23 +1,24 @@
 ---
-title: "AI-veganismi"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: AI-veganismi
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /fi/terms/ai_veganism/
-date: "2026-07-18T15:40:26.988365Z"
-lastmod: "2026-07-18T17:15:09.378910Z"
+slug: ai_veganism
+date: '2026-07-18T15:40:26.988365Z'
+lastmod: '2026-07-18T17:15:09.378910Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Metaforinen käsite, joka ehdottaa, että tekoälyjärjestelmien tulisi toimia ilman ihmisten tuottaman datan tai työn luottamista."
+source: agnes_llm
+status: published
+language: fi
+description: Metaforinen käsite, joka ehdottaa, että tekoälyjärjestelmien tulisi toimia
+  ilman ihmisten tuottaman datan tai työn luottamista.
 ---
-
 ## Definition
 
 AI-veganismi on spekulatiivinen ja metaforinen termi, joka viittaa ajatukseen tekoälyn luomisesta siten, että se oppii kokonaan synteettisestä, itse tuotetusta tai fyysisestä maailmasta peräisin olevasta datasta sen sijaan, että se hyödyntäisi ihmisten tuottamaa dataa.

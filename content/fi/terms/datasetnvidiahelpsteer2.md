@@ -7,8 +7,6 @@ tags: ["NVIDIA", "RLHF", "Alignment", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetnvidiahelpsteer2"
-aliases:
-  - /fi/terms/datasetnvidiahelpsteer2/
 date: "2026-07-18T15:52:10.229296Z"
 lastmod: "2026-07-18T17:15:09.400636Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Korkealaatuinen ihmisten mieltymyksiin perustuva tietojoukko, joka on suunniteltu erityisesti palkintomallien kouluttamiseen vahvistusoppimisessa ihmispalautteen avulla (RLHF)."
 ---
-
 ## Definition
 
 Helpsteer2 on NVIDIA:n julkaisema huolellisesti koottu tietojoukko, joka sisältää suurten kielimallien tuottamien vastausten pareittain tehtyjä vertailuja. Se keskittyy moniulotteisiin ihmisten mieltymyksiin, kuten avullisuuteen ja turvallisuuteen.

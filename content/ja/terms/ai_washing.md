@@ -7,8 +7,6 @@ tags: ["business", "ethics", "marketing"]
 difficulty: 2
 weight: 1
 slug: "ai_washing"
-aliases:
-  - /ja/terms/ai_washing/
 date: "2026-07-18T11:02:35.667054Z"
 lastmod: "2026-07-18T11:44:45.062303Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "製品やサービスが人工知能を利用しているとして、マーケティング目的で誇張したり虚偽の主張を行ったりする行為。"
 ---
-
 ## Definition
 
 AIウォッシングは「グリーンウォッシング」に analogous な用語で、企業が実際には単純なルールベースのアルゴリズムに依存しているにもかかわらず、製品に高度なAIが組み込まれていると主張する欺瞞的なマーケティング戦略を指します。

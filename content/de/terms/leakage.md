@@ -1,23 +1,25 @@
 ---
-title: "Datendurchsickern"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Datendurchsickern
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /de/terms/leakage/
-date: "2026-07-18T11:21:20.803347Z"
-lastmod: "2026-07-18T11:44:44.957551Z"
+slug: leakage
+date: '2026-07-18T11:21:20.803347Z'
+lastmod: '2026-07-18T11:44:44.957551Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Datendurchsickern tritt auf, wenn Informationen außerhalb des Trainingsdatensatzes das Modell unbemerkt beeinflussen, was zu überoptimistischen Leistungsschätzungen führt."
+source: agnes_llm
+status: published
+language: de
+description: Datendurchsickern tritt auf, wenn Informationen außerhalb des Trainingsdatensatzes
+  das Modell unbemerkt beeinflussen, was zu überoptimistischen Leistungsschätzungen
+  führt.
 ---
-
 ## Definition
 
 Datendurchsickern ist ein kritischer Fehler im maschinellen Lernen, bei dem das Modell während des Trainings auf Informationen zugreifen kann, die zur Vorhersagezeit nicht verfügbar wären. Dies geschieht häufig durch unsachgemäße Datenaufbereitung oder -aufteilung.

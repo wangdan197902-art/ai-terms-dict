@@ -1,23 +1,25 @@
 ---
-title: "GLM MoE DSA"
-term_id: "glm_moe_dsa"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "optimization", "LLM"]
+title: GLM MoE DSA
+term_id: glm_moe_dsa
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Optimization
+- LLM
 difficulty: 4
 weight: 1
-slug: "glm_moe_dsa"
-aliases:
-  - /fr/terms/glm_moe_dsa/
-date: "2026-07-18T11:19:02.188182Z"
-lastmod: "2026-07-18T11:44:45.259615Z"
+slug: glm_moe_dsa
+date: '2026-07-18T11:19:02.188182Z'
+lastmod: '2026-07-18T11:44:45.259615Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Il semble s'agir d'une confusion entre des concepts distincts : GLM (Modèle de Langage Général), MoE (Mixture of Experts) et potentiellement DSA (Attention Creuse Dynamique ou similaire)."
+source: agnes_llm
+status: published
+language: fr
+description: 'Il semble s''agir d''une confusion entre des concepts distincts : GLM
+  (Modèle de Langage Général), MoE (Mixture of Experts) et potentiellement DSA (Attention
+  Creuse Dynamique ou similaire).'
 ---
-
 ## Definition
 
 Il n'existe pas de terme standard unique « GLM MoE DSA ». Cependant, il combine probablement GLM (une architecture LLM spécifique), MoE (Mixture of Experts, une technique pour mettre à l'échelle la taille du modèle efficacement en n'activant qu'une

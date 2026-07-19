@@ -7,8 +7,6 @@ tags: ["Multimodal", "Speech", "Research"]
 difficulty: 4
 weight: 1
 slug: "moshi"
-aliases:
-  - /tr/terms/moshi/
 date: "2026-07-18T16:04:32.780759Z"
 lastmod: "2026-07-18T16:38:07.336933Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Kyutai tarafından geliştirilen, sorunsuz çok modlu etkileşim için metin ve ses temsillerini birlikte öğrenen bir konuşma-dil modeli."
 ---
-
 ## Definition
 
 Moshi, konuşma ve metin işleme süreçlerini birleştirilmiş bir çerçevede entegre eden Kyutai tarafından oluşturulan gelişmiş bir yapay zeka modelidir. Geleneksel sistemlerin konuşmayı işlemeden önce metne dönüştürmesinin aksine, Moshi öğren

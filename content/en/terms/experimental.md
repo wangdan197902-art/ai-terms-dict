@@ -7,8 +7,6 @@ tags: ["development", "research", "status"]
 difficulty: 2
 weight: 1
 slug: "experimental"
-aliases:
-  - /en/terms/experimental/
 date: "2026-07-18T09:32:12.798457Z"
 lastmod: "2026-07-18T11:44:44.597189Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Refers to AI technologies, models, or methods that are in early stages of development and not yet fully validated for production."
 ---
-
 ## Definition
 
 Experimental denotes AI components that are currently being tested, researched, or prototyped before achieving stability or widespread adoption. These systems often utilize novel architectures or unproven algorithms that may offer significant potential but carry higher risks of failure or unpredictability. Researchers use experimental settings to explore boundaries of capability, gather preliminary data, and refine methodologies prior to deployment in critical infrastructure.

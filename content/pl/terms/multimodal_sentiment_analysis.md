@@ -1,23 +1,24 @@
 ---
-title: "Analiza sentymentu multimodalnego"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: Analiza sentymentu multimodalnego
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /pl/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:08:30.811523Z"
-lastmod: "2026-07-18T17:15:08.900165Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:08:30.811523Z'
+lastmod: '2026-07-18T17:15:08.900165Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Obliczeniowa analiza ludzkiego sentymentu poprzez integrację sygnałów tekstowych, wizualnych i słuchowych."
+source: agnes_llm
+status: published
+language: pl
+description: Obliczeniowa analiza ludzkiego sentymentu poprzez integrację sygnałów
+  tekstowych, wizualnych i słuchowych.
 ---
-
 ## Definition
 
 Analiza sentymentu multimodalnego rozszerza tradycyjną detekcję sentymentu opartą na tekście o dodatkowe sygnały, takie jak mimika twarzy, ton głosu i język ciała. To holistyczne podejście pozwala na bardziej dokładną interpretację emocji.

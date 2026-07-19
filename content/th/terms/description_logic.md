@@ -1,23 +1,22 @@
 ---
-title: "Description Logic (ตรรกะคำอธิบาย)"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: Description Logic (ตรรกะคำอธิบาย)
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /th/terms/description_logic/
-date: "2026-07-18T15:50:01.830772Z"
-lastmod: "2026-07-18T16:38:07.598196Z"
+slug: description_logic
+date: '2026-07-18T15:50:01.830772Z'
+lastmod: '2026-07-18T16:38:07.598196Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ตระกูลของภาษาการแสดงความรู้เชิงรูปนัยที่ใช้แทนและให้เหตุผลเกี่ยวกับโครงสร้างแนวคิดของโดเมนต่างๆ"
+source: agnes_llm
+status: published
+language: th
+description: ตระกูลของภาษาการแสดงความรู้เชิงรูปนัยที่ใช้แทนและให้เหตุผลเกี่ยวกับโครงสร้างแนวคิดของโดเมนต่างๆ
 ---
-
 ## Definition
 
 ตรรกะคำอธิบาย (Description Logics - DL) เป็นส่วนย่อยของตรรกะอันดับหนึ่งที่สามารถตัดสินใจได้ (decidable) ซึ่งเป็นรากฐานทางทฤษฎีสำหรับออนโทโลยี โดยเฉพาะภาษาเว็บออนโทโลยี (OWL) พวกมันอนุญาตให้กำหนดนิยามอย่างแม่นยำเกี่ยวกับแนวคิดและความสัมพันธ์...

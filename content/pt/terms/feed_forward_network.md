@@ -1,23 +1,24 @@
 ---
-title: "Rede Feed-Forward"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Rede Feed-Forward
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /pt/terms/feed_forward_network/
-date: "2026-07-18T15:00:10.842915Z"
-lastmod: "2026-07-18T15:51:59.491318Z"
+slug: feed_forward_network
+date: '2026-07-18T15:00:10.842915Z'
+lastmod: '2026-07-18T15:51:59.491318Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Uma classe de rede neural artificial onde as conexões entre nós não formam ciclos, propagando informações em uma única direção."
+source: agnes_llm
+status: published
+language: pt
+description: Uma classe de rede neural artificial onde as conexões entre nós não formam
+  ciclos, propagando informações em uma única direção.
 ---
-
 ## Definition
 
 Redes Feed-Forward (FFNs), também conhecidas como Perceptrons Multicamadas (MLPs), processam dados sequencialmente através de camadas de neurônios, da entrada à saída, sem laços de retroalimentação. Cada neurônio recebe entradas, aplica pesos e funções de ativação para produzir uma saída.

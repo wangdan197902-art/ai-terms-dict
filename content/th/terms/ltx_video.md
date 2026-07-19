@@ -1,23 +1,23 @@
 ---
-title: "Ltx Video"
-term_id: "ltx_video"
-category: "application_paradigms"
-subcategory: ""
-tags: ["video-generation", "diffusion", "multimodal"]
+title: Ltx Video
+term_id: ltx_video
+category: application_paradigms
+subcategory: ''
+tags:
+- Video Generation
+- diffusion
+- multimodal
 difficulty: 3
 weight: 1
-slug: "ltx_video"
-aliases:
-  - /th/terms/ltx_video/
-date: "2026-07-18T16:03:40.682262Z"
-lastmod: "2026-07-18T16:38:07.627871Z"
+slug: ltx_video
+date: '2026-07-18T16:03:40.682262Z'
+lastmod: '2026-07-18T16:38:07.627871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โมเดลแพร่กระจายในปริภูมิแฝง (latent diffusion model) ที่ได้รับการปรับให้เหมาะสมเป็นพิเศษสำหรับการสร้างเนื้อหาวิดีโอที่มีความละเอียดสูงและมีความสอดคล้องทางเวลาจากคำใบ้ข้อความหรือภาพ"
+source: agnes_llm
+status: published
+language: th
+description: โมเดลแพร่กระจายในปริภูมิแฝง (latent diffusion model) ที่ได้รับการปรับให้เหมาะสมเป็นพิเศษสำหรับการสร้างเนื้อหาวิดีโอที่มีความละเอียดสูงและมีความสอดคล้องทางเวลาจากคำใบ้ข้อความหรือภาพ
 ---
-
 ## Definition
 
 Ltx Video แสดงถึงความก้าวหน้าในด้านการสร้างวิดีโอด้วย AI โดยใช้กระบวนการแพร่กระจายในปริภูมิแฝงเพื่อสร้างการเคลื่อนไหวและรายละเอียดภาพที่สอดคล้องกัน โมเดลนี้แก้ไขความท้าทายทั่วไปในการสร้างวิดีโอ เช่น การรักษาสภาพต่อเนื่องของวัตถุและความสมจริงของฟิสิกส์ตลอดช่วงเวลาของคลิปวิดีโอ

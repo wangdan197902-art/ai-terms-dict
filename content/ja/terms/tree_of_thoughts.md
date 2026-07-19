@@ -7,8 +7,6 @@ tags: ["reasoning", "prompting", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "tree_of_thoughts"
-aliases:
-  - /ja/terms/tree_of_thoughts/
 date: "2026-07-18T11:35:22.383407Z"
 lastmod: "2026-07-18T11:44:45.152694Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "思考の木は、複数の推論経路を同時に探索し、最も有望な次のステップを選択するためにそれらを評価する推論フレームワークです。"
 ---
-
 ## Definition
 
 思考の木（ToT）は、従来の思考連鎖プロンプティングを拡張したもので、モデルが各ステップで複数の異なる推論経路を探索し、木構造を形成できるようにします。モデルは各ノードの状態を評価し、バックトラックや探索アルゴリズムを用いて最適な解への道筋を見つけます。これにより、複雑な問題解決においてより柔軟かつ戦略的な推論が可能になります。

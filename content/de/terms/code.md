@@ -7,8 +7,6 @@ tags: ["Programming", "Software", "Fundamentals"]
 difficulty: 1
 weight: 1
 slug: "code"
-aliases:
-  - /de/terms/code/
 date: "2026-07-18T10:57:35.607325Z"
 lastmod: "2026-07-18T11:44:44.893361Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Im Kontext von KI bezieht sich Code auf die strukturierten Anweisungen, die in Programmiersprachen geschrieben sind und das Verhalten von Modellen sowie die Logik der Datenverarbeitung definieren."
 ---
-
 ## Definition
 
 Code stellt die Menge der in Programmiersprachen wie Python, C++ oder JavaScript geschriebenen Anweisungen dar, die Computer ausführen, um bestimmte Aufgaben zu erledigen. In der künstlichen Intelligenz ist Code grund

@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /fi/terms/cognitive_robotics/
 date: "2026-07-18T15:48:11.124847Z"
 lastmod: "2026-07-18T17:15:09.391931Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kognitiivinen robotiikka on tutkimusala, joka keskittyy ihmismäisiä kognitiivisia kykyjä, kuten havainnointia, päättelyä ja oppimista, omaavien robottien luomiseen."
 ---
-
 ## Definition
 
 Kognitiivinen robotiikka yhdistää kognitiivisen tieteen ja robotiikan rakentaakseen koneita, jotka voivat havainnoida ympäristöään, oppia kokemuksista ja tehdä itsenäisiä päätöksiä. Nämä robotit käyttävät edistyneitä sensoritekniikoita ja oppimisalgoritmeja.

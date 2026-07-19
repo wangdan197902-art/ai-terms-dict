@@ -1,23 +1,25 @@
 ---
-title: "Streaming"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Streaming
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /de/terms/streaming/
-date: "2026-07-18T11:34:51.892102Z"
-lastmod: "2026-07-18T11:44:44.988794Z"
+slug: streaming
+date: '2026-07-18T11:34:51.892102Z'
+lastmod: '2026-07-18T11:44:44.988794Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein Paradigma der Datenverarbeitung, bei dem Informationen kontinuierlich in kleinen Einheiten verarbeitet werden, sobald sie eintreffen, anstatt in großen statischen Batches."
+source: agnes_llm
+status: published
+language: de
+description: Ein Paradigma der Datenverarbeitung, bei dem Informationen kontinuierlich
+  in kleinen Einheiten verarbeitet werden, sobald sie eintreffen, anstatt in großen
+  statischen Batches.
 ---
-
 ## Definition
 
 Streaming bezeichnet die kontinuierliche Erfassung und Verarbeitung von Daten in Echtzeit oder Near-Echtzeit, während sie generiert werden. Im Gegensatz zur Batch-Verarbeitung, die feste Datensätze verarbeitet, managen Streaming-Systeme un

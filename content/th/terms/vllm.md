@@ -1,23 +1,25 @@
 ---
-title: "Vllm"
-term_id: "vllm"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "serving", "library"]
+title: Vllm
+term_id: vllm
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- serving
+- library
 difficulty: 4
 weight: 1
-slug: "vllm"
-aliases:
-  - /th/terms/vllm/
-date: "2026-07-18T16:19:35.554110Z"
-lastmod: "2026-07-18T16:38:07.665729Z"
+slug: vllm
+date: '2026-07-18T16:19:35.554110Z'
+lastmod: '2026-07-18T16:38:07.665729Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "vLLM คือเครื่องจักรอนุมานที่มีความเร็วสูงและใช้หน่วยความจำอย่างมีประสิทธิภาพสำหรับโมเดลภาษาขนาดใหญ่ โดยใช้เทคนิค PagedAttention เพื่อปรับการใช้งานหน่วยความจำ GPU ให้เหมาะสม"
+source: agnes_llm
+status: published
+language: th
+description: vLLM คือเครื่องจักรอนุมานที่มีความเร็วสูงและใช้หน่วยความจำอย่างมีประสิทธิภาพสำหรับโมเดลภาษาขนาดใหญ่
+  โดยใช้เทคนิค PagedAttention เพื่อปรับการใช้งานหน่วยความจำ GPU ให้เหมาะสม
 ---
-
 ## Definition
 
 vLLM (Virtual Large Language Model) คือไลบรารีโอเพนซอร์สที่ออกแบบมาเพื่อเร่งความเร็วในการให้บริการโมเดลภาษาขนาดใหญ่ (LLM) โดยนำเสนอ PagedAttention ซึ่งเป็นเทคนิคการจัดการหน่วยความจำที่ได้รับแรงบันดาลใจจากระบบปฏิบัติการ

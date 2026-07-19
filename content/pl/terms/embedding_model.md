@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /pl/terms/embedding_model/
 date: "2026-07-18T15:35:03.225314Z"
 lastmod: "2026-07-18T17:15:08.831611Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Model embeddingowy przekształca surowe dane, takie jak tekst czy obrazy, w gęste wektory liczbowe reprezentujące znaczenie semantyczne."
 ---
-
 ## Definition
 
 Modele te mapują dane o wysokiej wymiarowości do niższymiarowej, ciągłej przestrzeni wektorowej, gdzie podobne elementy znajdują się bliżej siebie. Ta transformacja wychwytuje relacje semantyczne, umożliwiając efektywne wyszukiwanie i porównywanie danych.

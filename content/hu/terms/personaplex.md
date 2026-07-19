@@ -7,8 +7,6 @@ tags: ["metaverse", "identity", "systems"]
 difficulty: 4
 weight: 1
 slug: "personaplex"
-aliases:
-  - /hu/terms/personaplex/
 date: "2026-07-18T16:17:55.051800Z"
 lastmod: "2026-07-18T17:15:09.822106Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy koncepcionális keretrendszer vagy platform, amelyet arra terveztek, hogy kezelje a digitális személyiségek komplex hálózatait és azok interakcióit az AI-alapú környezetekben."
 ---
-
 ## Definition
 
 A Personaplex a több digitális személyiség létrehozását, kezelését és interakcióját támogató ökoszisztémára vagy infrastruktúrára utal. Magában foglalja a főbb technikai és etikai szempontokat, beleértve a 

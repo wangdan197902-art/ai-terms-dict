@@ -1,23 +1,24 @@
 ---
-title: "Streaming"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Streaming
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /id/terms/streaming/
-date: "2026-07-18T16:10:01.809291Z"
-lastmod: "2026-07-18T16:38:07.510975Z"
+slug: streaming
+date: '2026-07-18T16:10:01.809291Z'
+lastmod: '2026-07-18T16:38:07.510975Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Paradigma pemrosesan data di mana informasi diproses secara terus-menerus dalam potongan kecil saat tiba, bukan dalam batch statis yang besar."
+source: agnes_llm
+status: published
+language: id
+description: Paradigma pemrosesan data di mana informasi diproses secara terus-menerus
+  dalam potongan kecil saat tiba, bukan dalam batch statis yang besar.
 ---
-
 ## Definition
 
 Streaming merujuk pada ingestion dan pemrosesan data secara kontinu secara waktu nyata atau hampir waktu nyata saat data tersebut dihasilkan. Berbeda dengan pemrosesan batch yang menangani dataset tetap, sistem streaming mengelola

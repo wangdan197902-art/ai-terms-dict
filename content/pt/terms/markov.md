@@ -7,8 +7,6 @@ tags: ["probability", "stochastic", "foundations"]
 difficulty: 3
 weight: 1
 slug: "markov"
-aliases:
-  - /pt/terms/markov/
 date: "2026-07-18T14:36:50.948357Z"
 lastmod: "2026-07-18T15:51:59.433962Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Markov refere-se a processos estocásticos onde o estado futuro depende apenas do estado atual, aderindo à propriedade de Markov de ausência de memória."
 ---
-
 ## Definition
 
 Em inteligência artificial e teoria das probabilidades, os processos de Markov são modelos fundamentais usados para descrever sistemas que transitam aleatoriamente entre estados. O princípio central é a propriedade de Markov, que afirma que o futuro é independente do passado dado o presente.

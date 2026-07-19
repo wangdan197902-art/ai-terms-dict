@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /ar/terms/multi_task_learning/
 date: "2026-07-18T16:13:48.393983Z"
 lastmod: "2026-07-18T17:15:08.530573Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "التعلم متعدد المهام هو نموذج في تعلم الآلة يتم فيه تدريب النموذج على عدة مهام ذات صلة في وقت واحد لتحسين القدرة على التعميم."
 ---
-
 ## Definition
 
 تستفيد هذه التقنية من التحيز الاستقرائي المشترك بين المهام ذات الصلة لتعزيز كفاءة التعلم وأدائه. ومن خلال تدريب نموذج واحد على أداء عدة مهام في آن واحد، يتعلم النموذج تمثيلاً

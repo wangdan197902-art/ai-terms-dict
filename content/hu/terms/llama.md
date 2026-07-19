@@ -1,23 +1,24 @@
 ---
-title: "Llama"
-term_id: "llama"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "models", "meta"]
+title: Llama
+term_id: llama
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- models
+- meta
 difficulty: 2
 weight: 1
-slug: "llama"
-aliases:
-  - /hu/terms/llama/
-date: "2026-07-18T16:10:35.353505Z"
-lastmod: "2026-07-18T17:15:09.803582Z"
+slug: llama
+date: '2026-07-18T16:10:35.353505Z'
+lastmod: '2026-07-18T17:15:09.803582Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A Meta AI által fejlesztett nagy nyelvi modellek családja, amelyről ismert, hogy nyílt súlyokkal és erős teljesítménnyel rendelkezik."
+source: agnes_llm
+status: published
+language: hu
+description: A Meta AI által fejlesztett nagy nyelvi modellek családja, amelyről ismert,
+  hogy nyílt súlyokkal és erős teljesítménnyel rendelkezik.
 ---
-
 ## Definition
 
 A Llama (Large Language Model Meta AI) egy alapvető nagy nyelvi modellekből álló sorozat, amelyet a Meta adott ki. Sok zárt forrású modelltől eltérően a Llama modelleket gyakran nyílt súlyokkal adják ki, lehetővé téve a kutatók és fejlesztők számára a modell átvételét és testreszabását.

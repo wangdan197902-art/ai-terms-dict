@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Best Practices"]
 difficulty: 2
 weight: 1
 slug: "experiment_tracking"
-aliases:
-  - /ja/terms/experiment_tracking/
 date: "2026-07-18T11:14:15.215112Z"
 lastmod: "2026-07-18T11:44:45.096187Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "実験追跡とは、再現性を確保し比較を容易にするために、機械学習実験からのメタデータ、指標、アーティファクトを体系的に記録するプロセスです。"
 ---
-
 ## Definition
 
 この実践には、トレーニング実行中にハイパーパラメータ、データセットのバージョン、モデルアーキテクチャ、およびパフォーマンス指標をログに記録することが含まれます。これにより、データサイエンティストは異なる実験設定を比較できます。

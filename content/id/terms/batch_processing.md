@@ -1,23 +1,24 @@
 ---
-title: "Pemrosesan Batch"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Pemrosesan Batch
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /id/terms/batch_processing/
-date: "2026-07-18T15:40:37.401652Z"
-lastmod: "2026-07-18T16:38:07.432133Z"
+slug: batch_processing
+date: '2026-07-18T15:40:37.401652Z'
+lastmod: '2026-07-18T16:38:07.432133Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah metode komputasi di mana data dikumpulkan seiring waktu dan diproses secara berkelompok, bukan secara individual."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah metode komputasi di mana data dikumpulkan seiring waktu dan diproses
+  secara berkelompok, bukan secara individual.
 ---
-
 ## Definition
 
 Pemrosesan batch melibatkan pengelompokan input data menjadi satu kumpulan atau 'batch' sebelum mengeksekusi komputasi atau inferensi model. Pendekatan ini berbeda dengan pemrosesan streaming real-time karena memungkinkan

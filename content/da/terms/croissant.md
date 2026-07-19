@@ -1,23 +1,24 @@
 ---
-title: "Croissant"
-term_id: "croissant"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metadata", "standards", "data-management"]
+title: Croissant
+term_id: croissant
+category: basic_concepts
+subcategory: ''
+tags:
+- metadata
+- standards
+- Data Management
 difficulty: 3
 weight: 1
-slug: "croissant"
-aliases:
-  - /da/terms/croissant/
-date: "2026-07-18T15:48:22.538054Z"
-lastmod: "2026-07-18T17:15:09.272603Z"
+slug: croissant
+date: '2026-07-18T15:48:22.538054Z'
+lastmod: '2026-07-18T17:15:09.272603Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Croissant er et open-source metadataformat til beskrivelse af datasæt, der faciliterer opdagelse og interoperabilitet inden for AI."
+source: agnes_llm
+status: published
+language: da
+description: Croissant er et open-source metadataformat til beskrivelse af datasæt,
+  der faciliterer opdagelse og interoperabilitet inden for AI.
 ---
-
 ## Definition
 
 Udviklet som en del af MLCommons-initiativet bruger Croissant JSON-LD til at give en standardiseret måde at beskrive datasæt på, herunder struktur, citationer og licenser. Det sigter mod at løse problemet...

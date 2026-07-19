@@ -1,23 +1,24 @@
 ---
-title: "Pemrograman Few-Shot"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: Pemrograman Few-Shot
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /id/terms/few_shot_prompting/
-date: "2026-07-18T15:34:29.559841Z"
-lastmod: "2026-07-18T16:38:07.413648Z"
+slug: few_shot_prompting
+date: '2026-07-18T15:34:29.559841Z'
+lastmod: '2026-07-18T16:38:07.413648Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pemrograman few-shot adalah teknik di mana LLM diberikan sejumlah kecil contoh input-output dalam prompt untuk membimbing perilakunya."
+source: agnes_llm
+status: published
+language: id
+description: Pemrograman few-shot adalah teknik di mana LLM diberikan sejumlah kecil
+  contoh input-output dalam prompt untuk membimbing perilakunya.
 ---
-
 ## Definition
 
 Metode ini memanfaatkan kemampuan pembelajaran konteks dari model bahasa besar dengan memberikan beberapa contoh ilustratif langsung di dalam prompt. Berbeda dengan penyetelan halus (fine-tuning) yang memerlukan pembaruan bobot model, pendekatan ini hanya mengubah input teks untuk mengarahkan keluaran model.

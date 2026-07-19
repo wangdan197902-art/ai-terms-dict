@@ -7,8 +7,6 @@ tags: ["NLP", "AI", "Text Processing"]
 difficulty: 3
 weight: 1
 slug: "natural_language_processing"
-aliases:
-  - /fr/terms/natural_language_processing/
 date: "2026-07-18T10:52:14.408686Z"
 lastmod: "2026-07-18T11:44:45.167764Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une branche de l'IA axée sur la capacité des ordinateurs à comprendre, interpréter et générer le langage humain."
 ---
-
 ## Definition
 
 Le Traitement du Langage Naturel (TLN ou NLP en anglais) est un sous-domaine de l'intelligence artificielle qui combine la linguistique computationnelle avec des modèles statistiques, d'apprentissage automatique et d'apprentissage profond. Il permet aux machines de traiter et de générer du texte ou de la parole humaine de manière intelligente.

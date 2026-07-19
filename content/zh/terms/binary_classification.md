@@ -7,8 +7,6 @@ tags: ["Classification", "Supervised Learning", "ML Basics"]
 difficulty: 2
 weight: 1
 slug: "binary_classification"
-aliases:
-  - /zh/terms/binary_classification/
 date: "2026-07-18T11:09:15.653141Z"
 lastmod: "2026-07-18T11:44:45.452068Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种监督学习任务，目标是为每个输入实例预测两个可能类别之一。"
 ---
-
 ## Definition
 
 二分类是机器学习中一个基本问题，其输出变量是分类变量，恰好有两个可能的结果，例如真/假或垃圾邮件/非垃圾邮件。常用的算法包括逻辑回归、支持向量机等。

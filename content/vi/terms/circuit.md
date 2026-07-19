@@ -7,8 +7,6 @@ tags: ["hardware", "infrastructure", "acceleration"]
 difficulty: 2
 weight: 1
 slug: "circuit"
-aliases:
-  - /vi/terms/circuit/
 date: "2026-07-18T15:44:14.140929Z"
 lastmod: "2026-07-18T16:38:07.736117Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Mạch đề cập đến cơ sở hạ tầng phần cứng vật lý, bao gồm các chip và đường kết nối, thực thi các tác vụ tính toán."
 ---
-
 ## Definition
 
 Trong bối cảnh AI, mạch thường chỉ kiến trúc phần cứng nền tảng như GPU, TPU hoặc các chip thần kinh (neuromorphic) được thiết kế để tăng tốc các phép toán ma trận và xử lý song song. Những

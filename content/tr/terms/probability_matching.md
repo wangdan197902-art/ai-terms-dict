@@ -1,23 +1,24 @@
 ---
-title: "Olasılık Eşleştirme"
-term_id: "probability_matching"
-category: "basic_concepts"
-subcategory: ""
-tags: ["RL", "behavioral_modeling", "decision_making"]
+title: Olasılık Eşleştirme
+term_id: probability_matching
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Behavioral Modeling
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "probability_matching"
-aliases:
-  - /tr/terms/probability_matching/
-date: "2026-07-18T16:10:06.477715Z"
-lastmod: "2026-07-18T16:38:07.351508Z"
+slug: probability_matching
+date: '2026-07-18T16:10:06.477715Z'
+lastmod: '2026-07-18T16:38:07.351508Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir ajanın, tahmini olasılıklarıyla orantılı sıklıklarda eylemler seçtiği bir karar verme stratejisi."
+source: agnes_llm
+status: published
+language: tr
+description: Bir ajanın, tahmini olasılıklarıyla orantılı sıklıklarda eylemler seçtiği
+  bir karar verme stratejisi.
 ---
-
 ## Definition
 
 Olasılık eşleştirme, genellikle pekiştirmeli öğrenme ve psikolojide gözlemlenen, optimal 'maksimize etme' stratejilerine karşıt bir davranışsal kalıptır. Her zaman en yüksek olasılığa sahip eylemi seçmek yerine, mevcut olasılık dağılımını yansıtan eylemleri gerçekleştirir.

@@ -1,23 +1,24 @@
 ---
-title: "Epocă"
-term_id: "epoch"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "neural_networks", "basics"]
+title: Epocă
+term_id: epoch
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Neural Networks
+- basics
 difficulty: 2
 weight: 1
-slug: "epoch"
-aliases:
-  - /ro/terms/epoch/
-date: "2026-07-18T15:56:30.516654Z"
-lastmod: "2026-07-18T17:15:09.653231Z"
+slug: epoch
+date: '2026-07-18T15:56:30.516654Z'
+lastmod: '2026-07-18T17:15:09.653231Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O trecere completă a setului de date de antrenare prin algoritmul de învățare automată în timpul antrenării modelului."
+source: agnes_llm
+status: published
+language: ro
+description: O trecere completă a setului de date de antrenare prin algoritmul de
+  învățare automată în timpul antrenării modelului.
 ---
-
 ## Definition
 
 În învățarea automată, o epocă reprezintă o singură iterare peste întregul set de date de antrenare. În timpul fiecărei epoci, modelul procesează toate exemplele de antrenare, își actualizează ponderile prin retropropagare și evaluează performanța pe setul de validare.

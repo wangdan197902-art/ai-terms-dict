@@ -1,23 +1,24 @@
 ---
-title: "كفء"
-term_id: "efficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["performance", "optimization", "resources"]
+title: كفء
+term_id: efficient
+category: basic_concepts
+subcategory: ''
+tags:
+- performance
+- Optimization
+- resources
 difficulty: 2
 weight: 1
-slug: "efficient"
-aliases:
-  - /ar/terms/efficient/
-date: "2026-07-18T15:25:28.543998Z"
-lastmod: "2026-07-18T17:15:08.436986Z"
+slug: efficient
+date: '2026-07-18T15:25:28.543998Z'
+lastmod: '2026-07-18T17:15:08.436986Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "في الذكاء الاصطناعي، تشير الكفاءة إلى تحقيق الأداء الأمثل بأقل استهلاك للموارد مثل الوقت أو الذاكرة أو القدرة الحاسوبية."
+source: agnes_llm
+status: published
+language: ar
+description: في الذكاء الاصطناعي، تشير الكفاءة إلى تحقيق الأداء الأمثل بأقل استهلاك
+  للموارد مثل الوقت أو الذاكرة أو القدرة الحاسوبية.
 ---
-
 ## Definition
 
 الكفاءة هي مقياس حاسم في الذكاء الاصطناعي يقيس مدى كفاءة استخدام النموذج أو الخوارزمية للموارد المتاحة. وتشمل الكفاءة الحسابية (سرعة الاستدلال/التدريب)، وكفاءة الطاقة، وكفاءة البيانات.

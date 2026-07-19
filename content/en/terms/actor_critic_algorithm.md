@@ -1,23 +1,24 @@
 ---
-title: "Actor-critic algorithm"
-term_id: "actor_critic_algorithm"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "neural_networks", "algorithms"]
+title: Actor-critic algorithm
+term_id: actor_critic_algorithm
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- Neural Networks
+- algorithms
 difficulty: 4
 weight: 1
-slug: "actor_critic_algorithm"
-aliases:
-  - /en/terms/actor_critic_algorithm/
-date: "2026-07-18T09:44:54.636930Z"
-lastmod: "2026-07-18T11:44:44.639017Z"
+slug: actor_critic_algorithm
+date: '2026-07-18T09:44:54.636930Z'
+lastmod: '2026-07-18T11:44:44.639017Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "A reinforcement learning framework that combines value-based and policy-based methods using two neural networks: an actor and a critic."
+source: agnes_llm
+status: published
+language: en
+description: 'A reinforcement learning framework that combines value-based and policy-based
+  methods using two neural networks: an actor and a critic.'
 ---
-
 ## Definition
 
 The actor-critic algorithm employs two components: the actor, which updates the policy to select actions, and the critic, which evaluates the quality of those actions by estimating the value function. The critic provides feedback to the actor, guiding policy improvements based on temporal difference errors. This hybrid approach leverages the low variance of value-based methods and the high bias but potentially lower variance of policy gradient methods, resulting in more stable and efficient learning in complex continuous control tasks.

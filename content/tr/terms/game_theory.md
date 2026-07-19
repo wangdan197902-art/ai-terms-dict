@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /tr/terms/game_theory/
 date: "2026-07-18T15:54:29.584072Z"
 lastmod: "2026-07-18T16:38:07.311793Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Çıktılarların tüm katılımcıların eylemlerine bağlı olduğu, rasyonel karar vericiler arasındaki stratejik etkileşimin matematiksel çalışmasıdır."
 ---
-
 ## Definition
 
 Oyun teorisi, rasyonel ajanlar arasındaki stratejik etkileşimleri modelleyen uygulamalı matematiğin bir dalıdır. Bir oyuncunun başarısının diğerlerinin seçimlerine bağlı olduğu durumları analiz eder. Nash Dengesi gibi kavramlarla ilişkilendirilir.

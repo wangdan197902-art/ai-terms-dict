@@ -1,23 +1,25 @@
 ---
-title: "POP-11"
-term_id: "pop_11"
-category: "basic_concepts"
-subcategory: ""
-tags: ["programming_language", "history_of_ai", "education"]
+title: POP-11
+term_id: pop_11
+category: basic_concepts
+subcategory: ''
+tags:
+- Programming Language
+- History Of AI
+- education
 difficulty: 3
 weight: 1
-slug: "pop_11"
-aliases:
-  - /id/terms/pop_11/
-date: "2026-07-18T16:03:09.620753Z"
-lastmod: "2026-07-18T16:38:07.491870Z"
+slug: pop_11
+date: '2026-07-18T16:03:09.620753Z'
+lastmod: '2026-07-18T16:38:07.491870Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "POP-11 adalah bahasa pemrograman tingkat tinggi yang dikembangkan di Universitas Edinburgh, terutama digunakan untuk penelitian kecerdasan buatan dan pendidikan ilmu kognitif."
+source: agnes_llm
+status: published
+language: id
+description: POP-11 adalah bahasa pemrograman tingkat tinggi yang dikembangkan di
+  Universitas Edinburgh, terutama digunakan untuk penelitian kecerdasan buatan dan
+  pendidikan ilmu kognitif.
 ---
-
 ## Definition
 
 POP-11 (Program Oriented Problem Solving) adalah bahasa pemrograman multi-paradigma yang menggabungkan fitur pemrograman prosedural, berorientasi objek, dan logika. Bahasa ini diciptakan pada tahun 1970-an dan menjadi s

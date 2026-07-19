@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /sv/terms/natural_language/
 date: "2026-07-18T15:36:19.307371Z"
 lastmod: "2026-07-18T17:15:08.958118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Det standardiserade sättet för mänsklig kommunikation, karaktäriserat av grammatik, ordförråd och kontext, till skillnad från formella datorspråk."
 ---
-
 ## Definition
 
 Naturligt språk avser hur människor talar och skriver, inklusive alla dess tvetydigheter, idiom och kulturella nyanser. Inom AI innebär bearbetning av naturligt språk att förstå syntax, semantik och...

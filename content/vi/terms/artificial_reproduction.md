@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /vi/terms/artificial_reproduction/
 date: "2026-07-18T15:41:03.767413Z"
 lastmod: "2026-07-18T16:38:07.729598Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Việc sử dụng công nghệ sinh học và AI để hỗ trợ hoặc sao chép các quá trình sinh sản sinh học, thường trong y học hoặc nông nghiệp."
 ---
-
 ## Definition
 
 Sinh sản nhân tạo bao gồm các kỹ thuật giúp thuận lợi hóa hoặc sao chép quá trình sinh sản sinh học mà không cần giao phối trực tiếp, tận dụng mạnh mẽ công nghệ và ngày càng sử dụng AI để tối ưu hóa...

@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /ar/terms/aporia/
 date: "2026-07-18T15:44:21.191989Z"
 lastmod: "2026-07-18T17:15:08.475367Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: ""
 ---
-
 ## Definition
 
 في الفلسفة ونظرية الذكاء الاصطناعي، تصف الإبوريا موقفًا متناقضًا حيث تؤدي حججتان صالحتان بنفس القدر إلى نتائج متعارضة. في تعلم الآلة، قد يتجلى هذا عندما تتعارض أداء النموذج...

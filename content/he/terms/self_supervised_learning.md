@@ -1,23 +1,23 @@
 ---
-title: "למידה חצויה-עצמית"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: למידה חצויה-עצמית
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /he/terms/self_supervised_learning/
-date: "2026-07-18T15:38:30.677526Z"
-lastmod: "2026-07-18T17:15:09.504308Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:38:30.677526Z'
+lastmod: '2026-07-18T17:15:09.504308Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שיטת אימון שבה המודל יוצר תוויות משלו מהנתונים הקלטים כדי ללמוד ייצוגים."
+source: agnes_llm
+status: published
+language: he
+description: שיטת אימון שבה המודל יוצר תוויות משלו מהנתונים הקלטים כדי ללמוד ייצוגים.
 ---
-
 ## Definition
 
 למידה חצויה-עצמית היא טכניקה שבה האלגוריתם יוצר אותות פיקוח מהנתונים ללא תוויות עצמם, לרוב על ידי ניבוי חלקים חסרים בקלט. היא גשר בין למידה מפוקחת ללא מפוקחת, ומאפשרת לניצול כמויות עצומות של נתונים לא מסומנים ללמידת ייצוגים משמעותיים.

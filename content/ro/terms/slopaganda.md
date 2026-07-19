@@ -1,23 +1,26 @@
 ---
-title: "Slopagandă"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: Slopagandă
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /ro/terms/slopaganda/
-date: "2026-07-18T16:20:53.450579Z"
-lastmod: "2026-07-18T17:15:09.702675Z"
+slug: slopaganda
+date: '2026-07-18T16:20:53.450579Z'
+lastmod: '2026-07-18T17:15:09.702675Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un portmanteau format din „lent” (slow) și „propagandă”, referindu-se la campanii de dezinformare concepute să erodeze încrederea prin influență prelungită și subtilă."
+source: agnes_llm
+status: published
+language: ro
+description: Un portmanteau format din „lent” (slow) și „propagandă”, referindu-se
+  la campanii de dezinformare concepute să erodeze încrederea prin influență prelungită
+  și subtilă.
 ---
-
 ## Definition
 
 Slopaganda descrie o formă strategică de dezinformare care se bazează pe repetiție, ambiguitate și expunere pe termen lung, în loc de tactici virale șocante. Scopul este de a confunda publicul, de a dilua adevărul și de a submina încrederea în instituții și surse de informații.

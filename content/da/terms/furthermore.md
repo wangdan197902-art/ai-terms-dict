@@ -7,8 +7,6 @@ tags: ["writing", "linguistics"]
 difficulty: 1
 weight: 1
 slug: "furthermore"
-aliases:
-  - /da/terms/furthermore/
 date: "2026-07-18T15:25:13.157625Z"
 lastmod: "2026-07-18T17:15:09.224726Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et overgangsord, der bruges til at indlede yderligere oplysninger eller styrke et tidligere argument i teknisk skrivning."
 ---
-
 ## Definition
 
 Selvom det ikke er en teknisk algoritme, er 'furthermore' et kritisk sprogligt værktøj i AI-dokumentation og forskningsartikler. Det tjener til at forbinde idéer og indikerer, at det følgende udsagn tilføjer vægt eller

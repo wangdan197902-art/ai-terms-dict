@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /ar/terms/exbert/
-date: "2026-07-18T15:57:09.174191Z"
-lastmod: "2026-07-18T17:15:08.502564Z"
+slug: exbert
+date: '2026-07-18T15:57:09.174191Z'
+lastmod: '2026-07-18T17:15:08.502564Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "طريقة لشرح تنبؤات نموذج BERT عن طريق تحديد رؤوس الانتباه والطبقات التي تساهم أكثر في مخرجات محددة."
+source: agnes_llm
+status: published
+language: ar
+description: طريقة لشرح تنبؤات نموذج BERT عن طريق تحديد رؤوس الانتباه والطبقات التي
+  تساهم أكثر في مخرجات محددة.
 ---
-
 ## Definition
 
 يوفر ExBERT قابلية للتفسير لنموذج المحوّل BERT من خلال تحليل أهمية رؤوس الانتباه الفردية عبر طبقات مختلفة. يستخدم تقنيات مثل النسب القائم على التدرج أو طرق أخرى لتوضيح كيفية مساهمة أجزاء النموذج المختلفة في القرار النهائي.

@@ -7,8 +7,6 @@ tags: ["architecture", "limitations", "tokens"]
 difficulty: 3
 weight: 1
 slug: "context_window"
-aliases:
-  - /ko/terms/context_window/
 date: "2026-07-18T15:22:33.610331Z"
 lastmod: "2026-07-18T16:38:06.766374Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "추론 또는 학습 중 언어 모델이 동시에 처리하고 고려할 수 있는 텍스트나 토큰의 최대 양."
 ---
-
 ## Definition
 
 컨텍스트 윈도우는 단일 상호작용에서 AI 모델의 메모리 작동 한계를 정의합니다. 이는 모델이 이전 대화 기록, 문서 텍스트, 또는 입력 데이터를 얼마나 많이 주의 깊게 살펴볼 수 있는지 결정합니다.

@@ -1,23 +1,23 @@
 ---
-title: "هاو"
-term_id: "haw"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "informal_language"]
+title: هاو
+term_id: haw
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Informal Language
 difficulty: 1
 weight: 1
-slug: "haw"
-aliases:
-  - /ar/terms/haw/
-date: "2026-07-18T16:00:47.316629Z"
-lastmod: "2026-07-18T17:15:08.511550Z"
+slug: haw
+date: '2026-07-18T16:00:47.316629Z'
+lastmod: '2026-07-18T17:15:08.511550Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تعبير عامي يُستخدم غالباً في الاتصالات الرقمية غير الرسمية، ولا يحمل معنى تقنياً محدداً في سياقات الذكاء الاصطناعي."
+source: agnes_llm
+status: published
+language: ar
+description: تعبير عامي يُستخدم غالباً في الاتصالات الرقمية غير الرسمية، ولا يحمل
+  معنى تقنياً محدداً في سياقات الذكاء الاصطناعي.
 ---
-
 ## Definition
 
 في سياق معالجة اللغة العامة، يُعد 'هاو' تعبيراً غير رسمي أو صوتاً للتردد. وعلى الرغم من أنه لا يمثل مفهوماً خوارزمياً أساسياً في الذكاء الاصطناعي، إلا أن نماذج معالجة اللغات الطبيعية يجب أن

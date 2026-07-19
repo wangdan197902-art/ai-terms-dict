@@ -1,23 +1,24 @@
 ---
-title: "first-order"
-term_id: "first_order"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "logic", "optimization"]
+title: first-order
+term_id: first_order
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- logic
+- Optimization
 difficulty: 2
 weight: 1
-slug: "first_order"
-aliases:
-  - /pt/terms/first_order/
-date: "2026-07-18T14:41:22.917607Z"
-lastmod: "2026-07-18T15:51:59.443696Z"
+slug: first_order
+date: '2026-07-18T14:41:22.917607Z'
+lastmod: '2026-07-18T15:51:59.443696Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Refere-se a conceitos envolvendo relações diretas ou aproximações lineares, como lógica de primeira ordem ou derivadas de primeira ordem."
+source: agnes_llm
+status: published
+language: pt
+description: Refere-se a conceitos envolvendo relações diretas ou aproximações lineares,
+  como lógica de primeira ordem ou derivadas de primeira ordem.
 ---
-
 ## Definition
 
 Em inteligência artificial e matemática, 'primeira ordem' geralmente descreve sistemas ou operações que envolvem relações diretas e lineares, sem interações de ordem superior. Em otimização, refere-se ao uso de informações de gradiente (derivadas primeiras) para encontrar mínimos, ignorando a curvatura da função.

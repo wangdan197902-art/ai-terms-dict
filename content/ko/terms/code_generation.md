@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /ko/terms/code_generation/
 date: "2026-07-18T15:22:21.051071Z"
 lastmod: "2026-07-18T16:38:06.766069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인공지능을 사용하여 자연어 설명이나 기존 코드 스니펫으로부터 소스 코드를 자동으로 생성하는 과정입니다."
 ---
-
 ## Definition
 
 코드 생성(Code Generation)은 방대한 프로그래밍 언어 저장소로 훈련된 대형 언어 모델을 활용하여 기능적인 소프트웨어 산출물을 생산합니다. 이는 주석이나 자연어 명령과 같은 사람이 읽을 수 있는 프롬프트를 해석하여 실행 가능한 코드로 변환합니다.

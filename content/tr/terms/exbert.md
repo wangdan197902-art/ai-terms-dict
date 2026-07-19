@@ -1,23 +1,24 @@
 ---
-title: "ExBERT"
-term_id: "exbert"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "interpretability", "transformers"]
+title: ExBERT
+term_id: exbert
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- interpretability
+- transformers
 difficulty: 4
 weight: 1
-slug: "exbert"
-aliases:
-  - /tr/terms/exbert/
-date: "2026-07-18T15:52:41.665531Z"
-lastmod: "2026-07-18T16:38:07.306664Z"
+slug: exbert
+date: '2026-07-18T15:52:41.665531Z'
+lastmod: '2026-07-18T16:38:07.306664Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "BERT'in tahminlerini hangi dikkat başlıklarının ve katmanlarının belirli çıktılara en çok katkıda bulunduğunu belirleyerek açıklama yöntemi."
+source: agnes_llm
+status: published
+language: tr
+description: BERT'in tahminlerini hangi dikkat başlıklarının ve katmanlarının belirli
+  çıktılara en çok katkıda bulunduğunu belirleyerek açıklama yöntemi.
 ---
-
 ## Definition
 
 ExBERT, farklı katmanlardaki bireysel dikkat başlıklarının önemini analiz ederek BERT dönüştürücü modeli için yorumlanabilirlik sağlar. Gradyan tabanlı atıf veya diğer teknikleri kullanarak modelin karar mekanizmalarını aydınlatır.

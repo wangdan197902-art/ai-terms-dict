@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /pt/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T14:50:04.823639Z"
 lastmod: "2026-07-18T15:51:59.463568Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A aplicação de tecnologias de IA em processos eleitorais, incluindo gestão de campanhas, análise de eleitores e preocupações com desinformação."
 ---
-
 ## Definition
 
 Este termo abrange o papel duplo da IA nos processos democráticos: aumentar a eficiência por meio de análises de dados e apresentar riscos por meio da manipulação. Por um lado, a IA ajuda as campanhas a direcionar eleitores e otim

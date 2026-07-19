@@ -1,23 +1,24 @@
 ---
-title: "Wasserstein"
-term_id: "wasserstein"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "gan", "probability"]
+title: Wasserstein
+term_id: wasserstein
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- GAN
+- probability
 difficulty: 4
 weight: 1
-slug: "wasserstein"
-aliases:
-  - /sv/terms/wasserstein/
-date: "2026-07-18T15:32:35.880850Z"
-lastmod: "2026-07-18T17:15:08.955557Z"
+slug: wasserstein
+date: '2026-07-18T15:32:35.880850Z'
+lastmod: '2026-07-18T17:15:08.955557Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En metrik som mäter avståndet mellan sannolikhetsfördelningar baserat på den minimala kostnaden för att omvandla den ena till den andra."
+source: agnes_llm
+status: published
+language: sv
+description: En metrik som mäter avståndet mellan sannolikhetsfördelningar baserat
+  på den minimala kostnaden för att omvandla den ena till den andra.
 ---
-
 ## Definition
 
 Wasserstein-avståndet, även känt som Earth Mover's Distance, kvantifierar olikheten mellan två sannolikhetsfördelningar genom att beräkna det minimala 'arbetet' som krävs för att flytta massa från en fördelning till en annan.

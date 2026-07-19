@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Stablediffusion3Pipeline"
-term_id: "diffusersstablediffusion3pipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion-3", "mmdit", "flow-matching", "image-generation"]
+title: 'Diffusers: Stablediffusion3Pipeline'
+term_id: diffusersstablediffusion3pipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion 3
+- mmdit
+- Flow Matching
+- Image Generation
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusion3pipeline"
-aliases:
-  - /hu/terms/diffusersstablediffusion3pipeline/
-date: "2026-07-18T15:56:52.803873Z"
-lastmod: "2026-07-18T17:15:09.776833Z"
+slug: diffusersstablediffusion3pipeline
+date: '2026-07-18T15:56:52.803873Z'
+lastmod: '2026-07-18T17:15:09.776833Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy pipeline, amely megvalósítja a Stable Diffusion 3 architektúráját, az MMDiT és a Flow Matching technológiákkal a javított képmínőség és szövegkirajzoltság érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: Egy pipeline, amely megvalósítja a Stable Diffusion 3 architektúráját,
+  az MMDiT és a Flow Matching technológiákkal a javított képmínőség és szövegkirajzoltság
+  érdekében.
 ---
-
 ## Definition
 
 Ez a pipeline a Stable Diffusion 3 modellt használja, amely bevezeti a Multimodális Diffúziós Transzformátor (MMDiT) architektúrát és a Flow Matching (Áramlásillesztés) képzési célt. Ezek a fejlesztések jelentősen javítják...

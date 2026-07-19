@@ -1,23 +1,24 @@
 ---
-title: "Posisjonskoding"
-term_id: "positional_encoding"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformers", "nlp", "architecture"]
+title: Posisjonskoding
+term_id: positional_encoding
+category: basic_concepts
+subcategory: ''
+tags:
+- transformers
+- NLP
+- architecture
 difficulty: 3
 weight: 1
-slug: "positional_encoding"
-aliases:
-  - /no/terms/positional_encoding/
-date: "2026-07-18T15:38:08.069269Z"
-lastmod: "2026-07-18T16:38:06.961101Z"
+slug: positional_encoding
+date: '2026-07-18T15:38:08.069269Z'
+lastmod: '2026-07-18T16:38:06.961101Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En teknikk som injiserer informasjon om den relative eller absolutte posisjonen til tokens i en sekvens inn i transformer-modeller."
+source: agnes_llm
+status: published
+language: 'no'
+description: En teknikk som injiserer informasjon om den relative eller absolutte
+  posisjonen til tokens i en sekvens inn i transformer-modeller.
 ---
-
 ## Definition
 
 Siden transformers behandler alle tokens parallelt i stedet for sekvensielt som RNN-er, mangler de innebygd kunnskap om tokenrekkefølgen. Posisjonskoding legger til spesifikke vektorer til input-embeddings for å gi modellen informasjon om rekkefølgen.

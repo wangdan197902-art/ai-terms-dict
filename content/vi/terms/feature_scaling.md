@@ -1,23 +1,24 @@
 ---
-title: "Feature scaling"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Feature scaling
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /vi/terms/feature_scaling/
-date: "2026-07-18T15:53:20.659781Z"
-lastmod: "2026-07-18T16:38:07.757446Z"
+slug: feature_scaling
+date: '2026-07-18T15:53:20.659781Z'
+lastmod: '2026-07-18T16:38:07.757446Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình chuẩn hóa phạm vi của các biến độc lập hoặc đặc trưng của dữ liệu để đảm bảo tính đồng nhất về độ lớn."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình chuẩn hóa phạm vi của các biến độc lập hoặc đặc trưng của dữ
+  liệu để đảm bảo tính đồng nhất về độ lớn.
 ---
-
 ## Definition
 
 Feature scaling chuẩn hóa phạm vi của các biến đầu vào để ngăn chặn các đặc trưng có độ lớn lớn hơn chi phối quá trình học. Các phương pháp phổ biến bao gồm chuẩn hóa (scaling min-max) và chuẩn hóa...

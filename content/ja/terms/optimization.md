@@ -1,23 +1,23 @@
 ---
-title: "最適化"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: 最適化
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /ja/terms/optimization/
-date: "2026-07-18T10:59:55.934788Z"
-lastmod: "2026-07-18T11:44:45.052188Z"
+slug: optimization
+date: '2026-07-18T10:59:55.934788Z'
+lastmod: '2026-07-18T11:44:45.052188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "目的関数を最小化または最大化することで、最良の解のパラメータを見つける数学的プロセス。"
+source: agnes_llm
+status: published
+language: ja
+description: 目的関数を最小化または最大化することで、最良の解のパラメータを見つける数学的プロセス。
 ---
-
 ## Definition
 
 機械学習において、最適化とは損失関数を最小化するようにモデルパラメータを調整するためのアルゴリズムを指し、それによってモデルの性能を向上させます。一般的な手法には勾配降下法やその変種が含まれます。

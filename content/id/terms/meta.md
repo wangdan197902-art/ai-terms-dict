@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /id/terms/meta/
 date: "2026-07-18T16:00:03.637396Z"
 lastmod: "2026-07-18T16:38:07.482562Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dalam AI, 'meta' biasanya merujuk pada pembelajaran tentang pembelajaran atau proses tingkat tinggi yang mengatur adaptasi dan optimasi model."
 ---
-
 ## Definition
 
 Awalan 'meta' dalam kecerdasan buatan menunjukkan tingkat abstraksi yang lebih tinggi, sering kali melibatkan referensi diri atau pengawasan atas proses inti. Contoh umum termasuk 'meta-learning', di mana algoritma...

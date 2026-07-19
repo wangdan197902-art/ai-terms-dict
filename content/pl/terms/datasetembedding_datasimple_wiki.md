@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /pl/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:49:13.946569Z"
 lastmod: "2026-07-18T17:15:08.862145Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Kuracjowany zbiór danych pochodzący z Prostej angielskiej Wikipedii, wykorzystywany do trenowania i oceny modeli osadzania tekstu."
 ---
-
 ## Definition
 
 Ten zbiór danych składa się z zdań i akapitów wyodrębnionych z Prostej angielskiej Wikipedii, wersji Wikipedii napisanej dla osób niebędących nosicielami języka angielskiego, z uproszczoną gramatyką i słownictwem. Służy jako

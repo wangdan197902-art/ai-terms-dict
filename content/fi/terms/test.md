@@ -1,23 +1,23 @@
 ---
-title: "Testi"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Testi
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /fi/terms/test/
-date: "2026-07-18T15:31:40.344126Z"
-lastmod: "2026-07-18T17:15:09.360863Z"
+slug: test
+date: '2026-07-18T15:31:40.344126Z'
+lastmod: '2026-07-18T17:15:09.360863Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Testi viittaa arviointivaiheeseen, jossa koulutettu tekoälymalli arvioidaan näkemättömällä datalla suorituskyvyn mittaamiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Testi viittaa arviointivaiheeseen, jossa koulutettu tekoälymalli arvioidaan
+  näkemättömällä datalla suorituskyvyn mittaamiseksi.
 ---
-
 ## Definition
 
 Testijoukko on osa dataa, joka jätetään pois koulutusprosessista mallin lopullisen yleistymiskyvyn arvioimiseksi. Toisin kuin validointijoukkoa, jota käytetään hyperparametrien säätämiseen, testijoukko tarjoaa objektiivisen arvion mallin kyvystä toimia tuntemattomalla datalla...

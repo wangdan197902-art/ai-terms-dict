@@ -7,8 +7,6 @@ tags: ["infrastructure", "iot", "deployment"]
 difficulty: 3
 weight: 1
 slug: "edge_computing"
-aliases:
-  - /zh/terms/edge_computing/
 date: "2026-07-18T11:15:46.560762Z"
 lastmod: "2026-07-18T11:44:45.492959Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "边缘计算是一种分布式计算范式，它将计算和数据存储靠近数据源，而不是完全依赖集中的云服务器。"
 ---
-
 ## Definition
 
 边缘计算通过在数据生成附近（如物联网设备、传感器或本地网关）处理数据，解决了以云为中心架构的延迟和带宽限制。在AI领域，边缘计算使得模型能够在设备端直接运行推理，从而实现低延迟响应并减少数据传输成本。

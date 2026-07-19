@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /vi/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:40:51.162857Z"
 lastmod: "2026-07-18T16:38:07.729103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Sự giao thoa mới nổi nơi AI được sử dụng cho hướng dẫn tâm linh, hỗ trợ thiền định hoặc khám phá các câu hỏi triết học."
 ---
-
 ## Definition
 
 AI trong tâm linh đề cập đến việc ứng dụng trí tuệ nhân tạo trong các bối cảnh tôn giáo hoặc chiêm nghiệm. Điều này bao gồm các chatbot cung cấp lời khuyên đạo đức, nghệ thuật do AI tạo ra để hỗ trợ thiền định, hoặc các thuật toán phân tích văn bản thần học. Lĩnh vực này cũng khơi gợi các cuộc thảo luận sâu sắc về ý thức, bản chất của linh hồn và vai trò của công nghệ trong đời sống tinh thần.

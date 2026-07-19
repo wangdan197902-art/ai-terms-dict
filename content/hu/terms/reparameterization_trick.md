@@ -1,23 +1,25 @@
 ---
-title: "Újraparaméterezés trükk"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: Újraparaméterezés trükk
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /hu/terms/reparameterization_trick/
-date: "2026-07-18T16:21:30.695113Z"
-lastmod: "2026-07-18T17:15:09.829417Z"
+slug: reparameterization_trick
+date: '2026-07-18T16:21:30.695113Z'
+lastmod: '2026-07-18T17:15:09.829417Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy technika, amely szétválasztja a sztochasztikus változókat a tanulható paraméterektől, lehetővé téve a gradiens alapú optimalizálást a variációs következtetés során."
+source: agnes_llm
+status: published
+language: hu
+description: Egy technika, amely szétválasztja a sztochasztikus változókat a tanulható
+  paraméterektől, lehetővé téve a gradiens alapú optimalizálást a variációs következtetés
+  során.
 ---
-
 ## Definition
 
 Az újraparaméterezés trükk egy alapvető módszer, amelyet a variációs autoenkóderekben és más valószínűségi modellekben használnak. Lehetővé teszi, hogy a gradiens áramoljon a sztochasztikus csomópontokon keresztül, egy véletlenszerű változót úgy fejezve ki, hogy az függetlenítse azt a paraméterektől, így a deriválás lehetségesvé válik.

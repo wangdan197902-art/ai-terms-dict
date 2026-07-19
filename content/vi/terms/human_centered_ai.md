@@ -7,8 +7,6 @@ tags: ["design", "ethics", "philosophy"]
 difficulty: 3
 weight: 1
 slug: "human_centered_ai"
-aliases:
-  - /vi/terms/human_centered_ai/
 date: "2026-07-18T15:56:55.982760Z"
 lastmod: "2026-07-18T16:38:07.766305Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một phương pháp thiết kế và phát triển AI ưu tiên các giá trị, nhu cầu và hạnh phúc của con người trong suốt vòng đời hệ thống."
 ---
-
 ## Definition
 
 AI lấy con người làm trung tâm là một triết lý thiết đặt con người ở trọng tâm của việc phát triển trí tuệ nhân tạo. Nó nhấn mạnh việc tạo ra các hệ thống minh bạch, công bằng và có lợi cho xã hội, thay vì chỉ tập trung vào hiệu suất kỹ thuật...

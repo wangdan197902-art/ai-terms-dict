@@ -7,8 +7,6 @@ tags: ["models", "chatbots", "applications"]
 difficulty: 2
 weight: 1
 slug: "grok"
-aliases:
-  - /tr/terms/grok/
 date: "2026-07-18T15:55:56.276343Z"
 lastmod: "2026-07-18T16:38:07.315266Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "xAI tarafından geliştirilen, X platformuna entegre edilmiş, gerçek zamanlı sosyal medya verilerine erişimi ve mizahi kişiliğiyle tanınan bir sohbet botu."
 ---
-
 ## Definition
 
 Grok, Elon Musk'ın şirketi xAI tarafından oluşturulan büyük bir dil modeli tabanlı sohbet botudur. Temel olarak X platformunun (eski adıyla Twitter) abonelerine açıktır. Grok, gerçek zamanlı veri erişimine sahip olması ve geleneksel yapay zeka asistanlarından farklı olarak daha doğrudan, bazen de alaycı bir üsluba sahip olmasıyla dikkat çeker.

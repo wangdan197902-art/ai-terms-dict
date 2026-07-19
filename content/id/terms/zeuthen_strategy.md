@@ -7,8 +7,6 @@ tags: ["Game Theory", "Multi-Agent", "Negotiation"]
 difficulty: 4
 weight: 1
 slug: "zeuthen_strategy"
-aliases:
-  - /id/terms/zeuthen_strategy/
 date: "2026-07-18T16:13:46.637870Z"
 lastmod: "2026-07-18T16:38:07.520792Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Protokol negosiasi dalam sistem multi-agen yang menentukan kapan seorang agen harus mempertaruhkan konflik berdasarkan kehilangan utilitasnya."
 ---
-
 ## Definition
 
 Strategi Zeuthen adalah pendekatan berbasis aturan untuk tawar-menawar dalam negosiasi multi-agen. Strategi ini menghitung risiko maksimum yang bersedia diambil oleh seorang agen untuk mendorong hasil yang disukai, yang didefinisikan sebagai r...

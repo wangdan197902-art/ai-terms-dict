@@ -1,23 +1,24 @@
 ---
-title: "Átfedő beszéd detektálása"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Átfedő beszéd detektálása
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /hu/terms/overlapped_speech_detection/
-date: "2026-07-18T16:16:44.627010Z"
-lastmod: "2026-07-18T17:15:09.820026Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:16:44.627010Z'
+lastmod: '2026-07-18T17:15:09.820026Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az a folyamat, amely során azonosítja azokat az időtartamokat, amikor két vagy több beszélő egyszerre beszél egy hangfolyamban."
+source: agnes_llm
+status: published
+language: hu
+description: Az a folyamat, amely során azonosítja azokat az időtartamokat, amikor
+  két vagy több beszélő egyszerre beszél egy hangfolyamban.
 ---
-
 ## Definition
 
 Az átfedő beszéd detektálása (OSD) a beszédfeldolgozás egy speciális feladata, amely egyidejű hangosodások intervallumait határozza meg. Ellentétben a beszélők azonosításával (diarization), amely arra fókuszál, hogy 'ki mikor beszélt', az OSD...

@@ -1,23 +1,25 @@
 ---
-title: "Studi sulla singolarità"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: Studi sulla singolarità
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /it/terms/singularity_studies/
-date: "2026-07-18T16:21:20.643079Z"
-lastmod: "2026-07-18T17:15:08.668684Z"
+slug: singularity_studies
+date: '2026-07-18T16:21:20.643079Z'
+lastmod: '2026-07-18T17:15:08.668684Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un campo interdisciplinare che esamina i potenziali impatti sociali, etici ed esistenziali di una futura singolarità tecnologica."
+source: agnes_llm
+status: published
+language: it
+description: Un campo interdisciplinare che esamina i potenziali impatti sociali,
+  etici ed esistenziali di una futura singolarità tecnologica.
 ---
-
 ## Definition
 
 Gli studi sulla singolarità sono una disciplina accademica emergente che indaga le implicazioni di un ipotetico futuro punto in cui l'intelligenza artificiale supera l'intelligenza umana, portando a un cambiamento incontrollabile e rapido nella civiltà.

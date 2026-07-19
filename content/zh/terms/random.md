@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /zh/terms/random/
 date: "2026-07-18T10:54:02.537174Z"
 lastmod: "2026-07-18T11:44:45.382334Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "缺乏可预测模式的属性，通常在AI中通过伪随机数生成算法来模拟。"
 ---
-
 ## Definition
 
 随机性是AI的基础，用于初始化模型权重、打乱数据集以及在训练过程中引入随机性以防止过拟合。由于计算机是确定性的，AI系统……

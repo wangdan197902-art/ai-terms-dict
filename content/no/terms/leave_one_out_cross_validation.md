@@ -1,23 +1,24 @@
 ---
-title: "Korsvalidering med utelatt én observasjon"
-term_id: "leave_one_out_cross_validation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "evaluation", "statistics"]
+title: Korsvalidering med utelatt én observasjon
+term_id: leave_one_out_cross_validation
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- evaluation
+- statistics
 difficulty: 3
 weight: 1
-slug: "leave_one_out_cross_validation"
-aliases:
-  - /no/terms/leave_one_out_cross_validation/
-date: "2026-07-18T16:02:37.288905Z"
-lastmod: "2026-07-18T16:38:07.018632Z"
+slug: leave_one_out_cross_validation
+date: '2026-07-18T16:02:37.288905Z'
+lastmod: '2026-07-18T16:38:07.018632Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En grundig resamplingsmetode der modellen trenes på alle unntatt én prøve og testes på den enkelt utelatte prøven, gjentatt for hvert datapunkt."
+source: agnes_llm
+status: published
+language: 'no'
+description: En grundig resamplingsmetode der modellen trenes på alle unntatt én prøve
+  og testes på den enkelt utelatte prøven, gjentatt for hvert datapunkt.
 ---
-
 ## Definition
 
 Korsvalidering med utelatt én observasjon (LOOCV) er et spesielt tilfelle av k-fold korsvalidering der k er lik antall prøver i datasettet. Det gir en nesten ubestridelig estimat av modellens ytelse ved å bruke hver enkelt observasjon som testsett nøyaktig én gang, mens resten brukes til trening. Dette gir en lav skjevhet i estimatet, men kan være beregningsmessig kostbart.

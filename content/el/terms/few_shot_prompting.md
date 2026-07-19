@@ -1,23 +1,25 @@
 ---
-title: "Prompting Λιγών Παραδειγμάτων"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: Prompting Λιγών Παραδειγμάτων
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /el/terms/few_shot_prompting/
-date: "2026-07-18T15:40:44.253240Z"
-lastmod: "2026-07-18T17:15:09.866371Z"
+slug: few_shot_prompting
+date: '2026-07-18T15:40:44.253240Z'
+lastmod: '2026-07-18T17:15:09.866371Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το prompting λιγών παραδειγμάτων είναι μια τεχνική όπου στα μεγάλα γλωσσικά μοντέλα παρέχονται λίγα παραδείγματα εισόδου-εξόδου εντός της εντολής για τον καθορισμό της συμπεριφοράς τους."
+source: agnes_llm
+status: published
+language: el
+description: Το prompting λιγών παραδειγμάτων είναι μια τεχνική όπου στα μεγάλα γλωσσικά
+  μοντέλα παρέχονται λίγα παραδείγματα εισόδου-εξόδου εντός της εντολής για τον καθορισμό
+  της συμπεριφοράς τους.
 ---
-
 ## Definition
 
 Αυτή η μέθοδος αξιοποιεί τις ικανότητες μάθησης εν περιεχομένων των μεγάλων γλωσσικών μοντέλων παρέχοντας λίγα παραστατικά παραδείγματα απευθείας στην εντολή. Σε αντίθεση με τη λεπτομερή ρύθμιση, η οποία απαιτεί την ενημέρωση των βαρών του μοντέλου, εδώ η γνώση ενσωματώνεται μέσω του context.

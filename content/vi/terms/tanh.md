@@ -1,23 +1,23 @@
 ---
-title: "Hàm Tanh"
-term_id: "tanh"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "mathematics"]
+title: Hàm Tanh
+term_id: tanh
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- mathematics
 difficulty: 2
 weight: 1
-slug: "tanh"
-aliases:
-  - /vi/terms/tanh/
-date: "2026-07-18T16:13:39.910171Z"
-lastmod: "2026-07-18T16:38:07.809855Z"
+slug: tanh
+date: '2026-07-18T16:13:39.910171Z'
+lastmod: '2026-07-18T16:38:07.809855Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Tanh, hay hàm tiếp tuyến hyperbol, là một hàm kích hoạt ánh xạ các giá trị đầu vào vào khoảng giá trị từ -1 đến 1."
+source: agnes_llm
+status: published
+language: vi
+description: Tanh, hay hàm tiếp tuyến hyperbol, là một hàm kích hoạt ánh xạ các giá
+  trị đầu vào vào khoảng giá trị từ -1 đến 1.
 ---
-
 ## Definition
 
 Hàm tiếp tuyến hyperbol (Tanh) là một hàm kích hoạt phi tuyến thường được sử dụng trong mạng nơ-ron. Nó nén các giá trị đầu vào vào khoảng (-1, 1), cung cấp các đầu ra có tâm bằng không, điều này giúp...

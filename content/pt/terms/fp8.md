@@ -1,23 +1,25 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /pt/terms/fp8/
-date: "2026-07-18T15:00:39.109224Z"
-lastmod: "2026-07-18T15:51:59.492380Z"
+slug: fp8
+date: '2026-07-18T15:00:39.109224Z'
+lastmod: '2026-07-18T15:51:59.492380Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O FP8 é um formato de ponto flutuante de 8 bits projetado para acelerar o treinamento e a inferência de aprendizado profundo, mantendo níveis de precisão aceitáveis."
+source: agnes_llm
+status: published
+language: pt
+description: O FP8 é um formato de ponto flutuante de 8 bits projetado para acelerar
+  o treinamento e a inferência de aprendizado profundo, mantendo níveis de precisão
+  aceitáveis.
 ---
-
 ## Definition
 
 Ponto flutuante 8 (FP8) é um tipo de dado numérico que oferece um equilíbrio entre eficiência computacional e precisão, especificamente otimizado para hardware de IA moderno. Reduz a necessidade de largura de banda de memória.

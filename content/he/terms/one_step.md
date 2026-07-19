@@ -1,23 +1,23 @@
 ---
-title: "צעד אחד"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: צעד אחד
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /he/terms/one_step/
-date: "2026-07-18T15:34:25.781138Z"
-lastmod: "2026-07-18T17:15:09.494225Z"
+slug: one_step
+date: '2026-07-18T15:34:25.781138Z'
+lastmod: '2026-07-18T17:15:09.494225Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מתייחס לאלגוריתמים או תהליכים המבצעים משימה או מחזור קבלת החלטות באיטרציה אחת בלבד, ללא שיפור איטרטיבי."
+source: agnes_llm
+status: published
+language: he
+description: מתייחס לאלגוריתמים או תהליכים המבצעים משימה או מחזור קבלת החלטות באיטרציה
+  אחת בלבד, ללא שיפור איטרטיבי.
 ---
-
 ## Definition
 
 במכונת למידה ואופטימיזציה, שיטות צעד-אחד פותרות בעיות ישירות ללא צורך באיטרציות או עדיות מרובות כדי להתכנס. בניגוד לירידה במדרגה (gradient descent) הלקוחה צעדים רבים כדי למזער

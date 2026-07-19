@@ -1,23 +1,24 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /fi/terms/fp8/
-date: "2026-07-18T15:58:21.096495Z"
-lastmod: "2026-07-18T17:15:09.412756Z"
+slug: fp8
+date: '2026-07-18T15:58:21.096495Z'
+lastmod: '2026-07-18T17:15:09.412756Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "FP8 on 8-bittinen liukulukumuoto, joka on suunniteltu kiihdyttämään syväoppimisen harjoittelua ja päättelyä säilyttäen samalla hyväksyttävän tarkkuustason."
+source: agnes_llm
+status: published
+language: fi
+description: FP8 on 8-bittinen liukulukumuoto, joka on suunniteltu kiihdyttämään syväoppimisen
+  harjoittelua ja päättelyä säilyttäen samalla hyväksyttävän tarkkuustason.
 ---
-
 ## Definition
 
 Liukuluku 8 (FP8) on numeerinen tietotyyppi, joka tarjoaa tasapainon laskennallisen tehokkuuden ja tarkkuuden välillä, erityisesti optimoituna nykyaikaiselle tekoälylaitteistolle. Se vähentää muistikaistan

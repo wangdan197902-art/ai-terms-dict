@@ -1,23 +1,23 @@
 ---
-title: "Sekavuusmatriisi"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: Sekavuusmatriisi
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /fi/terms/confusion_matrix/
-date: "2026-07-18T15:49:17.573599Z"
-lastmod: "2026-07-18T17:15:09.393844Z"
+slug: confusion_matrix
+date: '2026-07-18T15:49:17.573599Z'
+lastmod: '2026-07-18T17:15:09.393844Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Taulukko, jota käytetään luokittelumallin suorituskyvyn kuvaamiseen testidatajoukossa."
+source: agnes_llm
+status: published
+language: fi
+description: Taulukko, jota käytetään luokittelumallin suorituskyvyn kuvaamiseen testidatajoukossa.
 ---
-
 ## Definition
 
 Sekavuusmatriisi on tietty taulukkorytymä, joka mahdollistaa algoritmin (yleensä valvotun oppimisen mallin) suorituskyvyn visualisoinnin. Se näyttää todellisten positiivisten, todellisten negatiivisten, väärien positiivisten ja väärien negatiivisten tulosten lukumäärät.

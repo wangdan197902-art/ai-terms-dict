@@ -7,8 +7,6 @@ tags: ["physics", "theory", "quantum"]
 difficulty: 5
 weight: 1
 slug: "m_theory"
-aliases:
-  - /nl/terms/m_theory/
 date: "2026-07-18T16:05:32.493463Z"
 lastmod: "2026-07-18T17:15:08.764210Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "M-theorie is een theoretisch kader in de natuurkunde dat vijf verschillende versies van snaartheorie统一, en stelt dat fundamentele deeltjes trillingen zijn van eendimensionale membranen in elf dimensie"
 ---
-
 ## Definition
 
 Hoewel het voornamelijk een concept in de theoretische natuurkunde is en niet in de informatica, wordt M-theorie af en toe vermeld in geavanceerde computationele simulaties en onderzoek naar quantumcomputing. Het suggereert dat

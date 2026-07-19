@@ -1,23 +1,25 @@
 ---
-title: "Hamilton-függvény"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: Hamilton-függvény
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /hu/terms/hamiltonian/
-date: "2026-07-18T15:27:03.163519Z"
-lastmod: "2026-07-18T17:15:09.722282Z"
+slug: hamiltonian
+date: '2026-07-18T15:27:03.163519Z'
+lastmod: '2026-07-18T17:15:09.722282Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy rendszerek teljes energiáját reprezentáló függvény, amelyet a fizikából ihletett AI-modellekben használnak a dinamika szimulálására és az energia megmaradásának biztosítására."
+source: agnes_llm
+status: published
+language: hu
+description: Egy rendszerek teljes energiáját reprezentáló függvény, amelyet a fizikából
+  ihletett AI-modellekben használnak a dinamika szimulálására és az energia megmaradásának
+  biztosítására.
 ---
-
 ## Definition
 
 A klasszikus mechanikából eredően a Hamilton-függvény a rendszer kinetikus és potenciális energiájának összegét jelenti. Az AI-ban a Hamilton-neurális hálózatok (HNN) ezt a fogalmat integrálják a dinamika tanulásához...

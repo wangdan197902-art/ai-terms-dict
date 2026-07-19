@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /fr/terms/brain_technology/
 date: "2026-07-18T11:07:10.028293Z"
 lastmod: "2026-07-18T11:44:45.205022Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Technologies conçues pour interagir avec, surveiller ou moduler le cerveau humain, y compris les interfaces cerveau-ordinateur et les outils d'imagerie neurologique."
 ---
-
 ## Definition
 
 La technologie cérébrale englobe les systèmes matériels et logiciels qui interagissent directement avec le système nerveux central. Les exemples clés incluent les interfaces cerveau-ordinateur (BCI) qui traduisent les signaux neuronaux en commandes numériques, ainsi que les outils d'imagerie comme l'IRMf pour visualiser l'activité cérébrale.

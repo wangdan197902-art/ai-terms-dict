@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /ja/terms/gibberlink/
 date: "2026-07-18T11:16:20.970026Z"
 lastmod: "2026-07-18T11:44:45.101502Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ジバーリンクは、人工知能の文献において標準的な用語として認識されていません。"
 ---
-
 ## Definition
 
 人工知能、機械学習、またはコンピュータサイエンスの分野において、「ジバーリンク」として確立された概念、技術、または方法論は存在しません。これは誤記、またはフィクションである可能性があります。

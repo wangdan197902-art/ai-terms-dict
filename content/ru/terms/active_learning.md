@@ -1,23 +1,24 @@
 ---
-title: "Активное обучение"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: Активное обучение
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /ru/terms/active_learning/
-date: "2026-07-18T15:39:26.569238Z"
-lastmod: "2026-07-18T16:38:07.116188Z"
+slug: active_learning
+date: '2026-07-18T15:39:26.569238Z'
+lastmod: '2026-07-18T16:38:07.116188Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стратегия машинного обучения, при которой алгоритм выборочно запрашивает у пользователя или эксперта разметку новых точек данных, оптимизируя процесс обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Стратегия машинного обучения, при которой алгоритм выборочно запрашивает
+  у пользователя или эксперта разметку новых точек данных, оптимизируя процесс обучения.
 ---
-
 ## Definition
 
 Активное обучение снижает потребность в размеченных данных, позволяя модели выбирать наиболее информативные экземпляры для ручной разметки человеком. Вместо пассивного получения случайных выборок, алгорит

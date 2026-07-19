@@ -1,23 +1,24 @@
 ---
-title: "Ottimizzazione bayesiana"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Ottimizzazione bayesiana
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /it/terms/bayesian_optimization/
-date: "2026-07-18T15:49:34.915323Z"
-lastmod: "2026-07-18T17:15:08.602828Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:49:34.915323Z'
+lastmod: '2026-07-18T17:15:08.602828Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una strategia di progettazione sequenziale per l'ottimizzazione globale di funzioni black-box costose da valutare."
+source: agnes_llm
+status: published
+language: it
+description: Una strategia di progettazione sequenziale per l'ottimizzazione globale
+  di funzioni black-box costose da valutare.
 ---
-
 ## Definition
 
 L'ottimizzazione bayesiana utilizza un modello surrogato probabilistico, tipicamente un Processo Gaussiano, per modellare la funzione obiettivo. Impiega una funzione di acquisizione per bilanciare esplorazione e sfruttamento, consentendo di

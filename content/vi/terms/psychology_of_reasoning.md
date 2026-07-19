@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /vi/terms/psychology_of_reasoning/
 date: "2026-07-18T16:08:49.733186Z"
 lastmod: "2026-07-18T16:38:07.796097Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Nghiên cứu liên ngành về cách con người hình thành phán đoán, đưa ra quyết định và giải quyết vấn đề, cung cấp thông tin cho kiến trúc AI nhận thức."
 ---
-
 ## Definition
 
 Lĩnh vực này xem xét các quá trình tâm thần nền tảng cho phép suy luận diễn dịch, quy nạp và truy nguyên của con người. Nó khám phá các thiên kiến, phương pháp heuristic và cấu trúc logic hướng dẫn tư duy con người. Trong AI, những hiểu biết

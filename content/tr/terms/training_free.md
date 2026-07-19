@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /tr/terms/training_free/
 date: "2026-07-18T15:33:17.801030Z"
 lastmod: "2026-07-18T16:38:07.253388Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Gradyan tabanlı parametre güncellemeleri yapmadan modelleri adapte eden veya geliştiren yöntemler."
 ---
-
 ## Definition
 
 Training-free (eğitimsiz) yaklaşımlar, geri yayılım (backpropagation) yoluyla temel ağırlıkları güncellemeden model davranışını veya çıktısını değiştiren teknikleri ifade eder. Bu yöntemler genellikle prompt mühendisliği, özellik uzayı manipülasyonu veya çıkarım zamanı stratejilerini kullanır.

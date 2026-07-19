@@ -1,23 +1,25 @@
 ---
-title: "Clipping (Limitação)"
-term_id: "clip"
-category: "engineering_practice"
-subcategory: ""
-tags: ["optimization", "stability", "engineering"]
+title: Clipping (Limitação)
+term_id: clip
+category: engineering_practice
+subcategory: ''
+tags:
+- Optimization
+- stability
+- engineering
 difficulty: 3
 weight: 1
-slug: "clip"
-aliases:
-  - /pt/terms/clip/
-date: "2026-07-18T14:53:03.755347Z"
-lastmod: "2026-07-18T15:51:59.471296Z"
+slug: clip
+date: '2026-07-18T14:53:03.755347Z'
+lastmod: '2026-07-18T15:51:59.471296Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "O clipping é uma técnica usada para limitar a magnitude de valores, como gradientes ou probabilidades de saída, para evitar instabilidade numérica durante o treinamento."
+source: agnes_llm
+status: published
+language: pt
+description: O clipping é uma técnica usada para limitar a magnitude de valores, como
+  gradientes ou probabilidades de saída, para evitar instabilidade numérica durante
+  o treinamento.
 ---
-
 ## Definition
 
 Na engenharia de aprendizado profundo, o clipping é comumente aplicado aos gradientes para mitigar o problema de gradientes explosivos, garantindo uma retropropagação estável. Também pode se referir à limitação das logit de saída antes da aplicação da função de ativação.

@@ -1,23 +1,23 @@
 ---
-title: "OpenAI的产品与应用"
-term_id: "products_and_applications_of_openai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["industry", "generative_ai", "nlp"]
+title: OpenAI的产品与应用
+term_id: products_and_applications_of_openai
+category: basic_concepts
+subcategory: ''
+tags:
+- industry
+- Generative AI
+- NLP
 difficulty: 1
 weight: 1
-slug: "products_and_applications_of_openai"
-aliases:
-  - /zh/terms/products_and_applications_of_openai/
-date: "2026-07-18T11:30:38.310494Z"
-lastmod: "2026-07-18T11:44:45.545892Z"
+slug: products_and_applications_of_openai
+date: '2026-07-18T11:30:38.310494Z'
+lastmod: '2026-07-18T11:44:45.545892Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "指OpenAI开发的一系列AI工具、API和研究成果，包括GPT模型和DALL-E。"
+source: agnes_llm
+status: published
+language: zh
+description: 指OpenAI开发的一系列AI工具、API和研究成果，包括GPT模型和DALL-E。
 ---
-
 ## Definition
 
 该术语涵盖了领先的人工智能研究实验室OpenAI创建的商业和研究产品。主要提供包括生成式预训练Transformer（GPT）系列模型用于自然语言处理，DALL-E用于图像生成，以及ChatGPT等对话式AI应用。这些产品广泛应用于内容创作、代码辅助、客户服务等领域。

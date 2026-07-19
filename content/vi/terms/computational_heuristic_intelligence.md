@@ -1,23 +1,24 @@
 ---
-title: "Trí tuệ heuristic tính toán"
-term_id: "computational_heuristic_intelligence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["algorithms", "search", "optimization"]
+title: Trí tuệ heuristic tính toán
+term_id: computational_heuristic_intelligence
+category: basic_concepts
+subcategory: ''
+tags:
+- algorithms
+- search
+- Optimization
 difficulty: 3
 weight: 1
-slug: "computational_heuristic_intelligence"
-aliases:
-  - /vi/terms/computational_heuristic_intelligence/
-date: "2026-07-18T15:45:27.021940Z"
-lastmod: "2026-07-18T16:38:07.738196Z"
+slug: computational_heuristic_intelligence
+date: '2026-07-18T15:45:27.021940Z'
+lastmod: '2026-07-18T16:38:07.738196Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Các phương pháp AI sử dụng kỹ thuật thực tiễn, dựa trên kinh nghiệm để giải quyết vấn đề một cách hiệu quả khi các phương pháp chính xác quá chậm."
+source: agnes_llm
+status: published
+language: vi
+description: Các phương pháp AI sử dụng kỹ thuật thực tiễn, dựa trên kinh nghiệm để
+  giải quyết vấn đề một cách hiệu quả khi các phương pháp chính xác quá chậm.
 ---
-
 ## Definition
 
 Trí tuệ heuristic tính toán liên quan đến các thuật toán sử dụng các quy tắc kinh nghiệm, xấp xỉ hoặc phỏng đoán sáng suốt để tìm ra các giải pháp thỏa đáng trong khoảng thời gian hợp lý. Khác với các phương pháp...

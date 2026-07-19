@@ -1,23 +1,25 @@
 ---
-title: "Unsloth"
-term_id: "unsloth"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "LLM", "training", "library"]
+title: Unsloth
+term_id: unsloth
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- LLM
+- training
+- library
 difficulty: 3
 weight: 1
-slug: "unsloth"
-aliases:
-  - /ko/terms/unsloth/
-date: "2026-07-18T16:19:50.408487Z"
-lastmod: "2026-07-18T16:38:06.918313Z"
+slug: unsloth
+date: '2026-07-18T16:19:50.408487Z'
+lastmod: '2026-07-18T16:38:06.918313Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "Unsloth는 최적화된 메모리 관리와 커널 구현을 통해 대규모 언어 모델(LLM)의 훈련 및 추론 속도를 최대 2배까지 가속화하는 오픈소스 라이브러리입니다."
+source: agnes_llm
+status: published
+language: ko
+description: Unsloth는 최적화된 메모리 관리와 커널 구현을 통해 대규모 언어 모델(LLM)의 훈련 및 추론 속도를 최대 2배까지 가속화하는
+  오픈소스 라이브러리입니다.
 ---
-
 ## Definition
 
 Unsloth는 대규모 언어 모델(LLM)의 파인튜닝 및 배포를 최적화하도록 설계된 전용 도구입니다. 표준 PyTorch 연산을 대체하여 상당한 속도 향상과 메모리 절감을 달성합니다.

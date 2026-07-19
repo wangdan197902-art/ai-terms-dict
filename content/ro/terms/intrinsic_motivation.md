@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /ro/terms/intrinsic_motivation/
 date: "2026-07-18T16:06:09.788392Z"
 lastmod: "2026-07-18T17:15:09.670295Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un concept din învățarea prin întărire în care agenții urmăresc obiective bazate pe curiozitate internă sau achiziția de cunoștințe, nu pe recompense externe."
 ---
-
 ## Definition
 
 În învățarea prin întărire, motivația intrinsecă determină un agent să exploreze mediul căutând noutatea, reducând incertitudinea sau stăpânind abilitățile, independent de recompensele extrinseci ale sarcinii. Acest mecanism încurajează explorarea eficientă în spații de stare mari.

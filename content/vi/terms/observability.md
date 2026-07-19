@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /vi/terms/observability/
 date: "2026-07-18T16:06:04.808932Z"
 lastmod: "2026-07-18T16:38:07.789113Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khả năng quan sát là thước đo mức độ mà các trạng thái bên trong của hệ thống có thể được suy ra từ các đầu ra bên ngoài như nhật ký (logs), chỉ số (metrics) và dấu vết (traces)."
 ---
-
 ## Definition
 
 Trong kỹ thuật AI, khả năng quan sát đề cập đến khả năng hiểu trạng thái bên trong của các hệ thống học máy phức tạp bằng cách phân tích các đầu ra bên ngoài của chúng. Nó vượt xa khái niệm giám sát truyền thống.

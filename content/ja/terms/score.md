@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics"]
 difficulty: 1
 weight: 1
 slug: "score"
-aliases:
-  - /ja/terms/score/
 date: "2026-07-18T10:54:45.449955Z"
 lastmod: "2026-07-18T11:44:45.018781Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "スコアとは、モデルの予測や解決策の品質、信頼性、適合度を表す数値です。"
 ---
-
 ## Definition
 
 スコアは、精度、精密率、または報酬などの特定の指標に対して機械学習モデルがどの程度良く機能しているかを定量化します。強化学習では、スコアは累積報酬を示し、分類では

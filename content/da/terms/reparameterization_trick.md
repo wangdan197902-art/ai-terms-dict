@@ -1,23 +1,24 @@
 ---
-title: "Reparameteriseringstricket"
-term_id: "reparameterization_trick"
-category: "basic_concepts"
-subcategory: ""
-tags: ["deep_learning", "probabilistic_models", "optimization"]
+title: Reparameteriseringstricket
+term_id: reparameterization_trick
+category: basic_concepts
+subcategory: ''
+tags:
+- Deep Learning
+- Probabilistic Models
+- Optimization
 difficulty: 4
 weight: 1
-slug: "reparameterization_trick"
-aliases:
-  - /da/terms/reparameterization_trick/
-date: "2026-07-18T16:15:02.198569Z"
-lastmod: "2026-07-18T17:15:09.327688Z"
+slug: reparameterization_trick
+date: '2026-07-18T16:15:02.198569Z'
+lastmod: '2026-07-18T17:15:09.327688Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En teknik, der adskiller stokastiske variable fra lærbare parametre for at muliggøre gradientbaseret optimering i variationel inferens."
+source: agnes_llm
+status: published
+language: da
+description: En teknik, der adskiller stokastiske variable fra lærbare parametre for
+  at muliggøre gradientbaseret optimering i variationel inferens.
 ---
-
 ## Definition
 
 Reparameteriseringstricket er en fundamental metode, der bruges i variational autoencoders og andre sandsynlighedsmodeller. Det tillader, at gradienter flyder gennem stokastiske noder ved at udtrykke en tilfældig variabel som en deterministisk funktion af dens parametre og en uafhængig støjvariabel.

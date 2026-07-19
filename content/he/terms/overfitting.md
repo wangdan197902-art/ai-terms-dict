@@ -1,23 +1,24 @@
 ---
-title: "התאמת יתר"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: התאמת יתר
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /he/terms/overfitting/
-date: "2026-07-18T15:37:42.850345Z"
-lastmod: "2026-07-18T17:15:09.502382Z"
+slug: overfitting
+date: '2026-07-18T15:37:42.850345Z'
+lastmod: '2026-07-18T17:15:09.502382Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שגיאת מודל שבה אלגוריתם למידת מכונה לוכד רעש במקום האות הבסיסי, פוגע ביכולת הכללה."
+source: agnes_llm
+status: published
+language: he
+description: שגיאת מודל שבה אלגוריתם למידת מכונה לוכד רעש במקום האות הבסיסי, פוגע
+  ביכולת הכללה.
 ---
-
 ## Definition
 
 התאמת יתר מתרחשת כאשר מודל לומד את נתוני האימון יתר על המידה, כולל הרעש האקראי והערכים הקיצוניים, מה שמוביל לביצועים מצוינים על נתוני האימון אך לביצועים ירודים על נתוני בדיקה חדשים ולא נראו בעבר.

@@ -1,23 +1,24 @@
 ---
-title: "การศึกษาจุดเปลี่ยนทางเทคโนโลยี"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: การศึกษาจุดเปลี่ยนทางเทคโนโลยี
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /th/terms/singularity_studies/
-date: "2026-07-18T16:15:12.684311Z"
-lastmod: "2026-07-18T16:38:07.654136Z"
+slug: singularity_studies
+date: '2026-07-18T16:15:12.684311Z'
+lastmod: '2026-07-18T16:38:07.654136Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สาขาวิชาสหวิทยาการที่ศึกษาผลกระทบทางสังคม จริยธรรม และการดำรงอยู่ของมนุษยชาติจากจุดเปลี่ยนทางเทคโนโลยีในอนาคต"
+source: agnes_llm
+status: published
+language: th
+description: สาขาวิชาสหวิทยาการที่ศึกษาผลกระทบทางสังคม จริยธรรม และการดำรงอยู่ของมนุษยชาติจากจุดเปลี่ยนทางเทคโนโลยีในอนาคต
 ---
-
 ## Definition
 
 การศึกษาจุดเปลี่ยนทางเทคโนโลยีเป็นสาขาวิชาการที่กำลังเกิดขึ้น ซึ่งตรวจสอบนัยยะของจุดเปลี่ยนในอุดมคติในอนาคตที่ปัญญาประดิษฐ์จะเกินความสามารถของมนุษย์ นำไปสู่การเปลี่ยนแปลงที่ไม่อาจควบคุมได้

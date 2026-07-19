@@ -7,8 +7,6 @@ tags: ["control", "robotics", "feedback"]
 difficulty: 3
 weight: 1
 slug: "closed_loop"
-aliases:
-  - /ko/terms/closed_loop/
 date: "2026-07-18T15:31:20.629890Z"
 lastmod: "2026-07-18T16:38:06.787990Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "출력 피드백을 지속적으로 사용하여 향후 행동을 조정하는 제어 시스템."
 ---
-
 ## Definition
 
 AI의 폐루프 시스템은 환경으로부터의 실시간 피드백을 활용하여 행동이나 매개변수를 동적으로 조정합니다. 이는 미리 정의된 시퀀스를 실행하는 개방 루프 시스템과 대조됩니다.

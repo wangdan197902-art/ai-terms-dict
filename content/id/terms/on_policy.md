@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /id/terms/on_policy/
 date: "2026-07-18T15:32:19.697066Z"
 lastmod: "2026-07-18T16:38:07.409527Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pendekatan pembelajaran penguatan di mana kebijakan yang dievaluasi dan ditingkatkan adalah sama dengan kebijakan yang digunakan untuk menghasilkan data."
 ---
-
 ## Definition
 
 Algoritma on-policy mengharuskan agen belajar secara langsung dari tindakan yang diambil oleh kebijakannya saat ini. Ini berarti data yang dikumpulkan selama eksplorasi digunakan segera untuk memperbarui kebijakan, memastikan konsistensi distribusi data.

@@ -7,8 +7,6 @@ tags: ["models", "architecture"]
 difficulty: 2
 weight: 1
 slug: "foundation"
-aliases:
-  - /fi/terms/foundation/
 date: "2026-07-18T15:26:45.755689Z"
 lastmod: "2026-07-18T17:15:09.350766Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Ennakkokoulutettu malli, joka on koulutettu valtavilla tietojoukoilla toimimaan perustana erilaisille jälkikäteen suoritettaville tehtäville."
 ---
-
 ## Definition
 
 Tekoälyn kontekstissa perusmalli viittaa laajasti skaalattuun koneoppimismalliin, joka on koulutettu laajan datan, kuten kuvien, tekstin tai äänen, päällä. Nämä mallit on suunniteltu sopeutuviksi ja niillä on laaja soveltuvuus eri tehtäviin.

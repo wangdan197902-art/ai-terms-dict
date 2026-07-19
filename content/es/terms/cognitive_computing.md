@@ -7,8 +7,6 @@ tags: ["AI Paradigms", "Human-Centric AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_computing"
-aliases:
-  - /es/terms/cognitive_computing/
 date: "2026-07-18T10:39:39.392523Z"
 lastmod: "2026-07-18T11:44:44.786158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La computación cognitiva se refiere a sistemas que simulan procesos de pensamiento humano en un modelo informático, utilizando IA para imitar las funciones del cerebro humano."
 ---
-
 ## Definition
 
 La computación cognitiva es una rama de la inteligencia artificial que busca interactuar con los humanos de forma natural mientras simula los procesos cerebrales humanos. Estos sistemas utilizan aprendizaje automático, aprendizaje profundo y procesamiento de lenguaje natural.

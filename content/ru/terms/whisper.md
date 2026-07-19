@@ -1,23 +1,24 @@
 ---
-title: "Whisper"
-term_id: "whisper"
-category: "basic_concepts"
-subcategory: ""
-tags: ["speech_recognition", "openai", "practical_ai"]
+title: Whisper
+term_id: whisper
+category: basic_concepts
+subcategory: ''
+tags:
+- Speech Recognition
+- openai
+- Practical AI
 difficulty: 2
 weight: 1
-slug: "whisper"
-aliases:
-  - /ru/terms/whisper/
-date: "2026-07-18T16:20:38.705885Z"
-lastmod: "2026-07-18T16:38:07.214008Z"
+slug: whisper
+date: '2026-07-18T16:20:38.705885Z'
+lastmod: '2026-07-18T16:38:07.214008Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Система автоматического распознавания речи (ASR), разработанная OpenAI и обученная на большом наборе разнообразных аудиоданных."
+source: agnes_llm
+status: published
+language: ru
+description: Система автоматического распознавания речи (ASR), разработанная OpenAI
+  и обученная на большом наборе разнообразных аудиоданных.
 ---
-
 ## Definition
 
 Whisper — это универсальная модель распознавания речи, предназначенная для работы с различными языками, диалектами и акцентами. Она обучена на сотнях тысяч часов многоязычных и многозадачных supervis...

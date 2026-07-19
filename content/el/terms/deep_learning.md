@@ -1,23 +1,25 @@
 ---
-title: "Βαθιά Μάθηση"
-term_id: "deep_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural_networks", "ml"]
+title: Βαθιά Μάθηση
+term_id: deep_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- ML
 difficulty: 3
 weight: 1
-slug: "deep_learning"
-aliases:
-  - /el/terms/deep_learning/
-date: "2026-07-18T15:22:55.010929Z"
-lastmod: "2026-07-18T17:15:09.838841Z"
+slug: deep_learning
+date: '2026-07-18T15:22:55.010929Z'
+lastmod: '2026-07-18T17:15:09.838841Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα υποσύνολο της μηχανικής μάθησης που χρησιμοποιεί πολυεπίπεδα τεχνητά νευρωνικά δίκτυα για τη μοντελοποίηση πολύπλοκων μοτίβων και αναπαραστάσεων στα δεδομένα."
+source: agnes_llm
+status: published
+language: el
+description: Ένα υποσύνολο της μηχανικής μάθησης που χρησιμοποιεί πολυεπίπεδα τεχνητά
+  νευρωνικά δίκτυα για τη μοντελοποίηση πολύπλοκων μοτίβων και αναπαραστάσεων στα
+  δεδομένα.
 ---
-
 ## Definition
 
 Οι αλγόριθμοι βαθιάς μάθησης επιχειρούν να μιμηθούν τις αναλυτικές και μαθησιακές διαδικασίες του ανθρώπινου εγκεφάλου. Στοιβάζοντας πολλαπλά στρώματα διασυνδεδεμένων κόμβων, αυτά τα μοντέλα μπορούν να μάθουν ιεραρχικά χαρακτηριστικά από μεγάλα σύνολα δεδομένων, αποκαλύπτοντας πολύπλοκες σχέσεις.

@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /cs/terms/alignment/
 date: "2026-07-18T15:22:18.954443Z"
 lastmod: "2026-07-18T17:15:09.061479Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces zajišťující, že cíle a chování systému AI odpovídají lidským hodnotám a úmyslům."
 ---
-
 ## Definition
 
 Zarovnání se zaměřuje na to, aby systémy AI dělaly to, co lidé skutečně chtějí, nikoliv jen to, co doslovně požadují. Zahrnuje techniky jako učení z posilování s lidskou zpětnou vazbou (RLHF) k ladění chování modelu.

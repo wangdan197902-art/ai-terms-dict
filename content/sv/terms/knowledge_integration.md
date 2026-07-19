@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /sv/terms/knowledge_integration/
 date: "2026-07-18T16:05:43.932381Z"
 lastmod: "2026-07-18T17:15:09.018342Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Processen att kombinera heterogena kunskapskällor till en enhetlig och konsekvent representation för förbättrad resonemangsförmåga."
 ---
-
 ## Definition
 
 Kunskapsintegration innebär att sammanfoga data från olika källor, såsom databaser, ontologier och ostrukturerad text, till ett sammanhängande schema. Det hanterar problem med semantisk heterogenitet och inkonsekvens mellan olika datasystem.

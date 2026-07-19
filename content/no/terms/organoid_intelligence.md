@@ -1,23 +1,24 @@
 ---
-title: "Organoid intelligens"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Organoid intelligens
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /no/terms/organoid_intelligence/
-date: "2026-07-18T16:10:07.310426Z"
-lastmod: "2026-07-18T16:38:07.031072Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:10:07.310426Z'
+lastmod: '2026-07-18T16:38:07.031072Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En hybrid beregningsparadigme som integrerer levende hjerneceller med elektroniske grensesnitt for informasjonsbehandling."
+source: agnes_llm
+status: published
+language: 'no'
+description: En hybrid beregningsparadigme som integrerer levende hjerneceller med
+  elektroniske grensesnitt for informasjonsbehandling.
 ---
-
 ## Definition
 
 Organoid intelligens (OI) refererer til utviklingen av bio-hybride systemer der menneskeavledede hjerneorganoider dyrkes på mikroelektrode-matriser. Disse levende neurale nettverkene utfører beregninger...

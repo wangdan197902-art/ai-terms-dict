@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /cs/terms/recursive_self_improvement/
 date: "2026-07-18T16:15:22.585629Z"
 lastmod: "2026-07-18T17:15:09.196233Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces, při kterém systém umělé inteligence iterativně zlepšuje svou inteligenci nebo schopnosti prostřednictvím vlastní modifikace."
 ---
-
 ## Definition
 
 Rekurzivní samoylepšování označuje teoretickou schopnost systému umělé inteligence přepisovat svůj vlastní zdrojový kód nebo architekturu tak, aby byl chytřejší, efektivnější nebo schopnější.

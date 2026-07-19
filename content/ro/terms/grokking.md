@@ -7,8 +7,6 @@ tags: ["theory", "training", "phenomena"]
 difficulty: 4
 weight: 1
 slug: "grokking"
-aliases:
-  - /ro/terms/grokking/
 date: "2026-07-18T16:01:44.610290Z"
 lastmod: "2026-07-18T17:15:09.662938Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un fenomen în care rețelele neuronale generalizează brusc bine după un antrenament prelungit pe seturi de date mici, mult dincolo de punctul de memorizare."
 ---
-
 ## Definition
 
 Grokking se referă la un comportament contra-intuitiv observat în învățarea profundă, unde un model continuă să se supraadapteze (overfit) la datele de antrenament pentru o perioadă lungă, arătând o generalizare slabă, înainte de a realiza brusc o...

@@ -7,8 +7,6 @@ tags: ["Retrieval", "QA Systems", "Datasets"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_datapaq_pairs"
-aliases:
-  - /th/terms/datasetembedding_datapaq_pairs/
 date: "2026-07-18T15:48:18.745565Z"
 lastmod: "2026-07-18T16:38:07.593563Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ชุดข้อมูลขนาดใหญ่ของคู่คำถาม-คำตอบที่สกัดจากวิกิพีเดีย ออกแบบมาเพื่อฝึกฝนระบบค้นหาพารากราฟแบบหนาแน่น (Dense Passage Retrieval)"
 ---
-
 ## Definition
 
 ชุดข้อมูล PAQ (Pseudo-Answer Quality) มีคู่คำถาม-คำตอบจำนวนหลายล้านคู่ที่ถูกสร้างขึ้นอัตโนมัติจากวิกิพีเดีย ชุดข้อมูลนี้ถูกออกแบบมาโดยเฉพาะเพื่อฝึกฝนโมเดลค้นหาแบบหนาแน่น (Dense Retriever) โดยการให้ข้อมูลตัวอย่างจำนวนมากสำหรับการเรียนรู้

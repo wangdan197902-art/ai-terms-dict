@@ -1,23 +1,24 @@
 ---
-title: "נרמול שכבתי"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: נרמול שכבתי
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /he/terms/layer_normalization/
-date: "2026-07-18T16:09:15.066685Z"
-lastmod: "2026-07-18T17:15:09.556877Z"
+slug: layer_normalization
+date: '2026-07-18T16:09:15.066685Z'
+lastmod: '2026-07-18T17:15:09.556877Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכניקה המנרמלת את הפעילויות של שכבה ברשת נוירונים לאורך ממד התכונות עבור כל דגימה בנפרד."
+source: agnes_llm
+status: published
+language: he
+description: טכניקה המנרמלת את הפעילויות של שכבה ברשת נוירונים לאורך ממד התכונות עבור
+  כל דגימה בנפרד.
 ---
-
 ## Definition
 
 נרמול שכבתי מייצב את האימון על ידי הפחתת ההיסט הקווריאטיבי הפנימי, במיוחד ביעילות בארכיטקטורות רקורסיביות ומתמרות. בניגוד לנרמול אצווה, התלות היא בסטטיסטיקות הדגימה הבודדת ולא באצווה.

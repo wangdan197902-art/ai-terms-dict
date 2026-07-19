@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /fi/terms/encoder/
 date: "2026-07-18T15:36:04.965375Z"
 lastmod: "2026-07-18T17:15:09.369800Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kooderi on neuroverkon komponentti, joka muuntaa syöttödatan puristetuksi, merkitykselliseksi esitykseksi."
 ---
-
 ## Definition
 
 Kooderit käsittelevät raakoja syötteitä tai datastruktioita ja muuntavat ne latentin avaruuden esityksiksi, joita kutsutaan usein upotuksiksi tai koodeiksi. Ne ovat keskeisiä arkkitehtuureissa kuten Transformerit ja Autoenkooderit.

@@ -7,8 +7,6 @@ tags: ["data", "governance"]
 difficulty: 2
 weight: 1
 slug: "source"
-aliases:
-  - /sv/terms/source/
 date: "2026-07-18T15:31:05.936746Z"
 lastmod: "2026-07-18T17:15:08.952141Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Avser ursprunget till data, kod eller modeller som används i AI-utveckling och drift."
 ---
-
 ## Definition
 
 Inom AI-sammanhang avser 'källa' vanligtvis härstamningen för träningsdataset, bibliotek med öppen källkod eller förtränade modellvikter. Att spåra källor är avgörande för reproducerbarhet, licensöverensstämmelse...

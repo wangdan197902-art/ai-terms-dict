@@ -7,8 +7,6 @@ tags: ["robotics", "healthcare", "hri"]
 difficulty: 3
 weight: 1
 slug: "socially_assistive_robot"
-aliases:
-  - /ro/terms/socially_assistive_robot/
 date: "2026-07-18T16:21:08.059902Z"
 lastmod: "2026-07-18T17:15:09.703049Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un robot conceput să interacționeze cu oamenii pentru a le îmbunătăți bunăstarea fizică sau psihologică, fără a executa sarcini fizice."
 ---
-
 ## Definition
 
 Roboții Asistențiali Sociali (SARs) sunt un subdomeniu al interacțiunii om-robot axat pe oferirea asistenței prin mijloace sociale, nu prin manipulare fizică. Aceștia utilizează strategii non-contact, cum ar fi

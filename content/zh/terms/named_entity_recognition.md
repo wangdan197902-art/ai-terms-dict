@@ -1,23 +1,23 @@
 ---
-title: "命名实体识别"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: 命名实体识别
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /zh/terms/named_entity_recognition/
-date: "2026-07-18T11:01:16.765839Z"
-lastmod: "2026-07-18T11:44:45.403339Z"
+slug: named_entity_recognition
+date: '2026-07-18T11:01:16.765839Z'
+lastmod: '2026-07-18T11:44:45.403339Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一项自然语言处理任务，旨在将关键信息实体识别并分类到预定义的类别中。"
+source: agnes_llm
+status: published
+language: zh
+description: 一项自然语言处理任务，旨在将关键信息实体识别并分类到预定义的类别中。
 ---
-
 ## Definition
 
 命名实体识别（NER）是信息抽取的一个子任务，用于在文本中定位并将命名实体分类为预定义的类别，如人名、组织机构名、地名、医疗术语等。

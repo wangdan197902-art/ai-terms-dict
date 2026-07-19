@@ -7,8 +7,6 @@ tags: ["statistics", "robotics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "perception_error_model"
-aliases:
-  - /sv/terms/perception_error_model/
 date: "2026-07-18T16:13:12.537670Z"
 lastmod: "2026-07-18T17:15:09.035940Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En statistisk eller algoritmisk ramverk som används för att kvantifiera och korrigera felaktigheter i tolkningen av sensorisk data."
 ---
-
 ## Definition
 
 En modell för perceptionsfel beskriver diskrepanserna mellan observerad sensorisk data och sanningen, med hänsyn till brus, okklusion eller sensorbegränsningar. Genom att modellera dessa fel kan AI-system im

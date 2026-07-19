@@ -1,23 +1,23 @@
 ---
-title: "多様体仮説"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: 多様体仮説
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /ja/terms/manifold_hypothesis/
-date: "2026-07-18T11:23:07.592736Z"
-lastmod: "2026-07-18T11:44:45.120177Z"
+slug: manifold_hypothesis
+date: '2026-07-18T11:23:07.592736Z'
+lastmod: '2026-07-18T11:44:45.120177Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "高次元の実世界データは、より高次元空間内の低次元の非線形多様体上に存在するという仮定。"
+source: agnes_llm
+status: published
+language: ja
+description: 高次元の実世界データは、より高次元空間内の低次元の非線形多様体上に存在するという仮定。
 ---
-
 ## Definition
 
 この仮説は、次元の呪いにもかかわらずディープラーニングが効果的に機能する理由を説明します。画像などのデータが数百万の次元に存在しているように見えても、実際には

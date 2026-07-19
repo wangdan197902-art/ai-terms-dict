@@ -1,23 +1,22 @@
 ---
-title: "INDIAai"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: INDIAai
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /ko/terms/indiaai/
-date: "2026-07-18T15:59:29.993712Z"
-lastmod: "2026-07-18T16:38:06.852849Z"
+slug: indiaai
+date: '2026-07-18T15:59:29.993712Z'
+lastmod: '2026-07-18T16:38:06.852849Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "INDIAai는 인도 정부가 국가 전역에서 인공지능(AI) 연구와 도입을 촉진하기 위해 설립한 국가 AI 포털입니다."
+source: agnes_llm
+status: published
+language: ko
+description: INDIAai는 인도 정부가 국가 전역에서 인공지능(AI) 연구와 도입을 촉진하기 위해 설립한 국가 AI 포털입니다.
 ---
-
 ## Definition
 
 전자정보기술부(MoEIT) 산하에 설립된 INDIAai는 AI 자원, 정책 및 이니셔티브를 위한 중앙 허브 역할을 합니다. 이 포털은 학계, 산업계, 정부 간의 협력을 장려하여 인도 내 AI 생태계를 활성화하는 것을 목표로 합니다.

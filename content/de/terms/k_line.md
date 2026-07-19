@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /de/terms/k_line/
 date: "2026-07-18T11:20:16.151352Z"
 lastmod: "2026-07-18T11:44:44.953951Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Art Finanzchart, auch Kerzenchart genannt, der zur Visualisierung von Preisbewegungen über bestimmte Zeitintervalle verwendet wird."
 ---
-
 ## Definition
 
 Eine K-Linie, in westlichen Märkten häufig als Kerzenchart bezeichnet, ist eine grafische Darstellung der Preisdynamik eines Wertpapiers, Derivats oder Währungspaares. Sie zeigt vier Schlüsseldatenpunkte: den

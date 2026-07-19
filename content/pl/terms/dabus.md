@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /pl/terms/dabus/
 date: "2026-07-18T15:48:25.123941Z"
 lastmod: "2026-07-18T17:15:08.859281Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "DABUS to skrót od Device for the Autonomous Bootstrapping of Unified Sentience (Urządzenie do Autonomicznego Rozruchu Zjednoczonej Świadomości), systemu sztucznej inteligencji stworzonego przez Stephe"
 ---
-
 ## Definition
 
 DABUS to specyficzna sztuczna sieć neuronowa zaprojektowana do generowania nowych wynalazków bez bezpośredniej interwencji człowieka. Zyskała znaczną uwagę prawną, gdy jej twórca, Stephen Thaler, próbował

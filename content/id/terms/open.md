@@ -1,23 +1,24 @@
 ---
-title: "Terbuka"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: Terbuka
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /id/terms/open/
-date: "2026-07-18T15:28:04.833116Z"
-lastmod: "2026-07-18T16:38:07.398839Z"
+slug: open
+date: '2026-07-18T15:28:04.833116Z'
+lastmod: '2026-07-18T16:38:07.398839Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Dalam AI, 'terbuka' biasanya merujuk pada model sumber terbuka atau tugas terbuka yang tidak memiliki batasan yang telah ditentukan sebelumnya atau ruang solusi lengkap."
+source: agnes_llm
+status: published
+language: id
+description: Dalam AI, 'terbuka' biasanya merujuk pada model sumber terbuka atau tugas
+  terbuka yang tidak memiliki batasan yang telah ditentukan sebelumnya atau ruang
+  solusi lengkap.
 ---
-
 ## Definition
 
 Istilah 'terbuka' dalam konteks kecerdasan buatan sering menggambarkan dua area yang berbeda: perangkat lunak sumber terbuka, di mana bobot model dan kode tersedia secara publik untuk dimodifikasi, dan masalah ujung terbuka (open-ended problems) yang tidak memiliki tujuan akhir yang tetap.

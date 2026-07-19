@@ -7,8 +7,6 @@ tags: ["economics", "workforce", "policy"]
 difficulty: 2
 weight: 1
 slug: "united_states_tech_force"
-aliases:
-  - /cs/terms/united_states_tech_force/
 date: "2026-07-18T16:21:58.899711Z"
 lastmod: "2026-07-18T17:15:09.209593Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Demografický a ekonomický termín označující kolektivní pracovní sílu pohánějící technologickou inovaci ve Spojených státech."
 ---
-
 ## Definition
 
 Termín 'Americká technologická pracovní síla' obecně označuje velkou část amerického trhu práce zaměstnanou v technologických sektorech, včetně softwarového inženýrství, datové vědy, výroby hardwaru...

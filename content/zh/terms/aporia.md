@@ -7,8 +7,6 @@ tags: ["philosophy", "theory", "ethics"]
 difficulty: 5
 weight: 1
 slug: "aporia"
-aliases:
-  - /zh/terms/aporia/
 date: "2026-07-18T11:05:01.870210Z"
 lastmod: "2026-07-18T11:44:45.442648Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: ""
 ---
-
 ## Definition
 
 在哲学和AI理论中，aporia描述了一种悖论情况，即两个同样有效的论点导致相互矛盾的结果。在机器学习中，这可能表现为模型性能在两种合理但冲突的目标之间难以权衡。

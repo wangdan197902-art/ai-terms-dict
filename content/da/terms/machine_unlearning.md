@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /da/terms/machine_unlearning/
 date: "2026-07-18T16:06:46.433494Z"
 lastmod: "2026-07-18T17:15:09.309205Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Maskinuindlæring er processen med at fjerne specifikke datapunkter eller deres indflydelse fra en trænet model uden at skulle genoptræne den fra bunden."
 ---
-
 ## Definition
 
 Denne teknik adresserer privatlivsreguleringer som GDPR's 'retten til at blive glemt' ved at tillade modeller at glemme specifikke brugerdata, mens de bevarer generel viden. Målet er at approksimere ydeevnen af en model, der er genoptrænet uden de pågældende data.

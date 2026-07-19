@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /it/terms/ai_safety/
 date: "2026-07-18T15:22:14.280248Z"
 lastmod: "2026-07-18T17:15:08.558627Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un campo di studio focalizzato sulla prevenzione di conseguenze dannose involontarie derivanti da sistemi di intelligenza artificiale avanzati."
 ---
-
 ## Definition
 
 La sicurezza dell'IA comprende ricerche e pratiche mirate a garantire che i sistemi autonomi si comportino in modi benefici e non dannosi per gli esseri umani. Affronta rischi come il pregiudizio, la disinformazione e la sicurezza informatica.

@@ -1,23 +1,24 @@
 ---
-title: "Hugging Face"
-term_id: "hugging_face"
-category: "basic_concepts"
-subcategory: ""
-tags: ["platform", "open-source", "community"]
+title: Hugging Face
+term_id: hugging_face
+category: basic_concepts
+subcategory: ''
+tags:
+- platform
+- Open Source
+- community
 difficulty: 2
 weight: 1
-slug: "hugging_face"
-aliases:
-  - /el/terms/hugging_face/
-date: "2026-07-18T16:13:01.179986Z"
-lastmod: "2026-07-18T17:15:09.917257Z"
+slug: hugging_face
+date: '2026-07-18T16:13:01.179986Z'
+lastmod: '2026-07-18T17:15:09.917257Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια κορυφαία πλατφόρμα και κοινότητα που παρέχει εργαλεία ανοιχτού κώδικα, μοντέλα και σύνολα δεδομένων για την ανάπτυξη μηχανικής μάθησης."
+source: agnes_llm
+status: published
+language: el
+description: Μια κορυφαία πλατφόρμα και κοινότητα που παρέχει εργαλεία ανοιχτού κώδικα,
+  μοντέλα και σύνολα δεδομένων για την ανάπτυξη μηχανικής μάθησης.
 ---
-
 ## Definition
 
 Η Hugging Face είναι μια επιφανής εταιρεία και διαδικτυακή πλατφόρμα που έχει γίνει κεντρικός άξονας του οικοσυστήματος τεχνητής νοημοσύνης ανοιχτού κώδικα. Προσφέρει μια εκτεταμένη αποθήκη προεκπαιδευμένων μοντέλων, συνόλων δεδομένων και εφαρμογών επίδειξης.

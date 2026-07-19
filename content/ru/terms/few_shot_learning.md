@@ -1,23 +1,25 @@
 ---
-title: "Few-shot обучение"
-term_id: "few_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["ml_theory", "training", "efficiency"]
+title: Few-shot обучение
+term_id: few_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- ML Theory
+- training
+- efficiency
 difficulty: 4
 weight: 1
-slug: "few_shot_learning"
-aliases:
-  - /ru/terms/few_shot_learning/
-date: "2026-07-18T15:34:00.526406Z"
-lastmod: "2026-07-18T16:38:07.105873Z"
+slug: few_shot_learning
+date: '2026-07-18T15:34:00.526406Z'
+lastmod: '2026-07-18T16:38:07.105873Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Few-shot обучение — это парадигма машинного обучения, в которой модели изучают новые концепции на основе очень ограниченного количества размеченных обучающих данных."
+source: agnes_llm
+status: published
+language: ru
+description: Few-shot обучение — это парадигма машинного обучения, в которой модели
+  изучают новые концепции на основе очень ограниченного количества размеченных обучающих
+  данных.
 ---
-
 ## Definition
 
 Few-shot обучение направлено на то, чтобы позволить моделям обобщать знания всего по нескольким примерам, имитируя эффективность человеческого обучения. Оно обычно опирается на стратегии мета-обучения, где модель предварительно обучается на множестве различных задач, что позволяет ей быстро адаптироваться к новой задаче с минимальным количеством новых данных.

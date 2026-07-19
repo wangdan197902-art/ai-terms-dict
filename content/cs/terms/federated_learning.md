@@ -1,23 +1,24 @@
 ---
-title: "Federované učení"
-term_id: "federated_learning"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "distributed_ml", "security"]
+title: Federované učení
+term_id: federated_learning
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Distributed ML
+- security
 difficulty: 4
 weight: 1
-slug: "federated_learning"
-aliases:
-  - /cs/terms/federated_learning/
-date: "2026-07-18T15:35:24.614495Z"
-lastmod: "2026-07-18T17:15:09.089438Z"
+slug: federated_learning
+date: '2026-07-18T15:35:24.614495Z'
+lastmod: '2026-07-18T17:15:09.089438Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Federované učení je distribuovaný přístup k strojovému učení, který trénuje modely na decentralizovaných zařízeních při zachování dat na jejich původním místě."
+source: agnes_llm
+status: published
+language: cs
+description: Federované učení je distribuovaný přístup k strojovému učení, který trénuje
+  modely na decentralizovaných zařízeních při zachování dat na jejich původním místě.
 ---
-
 ## Definition
 
 Federované učení umožňuje organizacím spolupracovat na trénování modelů umělé inteligence bez nutnosti sdílet citlivá surová data. Místo centralizace informací je model odeslán na lokální zařízení, kde se učí, a poté jsou aktualizace modelu agregovány zpět do centrálního serveru.

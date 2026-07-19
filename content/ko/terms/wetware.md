@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Neuroscience", "Terminology"]
 difficulty: 4
 weight: 1
 slug: "wetware"
-aliases:
-  - /ko/terms/wetware/
 date: "2026-07-18T16:20:35.008852Z"
 lastmod: "2026-07-18T16:38:06.920153Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "생물학적 뇌나 살아있는 조직을 지칭하는 용어로, 컴퓨팅 맥락에서 하드웨어 및 소프트웨어와 대비되어 사용됩니다."
 ---
-
 ## Definition
 
 웨어웨어는 원래 생물학적 뇌 조직을 지칭했으나, 사이버네틱스와 트랜스휴머니즘 분야에서 인간의 마음이나 뇌를 하나의 계산 시스템으로 묘사하는 데 진화했습니다. 이는 물리적 컴포넌트인 '하드웨어'와 논리적 명령어인 '소프트웨어'와 대조되는 개념입니다.

@@ -7,8 +7,6 @@ tags: ["Training", "Compression", "Optimization"]
 difficulty: 4
 weight: 1
 slug: "knowledge_distillation"
-aliases:
-  - /ro/terms/knowledge_distillation/
 date: "2026-07-18T16:06:53.291258Z"
 lastmod: "2026-07-18T17:15:09.671531Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Distilarea cunoștințelor este o tehnică de comprimare a modelelor în care un model student mai mic învață să imite comportamentul unui model profesor mai mare."
 ---
-
 ## Definition
 
 Distilarea cunoștințelor este o metodă de învățare automată utilizată pentru a comprima o rețea neuronală mare și complexă (profesorul) într-o rețea mai mică și mai eficientă (studentul). Modelul student este antrenat să

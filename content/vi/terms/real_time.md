@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /vi/terms/real_time/
 date: "2026-07-18T15:33:21.687959Z"
 lastmod: "2026-07-18T16:38:07.704756Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Xử lý thời gian thực đề cập đến các hệ thống tính toán và cung cấp kết quả trong các ràng buộc thời gian nghiêm ngặt, được đảm bảo ngay lập tức khi nhận được đầu vào."
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, thời gian thực chỉ khả năng của một hệ thống xử lý đầu vào và tạo ra đầu ra với độ trễ tối thiểu, thường là trong vòng vài mili giây. Điều này rất quan trọng đối với các ứng dụng nơi mà việc chậm trễ có thể dẫn đến hậu quả nghiêm trọng hoặc làm giảm chất lượng trải nghiệm người dùng, đòi hỏi phản hồi tức thì và liên tục.

@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /nl/terms/explainability/
 date: "2026-07-18T15:35:52.087393Z"
 lastmod: "2026-07-18T17:15:08.704339Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Uitlegbaarheid verwijst naar de mate waarin een mens de oorzaak kan begrijpen van een beslissing genomen door een AI-model."
 ---
-
 ## Definition
 
 Dit concept adresseert het 'black box'-probleem in complexe AI-systemen door inzicht te bieden in hoe modellen tot specifieke voorspellingen komen. Technieken zoals SHAP of LIME helpen bij het visualiseren van functiebelangrijkheid.

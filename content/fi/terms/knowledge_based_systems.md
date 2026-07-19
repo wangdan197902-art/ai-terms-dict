@@ -1,23 +1,25 @@
 ---
-title: "Tietopohjaiset järjestelmät"
-term_id: "knowledge_based_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ai_history", "symbolic_ai", "decision_support"]
+title: Tietopohjaiset järjestelmät
+term_id: knowledge_based_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- AI History
+- Symbolic AI
+- Decision Support
 difficulty: 3
 weight: 1
-slug: "knowledge_based_systems"
-aliases:
-  - /fi/terms/knowledge_based_systems/
-date: "2026-07-18T16:05:40.525833Z"
-lastmod: "2026-07-18T17:15:09.426163Z"
+slug: knowledge_based_systems
+date: '2026-07-18T16:05:40.525833Z'
+lastmod: '2026-07-18T17:15:09.426163Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tekoälyjärjestelmät, jotka hyödyntävät eksplisiittisiä tietokantoja ja päättelymoottoreita ratkaistakseen monimutkaisia ongelmia, jotka vaativat ihmisen asiantuntemusta."
+source: agnes_llm
+status: published
+language: fi
+description: Tekoälyjärjestelmät, jotka hyödyntävät eksplisiittisiä tietokantoja ja
+  päättelymoottoreita ratkaistakseen monimutkaisia ongelmia, jotka vaativat ihmisen
+  asiantuntemusta.
 ---
-
 ## Definition
 
 Tietopohjaiset järjestelmät (KBS) ovat tekoälyn haara, joka integroi tiettyä alan tietoa tietokonejärjestelmään suorittaakseen tehtäviä, jotka vaativat tyypillisesti ihmisen asiantuntemusta. Ne käyttävät rakennettua tietoa päättelyyn ja ongelmanratkaisuun.

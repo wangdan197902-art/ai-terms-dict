@@ -1,23 +1,25 @@
 ---
-title: "Kebocoran Data"
-term_id: "leakage"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data-integrity", "evaluation", "best-practices"]
+title: Kebocoran Data
+term_id: leakage
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Integrity
+- evaluation
+- Best Practices
 difficulty: 3
 weight: 1
-slug: "leakage"
-aliases:
-  - /id/terms/leakage/
-date: "2026-07-18T15:57:39.683548Z"
-lastmod: "2026-07-18T16:38:07.476231Z"
+slug: leakage
+date: '2026-07-18T15:57:39.683548Z'
+lastmod: '2026-07-18T16:38:07.476231Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Kebocoran data terjadi ketika informasi dari luar dataset pelatihan secara tidak sengaja memengaruhi model, yang mengakibatkan estimasi kinerja yang terlalu optimis."
+source: agnes_llm
+status: published
+language: id
+description: Kebocoran data terjadi ketika informasi dari luar dataset pelatihan secara
+  tidak sengaja memengaruhi model, yang mengakibatkan estimasi kinerja yang terlalu
+  optimis.
 ---
-
 ## Definition
 
 Kebocoran data adalah kesalahan kritis dalam pembelajaran mesin di mana model memperoleh akses ke informasi selama pelatihan yang tidak akan tersedia pada saat prediksi. Hal ini sering terjadi melalui pemisahan data yang tidak tepat atau fitur yang mengandung informasi masa depan.

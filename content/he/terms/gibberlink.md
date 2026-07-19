@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /he/terms/gibberlink/
 date: "2026-07-18T16:01:37.512347Z"
 lastmod: "2026-07-18T17:15:09.543702Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ג'יברלינק אינו מונח סטנדרטי מוכר בספרות של בינה מלאכותית."
 ---
-
 ## Definition
 
 אין קונספט, טכנולוגיה או מתודולוגיה מוכרים בשם 'ג'יברלינק' בתחום הבינה המלאכותית, למידת מכונה או מדעי המחשב. ייתכן שמדובר בטעות כתיב או במונח בדיוני.

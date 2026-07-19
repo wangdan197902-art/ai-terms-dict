@@ -1,23 +1,24 @@
 ---
-title: "Régression symbolique"
-term_id: "symbolic_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "model_discovery"]
+title: Régression symbolique
+term_id: symbolic_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Model Discovery
 difficulty: 4
 weight: 1
-slug: "symbolic_regression"
-aliases:
-  - /fr/terms/symbolic_regression/
-date: "2026-07-18T11:40:25.127720Z"
-lastmod: "2026-07-18T11:44:45.342330Z"
+slug: symbolic_regression
+date: '2026-07-18T11:40:25.127720Z'
+lastmod: '2026-07-18T11:44:45.342330Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La régression symbolique est une technique qui recherche des expressions mathématiques s'ajustant au mieux à un jeu de données, visant à découvrir des formules interprétables."
+source: agnes_llm
+status: published
+language: fr
+description: La régression symbolique est une technique qui recherche des expressions
+  mathématiques s'ajustant au mieux à un jeu de données, visant à découvrir des formules
+  interprétables.
 ---
-
 ## Definition
 
 La régression symbolique est un type d'analyse de régression qui cherche à trouver une expression mathématique, généralement représentée sous forme d'arborescence, qui s'ajuste optimalement aux données observées. Contrairement à la régression traditionnelle

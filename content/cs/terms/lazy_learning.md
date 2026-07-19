@@ -1,23 +1,24 @@
 ---
-title: "Líné učení"
-term_id: "lazy_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithms", "training_methods", "machine_learning"]
+title: Líné učení
+term_id: lazy_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithms
+- Training Methods
+- Machine Learning
 difficulty: 2
 weight: 1
-slug: "lazy_learning"
-aliases:
-  - /cs/terms/lazy_learning/
-date: "2026-07-18T16:05:22.045206Z"
-lastmod: "2026-07-18T17:15:09.146851Z"
+slug: lazy_learning
+date: '2026-07-18T16:05:22.045206Z'
+lastmod: '2026-07-18T17:15:09.146851Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Přístup k učení, který odkládá generalizaci až do času klasifikace, ukládá trénovací instance místo toho, aby vybudoval explicitní model."
+source: agnes_llm
+status: published
+language: cs
+description: Přístup k učení, který odkládá generalizaci až do času klasifikace, ukládá
+  trénovací instance místo toho, aby vybudoval explicitní model.
 ---
-
 ## Definition
 
 Líní učitelé, jako je algoritmus k-nejbližších sousedů (k-NN), si pamatují celou trénovací sadu dat a provádějí výpočty pouze při vytváření predikcí. To kontrastuje s „chtivým učením“ (eager learning), které buduje obecný model předem.

@@ -1,23 +1,23 @@
 ---
-title: "długiego horyzontu"
-term_id: "long_horizon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "planning"]
+title: długiego horyzontu
+term_id: long_horizon
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- planning
 difficulty: 4
 weight: 1
-slug: "long_horizon"
-aliases:
-  - /pl/terms/long_horizon/
-date: "2026-07-18T15:32:13.992822Z"
-lastmod: "2026-07-18T17:15:08.826712Z"
+slug: long_horizon
+date: '2026-07-18T15:32:13.992822Z'
+lastmod: '2026-07-18T17:15:08.826712Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Odnosi się do zadań wymagających podejmowania decyzji w długich przedziałach czasowych, z opóźnionymi nagrodami lub konsekwencjami."
+source: agnes_llm
+status: published
+language: pl
+description: Odnosi się do zadań wymagających podejmowania decyzji w długich przedziałach
+  czasowych, z opóźnionymi nagrodami lub konsekwencjami.
 ---
-
 ## Definition
 
 Problemy długiego horyzontu obejmują sekwencje działań, w których wpływ wczesnych decyzji ujawnia się dopiero po wielu krokach. Jest to powszechne w robotyce, planowaniu i zadaniach wieloetapowego rozumowania. Wyzwania...

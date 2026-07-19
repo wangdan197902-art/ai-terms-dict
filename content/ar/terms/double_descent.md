@@ -7,8 +7,6 @@ tags: ["Theory", "Deep Learning", "Generalization"]
 difficulty: 5
 weight: 1
 slug: "double_descent"
-aliases:
-  - /ar/terms/double_descent/
 date: "2026-07-18T15:54:34.459174Z"
 lastmod: "2026-07-18T17:15:08.498997Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "ظاهرة تنخفض فيها خطأ الاختبار، ثم تزداد، ثم تنخفض مرة أخرى عندما تتجاوز تعقيد النموذج عتبة الاستيفاء."
 ---
-
 ## Definition
 
 يتحدى مفهوم الهبوط المزدوج المقايضة التقليدية بين الانحياز والتباين، بإظهار أن النماذج ذات المعلمات الزائدة جداً (Overparameterized) يمكنها تحقيق خطأ اختبار منخفض رغم قدرتها على استيفاء بيانات التدريب.

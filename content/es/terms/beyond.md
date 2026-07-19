@@ -7,8 +7,6 @@ tags: ["conceptual", "future", "strategy"]
 difficulty: 4
 weight: 1
 slug: "beyond"
-aliases:
-  - /es/terms/beyond/
 date: "2026-07-18T10:21:22.597340Z"
 lastmod: "2026-07-18T11:44:44.736745Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un término conceptual que se refiere a avances o aplicaciones que superan los límites tecnológicos actuales o los límites tradicionales de la IA."
 ---
-
 ## Definition
 
 En el contexto de la terminología de IA, 'más allá' a menudo describe paradigmas emergentes o direcciones futuras que trascienden las capacidades actuales, como la Inteligencia General Artificial (AGI) o la computación cuántica mejorada...

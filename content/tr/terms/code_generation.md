@@ -7,8 +7,6 @@ tags: ["development", "automation", "programming"]
 difficulty: 3
 weight: 1
 slug: "code_generation"
-aliases:
-  - /tr/terms/code_generation/
 date: "2026-07-18T15:22:47.145371Z"
 lastmod: "2026-07-18T16:38:07.224976Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekanın, doğal dil açıklamalarından veya mevcut kod parçacıklarından otomatik olarak kaynak kod oluşturmak için kullanıldığı süreçtir."
 ---
-
 ## Definition
 
 Kod üretimi, işlevsel yazılım ürünleri üretmek amacıyla devasa programlama dili havuzlarında eğitilmiş büyük dil modellerinden yararlanır. Yorumlar gibi insan tarafından okunabilir formatları yorumlar ve bunları çalıştırılabilir koda dönüştürür.

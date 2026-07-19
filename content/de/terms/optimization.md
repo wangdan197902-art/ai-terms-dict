@@ -1,23 +1,24 @@
 ---
-title: "Optimierung"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Optimierung
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /de/terms/optimization/
-date: "2026-07-18T10:59:11.210067Z"
-lastmod: "2026-07-18T11:44:44.897428Z"
+slug: optimization
+date: '2026-07-18T10:59:11.210067Z'
+lastmod: '2026-07-18T11:44:44.897428Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Der mathematische Prozess der Minimierung oder Maximierung einer Zielfunktion, um die besten Lösungsparameter zu finden."
+source: agnes_llm
+status: published
+language: de
+description: Der mathematische Prozess der Minimierung oder Maximierung einer Zielfunktion,
+  um die besten Lösungsparameter zu finden.
 ---
-
 ## Definition
 
 Im maschinellen Lernen bezieht sich Optimierung auf die Algorithmen, die verwendet werden, um die Parameter eines Modells anzupassen, um eine Verlustfunktion zu minimieren und dadurch die Modellleistung zu verbessern. Zu den gängigen Methoden gehören Gradientenabstieg und stochastischer Gradientenabstieg.

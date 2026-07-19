@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /it/terms/continuous_time/
 date: "2026-07-18T15:31:08.406594Z"
 lastmod: "2026-07-18T17:15:08.578506Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un approccio di modellazione in cui le variabili cambiano in modo fluido su un dominio continuo piuttosto che in step discreti."
 ---
-
 ## Definition
 
 I modelli a tempo continuo descrivono la dinamica del sistema utilizzando equazioni differenziali, consentendo un'evoluzione fluida degli stati nel tempo. Nell'AI, questo è esemplificato dalle Equazioni Differenziali Ordinarie Neurali (Neural ODEs)...

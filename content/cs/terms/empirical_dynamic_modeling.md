@@ -7,8 +7,6 @@ tags: ["statistics", "dynamics", "ecology"]
 difficulty: 4
 weight: 1
 slug: "empirical_dynamic_modeling"
-aliases:
-  - /cs/terms/empirical_dynamic_modeling/
 date: "2026-07-18T15:55:49.752076Z"
 lastmod: "2026-07-18T17:15:09.126152Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Neparametrický statistický přístup používaný k rekonstrukci dynamiky komplexních systémů z observačních časových řad."
 ---
-
 ## Definition
 
 Empirické dynamické modelování (EDM) je rámec pro analýzu nelineárních dynamických systémů pomocí observačních dat bez předpokladu specifického parametrického tvaru. Spoléhá se na metodu Takensovy embeddingu...

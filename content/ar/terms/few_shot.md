@@ -1,23 +1,24 @@
 ---
-title: "عدد قليل من الأمثلة"
-term_id: "few_shot"
-category: "basic_concepts"
-subcategory: ""
-tags: ["learning_paradigms", "data_efficiency", "nlp"]
+title: عدد قليل من الأمثلة
+term_id: few_shot
+category: basic_concepts
+subcategory: ''
+tags:
+- Learning Paradigms
+- Data Efficiency
+- NLP
 difficulty: 3
 weight: 1
-slug: "few_shot"
-aliases:
-  - /ar/terms/few_shot/
-date: "2026-07-18T15:33:03.218606Z"
-lastmod: "2026-07-18T17:15:08.453714Z"
+slug: few_shot
+date: '2026-07-18T15:33:03.218606Z'
+lastmod: '2026-07-18T17:15:08.453714Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نموذج تعليمي يؤدي فيه النموذج المهمة بشكل صحيح بعد تعرضه لعدد صغير فقط من الأمثلة المصنفة."
+source: agnes_llm
+status: published
+language: ar
+description: نموذج تعليمي يؤدي فيه النموذج المهمة بشكل صحيح بعد تعرضه لعدد صغير فقط
+  من الأمثلة المصنفة.
 ---
-
 ## Definition
 
 يتيح التعلم بعدد قليل من الأمثلة لنماذج تعلم الآلة التعميم من بيانات محدودة جداً، وعادة ما يتراوح بين مثال واحد إلى عشرة أمثلة لكل فئة. على عكس التعلم الخاضع للإشراف التقليدي الذي يتطلب آلاف...

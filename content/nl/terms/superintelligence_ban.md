@@ -7,8 +7,6 @@ tags: ["policy", "ethics", "risk"]
 difficulty: 3
 weight: 1
 slug: "superintelligence_ban"
-aliases:
-  - /nl/terms/superintelligence_ban/
 date: "2026-07-18T16:19:09.497011Z"
 lastmod: "2026-07-18T17:15:08.791098Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een voorgesteld regelgevend maatregel of ethische standpunt dat pleit voor het verbod op de ontwikkeling van algemene kunstmatige intelligentie die de cognitieve capaciteiten van de mens overstijgt."
 ---
-
 ## Definition
 
 Dit concept verwijst naar het debat en het potentiële beleid betreffende de beperking of volledige stopzetting van onderzoek naar Artificiële Superintelligentie (ASI). Voorstanders betogen dat ASI existentiële risico's oplevert.

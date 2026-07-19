@@ -1,23 +1,24 @@
 ---
-title: "Граничный вывод (Edge inference)"
-term_id: "edge_inference"
-category: "engineering_practice"
-subcategory: ""
-tags: ["deployment", "iot", "optimization"]
+title: Граничный вывод (Edge inference)
+term_id: edge_inference
+category: engineering_practice
+subcategory: ''
+tags:
+- deployment
+- iot
+- Optimization
 difficulty: 3
 weight: 1
-slug: "edge_inference"
-aliases:
-  - /ru/terms/edge_inference/
-date: "2026-07-18T15:51:27.736447Z"
-lastmod: "2026-07-18T16:38:07.152342Z"
+slug: edge_inference
+date: '2026-07-18T15:51:27.736447Z'
+lastmod: '2026-07-18T16:38:07.152342Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Граничный вывод — это процесс выполнения моделей машинного обучения локально на устройствах конечных пользователей, а не на централизованных облачных серверах."
+source: agnes_llm
+status: published
+language: ru
+description: Граничный вывод — это процесс выполнения моделей машинного обучения локально
+  на устройствах конечных пользователей, а не на централизованных облачных серверах.
 ---
-
 ## Definition
 
 Эта практика предполагает развертывание обученных моделей ИИ непосредственно на таком оборудовании, как смартфоны, датчики Интернета вещей (IoT) или встроенные системы. Обработка данных локально значительно снижает задержку и повышает конфиденциальность.

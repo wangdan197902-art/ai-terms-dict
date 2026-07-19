@@ -1,23 +1,24 @@
 ---
-title: "Kassekamp-maskin for lærbar tic-tac-toe"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Kassekamp-maskin for lærbar tic-tac-toe
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /no/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:05:27.288035Z"
-lastmod: "2026-07-18T16:38:07.023267Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:05:27.288035Z'
+lastmod: '2026-07-18T16:38:07.023267Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En fysisk forsterkningslæringsenhet bygget av Donald Michie i 1961 for å spille tic-tac-toe ved hjelp av sigarettasjer og perler."
+source: agnes_llm
+status: published
+language: 'no'
+description: En fysisk forsterkningslæringsenhet bygget av Donald Michie i 1961 for
+  å spille tic-tac-toe ved hjelp av sigarettasjer og perler.
 ---
-
 ## Definition
 
 ME-Noughts-and-Crosses Engine var en tidlig demonstrasjon av maskinlæring, spesifikt forsterkningslæring. Konstruert fra 304 sigarettasjer, der hver representerte en unik bretttilstand, var systemet

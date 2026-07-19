@@ -1,23 +1,25 @@
 ---
-title: "Нейровычисления"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: Нейровычисления
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /ru/terms/neurocomputing/
-date: "2026-07-18T16:08:13.629511Z"
-lastmod: "2026-07-18T16:38:07.185542Z"
+slug: neurocomputing
+date: '2026-07-18T16:08:13.629511Z'
+lastmod: '2026-07-18T16:38:07.185542Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Нейровычисления — это междисциплинарная область, объединяющая нейробиологию, информатику и инженерию для разработки вычислительных моделей, вдохновленных биологическими нейронными системами."
+source: agnes_llm
+status: published
+language: ru
+description: Нейровычисления — это междисциплинарная область, объединяющая нейробиологию,
+  информатику и инженерию для разработки вычислительных моделей, вдохновленных биологическими
+  нейронными системами.
 ---
-
 ## Definition
 
 Эта область фокусируется на создании аппаратных и программных архитектур, имитирующих структуру и функции человеческого мозга. Она охватывает искусственные нейронные сети, нейроморфные чипы и когнитивные системы.

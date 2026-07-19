@@ -1,23 +1,24 @@
 ---
-title: "Ohjelmistoagentti"
-term_id: "software_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["software", "automation", "ai"]
+title: Ohjelmistoagentti
+term_id: software_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- software
+- automation
+- AI
 difficulty: 3
 weight: 1
-slug: "software_agent"
-aliases:
-  - /fi/terms/software_agent/
-date: "2026-07-18T16:21:43.117441Z"
-lastmod: "2026-07-18T17:15:09.461134Z"
+slug: software_agent
+date: '2026-07-18T16:21:43.117441Z'
+lastmod: '2026-07-18T17:15:09.461134Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Tietokoneohjelma, joka suorittaa tehtäviä käyttäjien tai muiden ohjelmien puolesta tietyllä autonomialla."
+source: agnes_llm
+status: published
+language: fi
+description: Tietokoneohjelma, joka suorittaa tehtäviä käyttäjien tai muiden ohjelmien
+  puolesta tietyllä autonomialla.
 ---
-
 ## Definition
 
 Ohjelmistoagentti on autonominen yksikkö, joka kykenee havainnoimaan ympäristöään, päättelyyn ja toimiakseen saavuttaakseen tiettyjä tavoitteita. Nämä agentit voivat toimia itsenäisesti, sopeutua muutoksiin ja tehdä yhteistyötä muiden agenttien kanssa automatisoimalla toistuvia tehtäviä, keräämällä dataa tai hoitamalla verkkoviestintää ilman jatkuvaa ihmisen ohjausta.

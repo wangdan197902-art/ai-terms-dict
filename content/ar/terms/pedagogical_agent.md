@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /ar/terms/pedagogical_agent/
 date: "2026-07-18T16:16:03.744044Z"
 lastmod: "2026-07-18T17:15:08.536118Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "كيان ذكاء اصطناعي مصمم لتسهيل التعلم من خلال تقديم التعليمات والملاحظات والتوجيه."
 ---
-
 ## Definition
 
 الوكيل التربوي هو مكون برمجي، غالباً ما يتم تجسيده كشخصية افتراضية، يعمل كمدرس أو مرشد داخل البيئات التعليمية. تعتمد هذه الوكلاء على معالجة اللغات الطبيعية...

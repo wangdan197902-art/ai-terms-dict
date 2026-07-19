@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /ro/terms/latency/
 date: "2026-07-18T15:36:19.990614Z"
 lastmod: "2026-07-18T17:15:09.615424Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Intervalul de timp dintre inițierea unei cereri și începerea răspunsului într-un sistem de inteligență artificială."
 ---
-
 ## Definition
 
 Latența măsoară capacitatea de răspuns a unui serviciu de IA, fiind exprimată de obicei în milisecunde. Aceasta include timpul de inferență, întârzierile de transmitere a rețelei și suprasarcina de procesare. O latență scăzută este critică pentru

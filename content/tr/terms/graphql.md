@@ -7,8 +7,6 @@ tags: ["API", "Web Development", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "graphql"
-aliases:
-  - /tr/terms/graphql/
 date: "2026-07-18T15:55:41.041914Z"
 lastmod: "2026-07-18T16:38:07.315024Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "GraphQL, mevcut verilerle sorguları karşılamak için bir çalışma zamanı olan bir API sorgu dilidir; istemcilerin tam olarak ihtiyaç duydukları şeyi talep etmelerini sağlar."
 ---
-
 ## Definition
 
 Facebook tarafından geliştirilen GraphQL, API'nizdeki verilerin eksiksiz ve anlaşılır bir tanımını sağlar. İstemcilere tam olarak neye ihtiyaçları olduğunu ve daha fazlasını değil, talep etme gücü verir. Çoklu uç nokta gereksinimini ortadan kaldırır.

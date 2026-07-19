@@ -1,23 +1,24 @@
 ---
-title: "חיפוש סמנטי"
-term_id: "semantic_search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["search", "nlp", "information_retrieval"]
+title: חיפוש סמנטי
+term_id: semantic_search
+category: application_paradigms
+subcategory: ''
+tags:
+- search
+- NLP
+- Information Retrieval
 difficulty: 3
 weight: 1
-slug: "semantic_search"
-aliases:
-  - /he/terms/semantic_search/
-date: "2026-07-18T15:38:30.677535Z"
-lastmod: "2026-07-18T17:15:09.504426Z"
+slug: semantic_search
+date: '2026-07-18T15:38:30.677535Z'
+lastmod: '2026-07-18T17:15:09.504426Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "טכנולוגיית חיפוש המבינה את המשמעות של מונחי השאילתה ולא רק התאמת מילות מפתח."
+source: agnes_llm
+status: published
+language: he
+description: טכנולוגיית חיפוש המבינה את המשמעות של מונחי השאילתה ולא רק התאמת מילות
+  מפתח.
 ---
-
 ## Definition
 
 חיפוש סמנטי מפרש את הכוונה והמשמעות ההקשרית מאחורי שאילתה, מעבר להתאמת מילות מפתח פשוטה. הוא משתמש בייצוגים וקטוריים (Embeddings) כדי לייצג טקסט במרחב רב-ממדי, מה שמאפשר מציאת תוצאות רלוונטיות מבחינה משמעותית גם אם המילים זהות.

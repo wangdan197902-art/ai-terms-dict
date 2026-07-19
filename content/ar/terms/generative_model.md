@@ -1,23 +1,24 @@
 ---
-title: "نموذج توليدي"
-term_id: "generative_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ml-basics", "synthesis"]
+title: نموذج توليدي
+term_id: generative_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- ML Basics
+- synthesis
 difficulty: 2
 weight: 1
-slug: "generative_model"
-aliases:
-  - /ar/terms/generative_model/
-date: "2026-07-18T15:59:22.336968Z"
-lastmod: "2026-07-18T17:15:08.507766Z"
+slug: generative_model
+date: '2026-07-18T15:59:22.336968Z'
+lastmod: '2026-07-18T17:15:08.507766Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "نوع من نماذج تعلم الآلة يتعلم التوزيع الأساسي للبيانات لتوليد عينات جديدة ومحاكية تشبه بيانات التدريب."
+source: agnes_llm
+status: published
+language: ar
+description: نوع من نماذج تعلم الآلة يتعلم التوزيع الأساسي للبيانات لتوليد عينات جديدة
+  ومحاكية تشبه بيانات التدريب.
 ---
-
 ## Definition
 
 النماذج التوليدية هي خوارزميات مصممة لفهم الأنماط والهياكل داخل مجموعة بيانات معينة بحيث يمكنها إنشاء نسخ جديدة من البيانات تشبه الأصلية. وعلى عكس النماذج التمييزية...

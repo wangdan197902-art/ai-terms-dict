@@ -7,8 +7,6 @@ tags: ["synthesis", "automation", "programming"]
 difficulty: 4
 weight: 1
 slug: "inductive_programming"
-aliases:
-  - /tr/terms/inductive_programming/
 date: "2026-07-18T15:58:14.091240Z"
 lastmod: "2026-07-18T16:38:07.320942Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Girdi-çıktı örneklerinden otomatik olarak bilgisayar programları üreten program sentezi alanıdır."
 ---
-
 ## Definition
 
 Program Sentezi olarak da bilinen Tümevarımsal Programlama, açık talimatlar yerine girdi-çıktı çiftleri olarak sağlanan spesifikasyonlara dayanarak yazılım kodu oluşturma sürecini içerir. Sistem

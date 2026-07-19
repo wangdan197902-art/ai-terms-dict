@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /ko/terms/multi_task_learning/
 date: "2026-07-18T16:06:52.157642Z"
 lastmod: "2026-07-18T16:38:06.887666Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모델이 일반화를 향상시키기 위해 여러 관련 작업을 동시에 학습하는 머신러닝 패러다임입니다."
 ---
-
 ## Definition
 
 이 기법은 관련 작업 간에 공유되는 귀납적 편향을 활용하여 학습 효율성과 성능을 향상시킵니다. 단일 모델을 사용하여 여러 작업을 동시에 수행하도록 학습함으로써, 모델은 공통된 표현을 배우게 됩니다.

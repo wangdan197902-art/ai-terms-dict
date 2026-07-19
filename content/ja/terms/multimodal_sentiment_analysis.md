@@ -1,23 +1,23 @@
 ---
-title: "マルチモーダル感情分析"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: マルチモーダル感情分析
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /ja/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T11:25:08.196868Z"
-lastmod: "2026-07-18T11:44:45.125251Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T11:25:08.196868Z'
+lastmod: '2026-07-18T11:44:45.125251Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "テキスト、視覚、聴覚のシグナルを統合して人間の感情を計算機分析的に評価すること。"
+source: agnes_llm
+status: published
+language: ja
+description: テキスト、視覚、聴覚のシグナルを統合して人間の感情を計算機分析的に評価すること。
 ---
-
 ## Definition
 
 マルチモーダル感情分析は、従来のテキストベースの感情検出を拡張し、表情、声のトーン、ボディランゲージなどの追加的なシグナルを組み込みます。この包括的なアプローチにより、より正確な感情認識が可能になります。

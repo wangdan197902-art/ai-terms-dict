@@ -1,23 +1,23 @@
 ---
-title: "تعلم التمثيل متعدد الوسائط"
-term_id: "multimodal_representation_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["representation_learning", "multimodal_ai", "deep_learning"]
+title: تعلم التمثيل متعدد الوسائط
+term_id: multimodal_representation_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Representation Learning
+- Multimodal AI
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multimodal_representation_learning"
-aliases:
-  - /ar/terms/multimodal_representation_learning/
-date: "2026-07-18T16:13:55.849355Z"
-lastmod: "2026-07-18T17:15:08.530806Z"
+slug: multimodal_representation_learning
+date: '2026-07-18T16:13:55.849355Z'
+lastmod: '2026-07-18T17:15:08.530806Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تتعلم تمثيلات موحدة للميزات من عدة وسائط بيانات في وقت واحد."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تتعلم تمثيلات موحدة للميزات من عدة وسائط بيانات في وقت واحد.
 ---
-
 ## Definition
 
 يتضمن تعلم التمثيل متعدد الوسائط تدريب النماذج لمعالجة ودمج المعلومات من مصادر بيانات مختلفة الأنواع، مثل النص والصور والصوت والفيديو، في فضاء كامن مشترك.

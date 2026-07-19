@@ -1,23 +1,24 @@
 ---
-title: "Обучение на основе экземпляров"
-term_id: "instance_based_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["algorithm", "lazy_learning", "classification"]
+title: Обучение на основе экземпляров
+term_id: instance_based_learning
+category: training_techniques
+subcategory: ''
+tags:
+- algorithm
+- Lazy Learning
+- Classification
 difficulty: 2
 weight: 1
-slug: "instance_based_learning"
-aliases:
-  - /ru/terms/instance_based_learning/
-date: "2026-07-18T15:58:56.365551Z"
-lastmod: "2026-07-18T16:38:07.169546Z"
+slug: instance_based_learning
+date: '2026-07-18T15:58:56.365551Z'
+lastmod: '2026-07-18T16:38:07.169546Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Подход ленивого обучения, при котором предсказания делаются путем сравнения новых входных данных с сохраненными обучающими экземплярами."
+source: agnes_llm
+status: published
+language: ru
+description: Подход ленивого обучения, при котором предсказания делаются путем сравнения
+  новых входных данных с сохраненными обучающими экземплярами.
 ---
-
 ## Definition
 
 Также известное как обучение на основе памяти, этот метод не строит обобщенную модель во время обучения. Вместо этого он сохраняет весь обучающий набор данных. Когда требуется предсказание, он находит наиболее похожие

@@ -1,23 +1,24 @@
 ---
-title: "หลักการแห่งเหตุผลนิยม"
-term_id: "principle_of_rationality"
-category: "basic_concepts"
-subcategory: ""
-tags: ["decision-making", "theory", "agents"]
+title: หลักการแห่งเหตุผลนิยม
+term_id: principle_of_rationality
+category: basic_concepts
+subcategory: ''
+tags:
+- Decision Making
+- theory
+- agents
 difficulty: 3
 weight: 1
-slug: "principle_of_rationality"
-aliases:
-  - /th/terms/principle_of_rationality/
-date: "2026-07-18T16:11:33.848591Z"
-lastmod: "2026-07-18T16:38:07.643699Z"
+slug: principle_of_rationality
+date: '2026-07-18T16:11:33.848591Z'
+lastmod: '2026-07-18T16:38:07.643699Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สมมติฐานพื้นฐานที่ว่าตัวแทนอัจฉริยะจะดำเนินการเพื่อเพิ่มประโยชน์ที่คาดหวังให้สูงสุด โดยอาศัยข้อมูลที่มีอยู่"
+source: agnes_llm
+status: published
+language: th
+description: สมมติฐานพื้นฐานที่ว่าตัวแทนอัจฉริยะจะดำเนินการเพื่อเพิ่มประโยชน์ที่คาดหวังให้สูงสุด
+  โดยอาศัยข้อมูลที่มีอยู่
 ---
-
 ## Definition
 
 หลักการนี้ตั้งอยู่บนข้อสันนิษฐานว่าการกระทำของตัวแทนควรได้รับการเลือกสรรเพื่อเพิ่มมาตรการประสิทธิภาพที่คาดหวังให้สูงสุด โดยพิจารณาจากอินพุตทางการรับรู้และความรู้ก่อนหน้า หลักการนี้เป็นรากฐานสำคัญของทฤษฎีการตัดสินใจ

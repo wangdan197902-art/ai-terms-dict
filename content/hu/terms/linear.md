@@ -7,8 +7,6 @@ tags: ["Mathematics", "Neural Networks", "Foundations"]
 difficulty: 2
 weight: 1
 slug: "linear"
-aliases:
-  - /hu/terms/linear/
 date: "2026-07-18T15:27:31.373021Z"
 lastmod: "2026-07-18T17:15:09.723618Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Olyan műveleteket vagy kapcsolatokat ír le, ahol a kimenet egyenesen arányos a bemenettel, ami az affin transzformációk alapját képezi a neurális rétegekben."
 ---
-
 ## Definition
 
 A lineáris műveletek szorzást és összeadást foglalnak magukban nem-lineáris aktivációk nélkül. A neurális hálózatokban a lineáris rétegek (vagy sűrű rétegek) súlymátrix-transzformációt alkalmaznak a bemeneti vektorokra. Bár a lineáris...

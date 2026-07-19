@@ -7,8 +7,6 @@ tags: ["robotics", "vision", "architecture"]
 difficulty: 3
 weight: 1
 slug: "perceiver"
-aliases:
-  - /he/terms/perceiver/
 date: "2026-07-18T16:16:35.780577Z"
 lastmod: "2026-07-18T17:15:09.572912Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת או מודול האחראים לקבלת ופרשנות קלט חושי מהסביבה."
 ---
-
 ## Definition
 
 בבינה מלאכותית ובמדעי הקוגניציה, קולט מתייחס לרכיב של מערכת חכמה המעבד נתונים חושיים גולמיים למידע משמעותי. בניגוד לחיישנים פשוטים המזהים רק אותות, קולט מבצע עיבוד ומשמעות.

@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Representation Learning", "Computer Vision"]
 difficulty: 4
 weight: 1
 slug: "similarity_learning"
-aliases:
-  - /zh/terms/similarity_learning/
 date: "2026-07-18T11:33:18.814280Z"
 lastmod: "2026-07-18T11:44:45.553936Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种机器学习方法，通过学习距离度量来确定两个对象之间的相似或不相似程度。"
 ---
-
 ## Definition
 
 相似度学习专注于训练模型，将输入映射到向量空间，其中相似的项目彼此靠近，不相似的项目相距较远。常用的技术包括孪生网络和三元组损失函数。

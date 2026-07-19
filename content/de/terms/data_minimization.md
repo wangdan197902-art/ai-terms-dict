@@ -7,8 +7,6 @@ tags: ["privacy", "compliance"]
 difficulty: 2
 weight: 1
 slug: "data_minimization"
-aliases:
-  - /de/terms/data_minimization/
 date: "2026-07-18T11:38:54.182395Z"
 lastmod: "2026-07-18T11:44:45.000988Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Das Prinzip, nur die für einen bestimmten Zweck unbedingt erforderlichen personenbezogenen Daten zu erheben und zu verarbeiten."
 ---
-
 ## Definition
 
 Die Datenminimierung ist ein Kernprinzip des Datenschutzes, das Organisationen verpflichtet, die Datenerhebung auf das angemessene, relevante und notwendige Maß zu beschränken. Im KI-Bereich bedeutet dies, Modelle so zu gestalten, dass sie

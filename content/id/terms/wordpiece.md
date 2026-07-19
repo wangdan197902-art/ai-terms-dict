@@ -1,23 +1,24 @@
 ---
-title: "WordPiece"
-term_id: "wordpiece"
-category: "engineering_practice"
-subcategory: ""
-tags: ["nlp", "tokenization", "bert"]
+title: WordPiece
+term_id: wordpiece
+category: engineering_practice
+subcategory: ''
+tags:
+- NLP
+- tokenization
+- BERT
 difficulty: 3
 weight: 1
-slug: "wordpiece"
-aliases:
-  - /id/terms/wordpiece/
-date: "2026-07-18T16:13:33.331381Z"
-lastmod: "2026-07-18T16:38:07.520148Z"
+slug: wordpiece
+date: '2026-07-18T16:13:33.331381Z'
+lastmod: '2026-07-18T16:38:07.520148Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Algoritma tokenisasi subkata yang secara rekursif menggabungkan pasangan karakter paling sering muncul untuk menangani kata di luar kosakata."
+source: agnes_llm
+status: published
+language: id
+description: Algoritma tokenisasi subkata yang secara rekursif menggabungkan pasangan
+  karakter paling sering muncul untuk menangani kata di luar kosakata.
 ---
-
 ## Definition
 
 WordPiece adalah metode tokenisasi yang banyak digunakan dalam model pemrosesan bahasa alami seperti BERT dan ALBERT. Metode ini memecah kata menjadi unit subkata yang lebih kecil untuk mengelola kekayaan morfologis bahasa dan mengurangi ukuran kosakata. Dengan menggabungkan pasangan karakter yang paling sering muncul secara iteratif, WordPiece memungkinkan model menangani kata-kata yang jarang muncul atau tidak dikenal dengan efektif.

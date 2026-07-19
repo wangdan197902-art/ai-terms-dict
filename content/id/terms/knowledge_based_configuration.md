@@ -7,8 +7,6 @@ tags: ["Automation", "Constraints", "Engineering"]
 difficulty: 3
 weight: 1
 slug: "knowledge_based_configuration"
-aliases:
-  - /id/terms/knowledge_based_configuration/
 date: "2026-07-18T15:56:59.502511Z"
 lastmod: "2026-07-18T16:38:07.474505Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Proses otomatis yang menggunakan basis pengetahuan khusus domain untuk menghasilkan konfigurasi produk yang valid dari batasan pengguna."
 ---
-
 ## Definition
 
 Pendekatan ini menggunakan teknik pemenuhan kendala dalam basis pengetahuan untuk memastikan bahwa produk yang dirakit memenuhi semua persyaratan teknis dan pelanggan. Ini mencegah kombinasi yang tidak valid dengan mengenkapsulasi aturan bisnis dan ketergantungan teknis, sehingga mengurangi kesalahan manusia dan mempercepat proses pemesanan.

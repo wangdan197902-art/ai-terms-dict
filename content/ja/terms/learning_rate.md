@@ -1,23 +1,23 @@
 ---
-title: "学習率"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: 学習率
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /ja/terms/learning_rate/
-date: "2026-07-18T10:59:28.529710Z"
-lastmod: "2026-07-18T11:44:45.049205Z"
+slug: learning_rate
+date: '2026-07-18T10:59:28.529710Z'
+lastmod: '2026-07-18T11:44:45.049205Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "損失関数を最小化するためのモデル最適化過程におけるステップサイズを制御するハイパーパラメータ。"
+source: agnes_llm
+status: published
+language: ja
+description: 損失関数を最小化するためのモデル最適化過程におけるステップサイズを制御するハイパーパラメータ。
 ---
-
 ## Definition
 
 学習率は、各トレーニング反復中に計算された勾配に対してモデルの重みがどの程度更新されるかを決定します。学習率が大きすぎるとモデルが最適解を見逃す可能性があり、小さすぎると学習収束に時間がかかりすぎます。

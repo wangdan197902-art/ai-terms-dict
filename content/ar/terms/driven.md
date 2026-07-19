@@ -1,23 +1,25 @@
 ---
-title: "مدفوع بـ"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: مدفوع بـ
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /ar/terms/driven/
-date: "2026-07-18T15:25:14.806467Z"
-lastmod: "2026-07-18T17:15:08.436716Z"
+slug: driven
+date: '2026-07-18T15:25:14.806467Z'
+lastmod: '2026-07-18T17:15:08.436716Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "يشير مصطلح مدفوع بـ إلى أنظمة الذكاء الاصطناعي أو المنهجيات حيث يتم اتخاذ القرارات أو هندسة النموذج بشكل أساسي بناءً على نوع محدد من المدخلات، مثل البيانات أو الأهداف."
+source: agnes_llm
+status: published
+language: ar
+description: يشير مصطلح مدفوع بـ إلى أنظمة الذكاء الاصطناعي أو المنهجيات حيث يتم اتخاذ
+  القرارات أو هندسة النموذج بشكل أساسي بناءً على نوع محدد من المدخلات، مثل البيانات
+  أو الأهداف.
 ---
-
 ## Definition
 
 يُستخدم مصطلح 'مدفوع بـ' عادةً كلاحقة للإشارة إلى القوة أو الآلية الرئيسية وراء نهج الذكاء الاصطناعي. على سبيل المثال، تعني 'مدفوع بالبيانات' أن القرارات تُتخذ بناءً على الأنماط الإحصائية الموجودة في البيانات.

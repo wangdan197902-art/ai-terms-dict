@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /it/terms/ciml_community_portal/
 date: "2026-07-18T15:51:04.357548Z"
 lastmod: "2026-07-18T17:15:08.604912Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una piattaforma online centralizzata che facilita la collaborazione, la condivisione delle risorse e le discussioni tra ricercatori e professionisti nell'ambito dell'Intelligenza Computazionale e del "
 ---
-
 ## Definition
 
 Il portale della comunità CIML funge da hub digitale per la comunità accademica e professionale focalizzata sull'intelligenza computazionale. Fornisce accesso a dataset, modelli pre-addestrati, articoli di ricerca

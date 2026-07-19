@@ -1,23 +1,24 @@
 ---
-title: "Chủ nghĩa thuần chay AI"
-term_id: "ai_veganism"
-category: "application_paradigms"
-subcategory: ""
-tags: ["ethics", "future_trends", "metaphor"]
+title: Chủ nghĩa thuần chay AI
+term_id: ai_veganism
+category: application_paradigms
+subcategory: ''
+tags:
+- ethics
+- Future Trends
+- metaphor
 difficulty: 4
 weight: 1
-slug: "ai_veganism"
-aliases:
-  - /vi/terms/ai_veganism/
-date: "2026-07-18T15:38:45.431595Z"
-lastmod: "2026-07-18T16:38:07.722012Z"
+slug: ai_veganism
+date: '2026-07-18T15:38:45.431595Z'
+lastmod: '2026-07-18T16:38:07.722012Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một khái niệm ẩn dụ gợi ý rằng các hệ thống AI nên hoạt động mà không dựa vào dữ liệu hoặc lao động do con người tạo ra."
+source: agnes_llm
+status: published
+language: vi
+description: Một khái niệm ẩn dụ gợi ý rằng các hệ thống AI nên hoạt động mà không
+  dựa vào dữ liệu hoặc lao động do con người tạo ra.
 ---
-
 ## Definition
 
 Chủ nghĩa thuần chay AI là một thuật ngữ mang tính suy đoán và ẩn dụ, đề cập đến ý tưởng tạo ra trí tuệ nhân tạo học hỏi hoàn toàn từ dữ liệu tổng hợp, tự tạo hoặc từ thế giới vật lý, thay vì phụ thuộc vào dữ liệu do con người tạo ra.

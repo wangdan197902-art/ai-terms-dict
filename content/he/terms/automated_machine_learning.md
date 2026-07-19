@@ -7,8 +7,6 @@ tags: ["automation", "efficiency", "workflow"]
 difficulty: 3
 weight: 1
 slug: "automated_machine_learning"
-aliases:
-  - /he/terms/automated_machine_learning/
 date: "2026-07-18T15:43:43.021696Z"
 lastmod: "2026-07-18T17:15:09.515480Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מתודולוגיה המאוטמטית את התהליך המלא של יישום למידת מכונה לבעיות בעולם האמיתי, תוך הפחתת הצורך במאמץ ידני."
 ---
-
 ## Definition
 
 AutoML מפשט את פיתוח מודלי ML על ידי אוטומציה של משימות כמו ניקוי נתונים, הנדסת תכונות, בחירת מודל וכיוונון פרמטרים. הוא מאפשר למפתחים ולאנליסטים ליצור מודלים מדויקים במהירות, תוך הפחתת חסמי הכניסה לתחום למידת המכונה.

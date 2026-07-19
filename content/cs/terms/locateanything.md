@@ -1,23 +1,24 @@
 ---
-title: "LocateAnything"
-term_id: "locateanything"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "segmentation", "zero-shot"]
+title: LocateAnything
+term_id: locateanything
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- segmentation
+- Zero-Shot
 difficulty: 3
 weight: 1
-slug: "locateanything"
-aliases:
-  - /cs/terms/locateanything/
-date: "2026-07-18T16:06:45.542191Z"
-lastmod: "2026-07-18T17:15:09.149575Z"
+slug: locateanything
+date: '2026-07-18T16:06:45.542191Z'
+lastmod: '2026-07-18T17:15:09.149575Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Otevřený rámec navržený pro lokalizaci a segmentaci objektů bez předchozího tréninku (zero-shot) napříč různými vizuálními doménami."
+source: agnes_llm
+status: published
+language: cs
+description: Otevřený rámec navržený pro lokalizaci a segmentaci objektů bez předchozího
+  tréninku (zero-shot) napříč různými vizuálními doménami.
 ---
-
 ## Definition
 
 LocateAnything je univerzální rámec počítačového vidění, který umožňuje detekci a segmentaci objektů na obrázcích na základě přirozenojazyčných podnětů nebo obecných předpokladů. Využívá předtrénovaných modelů základních schopností (foundation models) k pochopení kontextu a identifikaci objektů bez nutnosti specifického tréninku pro každou úlohu, což činí systém flexibilním a adaptabilním pro širokou škálu vizuálních dat.

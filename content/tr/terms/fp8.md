@@ -1,23 +1,24 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /tr/terms/fp8/
-date: "2026-07-18T15:53:59.581846Z"
-lastmod: "2026-07-18T16:38:07.310603Z"
+slug: fp8
+date: '2026-07-18T15:53:59.581846Z'
+lastmod: '2026-07-18T16:38:07.310603Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "FP8, derin öğrenme eğitimini ve çıkarımını hızlandırmak için kabul edilebilir hassasiyet seviyelerini koruyarak tasarlanmış 8 bitlik kayan nokta formatıdır."
+source: agnes_llm
+status: published
+language: tr
+description: FP8, derin öğrenme eğitimini ve çıkarımını hızlandırmak için kabul edilebilir
+  hassasiyet seviyelerini koruyarak tasarlanmış 8 bitlik kayan nokta formatıdır.
 ---
-
 ## Definition
 
 Kayar Noktalı 8 (FP8), modern yapay zeka donanımı için özel olarak optimize edilmiş, hesaplama verimliliği ile doğruluk arasında bir denge sunan bir sayısal veri türüdür. Bellek bant genişliği gereksinimlerini azaltır...

@@ -1,23 +1,23 @@
 ---
-title: "GGUF"
-term_id: "gguf"
-category: "basic_concepts"
-subcategory: ""
-tags: ["format", "optimization", "local_llm"]
+title: GGUF
+term_id: gguf
+category: basic_concepts
+subcategory: ''
+tags:
+- format
+- Optimization
+- Local LLM
 difficulty: 3
 weight: 1
-slug: "gguf"
-aliases:
-  - /zh/terms/gguf/
-date: "2026-07-18T11:17:53.013457Z"
-lastmod: "2026-07-18T11:44:45.503510Z"
+slug: gguf
+date: '2026-07-18T11:17:53.013457Z'
+lastmod: '2026-07-18T11:44:45.503510Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "由gger.ai开发的一种文件格式，用于在本地硬件上高效存储和加载量化大型语言模型。"
+source: agnes_llm
+status: published
+language: zh
+description: 由gger.ai开发的一种文件格式，用于在本地硬件上高效存储和加载量化大型语言模型。
 ---
-
 ## Definition
 
 GGUF（GPT-Generated Unified Format，GPT生成统一格式）是一种专为在消费级硬件上运行大型语言模型而设计的二进制文件格式。它支持各种量化技术，允许模型在资源受限的设备上更高效地运行。

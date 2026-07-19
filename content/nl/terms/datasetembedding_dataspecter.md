@@ -7,8 +7,6 @@ tags: ["academic", "citations", "embeddings"]
 difficulty: 4
 weight: 1
 slug: "datasetembedding_dataspecter"
-aliases:
-  - /nl/terms/datasetembedding_dataspecter/
 date: "2026-07-18T15:49:40.040427Z"
 lastmod: "2026-07-18T17:15:08.733551Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een dataset op grote schaal gebaseerd op publicaties en citaten uit de informatica, ontworpen voor het trainen van modellen voor het embedden van academische papers."
 ---
-
 ## Definition
 
 De Specter-dataset is opgebouwd uit een enorme verzameling informaticapapers, waarbij gebruik wordt gemaakt van citatienetwerken om supervisieerde leersignalen te creëren. Het koppelt abstracten aan citerende papers om

@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "transparency"]
 difficulty: 2
 weight: 1
 slug: "source_attribution"
-aliases:
-  - /fi/terms/source_attribution/
 date: "2026-07-18T16:21:58.175887Z"
 lastmod: "2026-07-18T17:15:09.461587Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa tunnistetaan ja nimetään alkuperäiset luojat tai datalähteet, joita on käytetty tietyn sisällön tai oivallusten tuottamiseen."
 ---
-
 ## Definition
 
 Lähteenmääritys viittaa datan, mallien tai tekoälyjärjestelmissä tuotettujen tulosten alkuperän systemaattiseen seurantaan ja merkintään. Se varmistaa läpinäkyvyyden linkittämällä lopputulokset takaisin niiden lähteisiin.

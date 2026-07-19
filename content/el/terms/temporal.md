@@ -1,23 +1,23 @@
 ---
-title: "Χρονικός"
-term_id: "temporal"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sequence_models", "time_series"]
+title: Χρονικός
+term_id: temporal
+category: basic_concepts
+subcategory: ''
+tags:
+- Sequence Models
+- Time Series
 difficulty: 3
 weight: 1
-slug: "temporal"
-aliases:
-  - /el/terms/temporal/
-date: "2026-07-18T15:33:51.144642Z"
-lastmod: "2026-07-18T17:15:09.855858Z"
+slug: temporal
+date: '2026-07-18T15:33:51.144642Z'
+lastmod: '2026-07-18T17:15:09.855858Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ο χρονικός όρος σχετίζεται με ακολουθίες χρόνου, εστιάζοντας στο πώς τα δεδομένα αλλάζουν ή εξελίσσονται οι εξαρτήσεις με την πάροδο του χρόνου."
+source: agnes_llm
+status: published
+language: el
+description: Ο χρονικός όρος σχετίζεται με ακολουθίες χρόνου, εστιάζοντας στο πώς
+  τα δεδομένα αλλάζουν ή εξελίσσονται οι εξαρτήσεις με την πάροδο του χρόνου.
 ---
-
 ## Definition
 
 Οι χρονικές έννοιες στην ΤΝ περιλαμβάνουν την ανάλυση σημείων δεδομένων που είναι διατεταγμένα χρονικά, όπως τιμές μετοχών, αναγνώσεις αισθητήρων ή προτάσεις φυσικής γλώσσας. Τα μοντέλα που διαχειρίζονται χρονικά δεδομένα πρέπει να λαμβάνουν υπόψη τη χρονική σειρά

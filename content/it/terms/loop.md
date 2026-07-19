@@ -7,8 +7,6 @@ tags: ["programming", "fundamentals"]
 difficulty: 1
 weight: 1
 slug: "loop"
-aliases:
-  - /it/terms/loop/
 date: "2026-07-18T15:26:24.456779Z"
 lastmod: "2026-07-18T17:15:08.569244Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Una struttura di programmazione che ripete un blocco di codice più volte fino al soddisfacimento di una condizione."
 ---
-
 ## Definition
 
 Una struttura fondamentale di controllo del flusso nella scienza informatica e nello sviluppo di IA, il ciclo consente agli algoritmi di iterare attraverso set di dati, eseguire calcoli ripetuti o far girare epoche di addestramento. I tipi comuni includono

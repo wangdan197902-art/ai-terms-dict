@@ -1,23 +1,23 @@
 ---
-title: "生成模型"
-term_id: "generative_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ml-basics", "synthesis"]
+title: 生成模型
+term_id: generative_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- ML Basics
+- synthesis
 difficulty: 2
 weight: 1
-slug: "generative_model"
-aliases:
-  - /zh/terms/generative_model/
-date: "2026-07-18T11:18:55.348445Z"
-lastmod: "2026-07-18T11:44:45.507934Z"
+slug: generative_model
+date: '2026-07-18T11:18:55.348445Z'
+lastmod: '2026-07-18T11:44:45.507934Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一类机器学习模型，通过学习数据的潜在分布来生成与训练数据相似的新颖合成样本。"
+source: agnes_llm
+status: published
+language: zh
+description: 一类机器学习模型，通过学习数据的潜在分布来生成与训练数据相似的新颖合成样本。
 ---
-
 ## Definition
 
 生成模型是旨在理解给定数据集中模式和结构的算法，以便创建与原始数据相似的新数据实例。与判别模型不同，生成模型不仅区分数据类别，还学习数据本身的联合概率分布，从而能够“创造”新的数据点，如图像、文本或音频。

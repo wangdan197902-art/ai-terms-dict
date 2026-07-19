@@ -1,23 +1,24 @@
 ---
-title: "Doğrusal tahminci fonksiyon"
-term_id: "linear_predictor_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "linear_models", "mathematics"]
+title: Doğrusal tahminci fonksiyon
+term_id: linear_predictor_function
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Linear Models
+- mathematics
 difficulty: 2
 weight: 1
-slug: "linear_predictor_function"
-aliases:
-  - /tr/terms/linear_predictor_function/
-date: "2026-07-18T16:01:04.025852Z"
-lastmod: "2026-07-18T16:38:07.327918Z"
+slug: linear_predictor_function
+date: '2026-07-18T16:01:04.025852Z'
+lastmod: '2026-07-18T16:38:07.327918Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir sonucu tahmin etmek için girdi değişkenlerinin doğrusal kombinasyonunu hesaplayan matematiksel bir fonksiyon."
+source: agnes_llm
+status: published
+language: tr
+description: Bir sonucu tahmin etmek için girdi değişkenlerinin doğrusal kombinasyonunu
+  hesaplayan matematiksel bir fonksiyon.
 ---
-
 ## Definition
 
 İstatistiksel modelleme ve makine öğreniminde, doğrusal tahminci fonksiyon, girdi özelliklerinin ağırlıklı toplamına bir sapma (bias) teriminin eklenmesiyle temsil edilir. Genelleştirilmiş doğrusal modellerin (GLM) temel bileşenini oluşturur.

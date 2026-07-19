@@ -1,23 +1,24 @@
 ---
-title: "Problem Çözme"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: Problem Çözme
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /tr/terms/problem_solving/
-date: "2026-07-18T16:10:06.477755Z"
-lastmod: "2026-07-18T16:38:07.351784Z"
+slug: problem_solving
+date: '2026-07-18T16:10:06.477755Z'
+lastmod: '2026-07-18T16:38:07.351784Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Tanımlanmış durum uzaylarında arama, muhakeme ve planlama yoluyla zorluklara çözüm bulma bilişsel süreci."
+source: agnes_llm
+status: published
+language: tr
+description: Tanımlanmış durum uzaylarında arama, muhakeme ve planlama yoluyla zorluklara
+  çözüm bulma bilişsel süreci.
 ---
-
 ## Definition
 
 Yapay zekada problem çözme, bir başlangıç durumundan hedef duruma doğru bir dizi eylem aracılığıyla ilerlemeyi içeren sistematik bir yaklaşımdır. Genellikle problemin durum uzayını tanımlamayı, olası eylemleri belirlemeyi ve bu uzayda etkili bir yol haritası oluşturmayı gerektirir.

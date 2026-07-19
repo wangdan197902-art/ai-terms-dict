@@ -1,23 +1,24 @@
 ---
-title: "Detektering av överlappande tal"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Detektering av överlappande tal
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /sv/terms/overlapped_speech_detection/
-date: "2026-07-18T16:12:29.016034Z"
-lastmod: "2026-07-18T17:15:09.034130Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:12:29.016034Z'
+lastmod: '2026-07-18T17:15:09.034130Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att identifiera tidssegment där två eller flera högtalare pratar samtidigt i en ljudström."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att identifiera tidssegment där två eller flera högtalare pratar
+  samtidigt i en ljudström.
 ---
-
 ## Definition
 
 Detektering av överlappande tal (OSD) är en specialiserad uppgift inom talbehandling som pekar ut intervall av samtidiga röstuttryck. Till skillnad från högtalar-diarisering som fokuserar på 'vem som pratade när', fokuserar OSD på...

@@ -1,23 +1,24 @@
 ---
-title: "Retrieval"
-term_id: "retrieval"
-category: "application_paradigms"
-subcategory: ""
-tags: ["data_processing", "search", "architecture"]
+title: Retrieval
+term_id: retrieval
+category: application_paradigms
+subcategory: ''
+tags:
+- Data Processing
+- search
+- architecture
 difficulty: 2
 weight: 1
-slug: "retrieval"
-aliases:
-  - /id/terms/retrieval/
-date: "2026-07-18T15:36:05.535235Z"
-lastmod: "2026-07-18T16:38:07.418952Z"
+slug: retrieval
+date: '2026-07-18T15:36:05.535235Z'
+lastmod: '2026-07-18T16:38:07.418952Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses mengambil data relevan dari basis data atau basis pengetahuan untuk memperkuat input model."
+source: agnes_llm
+status: published
+language: id
+description: Proses mengambil data relevan dari basis data atau basis pengetahuan
+  untuk memperkuat input model.
 ---
-
 ## Definition
 
 Retrieval merujuk pada proses teknis mencari dan mengekstrak informasi spesifik dari dataset besar atau basis pengetahuan eksternal berdasarkan kueri pengguna atau konteks. Dalam sistem AI modern, hal ini sering digunakan untuk menyediakan konteks tambahan kepada model.

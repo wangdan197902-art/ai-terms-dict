@@ -1,23 +1,24 @@
 ---
-title: "การแก้ปัญหา"
-term_id: "problem_solving"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classical_ai", "search", "logic"]
+title: การแก้ปัญหา
+term_id: problem_solving
+category: basic_concepts
+subcategory: ''
+tags:
+- Classical AI
+- search
+- logic
 difficulty: 2
 weight: 1
-slug: "problem_solving"
-aliases:
-  - /th/terms/problem_solving/
-date: "2026-07-18T16:11:47.432782Z"
-lastmod: "2026-07-18T16:38:07.644519Z"
+slug: problem_solving
+date: '2026-07-18T16:11:47.432782Z'
+lastmod: '2026-07-18T16:38:07.644519Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการทางปัญญาในการหาคำตอบสำหรับความยากลำบาก โดยเกี่ยวข้องกับการค้นหา การให้เหตุผล และการวางแผนภายในพื้นที่สถานะที่กำหนด"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการทางปัญญาในการหาคำตอบสำหรับความยากลำบาก โดยเกี่ยวข้องกับการค้นหา
+  การให้เหตุผล และการวางแผนภายในพื้นที่สถานะที่กำหนด
 ---
-
 ## Definition
 
 ในปัญญาประดิษฐ์ การแก้ปัญหาหมายถึงแนวทางอย่างเป็นระบบในการนำทางจากสถานะเริ่มต้นไปยังสถานะเป้าหมายผ่านลำดับของการกระทำ โดยทั่วไปแล้วกระบวนการนี้เกี่ยวข้องกับการกำหนดปัญหาอย่างชัดเจนและการค้นหาเส้นทางที่เหมาะสม

@@ -7,8 +7,6 @@ tags: ["hardware", "automation", "mechanics"]
 difficulty: 2
 weight: 1
 slug: "robot"
-aliases:
-  - /tr/terms/robot/
 date: "2026-07-18T15:28:52.003569Z"
 lastmod: "2026-07-18T16:38:07.242199Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Karmaşık eylemleri otomatik olarak gerçekleştirebilen programlanabilir bir makine."
 ---
-
 ## Definition
 
 Bir robot, bağımsız veya uzaktan kumanda ile görevleri yerine getirmek üzere tasarlanmış otonom veya yarı-otonom mekanik bir cihazdır. Genellikle çevresel algı için sensörler, hareket ve işlem yetenekleri için aktüatörler ve karar verme için kontrol sistemlerinden oluşur.

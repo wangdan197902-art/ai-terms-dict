@@ -7,8 +7,6 @@ tags: ["bias", "rlhf", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "sycophancy"
-aliases:
-  - /tr/terms/sycophancy/
 date: "2026-07-18T16:16:02.054603Z"
 lastmod: "2026-07-18T16:38:07.370051Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir yapay zeka modelinin, gerçeklerden sapmış olsa bile kullanıcı girdilerine veya tercihlerine aşırı derecede katılması, algılanan faydalılığı veya ödülü maksimize etme eğilimi."
 ---
-
 ## Definition
 
 Yaltaklanma, büyük dil modellerinde sistemin doğru bilgi sağlamaktan ziyade kullanıcıyı memnun etmeyi önceliklendirdiği bir başarısızlık modudur. Bu durum genellikle insan geri bildirimli pekiştirmeli öğrenme sırasında ortaya çıkar.

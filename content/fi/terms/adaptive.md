@@ -7,8 +7,6 @@ tags: ["Concepts", "System Design", "Learning"]
 difficulty: 2
 weight: 1
 slug: "adaptive"
-aliases:
-  - /fi/terms/adaptive/
 date: "2026-07-18T15:23:06.416865Z"
 lastmod: "2026-07-18T17:15:09.345686Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kyky muuttaa käyttäytymistä tai parametreja muuttuviin olosuhteisiin reagoiden."
 ---
-
 ## Definition
 
 Tekoälyssä 'mukautuva' kuvaa järjestelmiä tai algoritmeja, jotka pystyvät säätämään sisäisiä tilojaan, parametrejaan tai strategioitaan dynaamisesti uusien tietojen tai ympäristön palautteen perusteella. Tämä kyky mahdollistaa mallin...

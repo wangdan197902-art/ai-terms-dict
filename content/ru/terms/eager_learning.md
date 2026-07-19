@@ -1,23 +1,25 @@
 ---
-title: "Жадное обучение"
-term_id: "eager_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "training", "inference"]
+title: Жадное обучение
+term_id: eager_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- training
+- inference
 difficulty: 2
 weight: 1
-slug: "eager_learning"
-aliases:
-  - /ru/terms/eager_learning/
-date: "2026-07-18T15:51:13.040423Z"
-lastmod: "2026-07-18T16:38:07.151737Z"
+slug: eager_learning
+date: '2026-07-18T15:51:13.040423Z'
+lastmod: '2026-07-18T16:38:07.151737Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Жадное обучение — это подход в машинном обучении, при котором обобщающая функция изучается на этапе обучения, что обеспечивает быстрое время предсказания после завершения обучения."
+source: agnes_llm
+status: published
+language: ru
+description: Жадное обучение — это подход в машинном обучении, при котором обобщающая
+  функция изучается на этапе обучения, что обеспечивает быстрое время предсказания
+  после завершения обучения.
 ---
-
 ## Definition
 
 При жадном обучении система строит общую целевую функцию или модель на основе обучающих данных до того, как столкнется с новыми экземплярами. Это контрастирует с ленивым обучением, которое откладывает обобщение

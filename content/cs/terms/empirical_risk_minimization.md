@@ -1,23 +1,24 @@
 ---
-title: "Minimalizace empirického rizika"
-term_id: "empirical_risk_minimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "supervised_learning", "theory"]
+title: Minimalizace empirického rizika
+term_id: empirical_risk_minimization
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Supervised Learning
+- theory
 difficulty: 3
 weight: 1
-slug: "empirical_risk_minimization"
-aliases:
-  - /cs/terms/empirical_risk_minimization/
-date: "2026-07-18T15:55:49.752096Z"
-lastmod: "2026-07-18T17:15:09.126304Z"
+slug: empirical_risk_minimization
+date: '2026-07-18T15:55:49.752096Z'
+lastmod: '2026-07-18T17:15:09.126304Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Základní princip ve strojovém učení, který se snaží minimalizovat průměrnou ztrátu na pozorovaných tréninkových datech."
+source: agnes_llm
+status: published
+language: cs
+description: Základní princip ve strojovém učení, který se snaží minimalizovat průměrnou
+  ztrátu na pozorovaných tréninkových datech.
 ---
-
 ## Definition
 
 Minimalizace empirického rizika (ERM) je standardní cílová funkce pro trénování modelů supervizovaného učení. Zahrnuje výběr hypotézy z třídy funkcí, která minimalizuje průměrnou chybu...

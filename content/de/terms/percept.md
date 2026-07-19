@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /de/terms/percept/
 date: "2026-07-18T11:26:50.347429Z"
 lastmod: "2026-07-18T11:44:44.974521Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die mentale Repräsentation oder das interpretierte Ergebnis sensorischer Eingaben, die von einem Wahrnehmungsmodule verarbeitet wurden."
 ---
-
 ## Definition
 
 Ein Perzept ist die interne Repräsentation eines externen Stimulus nach dessen Verarbeitung durch ein wahrnehmendes System. In der KI entspricht dies den strukturierten Datenausgaben der niedrigstufigen Signalver

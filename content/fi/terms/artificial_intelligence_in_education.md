@@ -7,8 +7,6 @@ tags: ["education", "personalization", "adoption"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_education"
-aliases:
-  - /fi/terms/artificial_intelligence_in_education/
 date: "2026-07-18T15:43:12.490769Z"
 lastmod: "2026-07-18T17:15:09.384181Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälyteknologioiden soveltaminen opetusmenetelmien parantamiseen, oppimiskokemusten personointiin ja hallinnollisten tehtävien automatisointiin."
 ---
-
 ## Definition
 
 Tekoäly koulutuksessa tarkoittaa koneoppimisen, luonnollisen kielen käsittelyn ja sopeutuvien järjestelmien käyttöä opetustulosten parantamiseksi. Se mahdollistaa yksilöllisiin opiskelijoihin räätälöidyt oppimispolut, automaattisen arviointijärjestelmät ja älykkäiden opetusavustajien käytön.

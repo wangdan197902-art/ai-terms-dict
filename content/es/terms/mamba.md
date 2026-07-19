@@ -1,23 +1,25 @@
 ---
-title: "Mamba"
-term_id: "mamba"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "efficiency", "sequence-modeling"]
+title: Mamba
+term_id: mamba
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- efficiency
+- Sequence Modeling
 difficulty: 4
 weight: 1
-slug: "mamba"
-aliases:
-  - /es/terms/mamba/
-date: "2026-07-18T10:24:38.575627Z"
-lastmod: "2026-07-18T11:44:44.745079Z"
+slug: mamba
+date: '2026-07-18T10:24:38.575627Z'
+lastmod: '2026-07-18T11:44:44.745079Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Mamba es un modelo de secuencia de espacios de estados que ofrece inferencia en tiempo lineal mientras mantiene el rendimiento de los transformadores en tareas de contexto largo."
+source: agnes_llm
+status: published
+language: es
+description: Mamba es un modelo de secuencia de espacios de estados que ofrece inferencia
+  en tiempo lineal mientras mantiene el rendimiento de los transformadores en tareas
+  de contexto largo.
 ---
-
 ## Definition
 
 Mamba representa un avance significativo en el modelado de secuencias al introducir un modelo de espacio de estados selectivo consciente del hardware (SSM). A diferencia de los transformadores tradicionales que escalan cuadráticamente con la longitud de la secuencia...

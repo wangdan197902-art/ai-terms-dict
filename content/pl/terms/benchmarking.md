@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /pl/terms/benchmarking/
 date: "2026-07-18T15:23:46.263008Z"
 lastmod: "2026-07-18T17:15:08.807854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Systematyczny proces testowania modeli sztucznej inteligencji na benchmarkach w celu ilościowej oceny ich wydajności i identyfikacji obszarów wymagających poprawy."
 ---
-
 ## Definition
 
 Benchmarking to aktywna praktyka przeprowadzania eksperymentów mających na celu zmierzenie, jak dobrze model sztucznej inteligencji radzi sobie w określonych zadaniach przy użyciu predefiniowanych benchmarków. Proces ten obejmuje uruchamianie modeli przez standardowe procedury testowe.

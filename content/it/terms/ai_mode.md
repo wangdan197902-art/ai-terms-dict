@@ -7,8 +7,6 @@ tags: ["interface", "interaction", "features"]
 difficulty: 2
 weight: 1
 slug: "ai_mode"
-aliases:
-  - /it/terms/ai_mode/
 date: "2026-07-18T15:41:47.419997Z"
 lastmod: "2026-07-18T17:15:08.592236Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Uno stato funzionale nelle interfacce software in cui l'intelligenza artificiale assiste o automatizza attivamente le attività."
 ---
-
 ## Definition
 
 La Modalità IA si riferisce a uno stato operativo specifico all'interno di piattaforme digitali o applicazioni in cui le capacità dell'IA sono attivate per migliorare l'interazione con l'utente. Questa modalità abilita tipicamente funzionalità come il linguaggio naturale

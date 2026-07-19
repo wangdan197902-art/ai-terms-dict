@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /fi/terms/regularization/
 date: "2026-07-18T16:18:45.543638Z"
 lastmod: "2026-07-18T17:15:09.454953Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Menetelmistöä, jota käytetään koulutuksen aikana välttämään ylisovittamista lisäämällä rangaistustermejä häviöfunktioon tai rajoittamalla mallin monimutkaisuutta."
 ---
-
 ## Definition
 
 Regularisointi on keskeinen käsite koneoppimisessa, jonka tavoitteena on vähentää yleistysvirhettä ilman merkittävää koulutusvirheen kasvattamista. Se toimii kannustamalla malleja oppimaan liian monimutkaisia tai spesifejä kuvioita, jotka eivät yleisty hyvin uusiin tietoihin.

@@ -7,8 +7,6 @@ tags: ["training", "mathematics", "evaluation"]
 difficulty: 3
 weight: 1
 slug: "loss_function"
-aliases:
-  - /fi/terms/loss_function/
 date: "2026-07-18T15:36:54.903127Z"
 lastmod: "2026-07-18T17:15:09.371962Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Matemaattinen funktio, joka kvantifioi ennustettujen arvojen ja todellisten kohdearvojen välisen eron koulutuksen aikana."
 ---
-
 ## Definition
 
 Tunnettu myös kustannus- tai virhefunktiiona, häviöfunktio tarjoaa skalaariarvon, joka kertoo, kuinka hyvin malli suoriutuu. Koulutuksen aikana optimointialgoritmit käyttävät tätä arvoa gradienttien laskemiseen takaisinpropagointia varten, jotta mallin parametreja voitaisiin päivittää.

@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /da/terms/agent/
 date: "2026-07-18T15:22:13.416350Z"
 lastmod: "2026-07-18T17:15:09.216668Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et AI-system, der er i stand til at opfatte sit miljø, ræsonnere og udføre handlinger for at opnå specifikke mål autonomt."
 ---
-
 ## Definition
 
 Inden for AI er en agent en enhed, der handler på vegne af en bruger eller et system for at fuldføre opgaver. I modsætning til passive modeller, der kun reagerer på prompts, kan agenter planlægge, bruge værktøjer og iterere over deres handlinger.

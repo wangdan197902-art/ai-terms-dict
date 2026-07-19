@@ -7,8 +7,6 @@ tags: ["academic", "publication", "research"]
 difficulty: 1
 weight: 1
 slug: "journal_of_machine_learning_research"
-aliases:
-  - /ro/terms/journal_of_machine_learning_research/
 date: "2026-07-18T16:06:45.360558Z"
 lastmod: "2026-07-18T17:15:09.670677Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O revistă academică de elită, recenzată de colegi, dedicată publicării de cercetări de înaltă calitate privind toate aspectele învățării automate."
 ---
-
 ## Definition
 
 Journal of Machine Learning Research (JMLR) este o publicație proeminentă cu acces deschis, care servește ca principal vehicul pentru diseminarea riguroasă a constatărilor științifice în domeniul învățării automate. Acoperă teo

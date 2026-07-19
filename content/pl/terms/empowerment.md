@@ -1,23 +1,24 @@
 ---
-title: "Empowerment (wzmocnienie autonomii)"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: Empowerment (wzmocnienie autonomii)
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /pl/terms/empowerment/
-date: "2026-07-18T15:53:26.791638Z"
-lastmod: "2026-07-18T17:15:08.870486Z"
+slug: empowerment
+date: '2026-07-18T15:53:26.791638Z'
+lastmod: '2026-07-18T17:15:08.870486Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Cel w uczeniu przez wzmacnianie mierzący zdolność agenta do wpływania na przyszłe stany za pomocą swoich działań."
+source: agnes_llm
+status: published
+language: pl
+description: Cel w uczeniu przez wzmacnianie mierzący zdolność agenta do wpływania
+  na przyszłe stany za pomocą swoich działań.
 ---
-
 ## Definition
 
 W uczeniu przez wzmacnianie i sztucznej inteligencji, empowerment jest metryką motywacji wewnętrznej, która kwantyfikuje poziom kontroli, jaką agent posiada nad swoim środowiskiem. Zdefiniowana jako wzajemna...

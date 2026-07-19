@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /zh/terms/llm/
 date: "2026-07-18T10:52:16.306953Z"
 lastmod: "2026-07-18T11:44:45.373323Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种在海量文本语料库上训练的深度学习模型，用于理解和生成类人语言。"
 ---
-
 ## Definition
 
 大语言模型（LLM）是基于Transformer架构的高级人工智能系统，在包含大量文本和代码的数据集上进行训练。它们学习语言中的统计模式，

@@ -7,8 +7,6 @@ tags: ["symbolic", "history", "architecture"]
 difficulty: 4
 weight: 1
 slug: "nouvelle_ai"
-aliases:
-  - /id/terms/nouvelle_ai/
 date: "2026-07-18T16:02:32.186333Z"
 lastmod: "2026-07-18T16:38:07.488416Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pendekatan AI simbolik yang menekankan struktur penalaran hierarkis dan modular, terinspirasi oleh arsitektur kognitif manusia."
 ---
-
 ## Definition
 
 Nouvelle AI merujuk pada kelas sistem kecerdasan buatan yang menggunakan representasi simbolik yang dikombinasikan dengan pemrosesan hierarkis. Berbeda dengan model koneksionis, pendekatan ini berfokus pada penalaran terstruktur dan modularitas dalam simulasi proses kognitif.

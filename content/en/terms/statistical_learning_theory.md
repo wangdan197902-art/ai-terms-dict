@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /en/terms/statistical_learning_theory/
 date: "2026-07-18T10:16:56.152259Z"
 lastmod: "2026-07-18T11:44:44.724716Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A mathematical framework that provides the theoretical foundation for machine learning algorithms by analyzing their generalization capabilities."
 ---
-
 ## Definition
 
 Statistical learning theory (SLT) is a branch of statistics and computer science that studies how specific algorithms can generalize from finite training samples to unseen data. It focuses on bounding the error between empirical performance on training data and true expected risk. Key components include VC dimension and Rademacher complexity, which measure model capacity. SLT helps determine sample complexity requirements and ensures that models do not merely memorize noise but learn underlying patterns, providing guarantees for convergence and stability in supervised learning settings.

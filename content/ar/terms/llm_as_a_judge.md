@@ -1,23 +1,24 @@
 ---
-title: "النموذج اللغوي الكبير كحكم"
-term_id: "llm_as_a_judge"
-category: "application_paradigms"
-subcategory: ""
-tags: ["evaluation", "llm_application", "nlp"]
+title: النموذج اللغوي الكبير كحكم
+term_id: llm_as_a_judge
+category: application_paradigms
+subcategory: ''
+tags:
+- evaluation
+- LLM Application
+- NLP
 difficulty: 3
 weight: 1
-slug: "llm_as_a_judge"
-aliases:
-  - /ar/terms/llm_as_a_judge/
-date: "2026-07-18T16:04:51.209454Z"
-lastmod: "2026-07-18T17:15:08.520484Z"
+slug: llm_as_a_judge
+date: '2026-07-18T16:04:51.209454Z'
+lastmod: '2026-07-18T17:15:08.520484Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "طريقة لتقييم مخرجات النماذج اللغوية الكبيرة باستخدام نموذج لغوي آخر لتقييم أو ترتيب الردود بناءً على معايير محددة."
+source: agnes_llm
+status: published
+language: ar
+description: طريقة لتقييم مخرجات النماذج اللغوية الكبيرة باستخدام نموذج لغوي آخر لتقييم
+  أو ترتيب الردود بناءً على معايير محددة.
 ---
-
 ## Definition
 
 النموذج اللغوي الكبير كحكم هو نموذج تقييم حيث يعمل النموذج اللغوي الكبير كمقيّم آلي لجودة مخرجات نماذج أخرى. بدلاً من الاعتماد كلياً على المقيّمين البشر أو المقاييس الصلبة، يستخدم هذا النهج قدرة النموذج اللغوي على فهم السياق وتقييم الجودة النسبية للنصوص.

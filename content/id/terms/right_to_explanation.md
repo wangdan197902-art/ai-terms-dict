@@ -7,8 +7,6 @@ tags: ["ethics", "legal", "xai"]
 difficulty: 2
 weight: 1
 slug: "right_to_explanation"
-aliases:
-  - /id/terms/right_to_explanation/
 date: "2026-07-18T16:07:43.948962Z"
 lastmod: "2026-07-18T16:38:07.501475Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Prinsip hukum dan etika yang memberikan kepada individu hak untuk menerima informasi yang bermakna mengenai keputusan otomatis yang berdampak signifikan terhadap mereka."
 ---
-
 ## Definition
 
 Hak atas penjelasan merupakan komponen inti dari akuntabilitas algoritmik, khususnya dalam kerangka kerja seperti GDPR. Hak ini memastikan bahwa ketika sistem AI membuat keputusan yang memengaruhi hak seseorang,

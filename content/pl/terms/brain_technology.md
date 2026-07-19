@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /pl/terms/brain_technology/
 date: "2026-07-18T15:44:50.210247Z"
 lastmod: "2026-07-18T17:15:08.852219Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Technologie zaprojektowane do interfejsu z ludzkim mózgiem, monitorowania go lub modulowania jego działania, w tym interfejsy mózg-komputer (BCI) i narzędzia obrazowania neurologicznego."
 ---
-
 ## Definition
 
 Technologia mózgowa obejmuje systemy sprzętowe i oprogramowanie bezpośrednio współpracujące z ośrodkowym układem nerwowym. Kluczowe przykłady obejmują interfejsy mózg-komputer (BCI), które tłumaczą sygnały neuronowe na polecenia cyfrowe.

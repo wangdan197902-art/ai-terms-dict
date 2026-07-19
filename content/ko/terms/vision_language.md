@@ -7,8 +7,6 @@ tags: ["multimodal", "NLP", "advanced"]
 difficulty: 4
 weight: 1
 slug: "vision_language"
-aliases:
-  - /ko/terms/vision_language/
 date: "2026-07-18T15:36:53.458091Z"
 lastmod: "2026-07-18T16:38:06.802010Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "비전-랭귀지 모델은 다중 모달 맥락을 이해하기 위해 시각 데이터와 텍스트 정보를 처리하고 상관관계 분석하는 AI 시스템입니다."
 ---
-
 ## Definition
 
 비전-랭귀지 모델은 종종 다중 모달 대규모 언어 모델(MLLMs)이라고 불리며, 컴퓨터 비전과 자연어 처리를 통합합니다. 이를 통해 AI는 이미지를 이해하고 텍스트를 생성할 수 있습니다.

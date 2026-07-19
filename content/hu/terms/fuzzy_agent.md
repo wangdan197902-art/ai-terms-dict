@@ -1,23 +1,24 @@
 ---
-title: "Fuzzy ügynök"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: Fuzzy ügynök
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /hu/terms/fuzzy_agent/
-date: "2026-07-18T16:00:39.079521Z"
-lastmod: "2026-07-18T17:15:09.786078Z"
+slug: fuzzy_agent
+date: '2026-07-18T16:00:39.079521Z'
+lastmod: '2026-07-18T17:15:09.786078Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy autonóm entitás, amely a bizonytalanság és a pontatlan információk kezelésére a fuzzy logikát használja a döntéshozatali folyamatokban."
+source: agnes_llm
+status: published
+language: hu
+description: Egy autonóm entitás, amely a bizonytalanság és a pontatlan információk
+  kezelésére a fuzzy logikát használja a döntéshozatali folyamatokban.
 ---
-
 ## Definition
 
 Egy fuzzy ügynök olyan környezetben működik, ahol az adatok gyakran kétértelműek vagy hiányosak, és nem bináris igaz/hamis állapotokat, hanem fuzzy logikai rendszereket alkalmaz. A tagsági függvények és a nyelvi változók használatával képes kezelni a fokozatos átmeneteket a bizonytalanságban.

@@ -1,23 +1,24 @@
 ---
-title: "ملخصات الذكاء الاصطناعي"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: ملخصات الذكاء الاصطناعي
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /ar/terms/ai_overviews/
-date: "2026-07-18T15:39:25.945434Z"
-lastmod: "2026-07-18T17:15:08.468898Z"
+slug: ai_overviews
+date: '2026-07-18T15:39:25.945434Z'
+lastmod: '2026-07-18T17:15:08.468898Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ردود موجزة يولدها نماذج الذكاء الاصطناعي تدمج المعلومات من مصادر متعددة للفهم السريع."
+source: agnes_llm
+status: published
+language: ar
+description: ردود موجزة يولدها نماذج الذكاء الاصطناعي تدمج المعلومات من مصادر متعددة
+  للفهم السريع.
 ---
-
 ## Definition
 
 ملخصات الذكاء الاصطناعي هي موجزات مكثفة ينتجها نماذج اللغات الكبيرة التي تجمع وتلخص البيانات من مصادر ويب أو قواعد بيانات متنوعة. وعلى عكس نتائج البحث التقليدية التي تعرض روابط، تقدم هذه الملخصات

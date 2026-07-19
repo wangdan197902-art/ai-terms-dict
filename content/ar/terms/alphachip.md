@@ -1,23 +1,24 @@
 ---
-title: "ألفا تشيب (AlphaChip)"
-term_id: "alphachip"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "optimization", "deep_learning"]
+title: ألفا تشيب (AlphaChip)
+term_id: alphachip
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- Optimization
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "alphachip"
-aliases:
-  - /ar/terms/alphachip/
-date: "2026-07-18T15:44:08.434172Z"
-lastmod: "2026-07-18T17:15:08.474610Z"
+slug: alphachip
+date: '2026-07-18T15:44:08.434172Z'
+lastmod: '2026-07-18T17:15:08.474610Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "أداة تصميم رقاقات مدعومة بالذكاء الاصطناعي طورها جوجل ديب مايند تستخدم التعلم التعزيزي لتحسين تخطيط الدوائر المتكاملة."
+source: agnes_llm
+status: published
+language: ar
+description: أداة تصميم رقاقات مدعومة بالذكاء الاصطناعي طورها جوجل ديب مايند تستخدم
+  التعلم التعزيزي لتحسين تخطيط الدوائر المتكاملة.
 ---
-
 ## Definition
 
 ألفا تشيب هو نظام ذكاء اصطناعي متخصص مصمم لأتمتة وتحسين وضع وتوجيه المكونات على الرقائق الدقيقة. ومن خلال استخدام التعلم التعزيزي العميق، يقلل بشكل كبير من الوقت اللازم لتصميم الدوائر.

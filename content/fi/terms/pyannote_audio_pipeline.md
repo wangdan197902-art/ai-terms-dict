@@ -7,8 +7,6 @@ tags: ["pipeline", "automation", "architecture"]
 difficulty: 4
 weight: 1
 slug: "pyannote_audio_pipeline"
-aliases:
-  - /fi/terms/pyannote_audio_pipeline/
 date: "2026-07-18T16:17:30.207162Z"
 lastmod: "2026-07-18T17:15:09.447589Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Pyannote Audio -putki on strukturoitu sarja käsittelyvaiheita, jotka yhdistävät eri malleja päästä päähän -puhujadiarisaation suorittamiseksi."
 ---
-
 ## Definition
 
 Pyannote Audion kontekstissa putki viittaa konfiguroitavaan työvuokoon, joka ketjuttaa eri moduuleja saavuttaakseen puhujadiarisaation. Tyypillisesti putki sisältää vaiheita puheaktiivisuuden tunnistukseen (VAD), puhujien upotusten laskentaan ja lopuksi klusterointiin, joka ryhmittelee samat puhujat yhteen.

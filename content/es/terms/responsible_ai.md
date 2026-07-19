@@ -7,8 +7,6 @@ tags: ["ethics", "governance", "compliance"]
 difficulty: 2
 weight: 1
 slug: "responsible_ai"
-aliases:
-  - /es/terms/responsible_ai/
 date: "2026-07-18T11:06:39.654915Z"
 lastmod: "2026-07-18T11:44:44.850914Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco que asegura que los sistemas de IA se desarrollen y desplieguen éticamente, centrándose en la equidad, transparencia, responsabilidad y seguridad."
 ---
-
 ## Definition
 
 La IA responsable abarca principios y prácticas destinados a mitigar los riesgos asociados con la inteligencia artificial. Implica auditar modelos en busca de sesgos, garantizar la explicabilidad de las decisiones, proteger la privacidad de los datos y establecer mecanismos de rendición de cuentas.

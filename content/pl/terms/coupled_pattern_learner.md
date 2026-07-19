@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /pl/terms/coupled_pattern_learner/
 date: "2026-07-18T15:47:25.938291Z"
 lastmod: "2026-07-18T17:15:08.858233Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Algorytmiczne podejście uczące się relacji między dwoma odrębnymi, ale skorelowanymi zbiorami wzorców lub cech jednocześnie."
 ---
-
 ## Definition
 
 Uczące się sprzężonych wzorców są zaprojektowane do obsługi danych, w których instancje z dwóch różnych przestrzeni są powiązane, takich jak obrazy i ich tekstowe opisy. Poprzez modelowanie rozkładu wspólnego lub korelacji między tymi modalnościami, model może lepiej zrozumieć semantykę obu źródeł danych.

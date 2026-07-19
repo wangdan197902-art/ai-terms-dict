@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /tr/terms/robots/
 date: "2026-07-18T15:28:52.003590Z"
 lastmod: "2026-07-18T16:38:07.242321Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Görevleri özerk olarak yürütmek üzere tasarlanmış birden fazla programlanabilir makineyi ifade eden çoğul hali."
 ---
-
 ## Definition
 
 Robotlar, hareket kabiliyetlerine, yapılarına veya uygulama alanlarına göre sınıflandırılabilen çeşitli makine sınıflarını kapsar. Bu kategori endüstriyel kolları, otonom mobil robotları (AMR'ler), dronelar ve hizmet robotlarını içerir.

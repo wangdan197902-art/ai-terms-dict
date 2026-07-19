@@ -1,23 +1,24 @@
 ---
-title: "Βελτιωμένο (Fine-tuned)"
-term_id: "finetuned"
-category: "basic_concepts"
-subcategory: ""
-tags: ["training", "transfer_learning", "optimization"]
+title: Βελτιωμένο (Fine-tuned)
+term_id: finetuned
+category: basic_concepts
+subcategory: ''
+tags:
+- training
+- Transfer Learning
+- Optimization
 difficulty: 2
 weight: 1
-slug: "finetuned"
-aliases:
-  - /el/terms/finetuned/
-date: "2026-07-18T16:07:36.453827Z"
-lastmod: "2026-07-18T17:15:09.908955Z"
+slug: finetuned
+date: '2026-07-18T16:07:36.453827Z'
+lastmod: '2026-07-18T17:15:09.908955Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία περαιτέρω εκπαίδευσης ενός προ-εκπαιδευμένου μοντέλου σε ένα συγκεκριμένο σύνολο δεδομένων για να προσαρμοστεί σε μια συγκεκριμένη εργασία."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία περαιτέρω εκπαίδευσης ενός προ-εκπαιδευμένου μοντέλου σε
+  ένα συγκεκριμένο σύνολο δεδομένων για να προσαρμοστεί σε μια συγκεκριμένη εργασία.
 ---
-
 ## Definition
 
 Η βελτίωση (fine-tuning) αναφέρεται στην τεχνική της λήψης ενός μοντέλου που έχει ήδη εκπαιδευτεί σε ένα μεγάλο, γενικό σύνολο δεδομένων και συνέχισης της εκπαίδευσής του σε ένα μικρότερο, εξειδικευμένο σύνολο δεδομένων. Αυτό επιτρέπει στο μοντέλο να προσαρμοστεί καλύτερα.

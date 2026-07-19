@@ -1,23 +1,23 @@
 ---
-title: "Getiriye Dayalı Üretim"
-term_id: "rag"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "knowledge_management"]
+title: Getiriye Dayalı Üretim
+term_id: rag
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Knowledge Management
 difficulty: 4
 weight: 1
-slug: "rag"
-aliases:
-  - /tr/terms/rag/
-date: "2026-07-18T15:28:37.628707Z"
-lastmod: "2026-07-18T16:38:07.241957Z"
+slug: rag
+date: '2026-07-18T15:28:37.628707Z'
+lastmod: '2026-07-18T16:38:07.241957Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "RAG, yanıt üretmeden önce ilgili bilgileri harici bilgi tabanlarından getirerek üretken modelleri geliştiren bir yapay zeka çerçevesidir."
+source: agnes_llm
+status: published
+language: tr
+description: RAG, yanıt üretmeden önce ilgili bilgileri harici bilgi tabanlarından
+  getirerek üretken modelleri geliştiren bir yapay zeka çerçevesidir.
 ---
-
 ## Definition
 
 Getiriye Dayalı Üretim (RAG), getiriye dayalı ve üretim tabanlı yapay zeka sistemlerinin güçlü yönlerini birleştirir. Ön eğitilmiş bir dil modelinin parametrelerine tamamen güvenmek yerine, RAG önce ilgili belgeleri veya verileri harici bir kaynaktan arar ve bu bağlamı modele enjekte ederek daha doğru ve güncel yanıtlar üretir.

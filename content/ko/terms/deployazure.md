@@ -1,23 +1,22 @@
 ---
-title: "Deploy:Azure (Azure 배포)"
-term_id: "deployazure"
-category: "engineering_practice"
-subcategory: ""
-tags: ["cloud_computing", "mlops"]
+title: Deploy:Azure (Azure 배포)
+term_id: deployazure
+category: engineering_practice
+subcategory: ''
+tags:
+- Cloud Computing
+- mlops
 difficulty: 4
 weight: 1
-slug: "deployazure"
-aliases:
-  - /ko/terms/deployazure/
-date: "2026-07-18T15:51:42.693334Z"
-lastmod: "2026-07-18T16:38:06.831247Z"
+slug: deployazure
+date: '2026-07-18T15:51:42.693334Z'
+lastmod: '2026-07-18T16:38:06.831247Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "Microsoft Azure 클라우드 인프라 서비스 위에 머신러닝 모델을 호스팅하고 실행하는 과정입니다."
+source: agnes_llm
+status: published
+language: ko
+description: Microsoft Azure 클라우드 인프라 서비스 위에 머신러닝 모델을 호스팅하고 실행하는 과정입니다.
 ---
-
 ## Definition
 
 Azure로의 배포는 Azure Machine Learning, Azure Kubernetes Service(AKS), Azure Functions 등 클라우드 네이티브 도구를 활용하여 대規模로 ML 모델을 서빙하는 것을 포함합니다. 여기에는 컴퓨팅 리소스 관리 등이...

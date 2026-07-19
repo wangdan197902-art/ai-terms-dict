@@ -7,8 +7,6 @@ tags: ["training", "security", "robustness"]
 difficulty: 4
 weight: 1
 slug: "adversarial_machine_learning"
-aliases:
-  - /ar/terms/adversarial_machine_learning/
 date: "2026-07-18T15:42:35.019877Z"
 lastmod: "2026-07-18T17:15:08.473171Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "التعلم الآلي العدائي هو مجال يدرس كيفية جعل نماذج التعلم الآلي مقاومة للمدخلات الخبيثة المصممة لخداعها."
 ---
-
 ## Definition
 
 يشمل هذا المجال كل من التقنيات الهجومية لكسر النماذج والاستراتيجيات الدفاعية لتقويتها. يتضمن تدريب النماذج على أمثلة عدائية لتحسين مرونتها، وهي عملية تُعرف بـ...

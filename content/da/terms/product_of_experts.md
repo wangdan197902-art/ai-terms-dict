@@ -1,23 +1,24 @@
 ---
-title: "Ekspertprodukt"
-term_id: "product_of_experts"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probabilistic_graphical_models", "deep_learning"]
+title: Ekspertprodukt
+term_id: product_of_experts
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- Probabilistic Graphical Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "product_of_experts"
-aliases:
-  - /da/terms/product_of_experts/
-date: "2026-07-18T16:12:54.224680Z"
-lastmod: "2026-07-18T17:15:09.323165Z"
+slug: product_of_experts
+date: '2026-07-18T16:12:54.224680Z'
+lastmod: '2026-07-18T17:15:09.323165Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et probabilistisk modelleringsframework, hvor den fælles fordeling dannes ved at multiplicere outputtet fra flere uafhængige ekspertmodeller."
+source: agnes_llm
+status: published
+language: da
+description: Et probabilistisk modelleringsframework, hvor den fælles fordeling dannes
+  ved at multiplicere outputtet fra flere uafhængige ekspertmodeller.
 ---
-
 ## Definition
 
 Ekspertproduktet (PoE) er en metode til at konstruere komplekse sandsynlighedsfordelinger ved at kombinere simplere. I modsætning til 'Mixture of Experts', som gennemsnitliggør sandsynligheder, multiplicerer PoE de...

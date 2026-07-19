@@ -7,8 +7,6 @@ tags: ["datasets", "embeddings", "wikipedia"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasimple_wiki"
-aliases:
-  - /da/terms/datasetembedding_datasimple_wiki/
 date: "2026-07-18T15:50:10.917773Z"
 lastmod: "2026-07-18T17:15:09.275688Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et kurateret datasæt afledt af Simple English Wikipedia, der bruges til at træne og evaluere tekstindlejringmodeller."
 ---
-
 ## Definition
 
 Dette datasæt består af sætninger og afsnit udtrukket fra Simple English Wikipedia, en version af Wikipedia skrevet til ikke-modersmålstalende med forenklet grammatik og ordforråd. Det fungerer som et

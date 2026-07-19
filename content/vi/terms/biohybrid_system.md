@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /vi/terms/biohybrid_system/
 date: "2026-07-18T15:43:12.294880Z"
 lastmod: "2026-07-18T16:38:07.733884Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hệ thống tích hợp kết hợp các thành phần sinh học với thiết bị nhân tạo để tăng cường chức năng hoặc tạo ra các khả năng mới."
 ---
-
 ## Definition
 
 Các hệ thống sinh học lai kết hợp mô sống, tế bào hoặc sinh vật với vật liệu tổng hợp và thiết bị điện tử. Những hệ thống này nhằm tận dụng các đặc tính độc đáo của thực thể sinh học, chẳng hạn như khả năng tự sửa chữa, thích ứng và tiêu thụ năng lượng hiệu quả.

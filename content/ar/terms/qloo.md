@@ -1,23 +1,24 @@
 ---
-title: "كيو لو"
-term_id: "qloo"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_platform", "analytics", "consumer_insights"]
+title: كيو لو
+term_id: qloo
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Platform
+- analytics
+- Consumer Insights
 difficulty: 2
 weight: 1
-slug: "qloo"
-aliases:
-  - /ar/terms/qloo/
-date: "2026-07-18T16:18:08.958772Z"
-lastmod: "2026-07-18T17:15:08.540954Z"
+slug: qloo
+date: '2026-07-18T16:18:08.958772Z'
+lastmod: '2026-07-18T17:15:08.540954Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "كيو لو هو منصة بيانات مدعومة بالذكاء الاصطناعي تقدم رؤى تنبؤية حول سلوك المستهلك والاتجاهات الثقافية."
+source: agnes_llm
+status: published
+language: ar
+description: كيو لو هو منصة بيانات مدعومة بالذكاء الاصطناعي تقدم رؤى تنبؤية حول سلوك
+  المستهلك والاتجاهات الثقافية.
 ---
-
 ## Definition
 
 تعمل شركة كيو لو كشركة ذكاء بيانات متخصصة في فهم تفضيلات البشر من خلال خوارزميات التعلم الآلي المتقدمة. تقوم بتجميع وتحليل مجموعات بيانات ضخمة من مصادر متنوعة

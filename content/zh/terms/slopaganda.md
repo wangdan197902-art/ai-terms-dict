@@ -1,23 +1,24 @@
 ---
-title: "慢速宣传"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: 慢速宣传
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /zh/terms/slopaganda/
-date: "2026-07-18T11:34:08.558184Z"
-lastmod: "2026-07-18T11:44:45.554441Z"
+slug: slopaganda
+date: '2026-07-18T11:34:08.558184Z'
+lastmod: '2026-07-18T11:44:45.554441Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "“Slow”（慢）和“Propaganda”（宣传）的合成词，指旨在通过长期、微妙的影响来侵蚀信任的虚假信息活动。"
+source: agnes_llm
+status: published
+language: zh
+description: “Slow”（慢）和“Propaganda”（宣传）的合成词，指旨在通过长期、微妙的影响来侵蚀信任的虚假信息活动。
 ---
-
 ## Definition
 
 慢速宣传描述的是一种战略性的虚假信息形式，它依赖于重复、模糊性和长期曝光，而非病毒式的震惊战术。其目的是混淆受众、稀释真相并侵蚀...

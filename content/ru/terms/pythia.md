@@ -1,23 +1,25 @@
 ---
-title: "Pythia"
-term_id: "pythia"
-category: "basic_concepts"
-subcategory: ""
-tags: ["llm", "research", "nlp"]
+title: Pythia
+term_id: pythia
+category: basic_concepts
+subcategory: ''
+tags:
+- LLM
+- research
+- NLP
 difficulty: 3
 weight: 1
-slug: "pythia"
-aliases:
-  - /ru/terms/pythia/
-date: "2026-07-18T16:11:34.172987Z"
-lastmod: "2026-07-18T16:38:07.195256Z"
+slug: pythia
+date: '2026-07-18T16:11:34.172987Z'
+lastmod: '2026-07-18T16:38:07.195256Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Pythia — это семейство больших языковых моделей (LLM) с архитектурой только декодер, разработанных организацией EleutherAI, варьирующихся от 70 миллионов до 12 миллиардов параметров."
+source: agnes_llm
+status: published
+language: ru
+description: Pythia — это семейство больших языковых моделей (LLM) с архитектурой
+  только декодер, разработанных организацией EleutherAI, варьирующихся от 70 миллионов
+  до 12 миллиардов параметров.
 ---
-
 ## Definition
 
 Pythia — это серия моделей больших языковых моделей (LLM) с открытым исходным кодом, созданных организацией EleutherAI, предназначенных для содействия исследованиям интерпретируемости и поведения нейронных сетей. Семейство включает модели различных размеров.

@@ -1,23 +1,25 @@
 ---
-title: "Lärbar funktionsklass"
-term_id: "learnable_function_class"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "model-selection", "statistics"]
+title: Lärbar funktionsklass
+term_id: learnable_function_class
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Model Selection
+- statistics
 difficulty: 4
 weight: 1
-slug: "learnable_function_class"
-aliases:
-  - /sv/terms/learnable_function_class/
-date: "2026-07-18T16:06:29.980668Z"
-lastmod: "2026-07-18T17:15:09.020082Z"
+slug: learnable_function_class
+date: '2026-07-18T16:06:29.980668Z'
+lastmod: '2026-07-18T17:15:09.020082Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En lärbar funktionsklass är en mängd matematiska funktioner definierade av en specifik modellarkitektur och parameterutrymme som en inlärningsalgoritm kan optimera."
+source: agnes_llm
+status: published
+language: sv
+description: En lärbar funktionsklass är en mängd matematiska funktioner definierade
+  av en specifik modellarkitektur och parameterutrymme som en inlärningsalgoritm kan
+  optimera.
 ---
-
 ## Definition
 
 Inom statistisk inlärningsteori representerar en lärbar funktionsklass det hypotesutrymme som är tillgängligt för en algoritm. Den definierar det spektrum av mönster eller avbildningar som modellen potentiellt kan fånga bas

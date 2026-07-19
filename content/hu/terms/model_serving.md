@@ -7,8 +7,6 @@ tags: ["MLOps", "Infrastructure"]
 difficulty: 3
 weight: 1
 slug: "model_serving"
-aliases:
-  - /hu/terms/model_serving/
 date: "2026-07-18T15:38:39.360620Z"
 lastmod: "2026-07-18T17:15:09.742503Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A betanított gépi tanulási modellek gyártási környezetbe telepítésének folyamata a végfelhasználók számára történő előrejelzések készítéséhez vagy kimenetek generálásához."
 ---
-
 ## Definition
 
 A modell kiszolgálás magában foglalja egy statikusan betanított modell körüli skálázható infrastruktúra létrehozását, amely kezeli a bejövő kéréseket, elvégzi az inference (következtetést), és visszaadja az eredményeket. A fő kihívások közé tartozik a terheléselosztás és a késleltetés optimalizálása.

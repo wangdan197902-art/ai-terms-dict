@@ -7,8 +7,6 @@ tags: ["LLM Basics", "Data", "Limitations"]
 difficulty: 1
 weight: 1
 slug: "knowledge_cutoff"
-aliases:
-  - /fr/terms/knowledge_cutoff/
 date: "2026-07-18T11:24:27.542047Z"
 lastmod: "2026-07-18T11:44:45.281025Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La date limite de connaissance est la date spécifique après laquelle un modèle de langage n'a pas été formé et manque donc d'informations sur les événements survenus par la suite."
 ---
-
 ## Definition
 
 La date de limite de connaissance définit la frontière temporelle des données d'entraînement d'un modèle de langage. Toute information, événement ou développement survenu après cette date est généralement inconnu du modèle u

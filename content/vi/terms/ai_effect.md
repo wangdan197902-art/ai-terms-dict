@@ -1,23 +1,24 @@
 ---
-title: "Hiệu ứng AI"
-term_id: "ai_effect"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "history_of_ai", "perception"]
+title: Hiệu ứng AI
+term_id: ai_effect
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- History Of AI
+- perception
 difficulty: 2
 weight: 1
-slug: "ai_effect"
-aliases:
-  - /vi/terms/ai_effect/
-date: "2026-07-18T15:38:31.999749Z"
-lastmod: "2026-07-18T16:38:07.720441Z"
+slug: ai_effect
+date: '2026-07-18T15:38:31.999749Z'
+lastmod: '2026-07-18T16:38:07.720441Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Hiện tượng mà các nhiệm vụ từng được coi là thông minh trở nên tầm thường khi được máy móc tự động hóa."
+source: agnes_llm
+status: published
+language: vi
+description: Hiện tượng mà các nhiệm vụ từng được coi là thông minh trở nên tầm thường
+  khi được máy móc tự động hóa.
 ---
-
 ## Definition
 
 Hiệu ứng AI mô tả sự dịch chuyển của ranh giới xác định những gì cấu thành nên 'trí tuệ nhân tạo'. Khi các thuật toán trở nên tinh vi hơn và có khả năng thực hiện các nhiệm vụ cụ thể, những nhiệm vụ đó thường bị coi là những quy trình cơ bản hoặc tầm thường thay vì là trí thông minh thực sự.

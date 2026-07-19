@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /fi/terms/intelligent_agent/
 date: "2026-07-18T16:04:13.996120Z"
 lastmod: "2026-07-18T17:15:09.423103Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Itsenäinen ohjelmistokappale, joka havainnoi ympäristöään, päättää toimista ja suoriutuu tehtävistä saavuttaakseen tiettyjä tavoitteita."
 ---
-
 ## Definition
 
 Älykäs agentti on järjestelmä, joka pystyy havainnoimaan ympäristöään antureiden tai datasyötteiden avulla, prosessoimaan tätä tietoa päättelyalgoritmeilla ja toimimaan ympäristön kautta aktuaattoreiden

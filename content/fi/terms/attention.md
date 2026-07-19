@@ -1,23 +1,25 @@
 ---
-title: "Huomio (Attention)"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: Huomio (Attention)
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /fi/terms/attention/
-date: "2026-07-18T15:35:11.817715Z"
-lastmod: "2026-07-18T17:15:09.367933Z"
+slug: attention
+date: '2026-07-18T15:35:11.817715Z'
+lastmod: '2026-07-18T17:15:09.367933Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Mekanismi, joka mahdollistaa neuroverkoille eri osien painottamisen syötesekvenssissä dynaamisesti."
+source: agnes_llm
+status: published
+language: fi
+description: Mekanismi, joka mahdollistaa neuroverkoille eri osien painottamisen syötesekvenssissä
+  dynaamisesti.
 ---
-
 ## Definition
 
 Huomiomekanismit mahdollistavat mallien keskittyvät relevanttiin tietoon syötteitä käsiteltäessä, erityisesti sekvenssidatassa kuten tekstin. Laskemalla huomiopisteet malli määrittää...

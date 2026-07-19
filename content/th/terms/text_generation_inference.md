@@ -1,23 +1,23 @@
 ---
-title: "การอนุมานการสร้างข้อความ"
-term_id: "text_generation_inference"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "deployment"]
+title: การอนุมานการสร้างข้อความ
+term_id: text_generation_inference
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- deployment
 difficulty: 4
 weight: 1
-slug: "text_generation_inference"
-aliases:
-  - /th/terms/text_generation_inference/
-date: "2026-07-18T16:17:48.765614Z"
-lastmod: "2026-07-18T16:38:07.661322Z"
+slug: text_generation_inference
+date: '2026-07-18T16:17:48.765614Z'
+lastmod: '2026-07-18T16:38:07.661322Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เครื่องยนต์ให้บริการประสิทธิภาพสูงที่ปรับแต่งเป็นพิเศษสำหรับการปรับใช้โมเดลภาษาขนาดใหญ่เพื่อสร้างข้อความอย่างมีประสิทธิภาพในระดับใหญ่"
+source: agnes_llm
+status: published
+language: th
+description: เครื่องยนต์ให้บริการประสิทธิภาพสูงที่ปรับแต่งเป็นพิเศษสำหรับการปรับใช้โมเดลภาษาขนาดใหญ่เพื่อสร้างข้อความอย่างมีประสิทธิภาพในระดับใหญ่
 ---
-
 ## Definition
 
 การอนุมานการสร้างข้อความ (Text Generation Inference หรือ TGI) คือกรอบซอฟต์แวร์เฉพาะทางที่ออกแบบมาเพื่อให้บริการโมเดลภาษาขนาดใหญ่ (LLMs) ด้วยความหน่วงต่ำและปริมาณงานสูง มันเพิ่มประสิทธิภาพกระบวนการอนุมานสำหรับการสร้างข้อความ

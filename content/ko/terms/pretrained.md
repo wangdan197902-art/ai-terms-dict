@@ -1,23 +1,23 @@
 ---
-title: "사전 훈련된"
-term_id: "pretrained"
-category: "training_techniques"
-subcategory: ""
-tags: ["basics", "transfer_learning", "models"]
+title: 사전 훈련된
+term_id: pretrained
+category: training_techniques
+subcategory: ''
+tags:
+- basics
+- Transfer Learning
+- models
 difficulty: 2
 weight: 1
-slug: "pretrained"
-aliases:
-  - /ko/terms/pretrained/
-date: "2026-07-18T16:10:25.380719Z"
-lastmod: "2026-07-18T16:38:06.897706Z"
+slug: pretrained
+date: '2026-07-18T16:10:25.380719Z'
+lastmod: '2026-07-18T16:38:06.897706Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "특정 작업에 적응되기 전에 대규모 데이터셋으로 이미 훈련된 모델을 지칭합니다."
+source: agnes_llm
+status: published
+language: ko
+description: 특정 작업에 적응되기 전에 대규모 데이터셋으로 이미 훈련된 모델을 지칭합니다.
 ---
-
 ## Definition
 
 '사전 훈련된'이라는 용어는 ImageNet이나 Wikipedia와 같은 방대하고 일반적인 데이터셋에서 초기 훈련을 거친 신경망 모델을 설명합니다. 이 과정을 통해 모델은 포괄적인 특징을 학습하게 됩니다.

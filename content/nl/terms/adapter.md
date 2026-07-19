@@ -1,23 +1,25 @@
 ---
-title: "Adapter"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: Adapter
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /nl/terms/adapter/
-date: "2026-07-18T15:35:11.390458Z"
-lastmod: "2026-07-18T17:15:08.701811Z"
+slug: adapter
+date: '2026-07-18T15:35:11.390458Z'
+lastmod: '2026-07-18T17:15:08.701811Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een lichtgewicht module die in voorgetraineerde modellen wordt ingevoegd om efficiënte fine-tuning voor specifieke downstream-taken mogelijk te maken."
+source: agnes_llm
+status: published
+language: nl
+description: Een lichtgewicht module die in voorgetraineerde modellen wordt ingevoegd
+  om efficiënte fine-tuning voor specifieke downstream-taken mogelijk te maken.
 ---
-
 ## Definition
 
 Adapters zijn een techniek voor parameter-efficiënte fine-tuning, voornamelijk gebruikt in grote taalmodellen en transformers. In plaats van alle modelgewichten bij te werken, wat rekenintensief is, voegen adapters...

@@ -7,8 +7,6 @@ tags: ["relational", "probabilistic", "logic"]
 difficulty: 4
 weight: 1
 slug: "statistical_relational_learning"
-aliases:
-  - /es/terms/statistical_relational_learning/
 date: "2026-07-18T11:09:11.692659Z"
 lastmod: "2026-07-18T11:44:44.857850Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un área del aprendizaje automático que integra el razonamiento probabilístico con la lógica de primer orden para manejar estructuras relacionales complejas en los datos."
 ---
-
 ## Definition
 
 El aprendizaje relacional estadístico (ARS) combina la teoría de la probabilidad con estructuras de datos relacionales, permitiendo a los modelos capturar dependencias entre entidades y sus relaciones. A diferencia del estánd

@@ -7,8 +7,6 @@ tags: ["plural", "systems", "engineering"]
 difficulty: 2
 weight: 1
 slug: "robots"
-aliases:
-  - /cs/terms/robots/
 date: "2026-07-18T15:28:39.219432Z"
 lastmod: "2026-07-18T17:15:09.076861Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Množné číslo označující více programovatelných strojů určených k autonomnímu vykonávání úkolů."
 ---
-
 ## Definition
 
 Roboti zahrnují různorodou třídu strojů, které lze klasifikovat podle jejich mobility, struktury nebo aplikační domény. Tato kategorie zahrnuje průmyslové ramena, autonomní mobilní roboty (AMR), drony

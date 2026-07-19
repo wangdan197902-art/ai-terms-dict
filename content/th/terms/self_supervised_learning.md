@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้แบบกึ่งดูแลตนเอง (Self-supervised Learning)"
-term_id: "self_supervised_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "representation", "foundation_models"]
+title: การเรียนรู้แบบกึ่งดูแลตนเอง (Self-supervised Learning)
+term_id: self_supervised_learning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- representation
+- Foundation Models
 difficulty: 4
 weight: 1
-slug: "self_supervised_learning"
-aliases:
-  - /th/terms/self_supervised_learning/
-date: "2026-07-18T15:37:31.176478Z"
-lastmod: "2026-07-18T16:38:07.565184Z"
+slug: self_supervised_learning
+date: '2026-07-18T15:37:31.176478Z'
+lastmod: '2026-07-18T16:38:07.565184Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "วิธีการฝึกฝนที่โมเดลสร้างป้ายกำกับ (Labels) ของตัวเองจากข้อมูลนำเข้าเพื่อเรียนรู้การแสดงข้อมูล"
+source: agnes_llm
+status: published
+language: th
+description: วิธีการฝึกฝนที่โมเดลสร้างป้ายกำกับ (Labels) ของตัวเองจากข้อมูลนำเข้าเพื่อเรียนรู้การแสดงข้อมูล
 ---
-
 ## Definition
 
 การเรียนรู้แบบกึ่งดูแลตนเอง เป็นเทคนิคที่อัลกอริทึมสร้างสัญญาณควบคุมจากข้อมูลที่ยังไม่มีป้ายกำกับเอง โดยมักจะทำผ่านการพยากรณ์ส่วนที่ขาดหายไปของข้อมูลนำเข้า วิธีนี้ช่วยเชื่อมโยงช่องว่างระหว่างการเรียนรู้แบบไม่มีผู้ดูแลและการเรียนรู้แบบมีผู้ดูแล ทำให้สามารถเรียนรู้คุณลักษณะที่สำคัญจากข้อมูลปริมาณมากได้อย่างมีประสิทธิภาพ

@@ -7,8 +7,6 @@ tags: ["SQL", "Logic", "Filtering"]
 difficulty: 2
 weight: 1
 slug: "unlike"
-aliases:
-  - /hu/terms/unlike/
 date: "2026-07-18T15:33:52.822494Z"
 lastmod: "2026-07-18T17:15:09.732975Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy logikai operátor, amelyet SQL-ben és programozásban használnak azoknak a rekordoknak a szűrésére, amelyek nem illeszkednek egy megadott feltételhez."
 ---
-
 ## Definition
 
 Az adatbázis-lekérdezésekben és a logikában a 'Unlike' (nem egyezik meg) általában a NOT LIKE operátort jelöli, amely mintaillesztést végez fordított irányban. Igaz értéket ad vissza azoknál a soroknál, ahol az oszlop értéke nem felel meg a megadott mintának.

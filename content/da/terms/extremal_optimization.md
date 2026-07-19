@@ -7,8 +7,6 @@ tags: ["Optimization", "Heuristics", "Algorithms"]
 difficulty: 4
 weight: 1
 slug: "extremal_optimization"
-aliases:
-  - /da/terms/extremal_optimization/
 date: "2026-07-18T15:55:19.117787Z"
 lastmod: "2026-07-18T17:15:09.287276Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Ekstremal optimering er en heuristisk søgealgoritme inspireret af selvorganiseret kritikalitet, designet til at løse kombinatoriske optimeringsproblemer ved iterativt at fjerne de dårligst performeren"
 ---
-
 ## Definition
 
 I modsætning til genetiske algoritmer, der opretholder en population, arbejder EO på en enkelt løsning. Den identificerer den komponent, der bidrager mindst til den samlede fitness, og erstatter den med en tilfældig alternativ.

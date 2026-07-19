@@ -7,8 +7,6 @@ tags: ["Automation", "Architecture", "Advanced"]
 difficulty: 3
 weight: 1
 slug: "agent"
-aliases:
-  - /id/terms/agent/
 date: "2026-07-18T15:22:20.474460Z"
 lastmod: "2026-07-18T16:38:07.386230Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Sistem AI yang mampu memahami lingkungannya, bernalar, dan mengambil tindakan untuk mencapai tujuan tertentu secara otonom."
 ---
-
 ## Definition
 
 Dalam AI, agen adalah entitas yang bertindak atas nama pengguna atau sistem untuk menyelesaikan tugas. Berbeda dengan model pasif yang hanya merespons prompt, agen dapat merencanakan, menggunakan alat, dan melakukan iterasi pada tindakannya.

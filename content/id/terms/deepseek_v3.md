@@ -7,8 +7,6 @@ tags: ["moE", "efficiency", "reasoning"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v3"
-aliases:
-  - /id/terms/deepseek_v3/
 date: "2026-07-18T15:47:16.028359Z"
 lastmod: "2026-07-18T16:38:07.449386Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "DeepSeek V3 adalah model bahasa Campuran Pakar (MoE) yang sangat efisien yang mencapai kinerja state-of-the-art dengan biaya pelatihan yang secara signifikan lebih rendah."
 ---
-
 ## Definition
 
 DeepSeek V3 adalah iterasi lanjutan dalam keluarga model DeepSeek, yang ditandai dengan aktivasi padat hanya pada subset kecil parameter selama inferensi melalui perutean Campuran Pakar. Arsitektur ini

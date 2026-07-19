@@ -1,23 +1,24 @@
 ---
-title: "Traducción"
-term_id: "translation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["NLP", "language_processing", "communication"]
+title: Traducción
+term_id: translation
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Language Processing
+- communication
 difficulty: 1
 weight: 1
-slug: "translation"
-aliases:
-  - /es/terms/translation/
-date: "2026-07-18T10:32:33.444932Z"
-lastmod: "2026-07-18T11:44:44.768016Z"
+slug: translation
+date: '2026-07-18T10:32:33.444932Z'
+lastmod: '2026-07-18T11:44:44.768016Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de convertir texto de un idioma natural fuente a un idioma natural objetivo preservando el significado."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de convertir texto de un idioma natural fuente a un idioma
+  natural objetivo preservando el significado.
 ---
-
 ## Definition
 
 La traducción en IA se refiere a la traducción automática neuronal, donde los modelos de aprendizaje profundo mapean representaciones semánticas entre idiomas. A diferencia de los sistemas basados en reglas, los enfoques modernos aprenden matices contextuales

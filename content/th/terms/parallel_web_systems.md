@@ -1,23 +1,24 @@
 ---
-title: "ระบบเว็บแบบขนาน"
-term_id: "parallel_web_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "distributed-systems", "web-development"]
+title: ระบบเว็บแบบขนาน
+term_id: parallel_web_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Distributed Systems
+- Web Development
 difficulty: 3
 weight: 1
-slug: "parallel_web_systems"
-aliases:
-  - /th/terms/parallel_web_systems/
-date: "2026-07-18T16:10:23.106698Z"
-lastmod: "2026-07-18T16:38:07.640040Z"
+slug: parallel_web_systems
+date: '2026-07-18T16:10:23.106698Z'
+lastmod: '2026-07-18T16:38:07.640040Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "สถาปัตยกรรมคอมพิวเตอร์แบบกระจายที่อาศัยการประมวลผลพร้อมกันข้ามโหนดหลายตัว เพื่อจัดการกับงานระดับเว็บได้อย่างมีประสิทธิภาพ"
+source: agnes_llm
+status: published
+language: th
+description: สถาปัตยกรรมคอมพิวเตอร์แบบกระจายที่อาศัยการประมวลผลพร้อมกันข้ามโหนดหลายตัว
+  เพื่อจัดการกับงานระดับเว็บได้อย่างมีประสิทธิภาพ
 ---
-
 ## Definition
 
 ระบบเว็บแบบขนานหมายถึงการออกแบบโครงสร้างพื้นฐานที่แบ่งงานคำนวณและดำเนินการไปพร้อมกันบนเซิร์ฟเวอร์หรือโปรเซสเซอร์หลายตัวซึ่งเชื่อมต่อกันผ่านเครือข่าย แนวทางนี้ช่วยเพิ่มประสิทธิภาพในการจัดการปริมาณงานขนาดใหญ่

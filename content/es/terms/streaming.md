@@ -1,23 +1,25 @@
 ---
-title: "Procesamiento en flujo (Streaming)"
-term_id: "streaming"
-category: "engineering_practice"
-subcategory: ""
-tags: ["data_engineering", "real-time", "infrastructure"]
+title: Procesamiento en flujo (Streaming)
+term_id: streaming
+category: engineering_practice
+subcategory: ''
+tags:
+- Data Engineering
+- Real Time
+- infrastructure
 difficulty: 2
 weight: 1
-slug: "streaming"
-aliases:
-  - /es/terms/streaming/
-date: "2026-07-18T11:09:11.692666Z"
-lastmod: "2026-07-18T11:44:44.857974Z"
+slug: streaming
+date: '2026-07-18T11:09:11.692666Z'
+lastmod: '2026-07-18T11:44:44.857974Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un paradigma de procesamiento de datos donde la información se procesa continuamente en pequeños fragmentos a medida que llega, en lugar de en grandes lotes estáticos."
+source: agnes_llm
+status: published
+language: es
+description: Un paradigma de procesamiento de datos donde la información se procesa
+  continuamente en pequeños fragmentos a medida que llega, en lugar de en grandes
+  lotes estáticos.
 ---
-
 ## Definition
 
 El streaming se refiere a la ingestión y procesamiento continuo de datos en tiempo real o casi en tiempo real a medida que se generan. A diferencia del procesamiento por lotes, que maneja conjuntos de datos fijos, los sistemas de streaming gestionan

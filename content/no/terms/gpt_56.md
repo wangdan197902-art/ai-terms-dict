@@ -7,8 +7,6 @@ tags: ["LLM", "Future Tech", "NLP"]
 difficulty: 2
 weight: 1
 slug: "gpt_56"
-aliases:
-  - /no/terms/gpt_56/
 date: "2026-07-18T15:55:24.580121Z"
 lastmod: "2026-07-18T16:38:07.002967Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En hypotetisk eller fremtidig iterasjon av OpenAIs serie med generative forhåndstrening-transformere, som representerer en fremgang utover nåværende GPT-modeller."
 ---
-
 ## Definition
 
 GPT-5.6 refererer til en spekulativ eller forestående versjon i slekten av OpenAIs store språkmodeller. Selv om spesifikke detaljer kan variere avhengig av utviklingstidslinjen, representerer slike iterasjoner typisk...

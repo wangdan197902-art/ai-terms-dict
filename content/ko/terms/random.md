@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /ko/terms/random/
 date: "2026-07-18T15:28:10.934021Z"
 lastmod: "2026-07-18T16:38:06.781777Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "예측 가능한 패턴이 없는 성질을 의미하며, AI에서는 주로 의사 난수 생성 알고리즘을 통해 시뮬레이션됩니다."
 ---
-
 ## Definition
 
 무작위성은 AI에서 모델 가중치 초기화, 데이터셋 셔플링, 그리고 과적합을 방지하기 위한 훈련 중 확률적 요소 도입 등에 필수적입니다. 컴퓨터는 본질적으로 결정론적이므로, AI 시스템은 의사 난수 생성기를 사용하여 무작위성을 모방합니다.

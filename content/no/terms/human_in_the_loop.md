@@ -7,8 +7,6 @@ tags: ["Workflow", "Safety", "Ethics"]
 difficulty: 2
 weight: 1
 slug: "human_in_the_loop"
-aliases:
-  - /no/terms/human_in_the_loop/
 date: "2026-07-18T15:37:12.294142Z"
 lastmod: "2026-07-18T16:38:06.959003Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En systemdesign der mennesker aktivt deltar i beslutnings- eller tilbakemeldingsprosessen til en AI-modell."
 ---
-
 ## Definition
 
 Menneske-i-løkken (HITL) refererer til AI-systemer som krever menneskelig innblanding på ulike stadier av arbeidsflyten, slik som dataetikettering, modellvurdering eller godkjenning av endelige beslutninger. Denne tilnærmingen sikrer ansvarlighet og nøyaktighet.

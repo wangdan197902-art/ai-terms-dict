@@ -7,8 +7,6 @@ tags: ["Data Types", "Mathematics", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "numerical"
-aliases:
-  - /he/terms/numerical/
 date: "2026-07-18T15:28:29.457503Z"
 lastmod: "2026-07-18T17:15:09.483419Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הקשור למספרים, מערב אותם או משתמש בהם, בניגוד ללוגיקה סמלית או טקסט."
 ---
-
 ## Definition
 
 בהקשר של בינה מלאכותית ומדעי הנתונים, מספרי מתייחס לסוגי נתונים או שיטות הכוללות ערכים כמותיים, כמו שלמים, עשרוניים ושברים. בניגוד לנתונים קטגוריאליים או טקסטואליים, נתונים מספריים ניתנים לפעולות מתמטיות.

@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /ar/terms/multi_agent/
 date: "2026-07-18T15:34:24.052829Z"
 lastmod: "2026-07-18T17:15:08.455525Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "بنية نظامية يتفاعل فيها العديد من الوكلاء المستقلين داخل بيئة لتحقيق أهداف فردية أو جماعية."
 ---
-
 ## Definition
 
 تتكون الأنظمة متعددة الوكلاء من عدة كيانات مستقلة وذكية تدرك بيئتها، وتتخذ القرارات، وتتصرف بناءً عليها. قد تتعاون هذه الوكلاء، أو تتنافس، أو تتفاوض مع بعضها البعض.

@@ -1,23 +1,24 @@
 ---
-title: "Xử lý theo lô"
-term_id: "batch_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["infrastructure", "efficiency", "data_engineering"]
+title: Xử lý theo lô
+term_id: batch_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- infrastructure
+- efficiency
+- Data Engineering
 difficulty: 2
 weight: 1
-slug: "batch_processing"
-aliases:
-  - /vi/terms/batch_processing/
-date: "2026-07-18T15:42:27.521622Z"
-lastmod: "2026-07-18T16:38:07.732296Z"
+slug: batch_processing
+date: '2026-07-18T15:42:27.521622Z'
+lastmod: '2026-07-18T16:38:07.732296Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một phương pháp tính toán trong đó dữ liệu được thu thập theo thời gian và xử lý theo từng nhóm thay vì từng cá thể riêng lẻ."
+source: agnes_llm
+status: published
+language: vi
+description: Một phương pháp tính toán trong đó dữ liệu được thu thập theo thời gian
+  và xử lý theo từng nhóm thay vì từng cá thể riêng lẻ.
 ---
-
 ## Definition
 
 Xử lý theo lô liên quan đến việc tổng hợp các đầu vào dữ liệu thành một nhóm, hay còn gọi là lô, trước khi thực hiện tính toán hoặc suy luận mô hình. Cách tiếp cận này tương phản với xử lý luồng theo thời gian thực bằng cách cho phép tối ưu hóa thông lượng và hiệu quả sử dụng tài nguyên.

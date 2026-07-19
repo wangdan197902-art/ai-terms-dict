@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /vi/terms/data_preprocessing/
 date: "2026-07-18T15:47:05.059358Z"
 lastmod: "2026-07-18T16:38:07.742630Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Quy trình chuyển đổi dữ liệu thô thành định dạng sạch sẽ, nhất quán, phù hợp cho các thuật toán học máy."
 ---
-
 ## Definition
 
 Tiền xử lý dữ liệu là nhiệm vụ thiết yếu nhằm biến đổi dữ liệu thô, không cấu trúc hoặc nhiễu thành định dạng chuẩn hóa mà các mô hình học máy có thể tiêu thụ hiệu quả. Giai đoạn này thường bao gồm làm sạch, chuẩn hóa và mã hóa.

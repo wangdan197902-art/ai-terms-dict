@@ -7,8 +7,6 @@ tags: ["tensorflow", "tools", "visualization"]
 difficulty: 2
 weight: 1
 slug: "tensorboard"
-aliases:
-  - /zh/terms/tensorboard/
 date: "2026-07-18T11:35:54.969718Z"
 lastmod: "2026-07-18T11:44:45.561866Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一个用于监控机器学习实验和调试模型性能的可视化工具包。"
 ---
-
 ## Definition
 
 TensorBoard 是一套用于检查和理解 TensorFlow 运行过程和计算图的 Web 应用程序套件。它提供了可视化损失和准确率等指标随时间变化的工具，以及查看模型图的功能。

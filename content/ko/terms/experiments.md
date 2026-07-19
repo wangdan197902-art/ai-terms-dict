@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /ko/terms/experiments/
 date: "2026-07-18T15:24:26.003543Z"
 lastmod: "2026-07-18T16:38:06.773346Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "가설을 검증하거나 모델 성능을 평가하거나 새로운 AI 기능을 발견하기 위해 수행되는 통제된 절차입니다."
 ---
-
 ## Definition
 
 AI에서의 실험은 기계 학습 모델 내의 인과 관계를 이해하기 위해 변수를 체계적으로 테스트하는 것을 포함합니다. 이러한 절차를 통해 개발자는 서로 다른 하이퍼파라미터(hyperparam...)를 비교할 수 있습니다.

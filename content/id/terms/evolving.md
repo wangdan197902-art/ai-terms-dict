@@ -7,8 +7,6 @@ tags: ["learning", "dynamics", "adaptation"]
 difficulty: 3
 weight: 1
 slug: "evolving"
-aliases:
-  - /id/terms/evolving/
 date: "2026-07-18T15:25:32.900086Z"
 lastmod: "2026-07-18T16:38:07.392595Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Menggambarkan sistem atau algoritma AI yang terus beradaptasi dan meningkat seiring waktu melalui data atau umpan balik baru."
 ---
-
 ## Definition
 
 Istilah 'berkembang' menggambarkan model AI dinamis yang mengalami pembelajaran dan adaptasi berkelanjutan, bukan tetap statis setelah pelatihan awal. Konsep ini merupakan pusat dari pembelajaran seumur hidup...

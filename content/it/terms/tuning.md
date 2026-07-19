@@ -1,23 +1,24 @@
 ---
-title: "Ottimizzazione"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Ottimizzazione
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /it/terms/tuning/
-date: "2026-07-18T15:30:42.122952Z"
-lastmod: "2026-07-18T17:15:08.577192Z"
+slug: tuning
+date: '2026-07-18T15:30:42.122952Z'
+lastmod: '2026-07-18T17:15:08.577192Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo di regolazione degli iperparametri o dei pesi del modello per ottimizzare le prestazioni su un dataset o un compito specifico."
+source: agnes_llm
+status: published
+language: it
+description: Il processo di regolazione degli iperparametri o dei pesi del modello
+  per ottimizzare le prestazioni su un dataset o un compito specifico.
 ---
-
 ## Definition
 
 L'ottimizzazione consiste nel perfezionare un modello di apprendimento automatico per ottenere una maggiore accuratezza o efficienza. Può riferirsi all'ottimizzazione degli iperparametri, dove vengono ottimizzati parametri come il tasso di apprendimento o la dimensione del batch, o al

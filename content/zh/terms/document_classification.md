@@ -7,8 +7,6 @@ tags: ["NLP", "Classification", "Text Analysis"]
 difficulty: 2
 weight: 1
 slug: "document_classification"
-aliases:
-  - /zh/terms/document_classification/
 date: "2026-07-18T11:15:33.977774Z"
 lastmod: "2026-07-18T11:44:45.491279Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "根据内容将文本文档归类到预定义组的过程。"
 ---
-
 ## Definition
 
 文档分类是一项基本的自然语言处理任务，算法在此过程中为无结构文本数据分配标签。它涉及从文档中提取特征，并将它们映射到特定的类别中。

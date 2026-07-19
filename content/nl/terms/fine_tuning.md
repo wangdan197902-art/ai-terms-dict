@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Deep Learning"]
 difficulty: 3
 weight: 1
 slug: "fine_tuning"
-aliases:
-  - /nl/terms/fine_tuning/
 date: "2026-07-18T15:22:56.815814Z"
 lastmod: "2026-07-18T17:15:08.679136Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces waarbij een vooraf getraind model wordt aangepast aan een specifieke taak met behulp van een kleinere dataset."
 ---
-
 ## Definition
 
 Fine-tuning houdt in dat een model dat al is getraind op een grote, algemene dataset, verder wordt getraind op een gespecialiseerde dataset. Hierdoor behoudt het model algemene kennis terwijl het zich

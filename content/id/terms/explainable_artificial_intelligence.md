@@ -7,8 +7,6 @@ tags: ["Ethics", "Interpretability", "Core Concept"]
 difficulty: 3
 weight: 1
 slug: "explainable_artificial_intelligence"
-aliases:
-  - /id/terms/explainable_artificial_intelligence/
 date: "2026-07-18T15:50:01.843558Z"
 lastmod: "2026-07-18T16:38:07.456707Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kecerdasan Buatan yang Dapat Dijelaskan (XAI) merujuk pada metode dan teknik dalam penerapan teknologi kecerdasan buatan sehingga hasil solusi dapat dipahami oleh pakar manusia."
 ---
-
 ## Definition
 
 Seiring model pembelajaran mesin menjadi semakin kompleks, khususnya jaringan saraf dalam, proses pengambilan keputusan mereka sering kali menjadi 'kotak hitam' yang tidak transparan. XAI bertujuan untuk membuat keputusan-keputusan tersebut dapat diinterpretasikan dan dipahami.

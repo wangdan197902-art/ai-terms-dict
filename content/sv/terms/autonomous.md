@@ -1,23 +1,24 @@
 ---
-title: "Autonom"
-term_id: "autonomous"
-category: "basic_concepts"
-subcategory: ""
-tags: ["autonomy", "decision-making", "robotics"]
+title: Autonom
+term_id: autonomous
+category: basic_concepts
+subcategory: ''
+tags:
+- autonomy
+- Decision Making
+- robotics
 difficulty: 3
 weight: 1
-slug: "autonomous"
-aliases:
-  - /sv/terms/autonomous/
-date: "2026-07-18T15:23:26.882060Z"
-lastmod: "2026-07-18T17:15:08.937474Z"
+slug: autonomous
+date: '2026-07-18T15:23:26.882060Z'
+lastmod: '2026-07-18T17:15:08.937474Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Beskriver system som kan fatta beslut och agera oberoende i dynamiska miljöer."
+source: agnes_llm
+status: published
+language: sv
+description: Beskriver system som kan fatta beslut och agera oberoende i dynamiska
+  miljöer.
 ---
-
 ## Definition
 
 Autonomi inom AI avser förmågan hos ett system att uppfatta sin omgivning, fatta beslut och utföra handlingar utan direkt mänsklig kontroll. Till skillnad från enkel automation anpassar sig autonoma system till förändringar.

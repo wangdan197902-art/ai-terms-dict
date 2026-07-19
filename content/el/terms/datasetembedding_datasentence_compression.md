@@ -7,8 +7,6 @@ tags: ["Summarization", "NLP", "Datasets"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_datasentence_compression"
-aliases:
-  - /el/terms/datasetembedding_datasentence_compression/
 date: "2026-07-18T15:59:39.010155Z"
 lastmod: "2026-07-18T17:15:09.896491Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ένα σύνολο δεδομένων που περιέχει αρχικές προτάσεις και τις συμπιεσμένες εκδόσεις τους, για την εκπαίδευση μοντέλων στη διατήρηση πληροφορίας."
 ---
-
 ## Definition
 
 Τα σύνολα δεδομένων συμπίεσης προτάσεων αποτελούνται από ζεύγη όπου η στόχος πρόταση είναι μια συντομευμένη έκδοση της πηγής, διατηρώντας τον βασικό νοήμα ενώ αφαιρεί την περιττή πληροφορία. Αυτά τα σύνολα δεδομένων είναι...

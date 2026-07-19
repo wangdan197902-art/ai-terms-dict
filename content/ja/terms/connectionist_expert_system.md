@@ -7,8 +7,6 @@ tags: ["hybrid", "expert systems", "architecture"]
 difficulty: 4
 weight: 1
 slug: "connectionist_expert_system"
-aliases:
-  - /ja/terms/connectionist_expert_system/
 date: "2026-07-18T11:08:51.058133Z"
 lastmod: "2026-07-18T11:44:45.080100Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ニューラルネットワークの学習能力と記号的推論構造を組み合わせたインテリジェントシステム。"
 ---
-
 ## Definition
 
 コネクショニストエキスパートシステムは、ニューラルネットワーク（コネクショニズム）のパターン認識・学習の強みと、伝統的なエキスパートシステムの明示的な知識表現・論理的推論の機能を統合したものです。これにより、データ駆動型の学習とルールベースの推論を両立させます。

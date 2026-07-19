@@ -7,8 +7,6 @@ tags: ["collaboration", "concepts"]
 difficulty: 2
 weight: 1
 slug: "together"
-aliases:
-  - /fi/terms/together/
 date: "2026-07-18T15:31:57.552127Z"
 lastmod: "2026-07-18T17:15:09.361178Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Yhdessä kuvaa yleensä yhteistyöhön perustuvia tekoälijärjestelmiä tai ensemble-menetelmiä, joissa useat mallit tai agentit toimivat yhdessä saavuttaakseen yhdenmukaisen tuloksen."
 ---
-
 ## Definition
 
 Vaikka se ei ole tiukka tekninen termi, 'yhdessä'-käsite tekoälyn kontekstissa viittaa usein yhteistyöhön, kuten moniagenttijärjestelmiin, jotka pyrkivät yhteiseen tavoitteeseen, tai ensemble-oppimiseen, jossa useat mallit yhdistävät ennusteensa.

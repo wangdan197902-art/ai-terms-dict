@@ -1,23 +1,25 @@
 ---
-title: "En-Of boom"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: En-Of boom
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /nl/terms/andor_tree/
-date: "2026-07-18T15:42:12.631683Z"
-lastmod: "2026-07-18T17:15:08.716438Z"
+slug: andor_tree
+date: '2026-07-18T15:42:12.631683Z'
+lastmod: '2026-07-18T17:15:08.716438Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een hiërarchische grafstructuur die wordt gebruikt in zoekalgoritmen waarbij knooppunten toestanden vertegenwoordigen en randen acties die leiden naar subdoelen."
+source: agnes_llm
+status: published
+language: nl
+description: Een hiërarchische grafstructuur die wordt gebruikt in zoekalgoritmen
+  waarbij knooppunten toestanden vertegenwoordigen en randen acties die leiden naar
+  subdoelen.
 ---
-
 ## Definition
 
 Een En-Of boom is een representatie die wordt gebruikt bij probleemoplossing en planning, met name in AI-zoekalgoritmen. 'Of'-knooppunten vertegenwoordigen keuzes tussen verschillende acties, terwijl 'En'-knooppunten aangeven dat een doel alleen kan worden bereikt als alle subdoelen worden vervuld.

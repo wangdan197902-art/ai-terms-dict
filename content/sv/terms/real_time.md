@@ -7,8 +7,6 @@ tags: ["performance", "deployment", "systems"]
 difficulty: 1
 weight: 1
 slug: "real_time"
-aliases:
-  - /sv/terms/real_time/
 date: "2026-07-18T15:36:47.266386Z"
 lastmod: "2026-07-18T17:15:08.959204Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Bearbetning i realtid avser system som beräknar och levererar resultat inom strikta, garanterade tidsramar omedelbart vid mottagning av indata."
 ---
-
 ## Definition
 
 Inom artificiell intelligens innebär "i realtid" att ett system har förmågan att bearbeta indata och generera utdata med minimal latens, ofta inom millisekunder. Detta är avgörande för applikationer där fördröjning inte är acceptabel, såsom autonoma körsystem eller live-transaktioner.

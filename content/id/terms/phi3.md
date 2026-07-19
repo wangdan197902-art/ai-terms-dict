@@ -1,23 +1,24 @@
 ---
-title: "Phi3"
-term_id: "phi3"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "microsoft", "edge_computing"]
+title: Phi3
+term_id: phi3
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- microsoft
+- Edge Computing
 difficulty: 2
 weight: 1
-slug: "phi3"
-aliases:
-  - /id/terms/phi3/
-date: "2026-07-18T16:04:14.079853Z"
-lastmod: "2026-07-18T16:38:07.494227Z"
+slug: phi3
+date: '2026-07-18T16:04:14.079853Z'
+lastmod: '2026-07-18T16:38:07.494227Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Keluarga model bahasa besar (LLM) dengan bobot terbuka yang dikembangkan oleh Microsoft Research."
+source: agnes_llm
+status: published
+language: id
+description: Keluarga model bahasa besar (LLM) dengan bobot terbuka yang dikembangkan
+  oleh Microsoft Research.
 ---
-
 ## Definition
 
 Phi-3 adalah serangkaian model bahasa kecil (SLM) yang dirilis oleh Microsoft, dirancang untuk memberikan kinerja tinggi yang sebanding dengan model yang lebih besar, namun memerlukan sumber daya komputasi yang jauh lebih sedikit.

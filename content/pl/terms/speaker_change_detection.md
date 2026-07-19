@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /pl/terms/speaker_change_detection/
 date: "2026-07-18T16:18:57.343937Z"
 lastmod: "2026-07-18T17:15:08.919970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Proces identyfikacji momentów w strumieniu audio, w których zmienia się aktywny mówca."
 ---
-
 ## Definition
 
 Wykrywanie zmiany mówcy (SCD) to technika służąca do precyzyjnego wyznaczania timestampów, w których jeden mówca przestaje mówić, a inny zaczyna. Stanowi ona wstępny krok w diaryzacji, pomagając w segmentacji rozm...

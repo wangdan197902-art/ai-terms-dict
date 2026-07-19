@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /he/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T16:20:23.435264Z"
 lastmod: "2026-07-18T17:15:09.576234Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "ההתקדמות המצטברת של יכולות הבינה המלאכותית באמצעות מחקר, פיתוח ויישום של אלגוריתמים וחומרה increasingly מורכבים."
 ---
-
 ## Definition
 
 מונח זה כולל את האבולוציה ההיסטורית והמתמשכת של מערכות בינה מלאכותית, ומסמן נקודות ציון מהלוגיקה הסמלית המוקדמת ועד ללמידה עמוקה מודרנית. הוא משקף שיפורים בחישוביות ובביצועים.

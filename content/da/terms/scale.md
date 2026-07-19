@@ -7,8 +7,6 @@ tags: ["fundamentals", "resources"]
 difficulty: 2
 weight: 1
 slug: "scale"
-aliases:
-  - /da/terms/scale/
 date: "2026-07-18T15:29:51.093577Z"
 lastmod: "2026-07-18T17:15:09.233112Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Skalering henviser til omfanget af data, parametre eller beregningsressourcer, der bruges i maskinlæringsmodeller."
 ---
-
 ## Definition
 
 I kunstig intelligens indebærer skalering typisk en øgning af størrelsen på datasæt, modelparametre eller beregningskraft for at forbedre ydeevnen. Dette koncept er centralt inden for dyb læring, hvor store

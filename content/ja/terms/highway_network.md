@@ -1,23 +1,23 @@
 ---
-title: "ハイウェイネットワーク"
-term_id: "highway_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "deep_learning", "architecture"]
+title: ハイウェイネットワーク
+term_id: highway_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Deep Learning
+- architecture
 difficulty: 4
 weight: 1
-slug: "highway_network"
-aliases:
-  - /ja/terms/highway_network/
-date: "2026-07-18T11:17:37.580223Z"
-lastmod: "2026-07-18T11:44:45.105792Z"
+slug: highway_network
+date: '2026-07-18T11:17:37.580223Z'
+lastmod: '2026-07-18T11:44:45.105792Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "非常に深いニューラルネットワークにおいて勾配の流れを促進するためにゲート機構を導入した深層学習アーキテクチャ。"
+source: agnes_llm
+status: published
+language: ja
+description: 非常に深いニューラルネットワークにおいて勾配の流れを促進するためにゲート機構を導入した深層学習アーキテクチャ。
 ---
-
 ## Definition
 
 ハイウェイネットワークは、適応型ゲートを組み込むことで深層学習における勾配消失問題に対処するために設計されました。LSTMセルと同様に、これらのゲートはネットワークへの情報伝達を制御し、勾配が浅い層から深い層へスムーズに流れるようにします。これにより、従来のアーキテクチャよりもはるかに深いネットワークの訓練を可能にし、表現力を大幅に向上させます。

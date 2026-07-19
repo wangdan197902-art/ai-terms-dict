@@ -7,8 +7,6 @@ tags: ["ML Paradigms", "Streaming", "Adaptive Systems"]
 difficulty: 3
 weight: 1
 slug: "online"
-aliases:
-  - /vi/terms/online/
 date: "2026-07-18T15:27:33.100160Z"
 lastmod: "2026-07-18T16:38:07.691302Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ các mô hình học máy học liên tục từ luồng dữ liệu mới theo thời gian thực mà không cần huấn luyện lại từ đầu."
 ---
-
 ## Definition
 
 Học trực tuyến (Online learning) là một phương pháp học máy trong đó mô hình được cập nhật gia tăng khi các điểm dữ liệu mới xuất hiện, thay vì được huấn luyện trên một tập dữ liệu tĩnh cố định cùng một lúc. Cách tiếp cận này rất quan trọng trong các môi trường dữ liệu thay đổi nhanh chóng.

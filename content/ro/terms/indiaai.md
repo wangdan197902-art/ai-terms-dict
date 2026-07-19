@@ -1,23 +1,23 @@
 ---
-title: "INDIAai"
-term_id: "indiaai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["policy", "regional_ai"]
+title: INDIAai
+term_id: indiaai
+category: basic_concepts
+subcategory: ''
+tags:
+- policy
+- Regional AI
 difficulty: 1
 weight: 1
-slug: "indiaai"
-aliases:
-  - /ro/terms/indiaai/
-date: "2026-07-18T16:03:49.633654Z"
-lastmod: "2026-07-18T17:15:09.667121Z"
+slug: indiaai
+date: '2026-07-18T16:03:49.633654Z'
+lastmod: '2026-07-18T17:15:09.667121Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "INDIAai este portalul național de AI lansat de Guvernul Indiei pentru a promova cercetarea și adoptarea inteligenței artificiale în întreaga țară."
+source: agnes_llm
+status: published
+language: ro
+description: INDIAai este portalul național de AI lansat de Guvernul Indiei pentru
+  a promova cercetarea și adoptarea inteligenței artificiale în întreaga țară.
 ---
-
 ## Definition
 
 Înființat sub Ministerul Tehnologiei Electronice și al Informației, INDIAai servește ca un hub central pentru resurse, politici și inițiative AI. Scopul său este de a favoriza colaborarea între mediul academic, industrie și guvern.

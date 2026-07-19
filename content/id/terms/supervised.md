@@ -7,8 +7,6 @@ tags: ["ML", "training"]
 difficulty: 2
 weight: 1
 slug: "supervised"
-aliases:
-  - /id/terms/supervised/
 date: "2026-07-18T15:29:49.319385Z"
 lastmod: "2026-07-18T16:38:07.403670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Paradigma pembelajaran mesin di mana model dilatih pada pasangan input-output yang berlabel."
 ---
-
 ## Definition
 
 Pembelajaran terawasi melibatkan pemberian data kepada algoritma yang mencakup baik input maupun jawaban yang benar (label). Model belajar memetakan input ke output dengan meminimalkan kesalahan prediksi.

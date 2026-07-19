@@ -1,23 +1,24 @@
 ---
-title: "Rețea cu propagare înainte"
-term_id: "feed_forward_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "architecture", "fundamentals"]
+title: Rețea cu propagare înainte
+term_id: feed_forward_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
+- fundamentals
 difficulty: 2
 weight: 1
-slug: "feed_forward_network"
-aliases:
-  - /ro/terms/feed_forward_network/
-date: "2026-07-18T15:58:24.013451Z"
-lastmod: "2026-07-18T17:15:09.656356Z"
+slug: feed_forward_network
+date: '2026-07-18T15:58:24.013451Z'
+lastmod: '2026-07-18T17:15:09.656356Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O clasă de rețele neuronale artificiale în care conexiunile dintre noduri nu formează cicluri, propagând informația într-o singură direcție."
+source: agnes_llm
+status: published
+language: ro
+description: O clasă de rețele neuronale artificiale în care conexiunile dintre noduri
+  nu formează cicluri, propagând informația într-o singură direcție.
 ---
-
 ## Definition
 
 Rețelele cu Propagare Înainte (FFN), cunoscute și sub numele de Perceptroni Multistrat (MLP), procesează datele secvențial prin straturi de neuroni, de la intrare la ieșire, fără bucle de feedback. Fiecare neuron primește intrări, le ponderază, aplică o funcție de activare și transmite rezultatul stratului următor.

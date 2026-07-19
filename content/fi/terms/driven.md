@@ -1,23 +1,25 @@
 ---
-title: "Vetämä"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Vetämä
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /fi/terms/driven/
-date: "2026-07-18T15:24:50.464555Z"
-lastmod: "2026-07-18T17:15:09.348766Z"
+slug: driven
+date: '2026-07-18T15:24:50.464555Z'
+lastmod: '2026-07-18T17:15:09.348766Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Vetämä kuvaa tekoälyjärjestelmiä tai menetelmiä, joissa päätöksenteko tai mallin arkkitehtuuri perustuu ensisijaisesti tiettyyn syötteeseen, kuten dataan tai tavoitteisiin."
+source: agnes_llm
+status: published
+language: fi
+description: Vetämä kuvaa tekoälyjärjestelmiä tai menetelmiä, joissa päätöksenteko
+  tai mallin arkkitehtuuri perustuu ensisijaisesti tiettyyn syötteeseen, kuten dataan
+  tai tavoitteisiin.
 ---
-
 ## Definition
 
 Termiä 'vetämä' käytetään yleensä liitteenä osoittamaan tekoälylähestymistavan pääasiallista voimaa tai mekanismia. Esimerkiksi 'datavetoinen' tarkoittaa, että päätökset perustuvat tilastollisiin kuviin datassa, kun taas 'tietovetoinen' perustuu eksplisiittisiin sääntöihin tai faktoihin.

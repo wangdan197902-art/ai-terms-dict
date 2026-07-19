@@ -1,23 +1,24 @@
 ---
-title: "Przetrenowanie"
-term_id: "overfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_evaluation", "training_dynamics", "generalization"]
+title: Przetrenowanie
+term_id: overfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Model Evaluation
+- Training Dynamics
+- generalization
 difficulty: 2
 weight: 1
-slug: "overfitting"
-aliases:
-  - /pl/terms/overfitting/
-date: "2026-07-18T15:36:13.592517Z"
-lastmod: "2026-07-18T17:15:08.835143Z"
+slug: overfitting
+date: '2026-07-18T15:36:13.592517Z'
+lastmod: '2026-07-18T17:15:08.835143Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Błąd modelowania, w którym algorytm uczenia maszynowego wychwytuje szum zamiast rzeczywistego sygnału, co pogarsza zdolność uogólniania."
+source: agnes_llm
+status: published
+language: pl
+description: Błąd modelowania, w którym algorytm uczenia maszynowego wychwytuje szum
+  zamiast rzeczywistego sygnału, co pogarsza zdolność uogólniania.
 ---
-
 ## Definition
 
 Przetrenowanie występuje, gdy model uczy się danych treningowych zbyt dokładnie, w tym ich losowego szumu i wartości odstających, co skutkuje doskonałą wydajnością na danych treningowych, ale słabą wydajnością na nowych, niewidzianych danych testowych.

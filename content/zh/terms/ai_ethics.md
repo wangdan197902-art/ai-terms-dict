@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "safety", "bias"]
 difficulty: 2
 weight: 1
 slug: "ai_ethics"
-aliases:
-  - /zh/terms/ai_ethics/
 date: "2026-07-18T10:59:15.017954Z"
 lastmod: "2026-07-18T11:44:45.396337Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "研究人工智能系统开发和应用过程中产生的道德问题及其影响。"
 ---
-
 ## Definition
 
 人工智能伦理包含一套旨在确保人工智能技术负责任地开发和使用的原则与标准框架。它解决了诸如算法偏见、透明度、问责制和公平性等关键关切。

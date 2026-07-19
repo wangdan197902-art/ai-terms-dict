@@ -1,23 +1,23 @@
 ---
-title: "流形正则化"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: 流形正则化
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /zh/terms/manifold_regularization/
-date: "2026-07-18T11:25:36.427342Z"
-lastmod: "2026-07-18T11:44:45.529749Z"
+slug: manifold_regularization
+date: '2026-07-18T11:25:36.427342Z'
+lastmod: '2026-07-18T11:44:45.529749Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种半监督学习技术，假设数据位于低维流形上，并基于此几何结构对模型进行正则化。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种半监督学习技术，假设数据位于低维流形上，并基于此几何结构对模型进行正则化。
 ---
-
 ## Definition
 
 流形正则化通过结合数据分布的内在几何结构，扩展了传统的正则化方法。它基于以下假设：高维数据点实际上分布在低维流形上，因此模型应遵循该流形的几何特性以保持平滑性。

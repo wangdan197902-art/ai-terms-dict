@@ -1,23 +1,24 @@
 ---
-title: "Detekce toxickosti"
-term_id: "toxicity_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["application", "safety", "nlp"]
+title: Detekce toxickosti
+term_id: toxicity_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- application
+- safety
+- NLP
 difficulty: 3
 weight: 1
-slug: "toxicity_detection"
-aliases:
-  - /cs/terms/toxicity_detection/
-date: "2026-07-18T16:21:31.174077Z"
-lastmod: "2026-07-18T17:15:09.208390Z"
+slug: toxicity_detection
+date: '2026-07-18T16:21:31.174077Z'
+lastmod: '2026-07-18T17:15:09.208390Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Automatizovaný proces identifikace a klasifikace škodlivého nebo obtěžujícího jazyka v textu pomocí modelů strojového učení."
+source: agnes_llm
+status: published
+language: cs
+description: Automatizovaný proces identifikace a klasifikace škodlivého nebo obtěžujícího
+  jazyka v textu pomocí modelů strojového učení.
 ---
-
 ## Definition
 
 Detekce toxickosti využívá techniky zpracování přirozeného jazyka k analýze vstupního textu a přiřazení pravděpodobnostního skóre, které indikuje míru škodlivosti obsahu. Tyto systémy obvykle používají supervizované učení na označených datech, kde jsou příklady toxického a netoxického textu použity k tréninku klasifikačních modelů. Výsledkem je schopnost automaticky filtrovat nebo varovat před nevhodným obsahem v reálném čase.

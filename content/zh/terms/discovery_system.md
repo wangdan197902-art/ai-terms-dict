@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /zh/terms/discovery_system/
 date: "2026-07-18T11:15:21.633188Z"
 lastmod: "2026-07-18T11:44:45.490834Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种旨在识别、探索和评估大型搜索空间中潜在解决方案、模式或假设的自动化框架或算法流程。"
 ---
-
 ## Definition
 
 发现系统是一种计算框架，旨在通过自动化探索庞大的数据空间来加速科学或分析突破。与传统仅寻求局部最优的优化不同，发现系统致力于在整个搜索空间中进行广泛探索，以识别新颖的模式或假设。

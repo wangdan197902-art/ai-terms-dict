@@ -1,23 +1,23 @@
 ---
-title: "Anti-Aliasing por Aprendizado Profundo"
-term_id: "deep_learning_anti_aliasing"
-category: "training_techniques"
-subcategory: ""
-tags: ["computer_vision", "rendering"]
+title: Anti-Aliasing por Aprendizado Profundo
+term_id: deep_learning_anti_aliasing
+category: training_techniques
+subcategory: ''
+tags:
+- Computer Vision
+- rendering
 difficulty: 4
 weight: 1
-slug: "deep_learning_anti_aliasing"
-aliases:
-  - /pt/terms/deep_learning_anti_aliasing/
-date: "2026-07-18T14:56:50.111955Z"
-lastmod: "2026-07-18T15:51:59.482004Z"
+slug: deep_learning_anti_aliasing
+date: '2026-07-18T14:56:50.111955Z'
+lastmod: '2026-07-18T15:51:59.482004Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Técnicas que usam redes neurais para reduzir artefatos visuais, como bordas serrilhadas, em imagens renderizadas ou características reduzidas."
+source: agnes_llm
+status: published
+language: pt
+description: Técnicas que usam redes neurais para reduzir artefatos visuais, como
+  bordas serrilhadas, em imagens renderizadas ou características reduzidas.
 ---
-
 ## Definition
 
 O Anti-Aliasing por Aprendizado Profundo refere-se a métodos que empregam redes neurais para mitigar artefatos de aliasing, que ocorrem quando sinais de alta frequência são amostrados em taxas insuficientes. Em gráficos computacionais...

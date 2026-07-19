@@ -7,8 +7,6 @@ tags: ["Architecture", "Efficiency", "LLMs"]
 difficulty: 4
 weight: 1
 slug: "moe"
-aliases:
-  - /ja/terms/moe/
 date: "2026-07-18T11:24:29.840461Z"
 lastmod: "2026-07-18T11:44:45.123966Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "複数の専門的なニューラルネットワーク（エキスパート）をゲート機構によって組み合わせ、入力を処理するアーキテクチャパターン。"
 ---
-
 ## Definition
 
 Mixture of Experts (MoE) は、効率性とスケーラビリティを向上させるために設計された機械学習アーキテクチャです。すべてのタスクに単一の巨大なモデルを使用する代わりに、MoEは複数の小さな「エキスパート」

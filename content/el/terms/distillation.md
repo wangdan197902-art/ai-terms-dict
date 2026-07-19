@@ -1,23 +1,25 @@
 ---
-title: "Εκχύλιση Γνώσης"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: Εκχύλιση Γνώσης
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /el/terms/distillation/
-date: "2026-07-18T15:24:48.483616Z"
-lastmod: "2026-07-18T17:15:09.842467Z"
+slug: distillation
+date: '2026-07-18T15:24:48.483616Z'
+lastmod: '2026-07-18T17:15:09.842467Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η εκχύλιση γνώσης είναι μια τεχνική συμπίεσης μοντέλου κατά την οποία ένα μικρότερο μοντέλο-μαθητής μαθαίνει να μιμείται τη συμπεριφορά ενός μεγαλύτερου μοντέλου-δασκάλου."
+source: agnes_llm
+status: published
+language: el
+description: Η εκχύλιση γνώσης είναι μια τεχνική συμπίεσης μοντέλου κατά την οποία
+  ένα μικρότερο μοντέλο-μαθητής μαθαίνει να μιμείται τη συμπεριφορά ενός μεγαλύτερου
+  μοντέλου-δασκάλου.
 ---
-
 ## Definition
 
 Αυτή η διαδικασία περιλαμβάνει τη μεταφορά γνώσης από ένα πολύπλοκο νευρωνικό δίκτυο υψηλής απόδοσης («δάσκαλος») σε ένα απλούστερο και πιο αποδοτικό δίκτυο («μαθητής»). Ο μαθητής μαθαίνει όχι μόνο από τις αυστηρές ετικέτες (hard labels) αλλά και από τις πιθανότητες εξόδου του δασκάλου.

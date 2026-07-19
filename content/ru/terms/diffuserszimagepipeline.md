@@ -1,23 +1,26 @@
 ---
-title: "Диффузоры: Zimagepipeline"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Диффузоры: Zimagepipeline'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /ru/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:50:42.738637Z"
-lastmod: "2026-07-18T16:38:07.150490Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:50:42.738637Z'
+lastmod: '2026-07-18T16:38:07.150490Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Специализированный конвейер Hugging Face Diffusers, обычно связанный с обучением без примеров (zero-shot) или специфическими архитектурными реализациями для генерации изображений, часто связанный с мо"
+source: agnes_llm
+status: published
+language: ru
+description: Специализированный конвейер Hugging Face Diffusers, обычно связанный
+  с обучением без примеров (zero-shot) или специфическими архитектурными реализациями
+  для генерации изображений, часто связанный с мо
 ---
-
 ## Definition
 
 В контексте экосистемы Hugging Face Diffusers этот термин обычно относится к конфигурации конвейера или обертке, предназначенной для конкретных задач генерации изображений, потенциально использующей методы обучения без примеров.

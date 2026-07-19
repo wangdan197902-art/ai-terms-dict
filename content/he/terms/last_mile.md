@@ -7,8 +7,6 @@ tags: ["deployment", "mlops", "infrastructure"]
 difficulty: 3
 weight: 1
 slug: "last_mile"
-aliases:
-  - /he/terms/last_mile/
 date: "2026-07-18T16:09:15.066676Z"
 lastmod: "2026-07-18T17:15:09.556755Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "השלב הסופי של אספקת פתרונות בינה מלאכותית מסביבות פיתוח למשתמשים קצה בסביבות תפעוליות אמיתיות."
 ---
-
 ## Definition
 
 בעיית ה'מייל האחרון' מתייחסת לאתגרים הנתקלים בעת הטמעת מודלים לסביבת ייצור, כולל שילוב עם תשתיות קיימות, הבטחת זמן תגובה נמוך (Latency) בסקירה, וטיפול בנתוני קצה.

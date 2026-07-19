@@ -1,23 +1,24 @@
 ---
-title: "Ocena klasyfikatorów binarnych"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Ocena klasyfikatorów binarnych
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /pl/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:53:59.006516Z"
-lastmod: "2026-07-18T17:15:08.871323Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:53:59.006516Z'
+lastmod: '2026-07-18T17:15:08.871323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Proces oceny wydajności modeli uczenia maszynowego przewidujących jeden z dwóch możliwych wyników."
+source: agnes_llm
+status: published
+language: pl
+description: Proces oceny wydajności modeli uczenia maszynowego przewidujących jeden
+  z dwóch możliwych wyników.
 ---
-
 ## Definition
 
 Ta dziedzina obejmuje analizę metryk takich jak dokładność, precyzja, czułość, wynik F1 oraz Pole Pod Krzywą ROC (AUC-ROC). Pomaga ona określić, jak dobrze model rozróżnia klasy.

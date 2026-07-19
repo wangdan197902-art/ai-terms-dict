@@ -7,8 +7,6 @@ tags: ["Ethics", "Philosophy", "Advanced AI", "Governance"]
 difficulty: 5
 weight: 1
 slug: "artificial_wisdom"
-aliases:
-  - /de/terms/artificial_wisdom/
 date: "2026-07-18T11:03:33.637117Z"
 lastmod: "2026-07-18T11:44:44.911214Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die Erweiterung von KI über Intelligenz hinaus, um Urteilsvermögen, Ethik und kontextuelles Verständnis für fundierte Entscheidungsfindung einzubeziehen."
 ---
-
 ## Definition
 
 Künstliche Weisheit (AW) ist ein aufstrebendes Konzept, das darauf abzielt, künstliche Intelligenz um menschenähnliche Werte, ethische Überlegungen und langfristige strategische Urteilsfähigkeit zu erweitern. Während KI sich auf Effizi

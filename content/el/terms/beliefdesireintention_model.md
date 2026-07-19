@@ -1,23 +1,24 @@
 ---
-title: "Μοντέλο πεποιθήσεων-επιθυμιών-προθέσεων"
-term_id: "beliefdesireintention_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["agent_architecture", "cognitive_science", "autonomy"]
+title: Μοντέλο πεποιθήσεων-επιθυμιών-προθέσεων
+term_id: beliefdesireintention_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Agent Architecture
+- Cognitive Science
+- autonomy
 difficulty: 3
 weight: 1
-slug: "beliefdesireintention_model"
-aliases:
-  - /el/terms/beliefdesireintention_model/
-date: "2026-07-18T15:53:33.393615Z"
-lastmod: "2026-07-18T17:15:09.885769Z"
+slug: beliefdesireintention_model
+date: '2026-07-18T15:53:33.393615Z'
+lastmod: '2026-07-18T17:15:09.885769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα φιλοσοφικό πλαίσιο που χρησιμοποιείται στην ΤΕΠ για τη μοντελοποίηση των λογικών πρακτόρων βάσει των πεποιθήσεων, των επιθυμιών και των προθέσεών τους."
+source: agnes_llm
+status: published
+language: el
+description: Ένα φιλοσοφικό πλαίσιο που χρησιμοποιείται στην ΤΕΠ για τη μοντελοποίηση
+  των λογικών πρακτόρων βάσει των πεποιθήσεων, των επιθυμιών και των προθέσεών τους.
 ---
-
 ## Definition
 
 Το Μοντέλο Πιστεύω-Επιθυμιών-Προθέσεων (BDI) είναι μια γνωστική αρχιτεκτονική για τον σχεδιασμό αυτόνομων πρακτόρων που λαμβάνουν λογικές αποφάσεις. Οι πεποιθήσεις αντιπροσωπεύουν τη γνώση του πράκτορα για τον κόσμο, οι επιθυμίες τους στόχους που επιδιώκει και οι προθέσεις τα σχέδια δράσης που έχει δεσμευτεί να ακολουθήσει.

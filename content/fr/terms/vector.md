@@ -1,23 +1,25 @@
 ---
-title: "Vecteur"
-term_id: "vector"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "data_representation", "foundations"]
+title: Vecteur
+term_id: vector
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Data Representation
+- foundations
 difficulty: 1
 weight: 1
-slug: "vector"
-aliases:
-  - /fr/terms/vector/
-date: "2026-07-18T11:02:04.880241Z"
-lastmod: "2026-07-18T11:44:45.190502Z"
+slug: vector
+date: '2026-07-18T11:02:04.880241Z'
+lastmod: '2026-07-18T11:44:45.190502Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Un objet mathématique représentant une quantité avec une magnitude et une direction, souvent utilisé en IA pour encoder des points de données dans un espace de grande dimension."
+source: agnes_llm
+status: published
+language: fr
+description: Un objet mathématique représentant une quantité avec une magnitude et
+  une direction, souvent utilisé en IA pour encoder des points de données dans un
+  espace de grande dimension.
 ---
-
 ## Definition
 
 En intelligence artificielle, un vecteur est une structure de données fondamentale utilisée pour représenter l'information numériquement. Il se compose d'une liste ordonnée de nombres (éléments) qui mappent les caractéristiques d'une entité en

@@ -1,23 +1,26 @@
 ---
-title: "Diffusers"
-term_id: "diffusers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["library", "generative_ai", "tools", "hugging_face"]
+title: Diffusers
+term_id: diffusers
+category: basic_concepts
+subcategory: ''
+tags:
+- library
+- Generative AI
+- tools
+- Hugging Face
 difficulty: 2
 weight: 1
-slug: "diffusers"
-aliases:
-  - /es/terms/diffusers/
-date: "2026-07-18T10:43:59.606506Z"
-lastmod: "2026-07-18T11:44:44.798522Z"
+slug: diffusers
+date: '2026-07-18T10:43:59.606506Z'
+lastmod: '2026-07-18T11:44:44.798522Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una biblioteca dentro del ecosistema de Hugging Face que proporciona implementaciones de vanguardia de modelos de difusión para la generación de imágenes, audio y texto."
+source: agnes_llm
+status: published
+language: es
+description: Una biblioteca dentro del ecosistema de Hugging Face que proporciona
+  implementaciones de vanguardia de modelos de difusión para la generación de imágenes,
+  audio y texto.
 ---
-
 ## Definition
 
 Hugging Face Diffusers es un kit modular diseñado para simplificar el uso de modelos de difusión. Ofrece tuberías preentrenadas para tareas como la generación de texto a imagen, la inpintación de imágenes y la super-resol

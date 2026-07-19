@@ -1,23 +1,24 @@
 ---
-title: "Масштабирование признаков"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Масштабирование признаков
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /ru/terms/feature_scaling/
-date: "2026-07-18T15:53:24.673975Z"
-lastmod: "2026-07-18T16:38:07.157077Z"
+slug: feature_scaling
+date: '2026-07-18T15:53:24.673975Z'
+lastmod: '2026-07-18T16:38:07.157077Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс нормализации диапазона независимых переменных или признаков данных для обеспечения единообразия их масштаба."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс нормализации диапазона независимых переменных или признаков данных
+  для обеспечения единообразия их масштаба.
 ---
-
 ## Definition
 
 Масштабирование признаков стандартизирует диапазон входных переменных, предотвращая доминирование в процессе обучения признаков с большими значениями. Распространенные методы включают нормализацию (масштабирование min-max) и стандартизацию...

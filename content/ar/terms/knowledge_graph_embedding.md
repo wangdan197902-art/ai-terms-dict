@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /ar/terms/knowledge_graph_embedding/
 date: "2026-07-18T16:04:36.987676Z"
 lastmod: "2026-07-18T17:15:08.519380Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقنية تقوم بربط الكيانات والعلاقات في رسم بياني للمعرفة إلى فضاءات متجهية مستمرة مع الحفاظ على الدلالات الهيكلية."
 ---
-
 ## Definition
 
 تقوم طرق تضمين الرسم البياني للمعرفة، مثل TransE أو DistMult، بتحويل الهياكل البيانية المنفصلة إلى متجهات كثيفة منخفضة الأبعاد. يتيح ذلك لنماذج تعلم الآلة إجراء عمليات رياضية

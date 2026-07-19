@@ -7,8 +7,6 @@ tags: ["terminology", "ambiguous", "acronyms"]
 difficulty: 1
 weight: 1
 slug: "csm"
-aliases:
-  - /nl/terms/csm/
 date: "2026-07-18T15:48:40.972362Z"
 lastmod: "2026-07-18T17:15:08.730191Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een ambigu acroniem dat doorgaans verwijst naar Contextual Speech Models of Cloud Security Management in specifieke technische domeinen, zonder universele standaarddefinitie in algemene AI."
 ---
-
 ## Definition
 
 In de context van AI en technologie is 'CSM' geen universeel gestandaardiseerd term zoals 'CNN' of 'RNN'. Het staat het vaakst voor Contextual Speech Models in spraakverwerkingsonderzoek, wat verwijst naar modellen die contextuele informatie gebruiken om spraak beter te begrijpen. In andere domeinen kan het ook staan voor Cloud Security Management. De betekenis hangt sterk af van de specifieke technische context waarin het wordt gebruikt.

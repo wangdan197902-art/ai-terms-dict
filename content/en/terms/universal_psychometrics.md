@@ -7,8 +7,6 @@ tags: ["psychology", "measurement", "ethics"]
 difficulty: 4
 weight: 1
 slug: "universal_psychometrics"
-aliases:
-  - /en/terms/universal_psychometrics/
 date: "2026-07-18T10:19:06.817407Z"
 lastmod: "2026-07-18T11:44:44.731155Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The application of standardized measurement techniques to assess psychological traits across diverse populations."
 ---
-
 ## Definition
 
 Universal psychometrics involves developing and applying assessment tools that can reliably measure psychological constructs, such as personality, cognitive ability, or emotional intelligence, across different cultures, languages, and demographic groups. The goal is to create instruments that are culturally fair and invariant, ensuring that scores reflect true differences in traits rather than biases in the testing method. This field is crucial for global HR applications, clinical psychology, and educational assessments where equitable measurement is required.

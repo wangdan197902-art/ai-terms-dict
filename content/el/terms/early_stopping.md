@@ -1,23 +1,25 @@
 ---
-title: "Πρόωρη Διακοπή"
-term_id: "early_stopping"
-category: "training_techniques"
-subcategory: ""
-tags: ["regularization", "training", "optimization"]
+title: Πρόωρη Διακοπή
+term_id: early_stopping
+category: training_techniques
+subcategory: ''
+tags:
+- Regularization
+- training
+- Optimization
 difficulty: 2
 weight: 1
-slug: "early_stopping"
-aliases:
-  - /el/terms/early_stopping/
-date: "2026-07-18T16:04:34.148151Z"
-lastmod: "2026-07-18T17:15:09.903709Z"
+slug: early_stopping
+date: '2026-07-18T16:04:34.148151Z'
+lastmod: '2026-07-18T17:15:09.903709Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η πρόωρη διακοπή είναι μια τεχνική κανονικοποίησης που σταματά τη διαδικασία εκπαίδευσης όταν η απόδοση του μοντέλου σε ένα σύνολο επικύρωσης αρχίζει να επιδεινώνεται, αποτρέποντας την υπερπροσαρμογή."
+source: agnes_llm
+status: published
+language: el
+description: Η πρόωρη διακοπή είναι μια τεχνική κανονικοποίησης που σταματά τη διαδικασία
+  εκπαίδευσης όταν η απόδοση του μοντέλου σε ένα σύνολο επικύρωσης αρχίζει να επιδεινώνεται,
+  αποτρέποντας την υπερπροσαρμογή.
 ---
-
 ## Definition
 
 Η πρόωρη διακοπή είναι μια μορφή κανονικοποίησης που χρησιμοποιείται κυρίως σε επαναληπτικές διαδικασίες εκπαίδευσης όπως η βαθμωτή κάθοδος. Κατά την εκπαίδευση, η απόδοση του μοντέλου στα δεδομένα εκπαίδευσης βελτιώνεται συνεχώς, αλλά η απόδοση στα δεδομένα επικύρωσης μπορεί να αρχίσει να μειώνεται λόγω υπερπροσαρμογής. Η πρόωρη διακοπή ανιχνεύει αυτό το σημείο και σταματά την εκπαίδευση.

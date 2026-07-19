@@ -1,23 +1,24 @@
 ---
-title: "WordPiece"
-term_id: "wordpiece"
-category: "engineering_practice"
-subcategory: ""
-tags: ["nlp", "tokenization", "bert"]
+title: WordPiece
+term_id: wordpiece
+category: engineering_practice
+subcategory: ''
+tags:
+- NLP
+- tokenization
+- BERT
 difficulty: 3
 weight: 1
-slug: "wordpiece"
-aliases:
-  - /tr/terms/wordpiece/
-date: "2026-07-18T16:21:27.805191Z"
-lastmod: "2026-07-18T16:38:07.378045Z"
+slug: wordpiece
+date: '2026-07-18T16:21:27.805191Z'
+lastmod: '2026-07-18T16:38:07.378045Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Kelime dışı kelimeleri ele almak için en sık görülen karakter çiftlerini özyinelemeli olarak birleştiren bir alt kelime parçalama algoritması."
+source: agnes_llm
+status: published
+language: tr
+description: Kelime dışı kelimeleri ele almak için en sık görülen karakter çiftlerini
+  özyinelemeli olarak birleştiren bir alt kelime parçalama algoritması.
 ---
-
 ## Definition
 
 WordPiece, BERT ve ALBERT gibi doğal dil işleme modellerinde yaygın olarak kullanılan bir parçalama yöntemidir. Kelimeleri daha küçük alt kelime birimlerine ayırarak morfolojik zenginliği yönetir ve sözlük dışı kelimelerle başa çıkma yeteneğini artırır. Bu sayede model, eğitim verisinde nadir görülen veya hiç görünmeyen kelimeleri de etkili bir şekilde temsil edebilir.

@@ -1,23 +1,25 @@
 ---
-title: "Управляемый / Ориентированный"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Управляемый / Ориентированный
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /ru/terms/driven/
-date: "2026-07-18T15:24:19.486457Z"
-lastmod: "2026-07-18T16:38:07.073561Z"
+slug: driven
+date: '2026-07-18T15:24:19.486457Z'
+lastmod: '2026-07-18T16:38:07.073561Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Термин «управляемый» описывает системы ИИ или методологии, где принятие решений или архитектура модели в первую очередь определяются конкретным типом ввода, таким как данные или цели."
+source: agnes_llm
+status: published
+language: ru
+description: Термин «управляемый» описывает системы ИИ или методологии, где принятие
+  решений или архитектура модели в первую очередь определяются конкретным типом ввода,
+  таким как данные или цели.
 ---
-
 ## Definition
 
 Термин «driven» обычно используется как суффикс для указания основной движущей силы или механизма подхода ИИ. Например, «data-driven» (управляемый данными) подразумевает, что решения принимаются на основе статистических закономерностей в данных.

@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /de/terms/datasetsearch_qa/
 date: "2026-07-18T11:10:42.331758Z"
 lastmod: "2026-07-18T11:44:44.928854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Datensatz, der sich auf Frage-Antwort-Aufgaben konzentriert, die aus Suchmaschinenprotokollen oder Webanfragen abgeleitet sind, mit Schwerpunkt auf der realen Informationsbeschaffung."
 ---
-
 ## Definition
 
 Search-QA-Datensätze bestehen typischerweise aus Paaren von Suchanfragen und relevanten Antwortauszügen oder Dokumenten, die aus den Ergebnissen von Suchmaschinen extrahiert wurden. Diese Datensätze sind entscheidend für das Training von Modellen, um Benutzerabsichten zu verstehen und präzise Informationen bereitzustellen.

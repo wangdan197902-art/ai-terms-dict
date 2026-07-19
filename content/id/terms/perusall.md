@@ -7,8 +7,6 @@ tags: ["edtech", "platform", "grading"]
 difficulty: 2
 weight: 1
 slug: "perusall"
-aliases:
-  - /id/terms/perusall/
 date: "2026-07-18T16:03:53.528463Z"
 lastmod: "2026-07-18T16:38:07.493874Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Platform pembelajaran sosial berbasis AI yang mengotomatisasi penilaian anotasi siswa dan diskusi pada teks digital."
 ---
-
 ## Definition
 
 Perusall adalah platform teknologi pendidikan yang memanfaatkan kecerdasan buatan untuk memfasilitasi pembacaan kolaboratif dan anotasi. Platform ini secara otomatis menilai partisipasi siswa berdasarkan kualitas pertanyaan dan komentar mereka pada materi bacaan.

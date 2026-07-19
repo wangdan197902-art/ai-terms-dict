@@ -7,8 +7,6 @@ tags: ["reference", "education", "documentation"]
 difficulty: 1
 weight: 1
 slug: "glossary_of_artificial_intelligence"
-aliases:
-  - /no/terms/glossary_of_artificial_intelligence/
 date: "2026-07-18T15:57:05.643605Z"
 lastmod: "2026-07-18T16:38:07.005081Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En gloseliste over kunstig intelligens er en kuratert liste over definisjoner for begreper brukt i AI-forskning og -utvikling."
 ---
-
 ## Definition
 
 En Glossary of Artificial Intelligence fungerer som et referansemateriale som definerer spesialisert terminologi, akronymer og konsepter innen feltet. Det hjelper forskere, utviklere og studenter med å forstå

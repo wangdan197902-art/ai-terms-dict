@@ -7,8 +7,6 @@ tags: ["transformers", "architecture"]
 difficulty: 4
 weight: 1
 slug: "self_attention"
-aliases:
-  - /en/terms/self_attention/
 date: "2026-07-18T09:36:45.467584Z"
 lastmod: "2026-07-18T11:44:44.609144Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A mechanism allowing a neural network to weigh the importance of different parts of the input sequence relative to each other."
 ---
-
 ## Definition
 
 Self-attention enables models to capture dependencies between all positions in a sequence simultaneously, regardless of distance. By computing attention scores between every pair of tokens, it allows the network to dynamically focus on relevant context, forming the foundational layer of Transformer architectures used in modern natural language processing and computer vision tasks.

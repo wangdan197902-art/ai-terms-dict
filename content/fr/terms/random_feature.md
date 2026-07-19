@@ -1,23 +1,25 @@
 ---
-title: "Caractéristique aléatoire"
-term_id: "random_feature"
-category: "basic_concepts"
-subcategory: ""
-tags: ["kernel_methods", "feature_engineering", "optimization"]
+title: Caractéristique aléatoire
+term_id: random_feature
+category: basic_concepts
+subcategory: ''
+tags:
+- Kernel Methods
+- Feature Engineering
+- Optimization
 difficulty: 3
 weight: 1
-slug: "random_feature"
-aliases:
-  - /fr/terms/random_feature/
-date: "2026-07-18T11:35:52.926508Z"
-lastmod: "2026-07-18T11:44:45.320129Z"
+slug: random_feature
+date: '2026-07-18T11:35:52.926508Z'
+lastmod: '2026-07-18T11:44:45.320129Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une technique qui mappe les données d'entrée dans un espace de dimension supérieure en utilisant des projections aléatoires pour approximer efficacement les méthodes à noyau."
+source: agnes_llm
+status: published
+language: fr
+description: Une technique qui mappe les données d'entrée dans un espace de dimension
+  supérieure en utilisant des projections aléatoires pour approximer efficacement
+  les méthodes à noyau.
 ---
-
 ## Definition
 
 Les cartes de caractéristiques aléatoires transforment les entrées dans un nouvel espace où les modèles linéaires peuvent approximer des fonctions de noyau non linéaires. Cette approche, souvent associée à la méthode de Nyström ou aux caractéristiques de Fourier, permet une approximation efficace des noyaux sans calculer explicitement la matrice de noyau complète.

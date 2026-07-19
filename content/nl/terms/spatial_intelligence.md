@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /nl/terms/spatial_intelligence/
 date: "2026-07-18T16:18:06.216159Z"
 lastmod: "2026-07-18T17:15:08.789168Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het vermogen van AI-systemen om driedimensionale omgevingen te begrijpen, erover te redeneren en zich daarin te navigeren."
 ---
-
 ## Definition
 
 Ruimtelijke intelligentie verwijst naar het vermogen van kunstmatige intelligentiemodellen om ruimtelijke relaties binnen fysieke of virtuele omgevingen waar te nemen, te interpreteren en te manipuleren. Het houdt in het begrijpen van diepte, vorm en positie.

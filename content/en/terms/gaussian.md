@@ -7,8 +7,6 @@ tags: ["statistics", "probability"]
 difficulty: 3
 weight: 1
 slug: "gaussian"
-aliases:
-  - /en/terms/gaussian/
 date: "2026-07-18T09:32:39.649117Z"
 lastmod: "2026-07-18T11:44:44.598498Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Relating to the normal distribution, a bell-shaped curve fundamental to statistics and noise modeling in AI."
 ---
-
 ## Definition
 
 Gaussian refers to the normal distribution, a continuous probability distribution characterized by its mean and variance. In AI, it is extensively used in probabilistic modeling, Bayesian inference, and as a prior for weights in neural networks. Noise added to images or signals is often modeled as Gaussian noise. Understanding Gaussian distributions is essential for algorithms involving uncertainty estimation, optimization, and generative processes like Variational Autoencoders.

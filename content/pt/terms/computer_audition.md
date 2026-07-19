@@ -1,23 +1,24 @@
 ---
-title: "Audição Computacional"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: Audição Computacional
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /pt/terms/computer_audition/
-date: "2026-07-18T14:53:51.706504Z"
-lastmod: "2026-07-18T15:51:59.473305Z"
+slug: computer_audition
+date: '2026-07-18T14:53:51.706504Z'
+lastmod: '2026-07-18T15:51:59.473305Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A audição computacional é o campo de estudo focado em permitir que as máquinas percebam e compreendam sinais de áudio de maneira semelhante aos humanos."
+source: agnes_llm
+status: published
+language: pt
+description: A audição computacional é o campo de estudo focado em permitir que as
+  máquinas percebam e compreendam sinais de áudio de maneira semelhante aos humanos.
 ---
-
 ## Definition
 
 A audição computacional envolve o desenvolvimento de algoritmos que permitem aos computadores extrair informações significativas das formas de onda de áudio. Isso inclui tarefas como reconhecimento de fala, classificação de gêneros musicais

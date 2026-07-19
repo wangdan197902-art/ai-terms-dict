@@ -7,8 +7,6 @@ tags: ["numerics", "uncertainty", "bayesian"]
 difficulty: 4
 weight: 1
 slug: "probabilistic_numerics"
-aliases:
-  - /ar/terms/probabilistic_numerics/
 date: "2026-07-18T16:17:01.435706Z"
 lastmod: "2026-07-18T17:15:08.538892Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "حقل يعامل مشاكل الحساب العددي كمهام استدلال إحصائي لقياس عدم اليقين في النتائج."
 ---
-
 ## Definition
 
 تطبق الحسابات العددية الاحتمالية الطرق البايزية على المشاكل العددية التقليدية مثل التكامل، والتفاضل، والجبر الخطي. بدلاً من تقديم تقديرات نقطية، تنتج توزيعات احتمالية...

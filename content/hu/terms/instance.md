@@ -7,8 +7,6 @@ tags: ["terminology", "data", "basics"]
 difficulty: 1
 weight: 1
 slug: "instance"
-aliases:
-  - /hu/terms/instance/
 date: "2026-07-18T16:06:01.185611Z"
 lastmod: "2026-07-18T17:15:09.796826Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egyetlen adatsample vagy megfigyelés, amelyet gépi tanulási feladatokban használnak, általában jellemzővektor formájában megjelenítve."
 ---
-
 ## Definition
 
 A gépi tanulásban egy példa az adattábla egyetlen konkrét példáját jelöli. Egy bemeneti jellemzőkből (attribútumokból) álló készletből, valamint esetlegesen egy célcímkéből (target label) áll.

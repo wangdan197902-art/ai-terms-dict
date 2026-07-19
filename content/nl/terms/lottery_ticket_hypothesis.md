@@ -1,23 +1,25 @@
 ---
-title: "Lottery ticket-hypothese"
-term_id: "lottery_ticket_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "pruning", "theory"]
+title: Lottery ticket-hypothese
+term_id: lottery_ticket_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- pruning
+- theory
 difficulty: 4
 weight: 1
-slug: "lottery_ticket_hypothesis"
-aliases:
-  - /nl/terms/lottery_ticket_hypothesis/
-date: "2026-07-18T16:05:18.915306Z"
-lastmod: "2026-07-18T17:15:08.763758Z"
+slug: lottery_ticket_hypothesis
+date: '2026-07-18T16:05:18.915306Z'
+lastmod: '2026-07-18T17:15:08.763758Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "De theorie dat dichte neurale netwerken kleinere subnetwerken bevatten die, wanneer geïsoleerd getraind vanaf de initiële gewichten, dezelfde nauwkeurigheid kunnen bereiken als het oorspronkelijke net"
+source: agnes_llm
+status: published
+language: nl
+description: De theorie dat dichte neurale netwerken kleinere subnetwerken bevatten
+  die, wanneer geïsoleerd getraind vanaf de initiële gewichten, dezelfde nauwkeurigheid
+  kunnen bereiken als het oorspronkelijke net
 ---
-
 ## Definition
 
 De Lottery Ticket Hypothesis suggereert dat binnen een groot, willekeurig geïnitialiseerd neurale netwerk een spaarzaam subnetwerk bestaat (het 'winnende lot') dat goed geïnitialiseerd is voor training. Door het prunen (verwijderen) van niet-essentiële gewichten en het opnieuw trainen van dit subnetwerk vanaf de originele initialisatie, kan men een efficiënter model bereiken met vergelijkbare prestaties.

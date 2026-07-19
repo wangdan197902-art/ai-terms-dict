@@ -7,8 +7,6 @@ tags: ["engineering", "tools", "development"]
 difficulty: 1
 weight: 1
 slug: "sdk"
-aliases:
-  - /ja/terms/sdk/
 date: "2026-07-18T11:00:34.091893Z"
 lastmod: "2026-07-18T11:44:45.057455Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "アプリケーション構築のためのツール、ライブラリ、ドキュメントを提供するソフトウェア開発キット。"
 ---
-
 ## Definition
 
 SDK（Software Development Kit）は、開発者が特定のプラットフォームやサービス向けにアプリケーションを作成できるようにするソフトウェア開発ツールの集合体です。AIにおいて、SDKは事前構築されたライブラリ、API、およびユーティリティを提供し...

@@ -1,23 +1,25 @@
 ---
-title: "Generatives Modell"
-term_id: "generative_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ml-basics", "synthesis"]
+title: Generatives Modell
+term_id: generative_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- ML Basics
+- synthesis
 difficulty: 2
 weight: 1
-slug: "generative_model"
-aliases:
-  - /de/terms/generative_model/
-date: "2026-07-18T11:16:06.096052Z"
-lastmod: "2026-07-18T11:44:44.943949Z"
+slug: generative_model
+date: '2026-07-18T11:16:06.096052Z'
+lastmod: '2026-07-18T11:44:44.943949Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Art von Machine-Learning-Modell, das die zugrunde liegende Verteilung der Daten lernt, um neue, synthetische Samples zu erzeugen, die den Trainingsdaten ähneln."
+source: agnes_llm
+status: published
+language: de
+description: Eine Art von Machine-Learning-Modell, das die zugrunde liegende Verteilung
+  der Daten lernt, um neue, synthetische Samples zu erzeugen, die den Trainingsdaten
+  ähneln.
 ---
-
 ## Definition
 
 Generative Modelle sind Algorithmen, die darauf ausgelegt sind, Muster und Strukturen in einem gegebenen Datensatz zu verstehen, um neue Dateninstanzen zu erstellen, die dem Original ähneln. Im Gegensatz zu diskriminativen Modellen...

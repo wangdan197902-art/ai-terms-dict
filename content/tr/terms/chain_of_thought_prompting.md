@@ -7,8 +7,6 @@ tags: ["Prompt Engineering", "Reasoning", "LLM Techniques"]
 difficulty: 4
 weight: 1
 slug: "chain_of_thought_prompting"
-aliases:
-  - /tr/terms/chain_of_thought_prompting/
 date: "2026-07-18T15:33:48.615854Z"
 lastmod: "2026-07-18T16:38:07.255277Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Düşünce Zinciri isteme tekniği, Büyük Dil Modellerinin (LLM) nihai cevabı üretmeden önce ara adımlarda mantıksal çıkarım yapmasını teşvik eden bir yöntemdir."
 ---
-
 ## Definition
 
 Düşünce Zinciri (CoT) isteme tekniği, büyük dil modellerinin karmaşık akıl yürütme görevlerindeki performansını, modelden adım adım mantığını açıkça ifade etmesini isteyerek artırır. Model doğrudan sonuca atlamak yerine, sorunu çözme sürecini detaylandırır.

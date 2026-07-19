@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /ko/terms/continuous_time/
 date: "2026-07-18T15:31:20.629929Z"
 lastmod: "2026-07-18T16:38:06.788110Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "변수가 이산 단계가 아닌 연속적인 도메인에서 부드럽게 변화하는 모델링 접근 방식."
 ---
-
 ## Definition
 
 연속 시간 모델은 미분 방정식을 사용하여 시스템 역학을 설명하며, 시간에 따른 상태의 부드러운 진화를 가능하게 합니다. AI에서는 신경 상미분 방정식(Neural ODEs)이 이에 해당합니다.

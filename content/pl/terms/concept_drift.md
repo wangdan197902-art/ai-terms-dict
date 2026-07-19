@@ -1,23 +1,24 @@
 ---
-title: "Dryf koncepcji"
-term_id: "concept_drift"
-category: "basic_concepts"
-subcategory: ""
-tags: ["machine_learning", "data_quality", "maintenance"]
+title: Dryf koncepcji
+term_id: concept_drift
+category: basic_concepts
+subcategory: ''
+tags:
+- Machine Learning
+- Data Quality
+- maintenance
 difficulty: 4
 weight: 1
-slug: "concept_drift"
-aliases:
-  - /pl/terms/concept_drift/
-date: "2026-07-18T15:46:40.268878Z"
-lastmod: "2026-07-18T17:15:08.856420Z"
+slug: concept_drift
+date: '2026-07-18T15:46:40.268878Z'
+lastmod: '2026-07-18T17:15:08.856420Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Dryf koncepcji występuje, gdy właściwości statystyczne zmiennej docelowej zmieniają się w czasie, co pogarsza wydajność modelu."
+source: agnes_llm
+status: published
+language: pl
+description: Dryf koncepcji występuje, gdy właściwości statystyczne zmiennej docelowej
+  zmieniają się w czasie, co pogarsza wydajność modelu.
 ---
-
 ## Definition
 
 Dryf koncepcji to zjawisko w uczeniu maszynowym, w którym relacja między cechami wejściowymi a wynikami docelowymi zmienia się wraz napływem nowych danych. Często ma to miejsce w dynamicznych środowiskach, gdzie zachowania użytkowników lub warunki zewnętrzne ewoluują.

@@ -1,23 +1,23 @@
 ---
-title: "音频修复"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: 音频修复
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /zh/terms/audio_inpainting/
-date: "2026-07-18T11:07:14.726917Z"
-lastmod: "2026-07-18T11:44:45.447221Z"
+slug: audio_inpainting
+date: '2026-07-18T11:07:14.726917Z'
+lastmod: '2026-07-18T11:44:45.447221Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "基于周围上下文重建音频信号中缺失或损坏片段的过程。"
+source: agnes_llm
+status: published
+language: zh
+description: 基于周围上下文重建音频信号中缺失或损坏片段的过程。
 ---
-
 ## Definition
 
 音频修复是一种用于填补由信号丢失、噪音或有意掩码导致的录音空白区域的技术。利用生成式模型，系统根据缺失部分周围的上下文信息预测最可能的内容，从而恢复音频的完整性和自然度。这在历史档案恢复和数字文件修复中尤为重要。

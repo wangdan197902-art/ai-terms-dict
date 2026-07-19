@@ -7,8 +7,6 @@ tags: ["architecture", "multimodal", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "unified_model"
-aliases:
-  - /id/terms/unified_model/
 date: "2026-07-18T16:12:33.764126Z"
 lastmod: "2026-07-18T16:38:07.517188Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Arsitektur AI yang dirancang untuk menangani berbagai tugas atau modality dalam satu kerangka kerja."
 ---
-
 ## Definition
 
 Model terpadu merujuk pada sistem kecerdasan buatan yang mampu melakukan berbagai tugas berbeda, seperti generasi teks, pengenalan gambar, dan sintesis kode, tanpa memerlukan spesifikasi terpisah...

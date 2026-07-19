@@ -1,23 +1,23 @@
 ---
-title: "Webhook"
-term_id: "webhook"
-category: "engineering_practice"
-subcategory: ""
-tags: ["Integration", "APIs", "Automation"]
+title: Webhook
+term_id: webhook
+category: engineering_practice
+subcategory: ''
+tags:
+- Integration
+- API
+- Automation
 difficulty: 3
 weight: 1
-slug: "webhook"
-aliases:
-  - /zh/terms/webhook/
-date: "2026-07-18T11:38:02.408141Z"
-lastmod: "2026-07-18T11:44:45.568421Z"
+slug: webhook
+date: '2026-07-18T11:38:02.408141Z'
+lastmod: '2026-07-18T11:44:45.568421Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "由特定事件触发的用户定义HTTP回调，允许系统向其他应用程序推送实时通知。"
+source: agnes_llm
+status: published
+language: zh
+description: 由特定事件触发的用户定义HTTP回调，允许系统向其他应用程序推送实时通知。
 ---
-
 ## Definition
 
 Webhook是一种机制，当一个事件发生时，一个服务可以向另一个服务提供实时信息。源系统不是轮询以查找更改，而是向特定的URL发送HTTP POST请求来通知接收方。

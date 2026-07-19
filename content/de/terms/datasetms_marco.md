@@ -1,23 +1,26 @@
 ---
-title: "Dataset:Ms Marco"
-term_id: "datasetms_marco"
-category: "basic_concepts"
-subcategory: ""
-tags: ["retrieval", "search", "benchmark", "microsoft"]
+title: Dataset:Ms Marco
+term_id: datasetms_marco
+category: basic_concepts
+subcategory: ''
+tags:
+- retrieval
+- search
+- Benchmark
+- microsoft
 difficulty: 2
 weight: 1
-slug: "datasetms_marco"
-aliases:
-  - /de/terms/datasetms_marco/
-date: "2026-07-18T11:10:22.071494Z"
-lastmod: "2026-07-18T11:44:44.926727Z"
+slug: datasetms_marco
+date: '2026-07-18T11:10:22.071494Z'
+lastmod: '2026-07-18T11:44:44.926727Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Microsoft Machine Reading Comprehension Dataset, eine umfangreiche Sammlung echter Suchanfragen und relevanter Dokumentausschnitte, die zum Training von Information-Retrieval-Systemen verwendet wird."
+source: agnes_llm
+status: published
+language: de
+description: Microsoft Machine Reading Comprehension Dataset, eine umfangreiche Sammlung
+  echter Suchanfragen und relevanter Dokumentausschnitte, die zum Training von Information-Retrieval-Systemen
+  verwendet wird.
 ---
-
 ## Definition
 
 MS MARCO (Microsoft Machine Reading Comprehension) ist ein weit verbreiteter Datensatz im Bereich des Natural Language Processing, insbesondere für Information Retrieval und Question Answering. Er besteht aus anonymisierten Such

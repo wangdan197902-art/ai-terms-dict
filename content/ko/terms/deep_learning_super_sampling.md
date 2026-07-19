@@ -7,8 +7,6 @@ tags: ["graphics", "upscaling"]
 difficulty: 4
 weight: 1
 slug: "deep_learning_super_sampling"
-aliases:
-  - /ko/terms/deep_learning_super_sampling/
 date: "2026-07-18T15:51:28.982879Z"
 lastmod: "2026-07-18T16:38:06.830237Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인공지능을 활용하여 저해상도 이미지를 더 높은 해상도로 업스케일링하고 세부 사항을 강화하며 아티팩트를 줄이는 기법입니다."
 ---
-
 ## Definition
 
 딥러닝 슈퍼 샘플링(DLSS)은 신경망을 활용하여 저해상도 입력으로부터 고해상도 이미지를 재구성하는 기술입니다. 시간적 데이터와 공간적 정보를 분석하여 성능을 최적화하면서도 화질을 향상시킵니다.

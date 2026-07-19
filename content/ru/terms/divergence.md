@@ -1,23 +1,24 @@
 ---
-title: "Расходимость"
-term_id: "divergence"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "stability", "debugging"]
+title: Расходимость
+term_id: divergence
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- stability
+- debugging
 difficulty: 2
 weight: 1
-slug: "divergence"
-aliases:
-  - /ru/terms/divergence/
-date: "2026-07-18T15:24:19.486421Z"
-lastmod: "2026-07-18T16:38:07.073293Z"
+slug: divergence
+date: '2026-07-18T15:24:19.486421Z'
+lastmod: '2026-07-18T16:38:07.073293Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Расходимость означает отказ функции потерь алгоритма машинного обучения уменьшаться в процессе обучения, что приводит к нестабильности или ухудшению производительности."
+source: agnes_llm
+status: published
+language: ru
+description: Расходимость означает отказ функции потерь алгоритма машинного обучения
+  уменьшаться в процессе обучения, что приводит к нестабильности или ухудшению производительности.
 ---
-
 ## Definition
 
 В контексте оптимизации расходимость возникает, когда параметры модели обновляются таким образом, что функция потерь увеличивается вместо уменьшения, что часто приводит к появлению значений NaN (Not a Number) или бесконечных градиентов.

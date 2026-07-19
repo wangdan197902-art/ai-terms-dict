@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /nl/terms/personoid/
 date: "2026-07-18T16:12:17.688593Z"
 lastmod: "2026-07-18T17:15:08.776464Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een humanoïde robot of softwareagent die is ontworpen om de fysieke verschijning of het gespreksstijl van een mens na te bootsen om natuurlijke interactie te faciliteren."
 ---
-
 ## Definition
 
 Een personoïde is een entiteit, zowel robotisch als virtueel, die is ontworpen om op een mens te lijken of zich als een mens te gedragen. In de robotica omvat dit fysieke antropomorfisme, terwijl het in AI vaak verwijst naar chatbots of vi

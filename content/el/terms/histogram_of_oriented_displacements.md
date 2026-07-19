@@ -1,23 +1,25 @@
 ---
-title: "Ιστόγραμμα Προσανατολισμένων Μετατοπίσεων"
-term_id: "histogram_of_oriented_displacements"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "video_analysis", "features"]
+title: Ιστόγραμμα Προσανατολισμένων Μετατοπίσεων
+term_id: histogram_of_oriented_displacements
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Video Analysis
+- features
 difficulty: 4
 weight: 1
-slug: "histogram_of_oriented_displacements"
-aliases:
-  - /el/terms/histogram_of_oriented_displacements/
-date: "2026-07-18T16:12:07.880607Z"
-lastmod: "2026-07-18T17:15:09.917111Z"
+slug: histogram_of_oriented_displacements
+date: '2026-07-18T16:12:07.880607Z'
+lastmod: '2026-07-18T17:15:09.917111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια περιγραφέας χαρακτηριστικών που χρησιμοποιείται στην υπολογιστική όραση και καταγράφει μοτίβα κίνησης αναλύοντας ιστογράγματα μετατόπισης σε ακολουθίες βίντεο."
+source: agnes_llm
+status: published
+language: el
+description: Μια περιγραφέας χαρακτηριστικών που χρησιμοποιείται στην υπολογιστική
+  όραση και καταγράφει μοτίβα κίνησης αναλύοντας ιστογράγματα μετατόπισης σε ακολουθίες
+  βίντεο.
 ---
-
 ## Definition
 
 Το Ιστόγραμμα Προσανατολισμένων Μετατοπίσεων (HOD) είναι μια μέθοδος εξαγωγής χαρακτηριστικών για την ανάλυση βίντεο που επεκτείνει την έννοια του HOG (Ιστογράμματος Προσανατολισμένων Γραδιών) στις χρονικές διαστάσεις. Υπολογίζει ιστογράγματα διανυσμάτων οπτικής ροής μέσα σε χρονικά παράθυρα, capturing τόσο την κατεύθυνση όσο και την ένταση της κίνησης, γεγονός που το καθιστά ισχυρό εργαλείο για την αναγνώριση δυναμικών δραστηριοτήτων.

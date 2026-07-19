@@ -7,8 +7,6 @@ tags: ["Metaphor", "Deployment", "General Concept"]
 difficulty: 1
 weight: 1
 slug: "vehicle"
-aliases:
-  - /he/terms/vehicle/
 date: "2026-07-18T15:31:58.343315Z"
 lastmod: "2026-07-18T17:15:09.490706Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "בהקשר של בינה מלאכותית, 'כלי' מתייחס לעיתים קרובות לפלטפורמה או האמצעי דרכם מודלי AI מופעלים או מוזרמים למשתמשים הקצה."
 ---
-
 ## Definition
 
 בעוד שמשמעותו המסורתית היא תחבורה, בטרמינולוגיה של AI, 'כלי' יכול לתאר מטפורית את מנגנון ההפצה לשירותים חכמים, כגון אפליקציות ניידות, ממשקי אינטרנט או מערכות משובצות.

@@ -1,23 +1,23 @@
 ---
-title: "การเติมเต็มเสียง"
-term_id: "audio_inpainting"
-category: "basic_concepts"
-subcategory: ""
-tags: ["restoration", "audio", "generative_ai"]
+title: การเติมเต็มเสียง
+term_id: audio_inpainting
+category: basic_concepts
+subcategory: ''
+tags:
+- restoration
+- audio
+- Generative AI
 difficulty: 4
 weight: 1
-slug: "audio_inpainting"
-aliases:
-  - /th/terms/audio_inpainting/
-date: "2026-07-18T15:42:54.623191Z"
-lastmod: "2026-07-18T16:38:07.576168Z"
+slug: audio_inpainting
+date: '2026-07-18T15:42:54.623191Z'
+lastmod: '2026-07-18T16:38:07.576168Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการฟื้นฟูส่วนที่ขาดหายหรือเสียหายของสัญญาณเสียงโดยอาศัยบริบทโดยรอบ"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการฟื้นฟูส่วนที่ขาดหายหรือเสียหายของสัญญาณเสียงโดยอาศัยบริบทโดยรอบ
 ---
-
 ## Definition
 
 การเติมเต็มเสียงเป็นเทคนิคที่ใช้ในการเติมช่องว่างในบันทึกเสียงที่เกิดจากการขาดหาย เสียงรบกวน หรือการปิดบังโดยใช้แบบจำลองการสร้าง ระบบจะทำนายเนื้อหาที่มีแนวโน้มมากที่สุดสำหรับส่วนที่ขาดหายไป

@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /ro/terms/asr_complete/
 date: "2026-07-18T15:42:27.971549Z"
 lastmod: "2026-07-18T17:15:09.623870Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "ASR-complet descrie un sistem de recunoaștere vocală care atinge acuratețea nivelului uman pe seturi de date standardizate."
 ---
-
 ## Definition
 
 Termenul ASR-complet indică faptul că un sistem de Recunoaștere Automată a Vorbirii a atins un nivel de performanță comparabil cu cel al transcribilor umani pe sarcini specifice și bine definite. Acest prag este considerat o realizare majoră în procesarea limbajului natural.

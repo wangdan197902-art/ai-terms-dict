@@ -1,23 +1,23 @@
 ---
-title: "Diella"
-term_id: "diella"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer_vision", "image_processing"]
+title: Diella
+term_id: diella
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- Image Processing
 difficulty: 3
 weight: 1
-slug: "diella"
-aliases:
-  - /sv/terms/diella/
-date: "2026-07-18T15:53:37.376436Z"
-lastmod: "2026-07-18T17:15:08.995572Z"
+slug: diella
+date: '2026-07-18T15:53:37.376436Z'
+lastmod: '2026-07-18T17:15:08.995572Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En specialiserad djupinlärningsarkitektur designad för effektiv bildsuperupplösning och återställning."
+source: agnes_llm
+status: published
+language: sv
+description: En specialiserad djupinlärningsarkitektur designad för effektiv bildsuperupplösning
+  och återställning.
 ---
-
 ## Definition
 
 Diella avser specifika neurala nätverksmodeller optimerade för att förbättra bildkvalitet genom att öka upplösningen eller ta bort brus. Dessa arkitekturer använder vanligtvis avancerade uppmärksamhetsmekanismer eller

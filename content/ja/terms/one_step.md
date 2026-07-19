@@ -1,23 +1,22 @@
 ---
-title: "ワンステップ"
-term_id: "one_step"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "algorithms"]
+title: ワンステップ
+term_id: one_step
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- algorithms
 difficulty: 2
 weight: 1
-slug: "one_step"
-aliases:
-  - /ja/terms/one_step/
-date: "2026-07-18T10:57:27.889517Z"
-lastmod: "2026-07-18T11:44:45.028013Z"
+slug: one_step
+date: '2026-07-18T10:57:27.889517Z'
+lastmod: '2026-07-18T11:44:45.028013Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "反復的な精緻化を行わず、単一のイテレーションでタスクまたは意思決定サイクルを完了するアルゴリズムまたはプロセスのこと。"
+source: agnes_llm
+status: published
+language: ja
+description: 反復的な精緻化を行わず、単一のイテレーションでタスクまたは意思決定サイクルを完了するアルゴリズムまたはプロセスのこと。
 ---
-
 ## Definition
 
 機械学習および最適化において、ワンステップ法は収束するために複数のイテレーションや更新を必要とせず、問題を直接解きます。勾配降下法は最小化するために多くのステップを取るのに対し

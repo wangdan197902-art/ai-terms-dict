@@ -1,23 +1,24 @@
 ---
-title: "Тестирование"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Тестирование
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /ru/terms/testing/
-date: "2026-07-18T15:36:46.873591Z"
-lastmod: "2026-07-18T16:38:07.111131Z"
+slug: testing
+date: '2026-07-18T15:36:46.873591Z'
+lastmod: '2026-07-18T16:38:07.111131Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Систематический процесс оценки производительности и надежности ИИ-модели на неразмеченных данных для обеспечения качества и безопасности."
+source: agnes_llm
+status: published
+language: ru
+description: Систематический процесс оценки производительности и надежности ИИ-модели
+  на неразмеченных данных для обеспечения качества и безопасности.
 ---
-
 ## Definition
 
 Тестирование в инженерии ИИ включает тщательную оценку моделей на разнообразных наборах данных для выявления предвзятости, ошибок и проблем с устойчивостью. Оно включает модульные тесты для компонентов кода, интеграционные тесты и другие виды проверки.

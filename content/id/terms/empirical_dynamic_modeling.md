@@ -7,8 +7,6 @@ tags: ["statistics", "dynamics", "ecology"]
 difficulty: 4
 weight: 1
 slug: "empirical_dynamic_modeling"
-aliases:
-  - /id/terms/empirical_dynamic_modeling/
 date: "2026-07-18T15:49:21.397911Z"
 lastmod: "2026-07-18T16:38:07.454668Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Pendekatan statistik non-parametrik yang digunakan untuk merekonstruksi dinamika sistem kompleks dari data deret waktu observasional."
 ---
-
 ## Definition
 
 Pemodelan Dinamis Empiris (EDM) adalah kerangka kerja untuk menganalisis sistem dinamis nonlinier menggunakan data observasional tanpa mengasumsikan bentuk parametrik tertentu. Metode ini mengandalkan metode embedding Takens

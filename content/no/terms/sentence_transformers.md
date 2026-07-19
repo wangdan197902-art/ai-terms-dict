@@ -7,8 +7,6 @@ tags: ["Deep Learning", "NLP", "Architectures"]
 difficulty: 3
 weight: 1
 slug: "sentence_transformers"
-aliases:
-  - /no/terms/sentence_transformers/
 date: "2026-07-18T16:15:40.579397Z"
 lastmod: "2026-07-18T16:38:07.045807Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Neurale nettverksarkitekturer som er spesielt designet for å generere faste vektorinnkapslinger for vilkårlige tekstsetninger."
 ---
-
 ## Definition
 
 Setningstransformere er utvidelser av tradisjonelle Transformer-modeller (som BERT) som er finjustert for å produsere meningsfulle tette vektorrepresentasjoner for hele setninger. I motsetning til standard modeller på token-nivå, gir disse en helhetlig representasjon av setningens betydning.

@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /nl/terms/training_free/
 date: "2026-07-18T15:34:54.158633Z"
 lastmod: "2026-07-18T17:15:08.701190Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Methoden die modellen aanpassen of verbeteren zonder gradiëntgebaseerde parameterupdates uit te voeren."
 ---
-
 ## Definition
 
 Training-vrije benaderingen verwijzen naar technieken die modelgedrag of -output wijzigen zonder de onderliggende gewichten bij te werken via backpropagatie. Deze methoden maken vaak gebruik van prompt-engineering, features...

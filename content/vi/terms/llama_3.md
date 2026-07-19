@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "2024 Release"]
 difficulty: 2
 weight: 1
 slug: "llama_3"
-aliases:
-  - /vi/terms/llama_3/
 date: "2026-07-18T16:01:01.080910Z"
 lastmod: "2026-07-18T16:38:07.777113Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Llama 3 là bản phát hành năm 2024 của Meta về các mô hình ngôn ngữ lớn tiên tiến, mang lại khả năng suy luận, lập trình và đa ngôn ngữ được cải thiện đáng kể ở các kích thước 8 tỷ và 70 tỷ tham số."
 ---
-
 ## Definition
 
 Ra mắt vào tháng 4 năm 2024, Llama 3 kế thừa thành công của Llama 2 với những nâng cấp đáng kể về hiệu suất và khả năng. Họ mô hình bao gồm các phiên bản 8 tỷ và 70 tỷ tham số.

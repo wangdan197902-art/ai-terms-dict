@@ -1,23 +1,24 @@
 ---
-title: "التضمين المكاني"
-term_id: "spatial_embedding"
-category: "training_techniques"
-subcategory: ""
-tags: ["geometry", "representation_learning", "robotics"]
+title: التضمين المكاني
+term_id: spatial_embedding
+category: training_techniques
+subcategory: ''
+tags:
+- geometry
+- Representation Learning
+- robotics
 difficulty: 4
 weight: 1
-slug: "spatial_embedding"
-aliases:
-  - /ar/terms/spatial_embedding/
-date: "2026-07-18T16:21:15.261113Z"
-lastmod: "2026-07-18T17:15:08.549712Z"
+slug: spatial_embedding
+date: '2026-07-18T16:21:15.261113Z'
+lastmod: '2026-07-18T17:15:08.549712Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تترجم العلاقات المكانية بين الكائنات أو المواقع إلى تمثيلات متجهية لنماذج التعلم الآلي."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تترجم العلاقات المكانية بين الكائنات أو المواقع إلى تمثيلات متجهية
+  لنماذج التعلم الآلي.
 ---
-
 ## Definition
 
 يتضمن التضمين المكاني تحويل العلاقات المادية أو المجردة إلى فضاءات متجهية كثيفة، مما يسمح للخوارزميات بفهم القرب، والاتجاه، والطوبولوجيا. هذه التقنية ضرورية لفهم السياق المكاني في نماذج الذكاء الاصطناعي.

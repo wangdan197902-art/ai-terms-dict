@@ -1,23 +1,25 @@
 ---
-title: "Φράγματα ασφαλείας"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Φράγματα ασφαλείας
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /el/terms/guardrails/
-date: "2026-07-18T16:11:34.665463Z"
-lastmod: "2026-07-18T17:15:09.915299Z"
+slug: guardrails
+date: '2026-07-18T16:11:34.665463Z'
+lastmod: '2026-07-18T17:15:09.915299Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μηχανισμοί ασφαλείας σχεδιασμένοι για να περιορίζουν τις εξόδους των μοντέλων AI, αποτρέποντας την παραγωγή επιβλαβούς, προκατειλημμένου ή μη εξουσιοδοτημένου περιεχομένου."
+source: agnes_llm
+status: published
+language: el
+description: Μηχανισμοί ασφαλείας σχεδιασμένοι για να περιορίζουν τις εξόδους των
+  μοντέλων AI, αποτρέποντας την παραγωγή επιβλαβούς, προκατειλημμένου ή μη εξουσιοδοτημένου
+  περιεχομένου.
 ---
-
 ## Definition
 
 Τα φράγματα ασφαλείας αναφέρονται σε ένα σύνολο ελέγχων λογισμικού και στρώσεων επιβολής πολιτικής που ενσωματώνονται στις εφαρμογές AI, ιδιαίτερα στα μεγάλα γλωσσικά μοντέλα, για να διασφαλίζουν ασφαλή και συμμορφούμενη συμπεριφορά. Λειτουργούν ως φίλτρα που εμποδίζουν την εκτέλεση επικίνδυνων εντολών ή τη δημιουργία ακατάλληλου περιεχομένου.

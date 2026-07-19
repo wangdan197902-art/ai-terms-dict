@@ -7,8 +7,6 @@ tags: ["RL", "systems"]
 difficulty: 2
 weight: 1
 slug: "state"
-aliases:
-  - /vi/terms/state/
 date: "2026-07-18T15:29:15.110750Z"
 lastmod: "2026-07-18T16:38:07.696235Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Cấu hình đầy đủ của một hệ thống hoặc tác nhân tại một thời điểm cụ thể."
 ---
-
 ## Definition
 
 Trạng thái đại diện cho tất cả thông tin liên quan cần thiết để xác định hành vi tương lai trong các hệ thống như Quá trình Quyết định Markov (MDP). Trong học tăng cường, trạng thái bao gồm toàn bộ thông tin về môi trường.

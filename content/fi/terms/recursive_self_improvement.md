@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /fi/terms/recursive_self_improvement/
 date: "2026-07-18T16:18:45.543592Z"
 lastmod: "2026-07-18T17:15:09.454688Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Prosessi, jossa tekoälyjärjestelmä parantaa omaa älykkyyttään tai kykyjään itsemuokkaamalla toistuvasti."
 ---
-
 ## Definition
 
 Rekursiivinen itseparantuminen viittaa teoreettiseen kykyyn, jolla tekoälyjärjestelmä voi muokata omaa lähdekoodiaan tai arkkitehtuuriaan tullakseen älykkäämmäksi, tehokkaammaksi tai kyvykkäämmäksi.

@@ -7,8 +7,6 @@ tags: ["NLP", "fundamentals"]
 difficulty: 2
 weight: 1
 slug: "token"
-aliases:
-  - /ko/terms/token/
 date: "2026-07-18T15:30:34.141560Z"
 lastmod: "2026-07-18T16:38:06.786280Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "토큰은 자연어 처리 모델의 기본 입력 요소로 작용하는 텍스트나 데이터의 이산적 단위입니다."
 ---
-
 ## Definition
 
 토큰은 자연어 처리(NLP)에서 입력 데이터의 핵심 구성 요소로, 일반적으로 단어, 부분 단어(subword), 또는 문자를 나타냅니다. 대규모 언어 모델(LLM)은 텍스트를 토큰으로 변환하여 처리합니다.

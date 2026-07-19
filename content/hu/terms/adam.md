@@ -7,8 +7,6 @@ tags: ["Optimization", "Deep Learning", "Algorithms"]
 difficulty: 3
 weight: 1
 slug: "adam"
-aliases:
-  - /hu/terms/adam/
 date: "2026-07-18T15:23:25.684552Z"
 lastmod: "2026-07-18T17:15:09.714875Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy optimalizációs algoritmus, amely minden paraméterhez adaptív tanulási rátát számít."
 ---
-
 ## Definition
 
 Az Adam (Adaptive Moment Estimation) egy népszerű, elsőrendű gradiens alapú optimalizációs algoritmus, amelyet mély neurális hálózatok tanításakor használnak. Kombinálja két más sztochasztikus kiterjesztés előnyeit.

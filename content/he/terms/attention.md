@@ -1,23 +1,25 @@
 ---
-title: "תשומת לב"
-term_id: "attention"
-category: "training_techniques"
-subcategory: ""
-tags: ["transformers", "mechanism", "sequence", "core_concept"]
+title: תשומת לב
+term_id: attention
+category: training_techniques
+subcategory: ''
+tags:
+- transformers
+- mechanism
+- sequence
+- Core Concept
 difficulty: 4
 weight: 1
-slug: "attention"
-aliases:
-  - /he/terms/attention/
-date: "2026-07-18T15:35:26.658107Z"
-lastmod: "2026-07-18T17:15:09.496703Z"
+slug: attention
+date: '2026-07-18T15:35:26.658107Z'
+lastmod: '2026-07-18T17:15:09.496703Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מנגנון המאפשר לרשתות נוירונים לשקול דינמית את חשיבותם של חלקים שונים ברצף הקלט."
+source: agnes_llm
+status: published
+language: he
+description: מנגנון המאפשר לרשתות נוירונים לשקול דינמית את חשיבותם של חלקים שונים
+  ברצף הקלט.
 ---
-
 ## Definition
 
 מנגנוני תשומת לב מאפשרים למודלים להתמקיד במידע רלוונטי בעת עיבוד קלטים, במיוחד בנתונים רציפים כמו טקסט. על ידי חישוב ציוני תשומת לב, המודל קובע אילו רכיבים...

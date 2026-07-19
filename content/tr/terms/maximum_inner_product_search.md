@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /tr/terms/maximum_inner_product_search/
 date: "2026-07-18T16:02:58.572036Z"
 lastmod: "2026-07-18T16:38:07.332783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bir sorgu vektörüne göre en yüksek nokta çarpımına sahip öğeleri getiren, özelleştirilmiş bir vektör benzerlik arama tekniği."
 ---
-
 ## Definition
 
 Maksimum İç Çarpım Araması (MIPS), özellikle öneri sistemlerinde bilgi çekme ve makine öğreniminin temel bir sorunudur. Standart kosinüs benzerliği aramalarından farklı olarak, bu yöntem vektörler arasındaki açısal benzerlikten ziyade doğrudan iç çarpım değerini maksimize etmeyi hedefler. Bu yaklaşım, özellikle boyutlu uzaylarda büyük veri kümelerinden hızlı ve etkili sonuçlar elde etmek için kullanılır.

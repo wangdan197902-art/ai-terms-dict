@@ -1,23 +1,23 @@
 ---
-title: "חיפוש (Search)"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: חיפוש (Search)
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /he/terms/search/
-date: "2026-07-18T15:30:14.719446Z"
-lastmod: "2026-07-18T17:15:09.487229Z"
+slug: search
+date: '2026-07-18T15:30:14.719446Z'
+lastmod: '2026-07-18T17:15:09.487229Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "אלגוריתמי חיפוש סורקים בצורה שיטתית מרחבי פתרונות כדי למצוא תוצאות אופטימליות או מספקות במשימות בינה מלאכותית."
+source: agnes_llm
+status: published
+language: he
+description: אלגוריתמי חיפוש סורקים בצורה שיטתית מרחבי פתרונות כדי למצוא תוצאות אופטימליות
+  או מספקות במשימות בינה מלאכותית.
 ---
-
 ## Definition
 
 חיפוש הוא פרדיגמה יסודית בבינה מלאכותית המשמשת לנווט במרחבי בעיות מורכבים, כגון משחקי אסטרטגיה או תכנון מסלולים. אלגוריתמים כמו A*, מינימקס או חיפוש עץ מונטה קרלו מעריכים תנועות אפשריות ומבצעים בחירה אופטימלית.

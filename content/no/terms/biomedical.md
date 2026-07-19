@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /no/terms/biomedical/
 date: "2026-07-18T15:45:14.560479Z"
 lastmod: "2026-07-18T16:38:06.977354Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Angående anvendelsen av naturvitenskap på medisinsk praksis, ofte involverende datamessig analyse av helserelatert data."
 ---
-
 ## Definition
 
 Biomedisinsk refererer til skjæringspunktet mellom biologi, medisin og teknologi, spesielt innen utviklingen av diagnostiske verktøy, behandlinger og metoder for dataanalyse. Inne i AI handler dette om å bruke maskinlæring for å forbedre pasientomsorg og medisinsk forskning.

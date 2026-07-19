@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Regularization", "Model Training"]
 difficulty: 3
 weight: 1
 slug: "dropout"
-aliases:
-  - /fi/terms/dropout/
 date: "2026-07-18T15:36:04.965362Z"
 lastmod: "2026-07-18T17:15:09.369530Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Dropout on säännöllistämistekniikka, joka jättää satunnaisesti neuroneita huomiotta koulutuksen aikana ylikouluttumisen estämiseksi."
 ---
-
 ## Definition
 
 Neuroverkoissa dropout estää ylikouluttumisen poistamalla tilapäisesti satunnaisen osan neuroneista jokaisessa koulutusvaiheessa. Tämä pakottaa verkon oppimaan vahvoja piirteitä, jotka ovat hyödyllisiä yhteistyössä muiden neuronien kanssa.

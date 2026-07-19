@@ -7,8 +7,6 @@ tags: ["process", "testing", "analysis"]
 difficulty: 3
 weight: 1
 slug: "benchmarking"
-aliases:
-  - /tr/terms/benchmarking/
 date: "2026-07-18T15:23:39.842114Z"
 lastmod: "2026-07-18T16:38:07.228048Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "AI modellerinin performansını niceliksel olarak belirlemek ve iyileştirilmesi gereken alanları tespit etmek için modelleri benchmark'lara karşı sistematik olarak test etme süreci."
 ---
-
 ## Definition
 
 Benchmarking, önceden tanımlanmış ölçütleri kullanarak bir yapay zeka modelinin belirli görevlerde ne kadar iyi performans gösterdiğini ölçmek için deneyler yürütme pratiğidir. Bu süreç, modelleri standart testlerden geçirmeyi içerir.

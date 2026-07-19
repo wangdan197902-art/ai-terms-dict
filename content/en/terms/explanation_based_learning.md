@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /en/terms/explanation_based_learning/
 date: "2026-07-18T09:57:38.908705Z"
 lastmod: "2026-07-18T11:44:44.671170Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Explanation-based learning is a machine learning method that uses domain theory and a single training example to generate an explanation, which is then generalized into a new rule."
 ---
-
 ## Definition
 
 EBL combines symbolic reasoning with machine learning to accelerate the learning process. Instead of relying on large datasets, it takes a single positive example and uses a pre-existing domain theory to explain why the example belongs to the target concept. This explanation is then operationalized into a general rule that can be applied to future instances. It is particularly useful when data is scarce but domain knowledge is abundant, allowing for rapid acquisition of skills.

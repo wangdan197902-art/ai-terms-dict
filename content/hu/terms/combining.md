@@ -1,23 +1,24 @@
 ---
-title: "Kombinálás"
-term_id: "combining"
-category: "basic_concepts"
-subcategory: ""
-tags: ["techniques", "optimization", "architecture"]
+title: Kombinálás
+term_id: combining
+category: basic_concepts
+subcategory: ''
+tags:
+- techniques
+- Optimization
+- architecture
 difficulty: 2
 weight: 1
-slug: "combining"
-aliases:
-  - /hu/terms/combining/
-date: "2026-07-18T15:24:10.963089Z"
-lastmod: "2026-07-18T17:15:09.716992Z"
+slug: combining
+date: '2026-07-18T15:24:10.963089Z'
+lastmod: '2026-07-18T17:15:09.716992Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az MI-ben a kombinálás több modell, adatkészlet vagy technika integrálását jelenti a teljesítmény és a robusztusság javítása érdekében."
+source: agnes_llm
+status: published
+language: hu
+description: Az MI-ben a kombinálás több modell, adatkészlet vagy technika integrálását
+  jelenti a teljesítmény és a robusztusság javítása érdekében.
 ---
-
 ## Definition
 
 Ez a fogalom olyan módszereket foglal magában, mint az ensemble tanulás, ahol több modell előrejelzéseit aggregálják a variancia vagy torzítás csökkentése érdekében. Ide tartozik a multimodális fúzió is, ahol különböző típusú adatokat egyesítenek.

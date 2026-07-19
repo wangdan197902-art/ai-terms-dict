@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /ro/terms/ciml_community_portal/
 date: "2026-07-18T15:48:50.307408Z"
 lastmod: "2026-07-18T17:15:09.635097Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O platformă online centralizată care facilitează colaborarea, partajarea resurselor și discuțiile între cercetători și practicieni din domeniul Inteligenței Computaționale și al Învățării Automate."
 ---
-
 ## Definition
 
 Portalul comunității CIML funcționează ca un hub digital pentru comunitatea academică și profesională concentrată pe inteligența computațională. Oferă acces la seturi de date, modele pre-antrenate, articole de cercetare și instrumente de dezvoltare.

@@ -1,23 +1,25 @@
 ---
-title: "Диффузоры: конвейер Stable Diffusion"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Диффузоры: конвейер Stable Diffusion'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /ru/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:50:27.940154Z"
-lastmod: "2026-07-18T16:38:07.150093Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:50:27.940154Z'
+lastmod: '2026-07-18T16:38:07.150093Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Стандартный конвейер для запуска Stable Diffusion v1.5, использующий U-Net и кодировщики CLIP для генерации изображений по тексту."
+source: agnes_llm
+status: published
+language: ru
+description: Стандартный конвейер для запуска Stable Diffusion v1.5, использующий
+  U-Net и кодировщики CLIP для генерации изображений по тексту.
 ---
-
 ## Definition
 
 Это базовый конвейер для модели Stable Diffusion v1.5, широко используемый для синтеза изображений общего назначения по тексту. Он опирается на денормализатор U-Net и текстовый кодировщик CLIP для отображения текстовых промптов...

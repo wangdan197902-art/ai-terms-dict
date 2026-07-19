@@ -7,8 +7,6 @@ tags: ["Framework", "RAG", "Data Engineering"]
 difficulty: 3
 weight: 1
 slug: "llamaindex"
-aliases:
-  - /cs/terms/llamaindex/
 date: "2026-07-18T16:06:21.520719Z"
 lastmod: "2026-07-18T17:15:09.149209Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "LlamaIndex je rámec navržený pro propojení vlastních zdrojů dat s velkými jazykovými modely, což usnadňuje tvorbu aplikací využívajících generování doplněné o vyhledávání (RAG)."
 ---
-
 ## Definition
 
 Původně známá jako GPT Index, je LlamaIndex výkonným rámcem pro data, který umožňuje velkým jazykovým modelům přijímat a pracovat se strukturovanými i nestrukturovanými daty. Poskytuje nástroje pro indexování, dotazování a správu dat.

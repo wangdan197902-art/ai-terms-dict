@@ -7,8 +7,6 @@ tags: ["privacy", "compliance"]
 difficulty: 2
 weight: 1
 slug: "data_minimization"
-aliases:
-  - /tr/terms/data_minimization/
 date: "2026-07-18T16:21:57.826851Z"
 lastmod: "2026-07-18T16:38:07.379001Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yalnızca belirli bir amaç için kesinlikle gerekli olan kişisel verilerin toplanması ve işlenmesi ilkesi."
 ---
-
 ## Definition
 
 Veri minimizasyonu, kuruluşların veri toplama faaliyetlerini yeterli, ilgili ve gerekli olanla sınırlamalarını gerektiren temel bir gizlilik ilkesidir. Yapay zekada bu, modelleri ...

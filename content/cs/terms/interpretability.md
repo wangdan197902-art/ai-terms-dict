@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /cs/terms/interpretability/
 date: "2026-07-18T15:35:52.472200Z"
 lastmod: "2026-07-18T17:15:09.090174Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Míra, do které člověk může pochopit příčinu rozhodnutí přijatého modelem AI."
 ---
-
 ## Definition
 
 Interpretovatelnost, nebo také vysvětlitelnost, zahrnuje zpřístupnění vnitřního fungování a procesů rozhodování modelů AI lidem. To je klíčové pro ladění chyb, zajištění...

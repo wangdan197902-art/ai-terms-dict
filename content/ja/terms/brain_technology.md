@@ -7,8 +7,6 @@ tags: ["biomedical", "hardware", "neuroscience"]
 difficulty: 5
 weight: 1
 slug: "brain_technology"
-aliases:
-  - /ja/terms/brain_technology/
 date: "2026-07-18T11:06:52.900805Z"
 lastmod: "2026-07-18T11:44:45.074778Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人間の脳とインターフェースしたり、監視したり、制御したりするために設計された技術。BCIや神経イメージングツールなどを含む。"
 ---
-
 ## Definition
 
 ブレインテクノロジーは、中枢神経系と直接相互作用するハードウェアおよびソフトウェアシステム encompass します。主要な例としては、神経信号を翻訳して外部デバイスと通信するブレインコンピュータインターフェース（BCI）や、脳の活動画像化する神経イメージングツールがあります。

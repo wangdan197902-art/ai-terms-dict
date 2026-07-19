@@ -7,8 +7,6 @@ tags: ["theory", "data", "learning"]
 difficulty: 3
 weight: 1
 slug: "sample_complexity"
-aliases:
-  - /tr/terms/sample_complexity/
 date: "2026-07-18T16:13:28.355815Z"
 lastmod: "2026-07-18T16:38:07.362512Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Örnek karmaşıklığı, bir makine öğrenmesi algoritmasının belirli bir performans seviyesine yüksek olasılıkla ulaşması için gereken eğitim örneklerinin sayısını ifade eder."
 ---
-
 ## Definition
 
 Hesaplamalı öğrenme teorisinde örnek karmaşıklığı, bir modeli etkili bir şekilde eğitmek için gereken veri miktarını nicelendirir. Model kapasitesi ile veri erişilebilirliği arasındaki dengeyi kurarak, aşırı öğrenmeyi önlemeyi ve genelleme yeteneğini sağlamayı amaçlar.

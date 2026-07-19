@@ -1,23 +1,25 @@
 ---
-title: "Sicherheitsvorkehrungen (Guardrails)"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: Sicherheitsvorkehrungen (Guardrails)
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /de/terms/guardrails/
-date: "2026-07-18T11:17:39.328676Z"
-lastmod: "2026-07-18T11:44:44.946794Z"
+slug: guardrails
+date: '2026-07-18T11:17:39.328676Z'
+lastmod: '2026-07-18T11:44:44.946794Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Sicherheitsmechanismen, die darauf ausgelegt sind, die Ausgaben von KI-Modellen einzuschränken, um die Generierung schädlicher, voreingenommener oder unbefugter Inhalte zu verhindern."
+source: agnes_llm
+status: published
+language: de
+description: Sicherheitsmechanismen, die darauf ausgelegt sind, die Ausgaben von KI-Modellen
+  einzuschränken, um die Generierung schädlicher, voreingenommener oder unbefugter
+  Inhalte zu verhindern.
 ---
-
 ## Definition
 
 Sicherheitsvorkehrungen (Guardrails) bezeichnen eine Reihe von Softwarekontrollen und Richtlinienumsetzungsschichten, die in KI-Anwendungen, insbesondere bei großen Sprachmodellen, integriert sind, um sicheres und konformes Verhalten sicherzustellen. Sie wirken als Filter, die Eingaben und Ausgaben überwachen, um Risiken zu minimieren und ethische Standards einzuhalten.

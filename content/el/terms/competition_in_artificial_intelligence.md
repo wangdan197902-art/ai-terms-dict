@@ -7,8 +7,6 @@ tags: ["industry", "geopolitics", "trends"]
 difficulty: 2
 weight: 1
 slug: "competition_in_artificial_intelligence"
-aliases:
-  - /el/terms/competition_in_artificial_intelligence/
 date: "2026-07-18T15:55:45.997170Z"
 lastmod: "2026-07-18T17:15:09.890446Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "el"
 description: "Ο ανταγωνισμός μεταξύ εθνών, εταιρειών και ερευνητικών ιδρυμάτων για την ηγεσία στην ανάπτυξη, καινοτομία και διάθεση της ΤΝ."
 ---
-
 ## Definition
 
 Ο ανταγωνισμός στην τεχνητή νοημοσύνη περιγράφει την έντονη παγκόσμια κούρσα για την εξέλιξη των δυνατοτήτων της ΤΝ, που οδηγείται από οικονομικά, στρατιωτικά και επιστημονικά πλεονεκτήματα. Κύριοι παίκτες περιλαμβάνουν τεχνολογικούς γίγαντες όπως η Google, η Microsoft και εταιρείες σε όλο τον κόσμο που επενδύουν σε έρευνα.

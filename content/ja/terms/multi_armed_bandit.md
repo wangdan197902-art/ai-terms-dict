@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /ja/terms/multi_armed_bandit/
 date: "2026-07-18T11:24:43.474149Z"
 lastmod: "2026-07-18T11:44:45.124728Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "マルチアームドバンディットは、探索と活用のトレードオフをモデル化する確率論および強化学習における古典的な問題です。"
 ---
-
 ## Definition
 
 マルチアームドバンディット問題は、既知の報酬のあるオプションに固執するか（活用）、潜在的により良い報酬を発見するために新しいオプションを試すか（探索）というエージェントのジレンマを示しています。

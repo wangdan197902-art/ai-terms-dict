@@ -7,8 +7,6 @@ tags: ["NLP", "Tokenization", "Data Preprocessing"]
 difficulty: 3
 weight: 1
 slug: "bpe"
-aliases:
-  - /ro/terms/bpe/
 date: "2026-07-18T15:34:44.277466Z"
 lastmod: "2026-07-18T17:15:09.612309Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Codificarea perechilor de octeți (BPE) este un algoritm utilizat pentru tokenizarea subcuvintelor, care îmbină iterativ cele mai frecvente perechi de caractere pentru a construi un vocabular."
 ---
-
 ## Definition
 
 Codificarea perechilor de octeți (BPE) este o tehnică de compresie a datelor adaptată pentru procesarea limbajului natural, menită să gestioneze cuvintele din afara vocabularului cunoscut. Aceasta începe cu un vocabular format din caractere individuale și îmbină iterativ

@@ -7,8 +7,6 @@ tags: ["prompting", "agents", "reasoning"]
 difficulty: 4
 weight: 1
 slug: "react"
-aliases:
-  - /id/terms/react/
 date: "2026-07-18T15:35:51.008036Z"
 lastmod: "2026-07-18T16:38:07.418106Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "ReAct adalah paradigma pemanggilan (prompting) yang menggabungkan penalaran dan tindakan untuk meningkatkan kinerja model bahasa besar pada tugas-tugas kompleks."
 ---
-
 ## Definition
 
 Kerangka kerja ReAct memungkinkan Model Bahasa Besar (LLM) menghasilkan jejak penalaran dan tindakan spesifik tugas secara bergantian. Dengan mensimulasikan proses berpikir seperti manusia, hal ini memungkinkan model berinteraksi dengan ext

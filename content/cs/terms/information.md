@@ -7,8 +7,6 @@ tags: ["fundamentals", "theory"]
 difficulty: 1
 weight: 1
 slug: "information"
-aliases:
-  - /cs/terms/information/
 date: "2026-07-18T15:26:01.015548Z"
 lastmod: "2026-07-18T17:15:09.070859Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Informace označuje zpracovaná data, která přenášejí význam, snižují nejistotu nebo poskytují příjemci kontext."
 ---
-
 ## Definition
 
 V kontextu umělé inteligence a informatiky se informace liší od surových dat. Představuje data, která byla organizována, strukturována nebo interpretována tak, aby měla význam a užitečnost. Informace z

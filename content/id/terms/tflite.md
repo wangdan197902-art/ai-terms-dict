@@ -1,23 +1,24 @@
 ---
-title: "TFLite"
-term_id: "tflite"
-category: "basic_concepts"
-subcategory: ""
-tags: ["framework", "mobile", "optimization"]
+title: TFLite
+term_id: tflite
+category: basic_concepts
+subcategory: ''
+tags:
+- framework
+- mobile
+- Optimization
 difficulty: 3
 weight: 1
-slug: "tflite"
-aliases:
-  - /id/terms/tflite/
-date: "2026-07-18T16:11:10.606953Z"
-lastmod: "2026-07-18T16:38:07.514836Z"
+slug: tflite
+date: '2026-07-18T16:11:10.606953Z'
+lastmod: '2026-07-18T16:38:07.514836Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "TensorFlow Lite (TFLite) adalah seperangkat alat yang memungkinkan model pembelajaran mesin berjalan di perangkat seluler, tertanam, dan tepi (edge)."
+source: agnes_llm
+status: published
+language: id
+description: TensorFlow Lite (TFLite) adalah seperangkat alat yang memungkinkan model
+  pembelajaran mesin berjalan di perangkat seluler, tertanam, dan tepi (edge).
 ---
-
 ## Definition
 
 TensorFlow Lite adalah kerangka kerja sumber terbuka yang dirancang untuk menerapkan model pembelajaran mesin pada perangkat dengan keterbatasan sumber daya seperti smartphone, mikrokontroler, dan perangkat IoT. Teknologi ini mengoptimalkan model melalui berbagai teknik efisiensi.

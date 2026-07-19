@@ -7,8 +7,6 @@ tags: ["interaction", "interface", "collaboration"]
 difficulty: 3
 weight: 1
 slug: "humanai_interaction"
-aliases:
-  - /zh/terms/humanai_interaction/
 date: "2026-07-18T11:21:11.087677Z"
 lastmod: "2026-07-18T11:44:45.514825Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "研究人类如何与人工智能系统进行沟通、控制和协作的学科与实践。"
 ---
-
 ## Definition
 
 人机交互（HAI）是一门跨学科领域，考察人与人工智能技术之间的动态关系。它专注于设计直观的界面、通信协议和协作...

@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /nl/terms/latency/
 date: "2026-07-18T15:37:34.744887Z"
 lastmod: "2026-07-18T17:15:08.705851Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De tijdvertraging tussen het starten van een verzoek en het begin van de respons in een AI-systeem."
 ---
-
 ## Definition
 
 Latentie meet de responsiviteit van een AI-service, meestal uitgedrukt in milliseconden. Het omvat inferentietijd, netwerktransmissievertragingen en verwerkingsoverhead. Een lage latentie is kritiek voor toepassingen waarbij real-time interactie vereist is, zoals spraakassistenten of autonome voertuigen.

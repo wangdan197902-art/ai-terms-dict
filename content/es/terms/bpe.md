@@ -7,8 +7,6 @@ tags: ["NLP", "Tokenization", "Data Preprocessing"]
 difficulty: 3
 weight: 1
 slug: "bpe"
-aliases:
-  - /es/terms/bpe/
 date: "2026-07-18T10:29:46.972240Z"
 lastmod: "2026-07-18T11:44:44.760514Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La Codificación de Pares de Bytes es un algoritmo utilizado para la tokenización de subpalabras que fusiona iterativamente los pares de caracteres más frecuentes para construir un vocabulario."
 ---
-
 ## Definition
 
 La Codificación de Pares de Bytes (BPE) es una técnica de compresión de datos adaptada para el procesamiento del lenguaje natural con el fin de manejar palabras fuera del vocabulario. Comienza con un vocabulario de caracteres individuales y fusiona iterativamente los pares más frecuentes hasta alcanzar el tamaño de vocabulario deseado.

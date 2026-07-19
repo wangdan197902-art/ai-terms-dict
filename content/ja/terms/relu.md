@@ -1,23 +1,23 @@
 ---
-title: "ReLU"
-term_id: "relu"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "activation-functions", "deep-learning"]
+title: ReLU
+term_id: relu
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Activation Functions
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "relu"
-aliases:
-  - /ja/terms/relu/
-date: "2026-07-18T11:00:21.252638Z"
-lastmod: "2026-07-18T11:44:45.056840Z"
+slug: relu
+date: '2026-07-18T11:00:21.252638Z'
+lastmod: '2026-07-18T11:44:45.056840Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "ReLU（Rectified Linear Unit）は、入力が正の場合は入力をそのまま出力し、負の場合はゼロを出力する活性化関数です。"
+source: agnes_llm
+status: published
+language: ja
+description: ReLU（Rectified Linear Unit）は、入力が正の場合は入力をそのまま出力し、負の場合はゼロを出力する活性化関数です。
 ---
-
 ## Definition
 
 ReLUは、計算効率が高く、勾配消失問題を緩和できるため、ディープラーニングニューラルネットワークで広く使用されています。数学的には f(x) = max(0, x) と定義され、非線形性を導入しながらも計算コストを抑えることができます。

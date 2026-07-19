@@ -1,23 +1,24 @@
 ---
-title: "STIT-logiikka"
-term_id: "stit_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["formal_methods", "logic", "multi_agent_systems"]
+title: STIT-logiikka
+term_id: stit_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Formal Methods
+- logic
+- Multi-Agent Systems
 difficulty: 5
 weight: 1
-slug: "stit_logic"
-aliases:
-  - /fi/terms/stit_logic/
-date: "2026-07-18T16:19:31.345883Z"
-lastmod: "2026-07-18T17:15:09.457105Z"
+slug: stit_logic
+date: '2026-07-18T16:19:31.345883Z'
+lastmod: '2026-07-18T17:15:09.457105Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "STIT-logiikka on muodollinen kehys deontisessa ja ajallisessa logiikassa, jota käytetään toimijuuden, velvollisuuden ja tarkoituksellisen toiminnan analysointiin."
+source: agnes_llm
+status: published
+language: fi
+description: STIT-logiikka on muodollinen kehys deontisessa ja ajallisessa logiikassa,
+  jota käytetään toimijuuden, velvollisuuden ja tarkoituksellisen toiminnan analysointiin.
 ---
-
 ## Definition
 
 STIT tarkoittaa 'See To It That' (Varmista se, että). Se on modaali-logiikan haara, jota käytetään pääasiassa filosofiassa ja tietojenkäsittelytieteessä mallintamaan toimijuutta ja vastuuta. Se mahdollistaa muodollisen määrittelyn siitä, mitä agentti voi vaikuttaa.

@@ -1,23 +1,24 @@
 ---
-title: "Недообучение"
-term_id: "underfitting"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "model_training", "diagnostics"]
+title: Недообучение
+term_id: underfitting
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- Model Training
+- diagnostics
 difficulty: 3
 weight: 1
-slug: "underfitting"
-aliases:
-  - /ru/terms/underfitting/
-date: "2026-07-18T16:19:42.509460Z"
-lastmod: "2026-07-18T16:38:07.211619Z"
+slug: underfitting
+date: '2026-07-18T16:19:42.509460Z'
+lastmod: '2026-07-18T16:38:07.211619Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Состояние, при котором модель машинного обучения не способна уловить лежащую в основе закономерность обучающих данных."
+source: agnes_llm
+status: published
+language: ru
+description: Состояние, при котором модель машинного обучения не способна уловить
+  лежащую в основе закономерность обучающих данных.
 ---
-
 ## Definition
 
 Недообучение возникает, когда статистическая модель или алгоритм машинного обучения не может точно аппроксимировать функцию, отображающую входные данные в выходные. Это обычно происходит, когда модель слишком проста для...

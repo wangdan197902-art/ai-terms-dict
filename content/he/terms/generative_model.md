@@ -1,23 +1,24 @@
 ---
-title: "מודל יוצר"
-term_id: "generative_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core-concept", "ml-basics", "synthesis"]
+title: מודל יוצר
+term_id: generative_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- ML Basics
+- synthesis
 difficulty: 2
 weight: 1
-slug: "generative_model"
-aliases:
-  - /he/terms/generative_model/
-date: "2026-07-18T16:01:23.149569Z"
-lastmod: "2026-07-18T17:15:09.543226Z"
+slug: generative_model
+date: '2026-07-18T16:01:23.149569Z'
+lastmod: '2026-07-18T17:15:09.543226Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "סוג של מודל למידת מכונה שלומד את ההתפלגות הבסיסית של הנתונים כדי ליצור דוגמאות חדשות ומלאכותיות הדומות לנתוני האימון."
+source: agnes_llm
+status: published
+language: he
+description: סוג של מודל למידת מכונה שלומד את ההתפלגות הבסיסית של הנתונים כדי ליצור
+  דוגמאות חדשות ומלאכותיות הדומות לנתוני האימון.
 ---
-
 ## Definition
 
 מודלים יוצרים הם אלגוריתמים המיועדים להבין את הדפוסים והמבנים בתוך ערכת נתונים מסוימת, כך שיוכלו ליצור מקורי נתונים חדשים הדומים למקור. בניגוד למודלים מובחנים...

@@ -7,8 +7,6 @@ tags: ["statistics", "modeling", "advanced"]
 difficulty: 5
 weight: 1
 slug: "generalized_additive_model_for_location_scale_and_shape"
-aliases:
-  - /ar/terms/generalized_additive_model_for_location_scale_and_shape/
 date: "2026-07-18T15:59:05.143175Z"
 lastmod: "2026-07-18T17:15:08.507437Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "يُعد GAMLSS إطاراً إحصائياً مرناً يسمح بنمذجة جميع معلمات التوزيع كدوال للمتغيرات التفسيرية باستخدام تنعيمات إضافية."
 ---
-
 ## Definition
 
 على عكس نماذج الانحدار التقليدية التي تركز فقط على المتوسط، فإن GAMLSS يُمثل التوزيع بأكمله، بما في ذلك الموقع (المتوسط/الوسيط)، والمقياس (التباين)، والتفرطح (Skewness)، والانتشار (Kurtosis). يستخدم نماذج...

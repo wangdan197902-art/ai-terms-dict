@@ -1,23 +1,23 @@
 ---
-title: "エンパワーメント"
-term_id: "empowerment"
-category: "basic_concepts"
-subcategory: ""
-tags: ["reinforcement_learning", "motivation", "information_theory"]
+title: エンパワーメント
+term_id: empowerment
+category: basic_concepts
+subcategory: ''
+tags:
+- Reinforcement Learning
+- motivation
+- Information Theory
 difficulty: 4
 weight: 1
-slug: "empowerment"
-aliases:
-  - /ja/terms/empowerment/
-date: "2026-07-18T11:13:32.525716Z"
-lastmod: "2026-07-18T11:44:45.094793Z"
+slug: empowerment
+date: '2026-07-18T11:13:32.525716Z'
+lastmod: '2026-07-18T11:44:45.094793Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "エージェントがその行動を通じて将来の状態に影響を与える能力を測定する強化学習の目的関数。"
+source: agnes_llm
+status: published
+language: ja
+description: エージェントがその行動を通じて将来の状態に影響を与える能力を測定する強化学習の目的関数。
 ---
-
 ## Definition
 
 強化学習および人工知能において、エンパワーメントはエージェントが環境に対して持つ制御の量を定量化する内的動機付け指標です。これは相互情報量として定義されます。

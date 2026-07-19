@@ -1,23 +1,23 @@
 ---
-title: "Tæt"
-term_id: "dense"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "architecture"]
+title: Tæt
+term_id: dense
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- architecture
 difficulty: 2
 weight: 1
-slug: "dense"
-aliases:
-  - /da/terms/dense/
-date: "2026-07-18T15:52:22.737616Z"
-lastmod: "2026-07-18T17:15:09.279980Z"
+slug: dense
+date: '2026-07-18T15:52:22.737616Z'
+lastmod: '2026-07-18T17:15:09.279980Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et lag eller en tensor, hvor hvert element er forbundet med hvert element i det foregående lag eller dimension."
+source: agnes_llm
+status: published
+language: da
+description: Et lag eller en tensor, hvor hvert element er forbundet med hvert element
+  i det foregående lag eller dimension.
 ---
-
 ## Definition
 
 I neurale netværk henviser 'tæt' til fuldt tilsluttede lag, hvor hver neuron modtager input fra alle neuroner i det foregående lag. Dette står i kontrast til sparsomme forbindelser, der findes i konvolutionære eller

@@ -7,8 +7,6 @@ tags: ["Ethics", "Policy", "Society"]
 difficulty: 2
 weight: 1
 slug: "is_this_what_we_want"
-aliases:
-  - /es/terms/is_this_what_we_want/
 date: "2026-07-18T10:55:13.198158Z"
 lastmod: "2026-07-18T11:44:44.821138Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "Un marco ético crítico utilizado para evaluar los sistemas de IA frente a los valores sociales, la equidad y las posibles consecuencias dañinas."
 ---
-
 ## Definition
 
 Esta frase representa una pregunta pivotal en la ética y gobernanza de la IA, instando a las partes interesadas a evaluar si las tecnologías de IA implementadas se alinean con los valores humanos y el interés público. Implica un escrutinio continuo sobre el impacto social y la responsabilidad en el desarrollo tecnológico.

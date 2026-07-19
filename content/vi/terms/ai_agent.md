@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /vi/terms/ai_agent/
 date: "2026-07-18T15:38:18.362736Z"
 lastmod: "2026-07-18T16:38:07.717377Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một hệ thống tự động được thiết kế để nhận biết môi trường và thực hiện các hành động nhằm đạt được các mục tiêu cụ thể."
 ---
-
 ## Definition
 
 Một tác nhân AI là một thực thể phần mềm hoạt động một cách tự chủ trong một môi trường xác định để hoàn thành các mục tiêu đã đề ra. Nó sử dụng các cơ chế cảm biến để thu thập dữ liệu, xử lý thông tin này và đưa ra các quyết định hoặc hành động phù hợp.

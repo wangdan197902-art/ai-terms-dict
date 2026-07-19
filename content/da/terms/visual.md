@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /da/terms/visual/
 date: "2026-07-18T15:31:17.709043Z"
 lastmod: "2026-07-18T17:15:09.237127Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Vedrørende syn eller billeder, ofte refererende til computersejsopgaver, der behandler og fortolker visuelle data som billeder og videoer."
 ---
-
 ## Definition
 
 Begrebet 'visuel' inden for AI vedrører primært Computer Vision, det felt der er dedikeret til at gøre maskiner i stand til at udlede meningsfuld information fra digitale billeder, videoer og andre visuelle input.

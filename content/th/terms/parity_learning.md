@@ -1,23 +1,24 @@
 ---
-title: "การเรียนรู้พาริตี"
-term_id: "parity_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "neural-networks", "benchmarking"]
+title: การเรียนรู้พาริตี
+term_id: parity_learning
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Neural Networks
+- benchmarking
 difficulty: 4
 weight: 1
-slug: "parity_learning"
-aliases:
-  - /th/terms/parity_learning/
-date: "2026-07-18T16:10:23.106741Z"
-lastmod: "2026-07-18T16:38:07.640299Z"
+slug: parity_learning
+date: '2026-07-18T16:10:23.106741Z'
+lastmod: '2026-07-18T16:38:07.640299Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "ปัญหาการเรียนรู้เครื่องเชิงทฤษฎีที่มุ่งเน้นการทำนายผลรวม XOR ของอินพุตแบบไบนารี ใช้เพื่อทดสอบความสามารถในการแสดงออกของโมเดล"
+source: agnes_llm
+status: published
+language: th
+description: ปัญหาการเรียนรู้เครื่องเชิงทฤษฎีที่มุ่งเน้นการทำนายผลรวม XOR ของอินพุตแบบไบนารี
+  ใช้เพื่อทดสอบความสามารถในการแสดงออกของโมเดล
 ---
-
 ## Definition
 
 การเรียนรู้พาริตีเป็นปัญหาเกณฑ์มาตรฐานในทฤษฎีการเรียนรู้เครื่อง โดยมีเป้าหมายในการทำนายพาริตี (ผลรวม XOR) ของตัวแปรอินพุตแบบไบนารีชุดหนึ่ง ปัญหานี้ถือเป็นความท้าทายสำหรับโครงข่ายประสาทเทียมแบบฟีดฟอร์เวิร์ดมาตรฐานเนื่องจากต้องการความจำระยะยาว

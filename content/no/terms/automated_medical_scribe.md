@@ -1,23 +1,24 @@
 ---
-title: "Automatisert medisinsk sekretær"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Automatisert medisinsk sekretær
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /no/terms/automated_medical_scribe/
-date: "2026-07-18T15:44:16.112491Z"
-lastmod: "2026-07-18T16:38:06.974274Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:44:16.112491Z'
+lastmod: '2026-07-18T16:38:06.974274Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Et AI-drevet system som automatisk genererer klinisk dokumentasjon fra lege-pasient-interaksjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: Et AI-drevet system som automatisk genererer klinisk dokumentasjon fra
+  lege-pasient-interaksjoner.
 ---
-
 ## Definition
 
 Automatiserte medisinske sekretærer bruker prosessering av naturlig språk og talegjenkjenningsteknologier for å lytte til samtaler mellom lege og pasient og lage strukturerte elektroniske journaler. Denne teknologien reduserer den administrative byrden for helsepersonell ved å fange opp og transkribere dialogen i sanntid.

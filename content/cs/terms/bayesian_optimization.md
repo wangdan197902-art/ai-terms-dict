@@ -1,23 +1,24 @@
 ---
-title: "Bayesovská optimalizace"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: Bayesovská optimalizace
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /cs/terms/bayesian_optimization/
-date: "2026-07-18T15:44:37.081957Z"
-lastmod: "2026-07-18T17:15:09.106631Z"
+slug: bayesian_optimization
+date: '2026-07-18T15:44:37.081957Z'
+lastmod: '2026-07-18T17:15:09.106631Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Sekvenční strategie pro globální optimalizaci černých skříněk, jejichž vyhodnocení je nákladné."
+source: agnes_llm
+status: published
+language: cs
+description: Sekvenční strategie pro globální optimalizaci černých skříněk, jejichž
+  vyhodnocení je nákladné.
 ---
-
 ## Definition
 
 Bayesovská optimalizace používá pravděpodobnostní model náhrady, obvykle Gaussovský proces, k modelování cílové funkce. Používá funkci nabytí k vyvážení průzkumu a využití, čímž

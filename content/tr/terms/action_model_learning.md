@@ -1,23 +1,24 @@
 ---
-title: "Eylem modeli öğrenimi"
-term_id: "action_model_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["reinforcement_learning", "robotics", "model_based"]
+title: Eylem modeli öğrenimi
+term_id: action_model_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Reinforcement Learning
+- robotics
+- Model Based
 difficulty: 4
 weight: 1
-slug: "action_model_learning"
-aliases:
-  - /tr/terms/action_model_learning/
-date: "2026-07-18T15:39:45.182564Z"
-lastmod: "2026-07-18T16:38:07.269412Z"
+slug: action_model_learning
+date: '2026-07-18T15:39:45.182564Z'
+lastmod: '2026-07-18T16:38:07.269412Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Bir ajanın, kendi eylemlerinin etkilerini gözlemleyerek ortamının dinamiklerini öğrendiği bir pekiştirmeli öğrenme tekniği."
+source: agnes_llm
+status: published
+language: tr
+description: Bir ajanın, kendi eylemlerinin etkilerini gözlemleyerek ortamının dinamiklerini
+  öğrendiği bir pekiştirmeli öğrenme tekniği.
 ---
-
 ## Definition
 
 Eylem modeli öğrenimi, bir ajanın eylemlerinin ortamı bir durumdan diğerine nasıl geçirdiğine dair içsel bir temsil oluşturmasını içerir. Pasif gözlemden farklı olarak, bu yöntem ajanın kendi eylemlerinden elde ettiği geri bildirimleri kullanarak ortamın nasıl çalıştığını öğrenmesini sağlar.

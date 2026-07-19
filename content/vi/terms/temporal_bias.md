@@ -1,23 +1,24 @@
 ---
-title: "Thiên kiến thời gian"
-term_id: "temporal_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "bias", "time-series"]
+title: Thiên kiến thời gian
+term_id: temporal_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- bias
+- Time Series
 difficulty: 4
 weight: 1
-slug: "temporal_bias"
-aliases:
-  - /vi/terms/temporal_bias/
-date: "2026-07-18T16:13:53.146188Z"
-lastmod: "2026-07-18T16:38:07.809969Z"
+slug: temporal_bias
+date: '2026-07-18T16:13:53.146188Z'
+lastmod: '2026-07-18T16:38:07.809969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một lỗi hệ thống trong đó các mô hình ưu tiên dữ liệu gần đây hơn là bối cảnh lịch sử, dẫn đến các dự đoán bị sai lệch."
+source: agnes_llm
+status: published
+language: vi
+description: Một lỗi hệ thống trong đó các mô hình ưu tiên dữ liệu gần đây hơn là
+  bối cảnh lịch sử, dẫn đến các dự đoán bị sai lệch.
 ---
-
 ## Definition
 
 Thiên kiến thời gian xảy ra khi các mô hình học máy gán trọng số không cân xứng cho các quan sát gần đây so với các quan sát cũ hơn, thường do phân phối dữ liệu không dừng hoặc các giao thức huấn luyện cụ thể gây ra.

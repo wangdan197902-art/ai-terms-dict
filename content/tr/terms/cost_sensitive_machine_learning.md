@@ -1,23 +1,24 @@
 ---
-title: "Maliyet duyarlı makine öğrenmesi"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: Maliyet duyarlı makine öğrenmesi
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /tr/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T15:46:32.594566Z"
-lastmod: "2026-07-18T16:38:07.287208Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T15:46:32.594566Z'
+lastmod: '2026-07-18T16:38:07.287208Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Yalnızca doğruluğa değil, ekonomik etkiye odaklanmak için eğitim sürecine yanlış sınıflandırma maliyetlerini dahil eden bir makine öğrenmesi paradigmasıdır."
+source: agnes_llm
+status: published
+language: tr
+description: Yalnızca doğruluğa değil, ekonomik etkiye odaklanmak için eğitim sürecine
+  yanlış sınıflandırma maliyetlerini dahil eden bir makine öğrenmesi paradigmasıdır.
 ---
-
 ## Definition
 
 Maliyet duyarlı makine öğrenmesi, farklı hata türlerine farklı cezalar atayarak geleneksel denetimli öğrenmeyi genişletir. Gerçek dünya senaryolarında, yanlış pozitifler ve yanlış negatifler genellikle...

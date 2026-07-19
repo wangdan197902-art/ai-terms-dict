@@ -7,8 +7,6 @@ tags: ["market", "iot", "regional"]
 difficulty: 2
 weight: 1
 slug: "smart_speaker_industry_in_south_korea"
-aliases:
-  - /cs/terms/smart_speaker_industry_in_south_korea/
 date: "2026-07-18T16:17:54.808032Z"
 lastmod: "2026-07-18T17:15:09.201247Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Tržní ekosystém zahrnující výrobce hardwaru a poskytovatele AI služeb nabízející hlasově ovládaná zařízení na území Jižní Koreje."
 ---
-
 ## Definition
 
 Tento termín označuje specifické dynamiky regionálního trhu s chytrými reproduktory v Jižní Koreji, které jsou charakteristické vysokou penetrací chytrých telefonů a pokročilou širokopásmovou infrastrukturou. Zahrnuje klíčové aktéry jako výrobce hardwaru, telekomunikační operátory a poskytovatele umělé inteligence, kteří soutěží o podíl na trhu prostřednictvím inovativních hlasových asistentů přizpůsobených jazykovým a kulturním specifikům korejského trhu.

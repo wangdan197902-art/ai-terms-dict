@@ -7,8 +7,6 @@ tags: ["methodology", "testing", "process"]
 difficulty: 2
 weight: 1
 slug: "experiments"
-aliases:
-  - /he/terms/experiments/
 date: "2026-07-18T15:25:06.899215Z"
 lastmod: "2026-07-18T17:15:09.476922Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הליכים מבוקרים המבוצעים כדי לבדוק השערות, להעריך ביצועי מודל או לגלות יכולות בינה מלאכותית חדשות."
 ---
-
 ## Definition
 
 ניסויים בבינה מלאכותית כוללים בדיקה שיטתית של משתנים כדי להבין קשרי סיבתיות בתוך מודלי למידת מכונה. הליכים אלו מאפשרים למפתחים להשוות בין פרמטרים שונים ולוודא את אמינות התוצאות.

@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /fr/terms/memory/
 date: "2026-07-18T11:00:26.877779Z"
 lastmod: "2026-07-18T11:44:45.186023Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La capacité d'un système d'IA à stocker, récupérer et utiliser des informations au fil des interactions pour maintenir le contexte et améliorer ses performances au fil du temps."
 ---
-
 ## Definition
 
 En intelligence artificielle, la mémoire désigne les mécanismes permettant aux modèles de conserver des informations au-delà d'une seule étape d'inférence. Cela inclut la mémoire de travail à court terme pour le contexte immédiat au sein d'une session donnée.

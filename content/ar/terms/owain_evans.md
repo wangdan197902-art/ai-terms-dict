@@ -1,23 +1,24 @@
 ---
-title: "أواين إيفانز"
-term_id: "owain_evans"
-category: "basic_concepts"
-subcategory: ""
-tags: ["researcher", "interpretability", "ai_safety"]
+title: أواين إيفانز
+term_id: owain_evans
+category: basic_concepts
+subcategory: ''
+tags:
+- researcher
+- interpretability
+- AI Safety
 difficulty: 2
 weight: 1
-slug: "owain_evans"
-aliases:
-  - /ar/terms/owain_evans/
-date: "2026-07-18T16:15:35.971771Z"
-lastmod: "2026-07-18T17:15:08.534912Z"
+slug: owain_evans
+date: '2026-07-18T16:15:35.971771Z'
+lastmod: '2026-07-18T17:15:08.534912Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "أواين إيفانز باحث ومحاضر بارز معروف بأعماله في قابلية تفسير الذكاء الاصطناعي، والتفسير الميكانيكي، وتقييم قدرات النماذج اللغوية الكبيرة على الاستدلال."
+source: agnes_llm
+status: published
+language: ar
+description: أواين إيفانز باحث ومحاضر بارز معروف بأعماله في قابلية تفسير الذكاء الاصطناعي،
+  والتفسير الميكانيكي، وتقييم قدرات النماذج اللغوية الكبيرة على الاستدلال.
 ---
-
 ## Definition
 
 أواين إيفانز هو عالم حاسوب ومعلم، مرتبط حالياً بمركز سلامة الذكاء الاصطناعي (Center for AI Safety) وكان سابقاً مرتبطاً بشركة أنثروبيك (Anthropic). يُعرف على نطاق واسع بإسهاماته في التفسير الميكانيكي للنماذج، حيث يركز على فك تشفير كيفية عمل الشبكات العصبية داخلياً لفهم عمليات اتخاذ القرار والاستدلال فيها.

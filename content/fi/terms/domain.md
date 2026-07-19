@@ -1,23 +1,24 @@
 ---
-title: "Alue"
-term_id: "domain"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transfer_learning", "data_distribution", "generalization"]
+title: Alue
+term_id: domain
+category: basic_concepts
+subcategory: ''
+tags:
+- Transfer Learning
+- Data Distribution
+- generalization
 difficulty: 2
 weight: 1
-slug: "domain"
-aliases:
-  - /fi/terms/domain/
-date: "2026-07-18T15:24:50.464549Z"
-lastmod: "2026-07-18T17:15:09.348664Z"
+slug: domain
+date: '2026-07-18T15:24:50.464549Z'
+lastmod: '2026-07-18T17:15:09.348664Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Alue edustaa tiettyä kontekstia tai datan jakaumaa, jota karakterisoi sen ominaisavaruus ja taustalla oleva todennäköisyysjakauma."
+source: agnes_llm
+status: published
+language: fi
+description: Alue edustaa tiettyä kontekstia tai datan jakaumaa, jota karakterisoi
+  sen ominaisavaruus ja taustalla oleva todennäköisyysjakauma.
 ---
-
 ## Definition
 
 Koneoppimisessa, erityisesti siirtämisessä oppimisessa, alue määritellään kahdesta komponentista: ominaisavaruudesta (kaikkien mahdollisten syötteiden joukko) ja näiden syötteiden marginaalitodennäköisyysjakaumasta. Alueen eroavaisuudet voivat vaikeuttaa mallin yleistämistä uusiin tilanteisiin.

@@ -1,23 +1,23 @@
 ---
-title: "データ拡張"
-term_id: "data_augmentation"
-category: "training_techniques"
-subcategory: ""
-tags: ["machine_learning", "preprocessing", "cv"]
+title: データ拡張
+term_id: data_augmentation
+category: training_techniques
+subcategory: ''
+tags:
+- Machine Learning
+- preprocessing
+- cv
 difficulty: 2
 weight: 1
-slug: "data_augmentation"
-aliases:
-  - /ja/terms/data_augmentation/
-date: "2026-07-18T11:09:46.134092Z"
-lastmod: "2026-07-18T11:44:45.082742Z"
+slug: data_augmentation
+date: '2026-07-18T11:09:46.134092Z'
+lastmod: '2026-07-18T11:44:45.082742Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "データ拡張とは、既存のデータポイントに変換を適用することで、トレーニングデータの多様性と規模を増加させる手法です。"
+source: agnes_llm
+status: published
+language: ja
+description: データ拡張とは、既存のデータポイントに変換を適用することで、トレーニングデータの多様性と規模を増加させる手法です。
 ---
-
 ## Definition
 
 この手法は、画像の回転、音声へのノイズ付加、テキストにおける同義語置換など、既存のサンプルを変形させたバージョンを作成することで、トレーニングデータを人為的に拡張します。これにより、モデルの過学習を防ぎ、汎化性能を向上させるのに役立ちます。

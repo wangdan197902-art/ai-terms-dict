@@ -1,23 +1,24 @@
 ---
-title: "Nhúng phân phối bằng hạt nhân"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Nhúng phân phối bằng hạt nhân
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /vi/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T15:58:51.062782Z"
-lastmod: "2026-07-18T16:38:07.772311Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T15:58:51.062782Z'
+lastmod: '2026-07-18T16:38:07.772311Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một kỹ thuật ánh xạ các phân phối xác suất vào không gian Hilbert có nhân tái sinh để cho phép so sánh và thao tác thông qua các phép toán vectơ."
+source: agnes_llm
+status: published
+language: vi
+description: Một kỹ thuật ánh xạ các phân phối xác suất vào không gian Hilbert có
+  nhân tái sinh để cho phép so sánh và thao tác thông qua các phép toán vectơ.
 ---
-
 ## Definition
 
 Nhúng phân phối bằng hạt nhân cho phép các đối tượng xác suất được xử lý như các điểm trong một không gian đặc trưng chiều cao gọi là Không gian Hilbert có nhân tái sinh (RKHS). Bằng cách ánh xạ các phân phối vào không gian này, các phép toán đại số tuyến tính có thể được áp dụng để so sánh chúng.

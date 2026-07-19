@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /sv/terms/smart_object/
 date: "2026-07-18T16:20:36.731372Z"
 lastmod: "2026-07-18T17:15:09.047915Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "En fysisk enhet utrustad med sensorer, aktuatorer och anslutningsförmåga för att samla in data och interagera intelligent med sin omgivning."
 ---
-
 ## Definition
 
 Smarta objekt är komponenter i Internet of Things (IoT) som besitter unika identifierare och förmågan att överföra data över ett nätverk utan direkt människa-till-människa eller människa-till-dator-interaktion.

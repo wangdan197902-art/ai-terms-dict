@@ -7,8 +7,6 @@ tags: ["foundations", "theory", "basics"]
 difficulty: 2
 weight: 1
 slug: "math"
-aliases:
-  - /sv/terms/math/
 date: "2026-07-18T16:09:03.663495Z"
 lastmod: "2026-07-18T17:15:09.025171Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Den grundläggande disciplinen som involverar tal, strukturer, rum och förändring, och som är avgörande för att formulera och lösa AI-problem."
 ---
-
 ## Definition
 
 Inom artificiell intelligens tillhandahåller matematiken den teoretiska ramen för algoritmdesign och analys. Viktiga grenar inkluderar linjär algebra för datrepresentation, kalkyl för optimering

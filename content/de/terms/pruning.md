@@ -7,8 +7,6 @@ tags: ["compression", "efficiency", "deployment"]
 difficulty: 3
 weight: 1
 slug: "pruning"
-aliases:
-  - /de/terms/pruning/
 date: "2026-07-18T11:28:44.806004Z"
 lastmod: "2026-07-18T11:44:44.978111Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Technik zur Modellkompression, die redundante oder weniger bedeutende Parameter entfernt, um die Größe zu reduzieren und die Inferenzgeschwindigkeit zu verbessern."
 ---
-
 ## Definition
 
 Pruning beinhaltet das Identifizieren und Eliminieren von Neuronen, Verbindungen oder Filtern in einem neuronalen Netzwerk, die nur minimal zur Genauigkeit der Ausgabe beitragen. Durch das Entfernen dieser redundanten Elemente wird das Modell kompakter und effizienter.

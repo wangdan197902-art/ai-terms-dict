@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /fi/terms/neuro_symbolic_ai/
 date: "2026-07-18T16:12:40.086254Z"
 lastmod: "2026-07-18T17:15:09.439041Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Tekoälylähestymistapa, joka yhdistää hermoverkkojen oppimiskyvyn symbolisen päättelyn logiikkaan ja läpinäkyvyyteen."
 ---
-
 ## Definition
 
 Neuro-symbolinen tekoäly integroi alisymboliset neuraaliset oppimismenetelmät symboliseen logiikkaan perustuviin päättelyjärjestelmiin. Tämä hybridi lähestymistapa pyrkii voittamaan puhtaan syvän oppimisen rajoitukset, kuten...

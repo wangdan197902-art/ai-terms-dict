@@ -7,8 +7,6 @@ tags: ["engineering", "prediction", "strategy"]
 difficulty: 3
 weight: 1
 slug: "forethought_technologies"
-aliases:
-  - /it/terms/forethought_technologies/
 date: "2026-07-18T16:00:09.389858Z"
 lastmod: "2026-07-18T17:15:08.626991Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Le tecnologie di previsione si riferiscono a pratiche ingegneristiche che anticipano stati futuri del sistema, rischi e requisiti attraverso modellazione predittiva e simulazione."
 ---
-
 ## Definition
 
 Questo concetto implica la progettazione di sistemi di IA con capacità prospettiche in grado di simulare potenziali esiti e adattarsi in modo proattivo. Integra analisi predittiva, pianificazione di scenari e gestione del

@@ -1,23 +1,24 @@
 ---
-title: "Trí tuệ mô cơ quan (Organoid Intelligence)"
-term_id: "organoid_intelligence"
-category: "application_paradigms"
-subcategory: ""
-tags: ["bio-computing", "emerging-tech", "neuroscience"]
+title: Trí tuệ mô cơ quan (Organoid Intelligence)
+term_id: organoid_intelligence
+category: application_paradigms
+subcategory: ''
+tags:
+- Bio Computing
+- Emerging Tech
+- neuroscience
 difficulty: 5
 weight: 1
-slug: "organoid_intelligence"
-aliases:
-  - /vi/terms/organoid_intelligence/
-date: "2026-07-18T16:06:19.770218Z"
-lastmod: "2026-07-18T16:38:07.789871Z"
+slug: organoid_intelligence
+date: '2026-07-18T16:06:19.770218Z'
+lastmod: '2026-07-18T16:38:07.789871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một mô hình tính toán lai tích hợp tế bào não sống với các giao diện điện tử để xử lý thông tin."
+source: agnes_llm
+status: published
+language: vi
+description: Một mô hình tính toán lai tích hợp tế bào não sống với các giao diện
+  điện tử để xử lý thông tin.
 ---
-
 ## Definition
 
 Trí tuệ mô cơ quan (OI) đề cập đến sự phát triển của các hệ thống sinh-lai, nơi các mô cơ quan não người được nuôi cấy trên mảng vi điện cực. Các mạng lưới thần kinh sống này thực hiện các tác vụ tính toán với hiệu suất năng lượng cao.

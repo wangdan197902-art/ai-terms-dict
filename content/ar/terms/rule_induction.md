@@ -1,23 +1,24 @@
 ---
-title: "استنتاج القواعد"
-term_id: "rule_induction"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml", "interpretability", "symbolic"]
+title: استنتاج القواعد
+term_id: rule_induction
+category: basic_concepts
+subcategory: ''
+tags:
+- ML
+- interpretability
+- symbolic
 difficulty: 3
 weight: 1
-slug: "rule_induction"
-aliases:
-  - /ar/terms/rule_induction/
-date: "2026-07-18T16:19:37.068466Z"
-lastmod: "2026-07-18T17:15:08.545290Z"
+slug: rule_induction
+date: '2026-07-18T16:19:37.068466Z'
+lastmod: '2026-07-18T17:15:08.545290Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية في التعلم الآلي تقوم تلقائياً بتوليد مجموعة من القواعد المنطقية من بيانات التدريب المصنفة لتصنيف الحالات الجديدة."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية في التعلم الآلي تقوم تلقائياً بتوليد مجموعة من القواعد المنطقية
+  من بيانات التدريب المصنفة لتصنيف الحالات الجديدة.
 ---
-
 ## Definition
 
 استنتاج القواعد هو أسلوب في التعلم الآلي الرمزي يستخرج قواعد 'إذا-ثم' مباشرة من البيانات. وعلى عكس الشبكات العصبية التي تنتج أوزاناً غير قابلة للتفسير، ينتج استنتاج القواعد نماذج قابلة للتفسير.

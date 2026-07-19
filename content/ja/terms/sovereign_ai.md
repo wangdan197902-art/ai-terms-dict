@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /ja/terms/sovereign_ai/
 date: "2026-07-18T11:32:47.846202Z"
 lastmod: "2026-07-18T11:44:45.145677Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "データプライバシーと規制の独立性を確保するために、国家またはエンティティが独自のAIインフラストラクチャとモデルを開発・制御する戦略的アプローチ。"
 ---
-
 ## Definition
 
 主権AIとは、外国のクラウドプロバイダーや独占的な技術への依存なしに、国や組織が人工知能システムを独自に構築、展開、管理する能力を指します。

@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /hu/terms/hf_asr_leaderboard/
 date: "2026-07-18T16:03:21.366547Z"
 lastmod: "2026-07-18T17:15:09.792555Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy rangsoroló rendszer a Hugging Face-en, amely értékeli és összehasonlítja a Beszédfelismerő modellek teljesítményét."
 ---
-
 ## Definition
 
 A HF ASR Ranglista egy közösség által vezetett mérőplatform, amelyet a Hugging Face üzemeltet, és nyomon követi a Beszédfelismerés területén elért állóhelyzetet. Lehetővé teszi kutatók és fejlesztők számára a modellek benchmarkolását.

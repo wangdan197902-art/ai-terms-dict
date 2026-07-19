@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /zh/terms/accountability/
 date: "2026-07-18T11:04:13.788364Z"
 lastmod: "2026-07-18T11:44:45.438069Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "该原则要求人工智能系统的开发者和运营者必须对其系统的结果和影响负责。"
 ---
-
 ## Definition
 
 人工智能中的问责制是指个人、组织和开发者有义务对人工智能技术的设计、部署及其后果承担责任。

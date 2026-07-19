@@ -7,8 +7,6 @@ tags: ["pytorch", "integration", "tools"]
 difficulty: 4
 weight: 1
 slug: "pytorch_model_hub_mixin"
-aliases:
-  - /ar/terms/pytorch_model_hub_mixin/
 date: "2026-07-18T16:17:56.024609Z"
 lastmod: "2026-07-18T17:15:08.540845Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "مزيج مركز نماذج بايتوتش هو فئة مساعدة تتيح التكامل السلس لنماذج بايتوتش مع مركز هايفينغ فيس لتسهيل الحفظ والتحميل."
 ---
-
 ## Definition
 
 مزيج مركز نماذج بايتوتش هو مكون تقدمه مكتبة Hugging Face Transformers، حيث يمتد لفئات PyTorch القياسية nn.Module. يضيف طرقاً مثل save_pretrained و from_pretrained...

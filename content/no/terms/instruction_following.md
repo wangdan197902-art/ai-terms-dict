@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /no/terms/instruction_following/
 date: "2026-07-18T16:00:37.698029Z"
 lastmod: "2026-07-18T16:38:07.013541Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Evnen til en AI-modell til å tolke og utføre spesifikke menneskelige kommandoer eller begrensninger nøyaktig."
 ---
-
 ## Definition
 
 Instruksjonsoppfølging refererer til evnen til store språkmodeller og andre AI-systemer til å forstå nyanserte menneskelige direktiver og overholde eksplisitte begrensninger i en forespørsel. Denne paradigmeskiftet

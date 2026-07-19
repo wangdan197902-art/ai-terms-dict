@@ -1,23 +1,24 @@
 ---
-title: "Paritate Ierarhică a Riscului"
-term_id: "hierarchical_risk_parity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["finance", "optimization", "clustering"]
+title: Paritate Ierarhică a Riscului
+term_id: hierarchical_risk_parity
+category: basic_concepts
+subcategory: ''
+tags:
+- finance
+- Optimization
+- Clustering
 difficulty: 4
 weight: 1
-slug: "hierarchical_risk_parity"
-aliases:
-  - /ro/terms/hierarchical_risk_parity/
-date: "2026-07-18T16:02:33.329547Z"
-lastmod: "2026-07-18T17:15:09.664538Z"
+slug: hierarchical_risk_parity
+date: '2026-07-18T16:02:33.329547Z'
+lastmod: '2026-07-18T17:15:09.664538Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de optimizare a portofoliului care utilizează clusterizarea pentru a gestiona corelația activelor și alocă riscul în cadrul clusterelor ierarhice."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de optimizare a portofoliului care utilizează clusterizarea
+  pentru a gestiona corelația activelor și alocă riscul în cadrul clusterelor ierarhice.
 ---
-
 ## Definition
 
 Paritatea Ierarhică a Riscului (HRP) este o metodă de construcție a portofoliului care abordează limitările optimizării tradiționale medii-varianță prin incorporarea structurilor de corelație. Aceasta utilizează ierarhii de clusterizare pentru a aloca riscul într-un mod robust, evitând necesitatea inversării matricilor de covarianță, care sunt adesea instabile.

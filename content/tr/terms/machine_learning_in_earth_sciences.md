@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /tr/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T16:02:06.296167Z"
 lastmod: "2026-07-18T16:38:07.331050Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Doğal olayları tahmin etmek ve kaynakları yönetmek için jeo uzamsal ve çevresel verileri analiz etmek amacıyla makine öğrenimi algoritmalarının kullanımıdır."
 ---
-
 ## Definition
 
 Makine öğrenimi, uydu görüntülerini, sismik verileri ve iklim kayıtlarını işleyerek karmaşık çevresel sistemleri modelleyerek yer bilimini güçlendirir. Bu teknikler hava durumu kalıplarını tahmin etmeye, buzul erimesini izlemeye ve afet risklerini değerlendirmeye yardımcı olur.

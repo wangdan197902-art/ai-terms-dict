@@ -1,23 +1,23 @@
 ---
-title: "Recurrent Neural Network"
-term_id: "recurrent_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural-networks", "sequence-models", "deep-learning"]
+title: Recurrent Neural Network
+term_id: recurrent_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Sequence Models
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "recurrent_neural_network"
-aliases:
-  - /th/terms/recurrent_neural_network/
-date: "2026-07-18T15:37:11.587754Z"
-lastmod: "2026-07-18T16:38:07.564664Z"
+slug: recurrent_neural_network
+date: '2026-07-18T15:37:11.587754Z'
+lastmod: '2026-07-18T16:38:07.564664Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "RNN (Recurrent Neural Network) คือประเภทหนึ่งของโครงข่ายประสาทเทียมเทียมที่การเชื่อมต่อระหว่างโหนดสร้างกราฟที่มีทิศทางไปตามลำดับเวลา"
+source: agnes_llm
+status: published
+language: th
+description: RNN (Recurrent Neural Network) คือประเภทหนึ่งของโครงข่ายประสาทเทียมเทียมที่การเชื่อมต่อระหว่างโหนดสร้างกราฟที่มีทิศทางไปตามลำดับเวลา
 ---
-
 ## Definition
 
 RNN ออกแบบมาเพื่อจดจำรูปแบบในข้อมูลลำดับ เช่น ข้อความ จีโนม การเขียนด้วยมือ หรือคำพูด ต่างจากเครือข่ายฟีดฟอร์เวิร์ด RNN มีหน่วยความจำภายในที่จับข้อมูลเกี่ยวกับสถานะก่อนหน้า ทำให้เหมาะสำหรับการประมวลผลข้อมูลที่ขึ้นกับเวลา

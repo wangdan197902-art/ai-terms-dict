@@ -7,8 +7,6 @@ tags: ["robotics", "avatars", "interaction"]
 difficulty: 2
 weight: 1
 slug: "personoid"
-aliases:
-  - /ro/terms/personoid/
 date: "2026-07-18T16:15:56.466325Z"
 lastmod: "2026-07-18T17:15:09.691039Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un robot umanoid sau un agent software conceput să imite aspectul fizic uman sau stilul conversațional pentru a facilita interacțiunea naturală."
 ---
-
 ## Definition
 
 Un personoid este o entitate, fie robotică, fie virtuală, inginerită pentru a semăna sau a se comporta ca un om. În robotică, aceasta implică antropomorfismul fizic, în timp ce în IA, se referă adesea la chatbot-uri sau agenți virtuali cu abilități avansate de dialog.

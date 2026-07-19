@@ -7,8 +7,6 @@ tags: ["agents", "autonomy", "applications", "planning"]
 difficulty: 3
 weight: 1
 slug: "agentic"
-aliases:
-  - /en/terms/agentic/
 date: "2026-07-18T09:39:58.032354Z"
 lastmod: "2026-07-18T11:44:44.620709Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Refers to AI systems capable of autonomous planning, reasoning, and executing actions to achieve specific goals."
 ---
-
 ## Definition
 
 The term 'agentic' describes AI agents that operate with a high degree of autonomy. Unlike passive models that simply predict text or classify data, agentic systems can break down complex objectives into sub-tasks, use tools, interact with environments, and iterate on their actions to solve problems. This paradigm shifts AI from being a reactive tool to a proactive collaborator. These systems often employ memory, planning mechanisms, and reflection loops to improve performance over time, enabling them to handle dynamic and unstructured real-world scenarios effectively.

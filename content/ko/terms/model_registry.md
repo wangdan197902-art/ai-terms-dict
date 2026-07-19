@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "Management"]
 difficulty: 3
 weight: 1
 slug: "model_registry"
-aliases:
-  - /ko/terms/model_registry/
 date: "2026-07-18T16:06:06.322263Z"
 lastmod: "2026-07-18T16:38:06.886552Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모델 레지스트리는 머신러닝 모델의 전체 수명 주기를 추적하기 위한 중앙 집중식 저장 및 관리 시스템입니다."
 ---
-
 ## Definition
 
 모델 레지스트리는 MLOps의 핵심 구성 요소로, ML 모델을 저장, 버전 관리 및 관리하기 위한 통합 저장소 역할을 합니다. 이를 통해 팀은 모델 메타데이터, 성능 지표 등을 추적할 수 있습니다.

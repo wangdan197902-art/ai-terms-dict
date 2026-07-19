@@ -7,8 +7,6 @@ tags: ["Training", "Values", "Control"]
 difficulty: 4
 weight: 1
 slug: "alignment"
-aliases:
-  - /de/terms/alignment/
 date: "2026-07-18T07:40:21.074405Z"
 lastmod: "2026-07-18T11:44:44.582898Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Der Prozess, sicherzustellen, dass die Ziele und Verhaltensweisen eines KI-Systems mit menschlichen Werten und Absichten übereinstimmen."
 ---
-
 ## Definition
 
 Alignment zielt darauf ab, sicherzustellen, dass KI-Systeme genau das tun, was Menschen wirklich wollen, und nicht nur das, was sie wörtlich anfordern. Dazu gehören Techniken wie Reinforcement Learning from Human Feedback (RLHF), um das Verhalten der Modelle an menschliche Präferenzen anzupassen.

@@ -1,23 +1,25 @@
 ---
-title: "Computer-Auditing"
-term_id: "computer_audition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "signal_processing", "perception"]
+title: Computer-Auditing
+term_id: computer_audition
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- Signal Processing
+- perception
 difficulty: 3
 weight: 1
-slug: "computer_audition"
-aliases:
-  - /de/terms/computer_audition/
-date: "2026-07-18T11:08:22.070943Z"
-lastmod: "2026-07-18T11:44:44.920022Z"
+slug: computer_audition
+date: '2026-07-18T11:08:22.070943Z'
+lastmod: '2026-07-18T11:44:44.920022Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Computer-Auditing ist das Forschungsgebiet, das sich darauf konzentriert, Maschinen die Wahrnehmung und das Verständnis von Audiosignalen ähnlich wie beim Menschen zu ermöglichen."
+source: agnes_llm
+status: published
+language: de
+description: Computer-Auditing ist das Forschungsgebiet, das sich darauf konzentriert,
+  Maschinen die Wahrnehmung und das Verständnis von Audiosignalen ähnlich wie beim
+  Menschen zu ermöglichen.
 ---
-
 ## Definition
 
 Computer-Auditing umfasst die Entwicklung von Algorithmen, die es Computern ermöglichen, aussagekräftige Informationen aus Audiosignalen zu extrahieren. Dies beinhaltet Aufgaben wie Spracherkennung, Musikgenre-Klassifizierung und Geräuschanalyse.

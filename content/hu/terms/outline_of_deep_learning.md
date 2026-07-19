@@ -7,8 +7,6 @@ tags: ["education", "fundamentals", "architecture"]
 difficulty: 3
 weight: 1
 slug: "outline_of_deep_learning"
-aliases:
-  - /hu/terms/outline_of_deep_learning/
 date: "2026-07-18T16:16:44.626983Z"
 lastmod: "2026-07-18T17:15:09.819781Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "A mélytanulási módszertanok, architektúrák és optimalizációs stratégiák strukturált áttekintése."
 ---
-
 ## Definition
 
 A mélytanulás vázlata magában foglalja az alapvető szerkezeteket, mint például a neurális hálózati rétegeket, aktivációs függvényeket és veszteségmértékeket. Részletesen bemutatja a tanítási technikákat, beleértve a hátr_propagációt és a gradiens...

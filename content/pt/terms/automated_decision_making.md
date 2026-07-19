@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /pt/terms/automated_decision_making/
 date: "2026-07-18T14:50:49.636890Z"
 lastmod: "2026-07-18T15:51:59.466043Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O processo pelo qual algoritmos selecionam independentemente ações ou resultados com base em entradas de dados, sem supervisão humana direta."
 ---
-
 ## Definition
 
 A Tomada de Decisão Automatizada (ADM) depende de sistemas de software para fazer escolhas que anteriormente exigiam julgamento humano. Comum em pontuação de crédito, moderação de conteúdo e logística, a ADM utiliza regras predefinidas.

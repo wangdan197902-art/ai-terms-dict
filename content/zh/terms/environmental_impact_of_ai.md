@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /zh/terms/environmental_impact_of_ai/
 date: "2026-07-18T11:16:25.619829Z"
 lastmod: "2026-07-18T11:44:45.495076Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "开发、训练和部署AI模型带来的生态后果，包括能源消耗和碳排放。"
 ---
-
 ## Definition
 
 该术语指与AI技术相关的显著资源需求，特别是在大型模型的训练阶段。它涵盖了数据中心使用的电力、制造硬件所需的资源以及模型运行期间的碳足迹。随着AI模型规模的扩大，其对环境的影响日益受到关注，促使业界寻求更高效的算法和绿色计算解决方案。

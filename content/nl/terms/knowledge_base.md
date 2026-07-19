@@ -1,23 +1,25 @@
 ---
-title: "Kennisbank"
-term_id: "knowledge_base"
-category: "application_paradigms"
-subcategory: ""
-tags: ["RAG", "data_management", "enterprise_ai"]
+title: Kennisbank
+term_id: knowledge_base
+category: application_paradigms
+subcategory: ''
+tags:
+- RAG
+- Data Management
+- Enterprise AI
 difficulty: 2
 weight: 1
-slug: "knowledge_base"
-aliases:
-  - /nl/terms/knowledge_base/
-date: "2026-07-18T15:37:34.744872Z"
-lastmod: "2026-07-18T17:15:08.705747Z"
+slug: knowledge_base
+date: '2026-07-18T15:37:34.744872Z'
+lastmod: '2026-07-18T17:15:08.705747Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een centraal archief van gestructureerde informatie dat wordt gebruikt om besluitvorming en retrieval-augmented generation (RAG) in AI-toepassingen te ondersteunen."
+source: agnes_llm
+status: published
+language: nl
+description: Een centraal archief van gestructureerde informatie dat wordt gebruikt
+  om besluitvorming en retrieval-augmented generation (RAG) in AI-toepassingen te
+  ondersteunen.
 ---
-
 ## Definition
 
 Een kennisbank fungeert als een digitale bibliotheek met gekuraterede gegevens, documenten of feiten die AI-systemen kunnen raadplegen om accurate, contextbewuste antwoorden te geven. In moderne architecturen zoals Retrieval-Augmented Generation (RAG) is dit essentieel voor het verrijken van modelantwoorden met actuele, betrouwbare bronnen.

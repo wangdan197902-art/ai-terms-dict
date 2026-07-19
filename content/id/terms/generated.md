@@ -7,8 +7,6 @@ tags: ["output", "generative"]
 difficulty: 2
 weight: 1
 slug: "generated"
-aliases:
-  - /id/terms/generated/
 date: "2026-07-18T15:25:57.388096Z"
 lastmod: "2026-07-18T16:38:07.394129Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Konten yang dibuat oleh model AI alih-alih diambil langsung dari dataset statis."
 ---
-
 ## Definition
 
 Istilah 'dihasilkan' menggambarkan output yang diproduksi oleh model AI generatif, seperti teks, gambar, audio, atau kode. Berbeda dengan sistem berbasis pengambilan yang mengambil data yang sudah ada, model generatif mensintesis data baru

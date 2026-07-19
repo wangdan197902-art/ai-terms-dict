@@ -7,8 +7,6 @@ tags: ["xai", "logic", "engineering"]
 difficulty: 3
 weight: 1
 slug: "argumentation_framework"
-aliases:
-  - /fr/terms/argumentation_framework/
 date: "2026-07-18T11:04:42.519726Z"
 lastmod: "2026-07-18T11:44:45.197476Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une structure formelle utilisée pour modéliser et résoudre les conflits entre revendications ou décisions concurrentes dans les systèmes d'IA."
 ---
-
 ## Definition
 
 Les cadres d'argumentation fournissent une base mathématique pour représenter les arguments, leurs attaques et leurs défenses. En ingénierie de l'IA, ils aident les systèmes à prendre des décisions transparentes et justifiables en pondérant différentes perspectives.

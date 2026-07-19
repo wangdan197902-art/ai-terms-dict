@@ -1,23 +1,24 @@
 ---
-title: "Veri Seti: Eli5"
-term_id: "dataseteli5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["datasets", "qa_systems", "social_media"]
+title: 'Veri Seti: Eli5'
+term_id: dataseteli5
+category: basic_concepts
+subcategory: ''
+tags:
+- datasets
+- Qa Systems
+- Social Media
 difficulty: 2
 weight: 1
-slug: "dataseteli5"
-aliases:
-  - /tr/terms/dataseteli5/
-date: "2026-07-18T15:47:24.541689Z"
-lastmod: "2026-07-18T16:38:07.290969Z"
+slug: dataseteli5
+date: '2026-07-18T15:47:24.541689Z'
+lastmod: '2026-07-18T16:38:07.290969Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Detaylı açıklamalara odaklanan, soruları ve cevapları 'Beş Yaşındaymışım Gibi Anlat' formatında sunan büyük ölçekli bir veri seti."
+source: agnes_llm
+status: published
+language: tr
+description: Detaylı açıklamalara odaklanan, soruları ve cevapları 'Beş Yaşındaymışım
+  Gibi Anlat' formatında sunan büyük ölçekli bir veri seti.
 ---
-
 ## Definition
 
 ELI5 (Explain Like I'm Five), aynı isimli Reddit topluluğundan türetilmiş bir veri setidir. Kullanıcılar tarafından gönderilen soruları ve topluluk tarafından sağlanan detaylı, basitleştirilmiş cevapları içerir.

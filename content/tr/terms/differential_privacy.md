@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /tr/terms/differential_privacy/
 date: "2026-07-18T15:49:49.459414Z"
 lastmod: "2026-07-18T16:38:07.298653Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Herhangi bir bireyin verisinin dahil edilmesinin veya çıkarılmasının, bir analizin sonucunu önemli ölçüde etkilemediğini garanti eden sıkı bir matematiksel çerçeve."
 ---
-
 ## Definition
 
 Ayrıcalık gizliliği, sorgu sonuçlarına veya model parametrelerine kalibre edilmiş istatistiksel gürültü ekleyerek güçlü gizlilik garantileri sağlar. Herhangi bir veri sızıntısı hakkında bilgi miktarının maksimum sınırını nicelendirir.

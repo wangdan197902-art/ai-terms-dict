@@ -1,23 +1,25 @@
 ---
-title: "Ядерное вложение распределений"
-term_id: "kernel_embedding_of_distributions"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced-statistics", "kernel-methods", "theory"]
+title: Ядерное вложение распределений
+term_id: kernel_embedding_of_distributions
+category: training_techniques
+subcategory: ''
+tags:
+- Advanced Statistics
+- Kernel Methods
+- theory
 difficulty: 5
 weight: 1
-slug: "kernel_embedding_of_distributions"
-aliases:
-  - /ru/terms/kernel_embedding_of_distributions/
-date: "2026-07-18T15:59:56.919119Z"
-lastmod: "2026-07-18T16:38:07.171436Z"
+slug: kernel_embedding_of_distributions
+date: '2026-07-18T15:59:56.919119Z'
+lastmod: '2026-07-18T16:38:07.171436Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метод, отображающий вероятностные распределения в воспроизводящее ядерное гильбертово пространство для их сравнения и манипулирования с помощью векторных операций."
+source: agnes_llm
+status: published
+language: ru
+description: Метод, отображающий вероятностные распределения в воспроизводящее ядерное
+  гильбертово пространство для их сравнения и манипулирования с помощью векторных
+  операций.
 ---
-
 ## Definition
 
 Ядерное вложение распределений позволяет рассматривать вероятностные объекты как точки в высокоразмерном пространстве признаков, называемом воспроизводящим ядерным гильбертовым пространством (RKHS). Отображая распределения в это пространство, можно...

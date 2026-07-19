@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: LTX vezeték"
-term_id: "diffusersltxpipeline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["pipeline", "speed", "optimization", "video"]
+title: 'Diffusers: LTX vezeték'
+term_id: diffusersltxpipeline
+category: basic_concepts
+subcategory: ''
+tags:
+- pipeline
+- speed
+- Optimization
+- video
 difficulty: 3
 weight: 1
-slug: "diffusersltxpipeline"
-aliases:
-  - /hu/terms/diffusersltxpipeline/
-date: "2026-07-18T15:56:37.109353Z"
-lastmod: "2026-07-18T17:15:09.776470Z"
+slug: diffusersltxpipeline
+date: '2026-07-18T15:56:37.109353Z'
+lastmod: '2026-07-18T17:15:09.776470Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy Diffusersben megvalósított vezeték, amely az LTX (villámgyors szövegből videó vagy hasonló nagy sebességű generatív) modellekre van optimalizálva, a gyors következtetésre fókuszálva."
+source: agnes_llm
+status: published
+language: hu
+description: Egy Diffusersben megvalósított vezeték, amely az LTX (villámgyors szövegből
+  videó vagy hasonló nagy sebességű generatív) modellekre van optimalizálva, a gyors
+  következtetésre fókuszálva.
 ---
-
 ## Definition
 
 Az LTX vezeték azokhoz a modellekhez van igazítva, amelyek a generatív feladatoknál a sebességre és hatékonyságra helyezik a hangsúlyt, gyakran desztillált vagy gyorsított mintavételi módszereket használva. Zökkenőmentesen integrálódik a Diffusers rendszerbe.

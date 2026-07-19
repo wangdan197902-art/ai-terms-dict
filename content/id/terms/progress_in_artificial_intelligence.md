@@ -7,8 +7,6 @@ tags: ["history", "overview", "trends"]
 difficulty: 1
 weight: 1
 slug: "progress_in_artificial_intelligence"
-aliases:
-  - /id/terms/progress_in_artificial_intelligence/
 date: "2026-07-18T16:05:14.242554Z"
 lastmod: "2026-07-18T16:38:07.496574Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Perkembangan kumulatif kemampuan AI melalui penelitian, pengembangan, dan penerapan algoritma serta perangkat keras yang semakin canggih."
 ---
-
 ## Definition
 
 Istilah ini mencakup evolusi historis dan berkelanjutan dari sistem kecerdasan buatan, menandai tonggak sejarah mulai dari logika simbolik awal hingga pembelajaran mendalam (deep learning) modern. Hal ini mencerminkan peningkatan dalam komputasi

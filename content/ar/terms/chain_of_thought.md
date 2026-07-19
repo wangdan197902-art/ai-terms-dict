@@ -1,23 +1,24 @@
 ---
-title: "سلسلة التفكير"
-term_id: "chain_of_thought"
-category: "training_techniques"
-subcategory: ""
-tags: ["prompting", "reasoning", "llm"]
+title: سلسلة التفكير
+term_id: chain_of_thought
+category: training_techniques
+subcategory: ''
+tags:
+- prompting
+- reasoning
+- LLM
 difficulty: 3
 weight: 1
-slug: "chain_of_thought"
-aliases:
-  - /ar/terms/chain_of_thought/
-date: "2026-07-18T15:22:36.149934Z"
-lastmod: "2026-07-18T17:15:08.431769Z"
+slug: chain_of_thought
+date: '2026-07-18T15:22:36.149934Z'
+lastmod: '2026-07-18T17:15:08.431769Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية توجيه تشجع النماذج اللغوية الكبيرة على توليد خطوات استنتاج وسيطة قبل الإجابة."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية توجيه تشجع النماذج اللغوية الكبيرة على توليد خطوات استنتاج وسيطة
+  قبل الإجابة.
 ---
-
 ## Definition
 
 يُعد توجيه سلسلة التفكير (CoT) استراتيجية يتم فيها توجيه النماذج اللغوية الكبيرة لإنتاج تفسيرات استنتاجية خطوة بخطوة قبل الوصول إلى إجابة نهائية. ومن خلال تفكيك المشكلات المعقدة...

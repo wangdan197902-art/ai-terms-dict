@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /cs/terms/ciml_community_portal/
 date: "2026-07-18T15:45:56.271169Z"
 lastmod: "2026-07-18T17:15:09.108440Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Centralizovaná online platforma usnadňující spolupráci, sdílení zdrojů a diskuse mezi výzkumníky a odborníky v oblasti výpočetní inteligence a strojového učení."
 ---
-
 ## Definition
 
 Portál komunity CIML slouží jako digitální centrum pro akademickou a profesionální komunitu zaměřenou na výpočetní inteligenci. Poskytuje přístup k datovým sadám, předtrénovaným modelům, výzkumným pracím a dalším zdrojům, čímž podporuje sdílení znalostí a pokrok v oboru.

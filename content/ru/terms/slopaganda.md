@@ -1,23 +1,26 @@
 ---
-title: "Медленная пропаганда (Слопаганда)"
-term_id: "slopaganda"
-category: "application_paradigms"
-subcategory: ""
-tags: ["security", "media_literacy", "psychology", "disinformation"]
+title: Медленная пропаганда (Слопаганда)
+term_id: slopaganda
+category: application_paradigms
+subcategory: ''
+tags:
+- security
+- Media Literacy
+- psychology
+- disinformation
 difficulty: 4
 weight: 1
-slug: "slopaganda"
-aliases:
-  - /ru/terms/slopaganda/
-date: "2026-07-18T16:15:04.054227Z"
-lastmod: "2026-07-18T16:38:07.202362Z"
+slug: slopaganda
+date: '2026-07-18T16:15:04.054227Z'
+lastmod: '2026-07-18T16:38:07.202362Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Неологизм, образованный от слов «медленный» и «пропаганда», обозначающий кампании дезинформации, направленные на подрыв доверия через длительные, тонкие формы влияния."
+source: agnes_llm
+status: published
+language: ru
+description: Неологизм, образованный от слов «медленный» и «пропаганда», обозначающий
+  кампании дезинформации, направленные на подрыв доверия через длительные, тонкие
+  формы влияния.
 ---
-
 ## Definition
 
 Медленная пропаганда описывает стратегическую форму дезинформации, которая опирается на повторение, неоднозначность и длительное воздействие, а не на вирусные шоковые тактики. Ее цель — запутать аудиторию, размыть истину и подорвать доверие к институтам.

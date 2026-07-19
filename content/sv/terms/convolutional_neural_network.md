@@ -1,23 +1,25 @@
 ---
-title: "Konvolutionellt neuralt nätverk"
-term_id: "convolutional_neural_network"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "images", "deep_learning"]
+title: Konvolutionellt neuralt nätverk
+term_id: convolutional_neural_network
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- images
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "convolutional_neural_network"
-aliases:
-  - /sv/terms/convolutional_neural_network/
-date: "2026-07-18T15:22:41.273938Z"
-lastmod: "2026-07-18T17:15:08.935982Z"
+slug: convolutional_neural_network
+date: '2026-07-18T15:22:41.273938Z'
+lastmod: '2026-07-18T17:15:08.935982Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "En specialiserad klass av djupa neuronnätverk som främst används för att bearbeta rutliknande data, såsom bilder, genom att applicera konvolutionella filter."
+source: agnes_llm
+status: published
+language: sv
+description: En specialiserad klass av djupa neuronnätverk som främst används för
+  att bearbeta rutliknande data, såsom bilder, genom att applicera konvolutionella
+  filter.
 ---
-
 ## Definition
 
 Konvolutionella neuronnätverk (CNN) är designade för att automatiskt och adaptivt lära sig spatiala hierarkier av funktioner från visuella indata. De använder konvolutionella lager som applicerar filter för att upptäcka lokala mönster och strukturer.

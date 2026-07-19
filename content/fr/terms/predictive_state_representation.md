@@ -1,23 +1,24 @@
 ---
-title: "Représentation d'état prédictif"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: Représentation d'état prédictif
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /fr/terms/predictive_state_representation/
-date: "2026-07-18T11:34:01.670385Z"
-lastmod: "2026-07-18T11:44:45.312879Z"
+slug: predictive_state_representation
+date: '2026-07-18T11:34:01.670385Z'
+lastmod: '2026-07-18T11:44:45.312879Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une formulation d'état latent en apprentissage par renforcement qui prédit les observations futures sur la base de l'historique des actions."
+source: agnes_llm
+status: published
+language: fr
+description: Une formulation d'état latent en apprentissage par renforcement qui prédit
+  les observations futures sur la base de l'historique des actions.
 ---
-
 ## Definition
 
 Les Représentations d'État Prédictifs (PSR) étendent les processus décisionnels markoviens partiellement observables traditionnels en définissant les états comme des vecteurs de prédictions concernant les événements observables futurs. Au lieu de s'appuyer sur des états cachés non observables, ils utilisent des croyances basées sur l'historique des actions et des observations.

@@ -7,8 +7,6 @@ tags: ["LLM", "logic", "prompting"]
 difficulty: 3
 weight: 1
 slug: "reasoning_model"
-aliases:
-  - /pl/terms/reasoning_model/
 date: "2026-07-18T16:14:31.572639Z"
 lastmod: "2026-07-18T17:15:08.913029Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Model sztucznej inteligencji zoptymalizowany specjalnie do wykonywania złożonych wnioskowań logicznych, rozwiązywania problemów krok po kroku oraz przetwarzania typu chain-of-thought."
 ---
-
 ## Definition
 
 W przeciwieństwie do standardowych modeli generacyjnych skupiających się na płynności, modele rozumowania priorytetyzują dokładność w zadaniach wieloetapowych, takich jak matematyka, programowanie i łamigłówki logiczne. Często wykorzystują techniki takie jak Chain-of-Thought (łańcuch myśli).

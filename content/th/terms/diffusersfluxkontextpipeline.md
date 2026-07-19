@@ -7,8 +7,6 @@ tags: ["pipeline", "flux", "context", "advanced"]
 difficulty: 4
 weight: 1
 slug: "diffusersfluxkontextpipeline"
-aliases:
-  - /th/terms/diffusersfluxkontextpipeline/
 date: "2026-07-18T15:50:17.434099Z"
 lastmod: "2026-07-18T16:38:07.598950Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "เส้นทางการทำงานเฉพาะในไลบรารี Diffusers ที่ออกแบบสำหรับโมเดล Flux ซึ่งเปิดใช้งานการสร้างภาพที่ตระหนักถึงบริบทพร้อมความสอดคล้องเชิงเวลาหรือเชิงพื้นที่ที่เพิ่มขึ้น"
 ---
-
 ## Definition
 
 เส้นทางการทำงานนี้ใช้สถาปัตยกรรม Flux ซึ่งรู้จักกันในด้านการสังเคราะห์ภาพคุณภาพสูง ภายในกรอบงาน Diffusers มันสนับสนุนกลไกบริบทที่อนุญาตให้โมเดลพิจารณาองค์ประกอบโดยรอบ

@@ -7,8 +7,6 @@ tags: ["LLM", "Meta", "Open Source"]
 difficulty: 2
 weight: 1
 slug: "llama_2"
-aliases:
-  - /de/terms/llama_2/
 date: "2026-07-18T11:22:02.475547Z"
 lastmod: "2026-07-18T11:44:44.959508Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Llama 2 ist eine Familie großer Sprachmodelle, die im Juli 2023 von Meta veröffentlicht wurde und im Vergleich zum Vorgänger optimierte Architekturen und größere Kontextfenster aufweist."
 ---
-
 ## Definition
 
 Im Juli 2023 von Meta AI veröffentlicht, stellt Llama 2 eine bedeutende Weiterentwicklung bei Open-Weight-Sprachmodellen dar. Es bietet vortrainierte und feinabgestimmte Varianten mit einer Größe von 7 Milliarden bis 70 Milliarden Parametern.

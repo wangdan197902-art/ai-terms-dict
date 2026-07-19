@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /zh/terms/api/
 date: "2026-07-18T07:43:58.206729Z"
 lastmod: "2026-07-18T11:44:44.590357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "应用程序编程接口，允许不同的软件系统进行通信和数据交换。"
 ---
-
 ## Definition
 
 API 定义了一套用于构建软件和应用程序的协议与工具。在 AI 领域，API 使开发人员能够访问强大的模型（如大语言模型或图像生成器），而无需在本地托管这些模型，从而简化了集成过程并降低了计算成本。

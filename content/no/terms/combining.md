@@ -1,23 +1,24 @@
 ---
-title: "Kombinering"
-term_id: "combining"
-category: "basic_concepts"
-subcategory: ""
-tags: ["techniques", "optimization", "architecture"]
+title: Kombinering
+term_id: combining
+category: basic_concepts
+subcategory: ''
+tags:
+- techniques
+- Optimization
+- architecture
 difficulty: 2
 weight: 1
-slug: "combining"
-aliases:
-  - /no/terms/combining/
-date: "2026-07-18T15:25:06.403495Z"
-lastmod: "2026-07-18T16:38:06.933714Z"
+slug: combining
+date: '2026-07-18T15:25:06.403495Z'
+lastmod: '2026-07-18T16:38:06.933714Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Kombinering innen AI refererer til integrasjonen av flere modeller, datakilder eller teknikker for å forbedre den samlede ytelsen og robustheten."
+source: agnes_llm
+status: published
+language: 'no'
+description: Kombinering innen AI refererer til integrasjonen av flere modeller, datakilder
+  eller teknikker for å forbedre den samlede ytelsen og robustheten.
 ---
-
 ## Definition
 
 Dette begrepet omfatter metoder som ensemble-læring, hvor prediksjoner fra flere modeller aggreges for å redusere varians eller bias. Det inkluderer også multimodal fusjon, der ulike typer data (som tekst og bilde) kombineres for å gi en mer komplett forståelse.

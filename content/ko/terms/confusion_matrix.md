@@ -1,23 +1,23 @@
 ---
-title: "혼동 행렬 (Confusion Matrix)"
-term_id: "confusion_matrix"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "classification", "metrics"]
+title: 혼동 행렬 (Confusion Matrix)
+term_id: confusion_matrix
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- Classification
+- metrics
 difficulty: 2
 weight: 1
-slug: "confusion_matrix"
-aliases:
-  - /ko/terms/confusion_matrix/
-date: "2026-07-18T15:46:14.271492Z"
-lastmod: "2026-07-18T16:38:06.820186Z"
+slug: confusion_matrix
+date: '2026-07-18T15:46:14.271492Z'
+lastmod: '2026-07-18T16:38:06.820186Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "혼동 행렬은 분류 모델이 테스트 데이터 세트에서 수행한 결과를 설명하는 표입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 혼동 행렬은 분류 모델이 테스트 데이터 세트에서 수행한 결과를 설명하는 표입니다.
 ---
-
 ## Definition
 
 혼동 행렬은 알고리즘(일반적으로 지도 학습 모델)의 성능을 시각화하기 위해 사용되는 특정 표 레이아웃입니다. 이 표는 참 양성(True Positive), 참 음성(True Negative), 거짓 양성(False Positive), 거짓 음성(False Negative)의 빈도를 보여주어 모델의 정확도와 오류 유형을 파악하는 데 도움을 줍니다.

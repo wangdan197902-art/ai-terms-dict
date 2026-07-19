@@ -1,23 +1,24 @@
 ---
-title: "Difúze"
-term_id: "diffusion"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_models", "deep_learning", "advanced"]
+title: Difúze
+term_id: diffusion
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative Models
+- Deep Learning
+- advanced
 difficulty: 4
 weight: 1
-slug: "diffusion"
-aliases:
-  - /cs/terms/diffusion/
-date: "2026-07-18T15:24:10.767048Z"
-lastmod: "2026-07-18T17:15:09.066193Z"
+slug: diffusion
+date: '2026-07-18T15:24:10.767048Z'
+lastmod: '2026-07-18T17:15:09.066193Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Technika generativního modelování, která vytváří data obrácením postupného procesu přidávání šumu k rekonstrukci čistých vzorků."
+source: agnes_llm
+status: published
+language: cs
+description: Technika generativního modelování, která vytváří data obrácením postupného
+  procesu přidávání šumu k rekonstrukci čistých vzorků.
 ---
-
 ## Definition
 
 Difuzní modely jsou třídou generativní AI, která se učí obrátit stochastický proces přidávání šumu k datům. Trénováním neuronové sítě tak, aby predikovala a odstraňovala tento krok za krokem, mohou generovat nová, realistická data.

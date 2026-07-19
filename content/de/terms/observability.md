@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /de/terms/observability/
 date: "2026-07-18T11:25:53.034760Z"
 lastmod: "2026-07-18T11:44:44.971332Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Beobachtbarkeit ist das Maß dafür, wie gut interne Systemzustände aus externen Ausgaben wie Logs, Metriken und Traces abgeleitet werden können."
 ---
-
 ## Definition
 
 Im KI-Engineering bezeichnet Beobachtbarkeit die Fähigkeit, den internen Zustand komplexer Machine-Learning-Systeme durch Analyse ihrer externen Ausgaben zu verstehen. Sie geht über das traditionelle Monitoring hinaus.

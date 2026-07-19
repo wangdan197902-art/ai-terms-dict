@@ -1,23 +1,24 @@
 ---
-title: "Diffusers"
-term_id: "diffusers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["library", "generative_ai", "tools", "hugging_face"]
+title: Diffusers
+term_id: diffusers
+category: basic_concepts
+subcategory: ''
+tags:
+- library
+- Generative AI
+- tools
+- Hugging Face
 difficulty: 2
 weight: 1
-slug: "diffusers"
-aliases:
-  - /zh/terms/diffusers/
-date: "2026-07-18T11:14:55.241306Z"
-lastmod: "2026-07-18T11:44:45.488628Z"
+slug: diffusers
+date: '2026-07-18T11:14:55.241306Z'
+lastmod: '2026-07-18T11:44:45.488628Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "Hugging Face 生态系统中的一个库，提供了用于图像、音频和文本生成的最先进的扩散模型实现。"
+source: agnes_llm
+status: published
+language: zh
+description: Hugging Face 生态系统中的一个库，提供了用于图像、音频和文本生成的最先进的扩散模型实现。
 ---
-
 ## Definition
 
 Hugging Face Diffusers 是一个模块化工具包，旨在简化扩散模型的使用。它为文本生成图像、图像修复和超分辨率等任务提供了预训练管道。

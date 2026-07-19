@@ -7,8 +7,6 @@ tags: ["ethics", "sociology", "definitions"]
 difficulty: 2
 weight: 1
 slug: "non_human"
-aliases:
-  - /sv/terms/non_human/
 date: "2026-07-18T16:11:47.458458Z"
 lastmod: "2026-07-18T17:15:09.031960Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Inom AI-etik och sociologi syftar 'icke-mänsklig' på artificiella entiteter eller system som besitter agens, intelligens eller social närvaro men saknar biologisk medvetenhet eller mänsklig identitet."
 ---
-
 ## Definition
 
 Begreppet används ofta i diskussioner om rättigheter, ansvar och social integration för AI-agenter, robotar och virtuella assistenter. Det belyser distinktionen mellan biologiska människor och artificiella system.

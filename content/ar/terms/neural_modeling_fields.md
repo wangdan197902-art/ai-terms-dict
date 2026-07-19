@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /ar/terms/neural_modeling_fields/
 date: "2026-07-18T16:14:24.834743Z"
 lastmod: "2026-07-18T17:15:08.532162Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "إطار نظري يصف التنظيم المكاني والوظيفي لأنماط النشاط العصبي."
 ---
-
 ## Definition
 
 تشمل حقول النمذجة العصبية دراسة كيفية تنظيم المجموعات العصبية نفسها في فضاءات عالية الأبعاد لتمثيل المعلومات. غالباً ما يرتبط هذا المفهوم بالتصاوغ الطوبولوجي ونظرية الحقول.

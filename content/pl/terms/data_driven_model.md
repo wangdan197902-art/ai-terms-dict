@@ -1,23 +1,24 @@
 ---
-title: "Model sterowany danymi"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Model sterowany danymi
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /pl/terms/data_driven_model/
-date: "2026-07-18T15:48:40.247314Z"
-lastmod: "2026-07-18T17:15:08.860570Z"
+slug: data_driven_model
+date: '2026-07-18T15:48:40.247314Z'
+lastmod: '2026-07-18T17:15:08.860570Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Model obliczeniowy, którego parametry i struktura są uczone bezpośrednio z danych empirycznych, a nie poprzez jawne programowanie."
+source: agnes_llm
+status: published
+language: pl
+description: Model obliczeniowy, którego parametry i struktura są uczone bezpośrednio
+  z danych empirycznych, a nie poprzez jawne programowanie.
 ---
-
 ## Definition
 
 Model sterowany danymi to rodzaj systemu sztucznej inteligencji, w którym zachowanie i przewidywania wynikają z wzorców zidentyfikowanych w historycznych danych, a nie są definiowane przez sztywno zakodowane reguły czy logikę eksperta. Tego typu modele polegają na statystycznym wnioskowaniu i uczeniu się z przykładów.

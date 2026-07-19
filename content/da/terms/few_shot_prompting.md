@@ -1,23 +1,24 @@
 ---
-title: "Few-Shot Prompting"
-term_id: "few_shot_prompting"
-category: "application_paradigms"
-subcategory: ""
-tags: ["prompting", "llm", "technique"]
+title: Few-Shot Prompting
+term_id: few_shot_prompting
+category: application_paradigms
+subcategory: ''
+tags:
+- prompting
+- LLM
+- technique
 difficulty: 2
 weight: 1
-slug: "few_shot_prompting"
-aliases:
-  - /da/terms/few_shot_prompting/
-date: "2026-07-18T15:35:10.489011Z"
-lastmod: "2026-07-18T17:15:09.244529Z"
+slug: few_shot_prompting
+date: '2026-07-18T15:35:10.489011Z'
+lastmod: '2026-07-18T17:15:09.244529Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Few-shot prompting er en teknik, hvor store sprogmodeller (LLM'er) gives et lille antal input-output-eksempler i prompten for at vejlede deres adfærd."
+source: agnes_llm
+status: published
+language: da
+description: Few-shot prompting er en teknik, hvor store sprogmodeller (LLM'er) gives
+  et lille antal input-output-eksempler i prompten for at vejlede deres adfærd.
 ---
-
 ## Definition
 
 Denne metode udnytter store sprogmodellers evne til kontekstuel læring ved at give et par illustrerende eksempler direkte i prompten. I modsætning til finjustering, som kræver opdatering af modellens vægte, ændrer denne teknik kun konteksten for modellen.

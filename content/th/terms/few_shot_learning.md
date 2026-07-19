@@ -1,23 +1,23 @@
 ---
-title: "การเรียนรู้แบบ Few-Shot"
-term_id: "few_shot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["ml_theory", "training", "efficiency"]
+title: การเรียนรู้แบบ Few-Shot
+term_id: few_shot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- ML Theory
+- training
+- efficiency
 difficulty: 4
 weight: 1
-slug: "few_shot_learning"
-aliases:
-  - /th/terms/few_shot_learning/
-date: "2026-07-18T15:35:35.979512Z"
-lastmod: "2026-07-18T16:38:07.560859Z"
+slug: few_shot_learning
+date: '2026-07-18T15:35:35.979512Z'
+lastmod: '2026-07-18T16:38:07.560859Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การเรียนรู้แบบ Few-Shot คือกระบวนทัศน์แมชชีนเลิร์นนิงที่โมเดลเรียนรู้แนวคิดใหม่จากข้อมูลฝึกหัดที่มีการติดป้ายกำกับจำนวนจำกัดมาก"
+source: agnes_llm
+status: published
+language: th
+description: การเรียนรู้แบบ Few-Shot คือกระบวนทัศน์แมชชีนเลิร์นนิงที่โมเดลเรียนรู้แนวคิดใหม่จากข้อมูลฝึกหัดที่มีการติดป้ายกำกับจำนวนจำกัดมาก
 ---
-
 ## Definition
 
 การเรียนรู้แบบ Few-Shot มุ่งหมายให้โมเดลสามารถสรุปผลทั่วไปได้จากตัวอย่างเพียงไม่กี่ชิ้น คล้ายกับประสิทธิภาพการเรียนรู้ของมนุษย์ โดยมักอาศัยกลยุทธ์เมตาเลิร์นนิง (meta-learning) ซึ่งโมเดลได้รับการฝึกฝนบนชุดงานต่างๆ มากมายเพื่อให้สามารถปรับตัวและเรียนรู้แนวคิดใหม่ได้อย่างรวดเร็วเมื่อได้รับข้อมูลเพียงเล็กน้อย

@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /es/terms/offline_learning/
 date: "2026-07-18T11:02:45.127953Z"
 lastmod: "2026-07-18T11:44:44.838751Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El aprendizaje fuera de línea es un paradigma de entrenamiento donde los modelos se entrenan en conjuntos de datos estáticos sin interactuar con el entorno en vivo durante la fase de aprendizaje."
 ---
-
 ## Definition
 
 También conocido como aprendizaje por lotes, el aprendizaje fuera de línea implica entrenar modelos de aprendizaje automático en un conjunto de datos fijo recopilado previamente. A diferencia del aprendizaje en línea, el modelo no actualiza sus parámetros en respuesta a nuevas entradas en tiempo real

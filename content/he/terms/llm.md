@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /he/terms/llm/
 date: "2026-07-18T15:26:44.166093Z"
 lastmod: "2026-07-18T17:15:09.480464Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מודל למידה עמוקה המאומן על אוצרות טקסט עצומים כדי להבין ולייצר שפה הדומה לשפת אדם."
 ---
-
 ## Definition
 
 מודלי שפה גדולים (LLMs) הם מערכות בינה מלאכותית מתקדמות המבוססות על ארכיטקטורות טרנספורמר, המאומנות על ערכות נתונים עצומות של טקסט וקוד. הן לומדות דפוסים סטטיסטיים בשפה

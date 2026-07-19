@@ -7,8 +7,6 @@ tags: ["LLM", "constraints", "architecture"]
 difficulty: 2
 weight: 1
 slug: "token_limit"
-aliases:
-  - /hu/terms/token_limit/
 date: "2026-07-18T15:40:10.453369Z"
 lastmod: "2026-07-18T17:15:09.746070Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az a maximális tokenek száma, amelyet egy AI modell egyetlen bemeneti vagy kimeneti sorozatban feldolgozni képes."
 ---
-
 ## Definition
 
 A tokenhatár meghatározza a nagy nyelvi modellek kontextusablakának méretkorlátját, korlátozva, hogy egyszerre mennyi szöveg elemezhető vagy generálható. Ez az architektúrális határ befolyásolja a memóriakezelést,

@@ -1,23 +1,26 @@
 ---
-title: "Archivo Único de Difusión"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Archivo Único de Difusión
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /es/terms/diffusion_single_file/
-date: "2026-07-18T10:44:27.915854Z"
-lastmod: "2026-07-18T11:44:44.799756Z"
+slug: diffusion_single_file
+date: '2026-07-18T10:44:27.915854Z'
+lastmod: '2026-07-18T11:44:44.799756Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Un formato de distribución para modelos de difusión donde todos los pesos del modelo, configuraciones y, a veces, incluso el código de inferencia están empaquetados en un solo archivo para facilitar l"
+source: agnes_llm
+status: published
+language: es
+description: Un formato de distribución para modelos de difusión donde todos los pesos
+  del modelo, configuraciones y, a veces, incluso el código de inferencia están empaquetados
+  en un solo archivo para facilitar l
 ---
-
 ## Definition
 
 Archivo Único de Difusión se refiere a una estrategia de empaquetado para modelos de aprendizaje automático, particularmente modelos de difusión, donde todo el artefacto del modelo —incluyendo pesos binarios, hiperparámetros y arquitectura del modelo— se incluye en un único archivo.

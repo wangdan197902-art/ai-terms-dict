@@ -7,8 +7,6 @@ tags: ["Interdisciplinary", "Robotics", "Biotech"]
 difficulty: 4
 weight: 1
 slug: "biohybrid_system"
-aliases:
-  - /tr/terms/biohybrid_system/
 date: "2026-07-18T15:44:07.909320Z"
 lastmod: "2026-07-18T16:38:07.279874Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "İşlevselliği artırmak veya yeni yetenekler yaratmak için biyolojik bileşenleri yapay cihazlarla birleştiren entegre bir sistemdir."
 ---
-
 ## Definition
 
 Biohibrit sistemler, canlı dokuları, hücreleri veya organizmaları sentetik malzemeler ve elektronik cihazlarla birleştirir. Bu sistemler, kendini onarma gibi biyolojik varlıkların benzersiz özelliklerinden yararlanmayı amaçlar.

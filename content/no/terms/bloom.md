@@ -1,23 +1,24 @@
 ---
-title: "Bloom"
-term_id: "bloom"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "data-structures", "models"]
+title: Bloom
+term_id: bloom
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Data Structures
+- models
 difficulty: 3
 weight: 1
-slug: "bloom"
-aliases:
-  - /no/terms/bloom/
-date: "2026-07-18T15:45:31.160475Z"
-lastmod: "2026-07-18T16:38:06.977614Z"
+slug: bloom
+date: '2026-07-18T15:45:31.160475Z'
+lastmod: '2026-07-18T16:38:06.977614Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Inne i maskinlæring refererer 'Bloom' vanligvis til Blooms taksonomi brukt på AI-utdanning, eller spesifikke innleiringsmodeller som Bloom-tekstinnleiringsmodellen."
+source: agnes_llm
+status: published
+language: 'no'
+description: Inne i maskinlæring refererer 'Bloom' vanligvis til Blooms taksonomi
+  brukt på AI-utdanning, eller spesifikke innleiringsmodeller som Bloom-tekstinnleiringsmodellen.
 ---
-
 ## Definition
 
 Selv om det historisk refererer til Benjamin Blooms pedagogiske taksonomi, betegner det i moderne AI-sammenhenger ofte Bloom-tekstinnleiringsmodellen utviklet av BigScience. Denne modellen genererer høykvalitets

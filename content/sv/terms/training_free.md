@@ -7,8 +7,6 @@ tags: ["techniques", "efficiency"]
 difficulty: 3
 weight: 1
 slug: "training_free"
-aliases:
-  - /sv/terms/training_free/
 date: "2026-07-18T15:37:00.860796Z"
 lastmod: "2026-07-18T17:15:08.959640Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Metoder som anpassar eller förbättrar modeller utan att utföra gradientbaserade parameteruppdateringar."
 ---
-
 ## Definition
 
 Träningfria metoder avser tekniker som modifierar modellens beteende eller utdata utan att uppdatera de underliggande vikterna via backpropagering. Dessa metoder ofta utnyttjar promptengineering, funktionsextrahering eller externa minnen för att anpassa modellen till nya uppgifter utan kostnad för omträning.

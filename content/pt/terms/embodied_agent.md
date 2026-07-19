@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /pt/terms/embodied_agent/
 date: "2026-07-18T14:58:52.390276Z"
 lastmod: "2026-07-18T15:51:59.487836Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um agente encarnado é um sistema de IA que interage com seu ambiente por meio de um corpo físico ou aparato sensório-motor."
 ---
-
 ## Definition
 
 Diferente da IA desconectada (disembodied) que processa dados abstratos, os agentes encarnados aprendem e atuam dentro de um contexto físico, dependendo de entradas sensoriais e saídas motoras. Este paradigma é central para a robótica e sistemas autônomos.

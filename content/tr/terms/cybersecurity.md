@@ -7,8 +7,6 @@ tags: ["security", "industry", "protection"]
 difficulty: 2
 weight: 1
 slug: "cybersecurity"
-aliases:
-  - /tr/terms/cybersecurity/
 date: "2026-07-18T15:46:47.292502Z"
 lastmod: "2026-07-18T16:38:07.288468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Sistemleri, ağları ve programları dijital saldırılardan, yetkisiz erişimden ve hasardan çeşitli savunma teknolojileri aracılığıyla koruma pratiğidir."
 ---
-
 ## Definition
 
 Siber güvenlik; ağları, bilgisayarları, programları ve verileri saldırılardan, hasardan veya yetkisiz erişimden korumak üzere tasarlanmış teknolojileri, süreçleri ve uygulamaları kapsar. Yapay zeka bağlamında, siber güvenlik modellerinin güvenliğinin sağlanması ve saldırgan makine öğrenimi tehditlerine karşı dirençli sistemlerin geliştirilmesi açısından kritiktir.

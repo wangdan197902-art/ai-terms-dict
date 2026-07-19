@@ -1,23 +1,24 @@
 ---
-title: "กึ่งควบคุมตนเอง"
-term_id: "self_supervised"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning_paradigms", "nlp", "scalability"]
+title: กึ่งควบคุมตนเอง
+term_id: self_supervised
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Paradigms
+- NLP
+- scalability
 difficulty: 4
 weight: 1
-slug: "self_supervised"
-aliases:
-  - /th/terms/self_supervised/
-date: "2026-07-18T15:34:10.872983Z"
-lastmod: "2026-07-18T16:38:07.557260Z"
+slug: self_supervised
+date: '2026-07-18T15:34:10.872983Z'
+lastmod: '2026-07-18T16:38:07.557260Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "การเรียนรู้แบบกึ่งควบคุมตนเอง เป็นเทคนิคที่โมเดลสร้างป้ายกำกับ (Labels) ของตัวเองจากข้อมูลนำเข้าเพื่อเรียนรู้การแสดงแทนข้อมูลโดยไม่ต้องมีการติดป้ายกำกับโดยมนุษย์"
+source: agnes_llm
+status: published
+language: th
+description: การเรียนรู้แบบกึ่งควบคุมตนเอง เป็นเทคนิคที่โมเดลสร้างป้ายกำกับ (Labels)
+  ของตัวเองจากข้อมูลนำเข้าเพื่อเรียนรู้การแสดงแทนข้อมูลโดยไม่ต้องมีการติดป้ายกำกับโดยมนุษย์
 ---
-
 ## Definition
 
 การเรียนรู้แบบกึ่งควบคุมตนเองเป็นสาขาย่อยของแมชชีนเลิร์นนิง โดยสัญญาณการควบคุม (Supervision Signal) จะถูกดึงมาอัตโนมัติจากตัวข้อมูลเอง จึงไม่ต้องพึ่งพาการติดป้ายกำกับด้วยมือ โมเดลมักจะแก้ปัญหาที่กำหนดไว้ล่วงหน้า (Pretext Tasks) เช่น การเติมคำที่หายไป หรือการทำนายคำถัดไป เพื่อเรียนรู้โครงสร้างและรูปแบบของข้อมูล

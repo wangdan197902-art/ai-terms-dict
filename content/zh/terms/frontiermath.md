@@ -1,23 +1,23 @@
 ---
-title: "FrontierMath"
-term_id: "frontiermath"
-category: "basic_concepts"
-subcategory: ""
-tags: ["benchmark", "mathematics", "evaluation"]
+title: FrontierMath
+term_id: frontiermath
+category: basic_concepts
+subcategory: ''
+tags:
+- Benchmark
+- mathematics
+- evaluation
 difficulty: 3
 weight: 1
-slug: "frontiermath"
-aliases:
-  - /zh/terms/frontiermath/
-date: "2026-07-18T11:17:53.013429Z"
-lastmod: "2026-07-18T11:44:45.502472Z"
+slug: frontiermath
+date: '2026-07-18T11:17:53.013429Z'
+lastmod: '2026-07-18T11:44:45.502472Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一个旨在评估最先进AI模型高级数学推理能力的基准数据集。"
+source: agnes_llm
+status: published
+language: zh
+description: 一个旨在评估最先进AI模型高级数学推理能力的基准数据集。
 ---
-
 ## Definition
 
 FrontierMath是一个专门的评估套件，用于测试大型语言模型在复杂数学问题解决方面的极限。与标准的算术基准不同，它侧重于高水平（high-scoring）的数学推理能力评估。

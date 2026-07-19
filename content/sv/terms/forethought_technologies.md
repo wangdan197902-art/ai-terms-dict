@@ -7,8 +7,6 @@ tags: ["engineering", "prediction", "strategy"]
 difficulty: 3
 weight: 1
 slug: "forethought_technologies"
-aliases:
-  - /sv/terms/forethought_technologies/
 date: "2026-07-18T15:58:37.555003Z"
 lastmod: "2026-07-18T17:15:09.004685Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Föraningenstekniker avser ingenjörsmässiga metoder som förutser framtida systemtillstånd, risker och krav genom prediktiv modellering och simulering."
 ---
-
 ## Definition
 
 Detta koncept innebär att utforma AI-system med framåtblickande förmågor som kan simulera potentiella utfall och anpassa sig proaktivt. Det integrerar prediktiv analys, scenarioplanering och risk

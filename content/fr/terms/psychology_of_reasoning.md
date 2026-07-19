@@ -7,8 +7,6 @@ tags: ["cognitive", "interdisciplinary", "alignment"]
 difficulty: 4
 weight: 1
 slug: "psychology_of_reasoning"
-aliases:
-  - /fr/terms/psychology_of_reasoning/
 date: "2026-07-18T11:34:39.582950Z"
 lastmod: "2026-07-18T11:44:45.316878Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'étude interdisciplinaire de la manière dont les humains forment des jugements, prennent des décisions et résolvent des problèmes, éclairant les architectures cognitives de l'IA."
 ---
-
 ## Definition
 
 Ce domaine examine les processus mentaux sous-jacents au raisonnement déductif, inductif et abductif humain. Il explore les biais, les heuristiques et les structures logiques qui guident la pensée humaine. En IA, ces insights aident à concevoir des systèmes plus alignés avec la cognition humaine.

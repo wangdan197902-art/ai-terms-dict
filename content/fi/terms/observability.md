@@ -7,8 +7,6 @@ tags: ["MLOps", "Engineering", "System Design"]
 difficulty: 3
 weight: 1
 slug: "observability"
-aliases:
-  - /fi/terms/observability/
 date: "2026-07-18T16:14:18.893530Z"
 lastmod: "2026-07-18T17:15:09.440347Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Observoitavuus mittaa sitä, kuinka hyvin järjestelmän sisäiset tilat voidaan päätellä ulkoisista lähtöarvoista, kuten lokitiedoista, mittareista ja jäljitystiedoista."
 ---
-
 ## Definition
 
 Tekoälyinsinöörintyössä observoitavuus viittaa kykyyn ymmärtää monimutkaisten koneoppimisjärjestelmien sisäistä tilaa analysoimalla niiden ulkoisia lähtöarvoja. Se ulottuu perinteisen valvonnan (monitoroinnin) ulkopuolelle.

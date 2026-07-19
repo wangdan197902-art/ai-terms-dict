@@ -1,23 +1,24 @@
 ---
-title: "Texto a Imagen"
-term_id: "text_to_image"
-category: "application_paradigms"
-subcategory: ""
-tags: ["image_generation", "diffusion", "multimodal"]
+title: Texto a Imagen
+term_id: text_to_image
+category: application_paradigms
+subcategory: ''
+tags:
+- Image Generation
+- diffusion
+- multimodal
 difficulty: 2
 weight: 1
-slug: "text_to_image"
-aliases:
-  - /es/terms/text_to_image/
-date: "2026-07-18T11:10:01.146967Z"
-lastmod: "2026-07-18T11:44:44.860839Z"
+slug: text_to_image
+date: '2026-07-18T11:10:01.146967Z'
+lastmod: '2026-07-18T11:44:44.860839Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una técnica de IA generativa que crea imágenes visuales a partir de descripciones de texto descriptivas utilizando modelos como Stable Diffusion o DALL-E."
+source: agnes_llm
+status: published
+language: es
+description: Una técnica de IA generativa que crea imágenes visuales a partir de descripciones
+  de texto descriptivas utilizando modelos como Stable Diffusion o DALL-E.
 ---
-
 ## Definition
 
 Texto a Imagen se refiere a la aplicación de la inteligencia artificial generativa para sintetizar imágenes fotorrealistas o artísticas basadas en descripciones en lenguaje natural. Estos sistemas emplean típicamente modelos de difusión que operan en un espacio latente, traduciendo las características semánticas del prompt en patrones visuales coherentes y detallados.

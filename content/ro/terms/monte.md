@@ -7,8 +7,6 @@ tags: ["statistics", "simulation", "inference"]
 difficulty: 3
 weight: 1
 slug: "monte"
-aliases:
-  - /ro/terms/monte/
 date: "2026-07-18T15:27:20.556642Z"
 lastmod: "2026-07-18T17:15:09.598692Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Monte se referă la metodele Monte Carlo, care utilizează eșantionarea aleatorie repetată pentru a obține rezultate numerice pentru probleme deterministe, dar prea complexe pentru soluții analitice."
 ---
-
 ## Definition
 
 Tehnicile Monte Carlo sunt o clasă de algoritmi computaționali care se bazează pe eșantionarea aleatorie repetată pentru a estima cantități matematice. Acestea sunt deosebit de utile în integrarea de înaltă dimensiune, simularea sistemelor fizice complexe și inferența probabilistică atunci când metodele exacte sunt impracticabile.

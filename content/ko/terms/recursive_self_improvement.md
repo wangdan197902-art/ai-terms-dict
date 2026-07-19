@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Ethics"]
 difficulty: 4
 weight: 1
 slug: "recursive_self_improvement"
-aliases:
-  - /ko/terms/recursive_self_improvement/
 date: "2026-07-18T16:13:06.224436Z"
 lastmod: "2026-07-18T16:38:06.903380Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "AIシステムが自己修正を通じて、自身の知能や能力を反復的に高めるプロセス。"
 ---
-
 ## Definition
 
 再帰的自己改善とは、人工知能システムがより賢く、効率的、あるいは能力の高いものになるために、自身のソースコードやアーキテクチャを書き換えることができるという理論的な能力を指します。これは特に...

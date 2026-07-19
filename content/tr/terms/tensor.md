@@ -1,23 +1,24 @@
 ---
-title: "Tensör"
-term_id: "tensor"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "data-structures", "pytorch"]
+title: Tensör
+term_id: tensor
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Data Structures
+- pytorch
 difficulty: 2
 weight: 1
-slug: "tensor"
-aliases:
-  - /tr/terms/tensor/
-date: "2026-07-18T16:16:35.045407Z"
-lastmod: "2026-07-18T16:38:07.371379Z"
+slug: tensor
+date: '2026-07-18T16:16:35.045407Z'
+lastmod: '2026-07-18T16:38:07.371379Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Derin öğrenme çerçevelerinin temel veri yapısı olarak hizmet veren çok boyutlu bir dizi."
+source: agnes_llm
+status: published
+language: tr
+description: Derin öğrenme çerçevelerinin temel veri yapısı olarak hizmet veren çok
+  boyutlu bir dizi.
 ---
-
 ## Definition
 
 Bilgisayar bilimlerinde ve derin öğrenmede tensör, skalerleri, vektörleri ve matrisleri daha yüksek boyutlara genelleştiren matematiksel bir nesnedir. Sırası (boyut sayısı) ve şekli ile karakterize edilir.

@@ -7,8 +7,6 @@ tags: ["Symbolic AI", "Learning Paradigm", "Theory-Driven"]
 difficulty: 4
 weight: 1
 slug: "explanation_based_learning"
-aliases:
-  - /tr/terms/explanation_based_learning/
 date: "2026-07-18T15:52:56.686918Z"
 lastmod: "2026-07-18T16:38:07.307366Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Açıklama tabanlı öğrenme, alan teorisini ve tek bir eğitim örneğini kullanarak bir açıklama oluşturan ve bu açıklamanın yeni bir kurala genelleştirildiği bir makine öğrenimi yöntemidir."
 ---
-
 ## Definition
 
 EBL, öğrenme sürecini hızlandırmak için sembolik akıl yürütme ile makine öğrenimini birleştirir. Büyük veri setlerine güvenmek yerine, tek bir olumlu örnek alır ve önceden var olan bir alan teorisini kullanarak bu örneğin neden doğru olduğunu açıklar.

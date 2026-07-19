@@ -7,8 +7,6 @@ tags: ["moE", "efficiency", "reasoning"]
 difficulty: 3
 weight: 1
 slug: "deepseek_v3"
-aliases:
-  - /pt/terms/deepseek_v3/
 date: "2026-07-18T14:57:03.718480Z"
 lastmod: "2026-07-18T15:51:59.482501Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O DeepSeek V3 é um modelo de linguagem altamente eficiente do tipo Mixture-of-Experts (MoE) que alcança desempenho de ponta com custos de treinamento significativamente reduzidos."
 ---
-
 ## Definition
 
 O DeepSeek V3 é uma iteração avançada na família de modelos DeepSeek, caracterizada pela ativação densa apenas de um pequeno subconjunto de parâmetros durante a inferência, por meio de roteamento Mixture-of-Experts. Esta arquitetura permite...

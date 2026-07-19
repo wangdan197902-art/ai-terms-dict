@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /ar/terms/accountability/
 date: "2026-07-18T15:42:26.390496Z"
 lastmod: "2026-07-18T17:15:08.472288Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "المبدأ الذي يقتضي أن يكون مطورو أنظمة الذكاء الاصطناعي ومشغلوها مسؤولين أمام النتائج والآثار المترتبة على هذه الأنظمة."
 ---
-
 ## Definition
 
 تشير المساءلة في مجال الذكاء الاصطناعي إلى التزام الأفراد والمنظمات والمطورين بتحمل مسؤولية تصميم ونشر تقنيات الذكاء الاصطناعي وعواقبها.

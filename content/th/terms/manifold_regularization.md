@@ -1,23 +1,23 @@
 ---
-title: "การปรับค่าด้วยแมนิโฟลด์ (Manifold Regularization)"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: การปรับค่าด้วยแมนิโฟลด์ (Manifold Regularization)
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /th/terms/manifold_regularization/
-date: "2026-07-18T16:04:52.721439Z"
-lastmod: "2026-07-18T16:38:07.630201Z"
+slug: manifold_regularization
+date: '2026-07-18T16:04:52.721439Z'
+lastmod: '2026-07-18T16:38:07.630201Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการเรียนรู้กึ่งควบคุมที่สมมติว่าข้อมูลอยู่บนแมนิโฟลด์มิติต่ำ และทำการปรับค่าโมเดลโดยอาศัยโครงสร้างทางเรขาคณิตนี้"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการเรียนรู้กึ่งควบคุมที่สมมติว่าข้อมูลอยู่บนแมนิโฟลด์มิติต่ำ และทำการปรับค่าโมเดลโดยอาศัยโครงสร้างทางเรขาคณิตนี้
 ---
-
 ## Definition
 
 การปรับค่าด้วยแมนิโฟลด์เป็นการขยายวิธีการปรับค่าแบบดั้งเดิมโดยการนำโครงสร้างเรขาคณิตภายในของการกระจายตัวของข้อมูลมาประกอบร่วม โดยทำงานภายใต้สมมติฐานที่ว่าจุดข้อมูลที่มีมิติสูงนั้น...

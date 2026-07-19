@@ -7,8 +7,6 @@ tags: ["ethics", "trust", "governance"]
 difficulty: 2
 weight: 1
 slug: "transparency"
-aliases:
-  - /no/terms/transparency/
 date: "2026-07-18T15:39:06.386982Z"
 lastmod: "2026-07-18T16:38:06.963909Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "I hvilken grad beslutningsprosesser, datakilder og begrensninger i et AI-system er åpne og forståelige for brukerne."
 ---
-
 ## Definition
 
 Transparens sikrer at interessenter kan forstå hvordan en AI-modell kommer til sine resultater, noe som fremmer tillit og ansvarlighet. Det involverer å offentliggjøre opprinnelsen til treningsdata, modellarkitekturer og

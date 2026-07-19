@@ -7,8 +7,6 @@ tags: ["hybrid", "reasoning", "interpretability"]
 difficulty: 4
 weight: 1
 slug: "neuro_symbolic_ai"
-aliases:
-  - /de/terms/neuro_symbolic_ai/
 date: "2026-07-18T11:25:18.447478Z"
 lastmod: "2026-07-18T11:44:44.970011Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein KI-Ansatz, der die Lernfähigkeiten neuronaler Netze mit der Logik und Transparenz symbolischen Reasonings kombiniert."
 ---
-
 ## Definition
 
 Neuro-symbolische KI integriert sub-symbolische neuronale Lernmethoden mit symbolischen, logikbasierten Reasoning-Systemen. Dieser hybride Ansatz zielt darauf ab, die Grenzen reinen Deep Learnings zu überwinden, wie z. B. mangelnde...

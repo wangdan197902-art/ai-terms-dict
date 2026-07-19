@@ -7,8 +7,6 @@ tags: ["tooling", "sql", "automation"]
 difficulty: 2
 weight: 1
 slug: "mindsdb"
-aliases:
-  - /sv/terms/mindsdb/
 date: "2026-07-18T16:09:41.387506Z"
 lastmod: "2026-07-18T17:15:09.026688Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "MindsDB är en öppen källkod-plattform som gör det möjligt för utvecklare att bygga, träna och distribuera maskininlärningsmodeller direkt i sina befintliga databaser med hjälp av SQL."
 ---
-
 ## Definition
 
 MindsDB fungerar som en bro mellan traditionella relationsdatabaser och moderna maskininlärningsarbetssätt. Det låter användare skapa prediktiva modeller med standard SQL-frågor, vilket eliminerar behovet av...

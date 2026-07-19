@@ -1,23 +1,23 @@
 ---
-title: "Vaihtoehtoisesti"
-term_id: "instead"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "nlp"]
+title: Vaihtoehtoisesti
+term_id: instead
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- NLP
 difficulty: 1
 weight: 1
-slug: "instead"
-aliases:
-  - /fi/terms/instead/
-date: "2026-07-18T15:28:10.220216Z"
-lastmod: "2026-07-18T17:15:09.352830Z"
+slug: instead
+date: '2026-07-18T15:28:10.220216Z'
+lastmod: '2026-07-18T17:15:09.352830Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Vaihtoehtoisesti on kieliopillinen konjunktio tai adverbi, joka osoittaa korvaamista, vaihtoa tai vaihtoehtoista toimintaa toisen sijaan."
+source: agnes_llm
+status: published
+language: fi
+description: Vaihtoehtoisesti on kieliopillinen konjunktio tai adverbi, joka osoittaa
+  korvaamista, vaihtoa tai vaihtoehtoista toimintaa toisen sijaan.
 ---
-
 ## Definition
 
 Vaikka 'vaihtoehtoisesti' ei ole tekninen tekoälyalgoritmi, se on ratkaisevan tärkeä ohjetekstien suunnittelussa (prompt engineering) ja luonnollisen kielen ymmärtämisessä. Se ilmaisee kontrastin tai korvaussuhteen lausekkeiden välillä. Suurten kielimallien koulutuksessa

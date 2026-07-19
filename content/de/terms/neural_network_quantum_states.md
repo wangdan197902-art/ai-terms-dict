@@ -1,23 +1,24 @@
 ---
-title: "Quantenzustände neuronaler Netze"
-term_id: "neural_network_quantum_states"
-category: "basic_concepts"
-subcategory: ""
-tags: ["quantum-computing", "advanced", "simulation"]
+title: Quantenzustände neuronaler Netze
+term_id: neural_network_quantum_states
+category: basic_concepts
+subcategory: ''
+tags:
+- Quantum Computing
+- advanced
+- simulation
 difficulty: 5
 weight: 1
-slug: "neural_network_quantum_states"
-aliases:
-  - /de/terms/neural_network_quantum_states/
-date: "2026-07-18T11:25:18.447450Z"
-lastmod: "2026-07-18T11:44:44.969746Z"
+slug: neural_network_quantum_states
+date: '2026-07-18T11:25:18.447450Z'
+lastmod: '2026-07-18T11:44:44.969746Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Darstellung von Vielteilchen-Wellenfunktionen der Quantenmechanik unter Verwendung von Architekturen künstlicher neuronaler Netze."
+source: agnes_llm
+status: published
+language: de
+description: Eine Darstellung von Vielteilchen-Wellenfunktionen der Quantenmechanik
+  unter Verwendung von Architekturen künstlicher neuronaler Netze.
 ---
-
 ## Definition
 
 Quantenzustände neuronaler Netze nutzen Deep-Learning-Techniken, um komplexe quantenmechanische Wellenfunktionen zu approximieren. Dabei werden die Gewichte neuronaler Netze als Parameter behandelt, die die Wahrscheinlichkeitsamplituden von Qubits optimieren.

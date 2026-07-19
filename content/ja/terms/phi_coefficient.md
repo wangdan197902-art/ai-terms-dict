@@ -1,23 +1,23 @@
 ---
-title: "フィ係数"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: フィ係数
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /ja/terms/phi_coefficient/
-date: "2026-07-18T11:28:02.045986Z"
-lastmod: "2026-07-18T11:44:45.131878Z"
+slug: phi_coefficient
+date: '2026-07-18T11:28:02.045986Z'
+lastmod: '2026-07-18T11:44:45.131878Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "2つの二値変数の間の関連性を測る統計指標。"
+source: agnes_llm
+status: published
+language: ja
+description: 2つの二値変数の間の関連性を測る統計指標。
 ---
-
 ## Definition
 
 フィ係数（φ）は、2つの二値変数の間の関連性を測る指標であり、二分変数に対するピアソン相関係数として機能します。-1から+1の範囲を取り、0は無相関を意味します。

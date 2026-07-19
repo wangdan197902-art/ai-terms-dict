@@ -1,23 +1,23 @@
 ---
-title: "Busca"
-term_id: "search"
-category: "application_paradigms"
-subcategory: ""
-tags: ["algorithms", "decision_making"]
+title: Busca
+term_id: search
+category: application_paradigms
+subcategory: ''
+tags:
+- algorithms
+- Decision Making
 difficulty: 3
 weight: 1
-slug: "search"
-aliases:
-  - /pt/terms/search/
-date: "2026-07-18T14:39:15.812971Z"
-lastmod: "2026-07-18T15:51:59.438861Z"
+slug: search
+date: '2026-07-18T14:39:15.812971Z'
+lastmod: '2026-07-18T15:51:59.438861Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Algoritmos de busca exploram sistematicamente espaços de solução para encontrar resultados ótimos ou satisfatórios em tarefas de IA."
+source: agnes_llm
+status: published
+language: pt
+description: Algoritmos de busca exploram sistematicamente espaços de solução para
+  encontrar resultados ótimos ou satisfatórios em tarefas de IA.
 ---
-
 ## Definition
 
 A busca é um paradigma fundamental em IA usado para navegar em espaços de problemas complexos, como jogos ou planejamento de rotas. Algoritmos como A*, Minimax ou Busca em Árvore de Monte Carlo avaliam movimentos potenciais

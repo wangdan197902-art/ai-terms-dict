@@ -1,23 +1,23 @@
 ---
-title: "선형 분리 가능성"
-term_id: "linear_separability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["geometry", "classification", "theory"]
+title: 선형 분리 가능성
+term_id: linear_separability
+category: basic_concepts
+subcategory: ''
+tags:
+- geometry
+- Classification
+- theory
 difficulty: 3
 weight: 1
-slug: "linear_separability"
-aliases:
-  - /ko/terms/linear_separability/
-date: "2026-07-18T16:02:32.715332Z"
-lastmod: "2026-07-18T16:38:06.863045Z"
+slug: linear_separability
+date: '2026-07-18T16:02:32.715332Z'
+lastmod: '2026-07-18T16:38:06.863045Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "두 클래스의 데이터가 단일 직선이나 초평면으로 완벽하게 구분될 수 있는 데이터셋의 성질입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 두 클래스의 데이터가 단일 직선이나 초평면으로 완벽하게 구분될 수 있는 데이터셋의 성질입니다.
 ---
-
 ## Definition
 
 선형 분리 가능성은 서로 다른 클래스에 속하는 데이터 포인트들이 2차원 공간의 직선이나 고차원 공간의 초평면과 같은 선형 경계로 완전히 분리될 수 있는 기하학적 조건을 의미합니다. 이는 분류 문제의 복잡도를 이해하는 데 중요합니다.

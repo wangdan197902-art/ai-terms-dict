@@ -7,8 +7,6 @@ tags: ["privacy", "ethics", "maintenance"]
 difficulty: 4
 weight: 1
 slug: "machine_unlearning"
-aliases:
-  - /ar/terms/machine_unlearning/
 date: "2026-07-18T16:12:08.455321Z"
 lastmod: "2026-07-18T17:15:08.525750Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "النسيان الآلي هو عملية إزالة نقاط بيانات محددة أو تأثيرها من نموذج مدرب دون الحاجة لإعادة تدريبه من الصفر."
 ---
-
 ## Definition
 
 تعالج هذه التقنية لوائح الخصوصية مثل 'الحق في النسيان' بموجب اللائحة العامة لحماية البيانات (GDPR)، مما يسمح للنماذج بنسيان بيانات مستخدمين محددين مع الاحتفاظ بالمعرفة العامة. تهدف إلى تقريب الأداء...

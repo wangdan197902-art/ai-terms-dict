@@ -7,8 +7,6 @@ tags: ["audio", "accessibility", "synthesis"]
 difficulty: 2
 weight: 1
 slug: "text_to_speech"
-aliases:
-  - /no/terms/text_to_speech/
 date: "2026-07-18T16:18:51.532199Z"
 lastmod: "2026-07-18T16:38:07.053405Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Tekst-til-tale (TTS) er en teknologi som omdanner skrevet tekst til naturlig klingende menneskelig tale."
 ---
-
 ## Definition
 
 Tekst-til-tale (TTS) er en type hjelpemiddelteknologi som leser digital tekst høyt for brukeren. Den bruker avanserte nevrale nettverk og akustiske modeller for å syntetisere tale som etterligner menneskelig intonasjon.

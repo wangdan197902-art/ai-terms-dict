@@ -7,8 +7,6 @@ tags: ["architecture", "recurrent", "memory"]
 difficulty: 3
 weight: 1
 slug: "feedback_neural_network"
-aliases:
-  - /it/terms/feedback_neural_network/
 date: "2026-07-18T15:59:52.403864Z"
 lastmod: "2026-07-18T17:15:08.626154Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Un'architettura di rete neurale in cui le connessioni formano cicli diretti, consentendo alla informazione di persistere nel tempo."
 ---
-
 ## Definition
 
 Le reti neurali con feedback, note anche come reti neurali ricorrenti (RNN), contengono loop che permettono ai segnali di propagarsi nuovamente negli strati precedenti. Questa ricorrenza consente alla rete di mantenere uno stato interno.

@@ -7,8 +7,6 @@ tags: ["analysis", "preprocessing", "visualization"]
 difficulty: 2
 weight: 1
 slug: "data_exploration"
-aliases:
-  - /ro/terms/data_exploration/
 date: "2026-07-18T15:51:48.416248Z"
 lastmod: "2026-07-18T17:15:09.642037Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Analiza inițială a seturilor de date pentru descoperirea tiparelor, identificarea anomaliilor și testarea ipotezelor înainte de modelarea formală."
 ---
-
 ## Definition
 
 Explorarea datelor, adesea numită Analiză Exploratorie a Datelor (EDA), este un pas preliminar critic în fluxurile de lucru ale învățării automate. Aceasta implică rezumarea caracteristicilor principale ale datelor, folosind frecvent tehnici statistice și vizualizare pentru a înțelege structura și distribuția acestora înainte de aplicarea algoritmilor complecși.

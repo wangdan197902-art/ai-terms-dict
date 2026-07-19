@@ -7,8 +7,6 @@ tags: ["undefined", "terminology"]
 difficulty: 1
 weight: 1
 slug: "gibberlink"
-aliases:
-  - /th/terms/gibberlink/
 date: "2026-07-18T15:56:21.143204Z"
 lastmod: "2026-07-18T16:38:07.610240Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "Gibberlink ไม่ใช่ศัพท์มาตรฐานที่รู้จักในวรรณกรรมด้านปัญญาประดิษฐ์"
 ---
-
 ## Definition
 
 ไม่มีความหมาย เทคโนโลยี หรือระเบียบวิธีที่เรียกว่า 'Gibberlink' ในสาขาปัญญาประดิษฐ์ การเรียนรู้ของเครื่อง หรือวิทยาการคอมพิวเตอร์ คำนี้อาจเป็นการสะกดผิดหรือเป็นคำในนิยาย

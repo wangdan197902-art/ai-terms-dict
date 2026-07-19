@@ -7,8 +7,6 @@ tags: ["interpretability", "neurons", "research"]
 difficulty: 4
 weight: 1
 slug: "polysemanticity"
-aliases:
-  - /it/terms/polysemanticity/
 date: "2026-07-18T16:16:15.417422Z"
 lastmod: "2026-07-18T17:15:08.658887Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il fenomeno per cui i singoli neuroni nelle reti neurali rispondono a più concetti distinti."
 ---
-
 ## Definition
 
 La polisemanticità è una caratteristica osservata nelle reti neurali profonde, in particolare nei transformer, in cui un singolo neurone può attivarsi in risposta a diversi elementi non correlati o semanticamente distinti

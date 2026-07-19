@@ -7,8 +7,6 @@ tags: ["hardware", "agents", "application"]
 difficulty: 3
 weight: 1
 slug: "rabbit_r1"
-aliases:
-  - /fi/terms/rabbit_r1/
 date: "2026-07-18T16:18:10.212198Z"
 lastmod: "2026-07-18T17:15:09.452868Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kädessä pidettävä tekoälyllä varustettu laite, jossa on suuri toimintamalli (LAM), joka on suunniteltu tehtävien suorittamiseen autonomisesti."
 ---
-
 ## Definition
 
 Rabbit r1 on Rabbit Inc.:n lanseeraama omistautunut laite, jonka ytimessä on sen oma Suuri toimintamalli (Large Action Model, LAM). Toisin kuin yleiskäyttöiset älypuhelimet, se keskittyy tiettyjen digitaalisten tehtävien suorittamiseen.

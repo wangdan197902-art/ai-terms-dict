@@ -1,23 +1,24 @@
 ---
-title: "Többfejes Figyelem"
-term_id: "multi_head_attention"
-category: "basic_concepts"
-subcategory: ""
-tags: ["transformer", "nlp", "deep_learning"]
+title: Többfejes Figyelem
+term_id: multi_head_attention
+category: basic_concepts
+subcategory: ''
+tags:
+- transformer
+- NLP
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "multi_head_attention"
-aliases:
-  - /hu/terms/multi_head_attention/
-date: "2026-07-18T15:28:34.654556Z"
-lastmod: "2026-07-18T17:15:09.725219Z"
+slug: multi_head_attention
+date: '2026-07-18T15:28:34.654556Z'
+lastmod: '2026-07-18T17:15:09.725219Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy mechanizmus a transformer modellekben, amely lehetővé teszi a modell számára, hogy egyszerre figyeljen különböző reprezentációs altérbeli információkra."
+source: agnes_llm
+status: published
+language: hu
+description: Egy mechanizmus a transformer modellekben, amely lehetővé teszi a modell
+  számára, hogy egyszerre figyeljen különböző reprezentációs altérbeli információkra.
 ---
-
 ## Definition
 
 A Többfejes Figyelem kiterjeszti az alapfigyelem mechanizmust azzal, hogy azt többször futtatja párhuzamosan különböző tanult lineáris vetületekkel. Ez lehetővé teszi a modell számára, hogy egyidejűleg többféle információtípust vagy kapcsolatot figyeljen meg.

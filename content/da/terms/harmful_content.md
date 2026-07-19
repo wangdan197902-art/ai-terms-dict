@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /da/terms/harmful_content/
 date: "2026-07-18T15:59:53.982710Z"
 lastmod: "2026-07-18T17:15:09.295325Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Information, der udgør en risiko for individer eller samfundet, herunder hadefulde ytringer, vold og ulovlige handlinger."
 ---
-
 ## Definition
 
 Skadeligt indhold refererer til digitale medier eller tekst, der kan forårsage fysisk, psykologisk eller social skade. Inden for AI-sikkerhed er det afgørende at opdage og filtrere sådant indhold for at forhindre modeller i at generere

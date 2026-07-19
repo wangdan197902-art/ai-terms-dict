@@ -7,8 +7,6 @@ tags: ["Computer Vision", "Multimodal", "Data Type"]
 difficulty: 2
 weight: 1
 slug: "visual"
-aliases:
-  - /he/terms/visual/
 date: "2026-07-18T15:31:58.343347Z"
 lastmod: "2026-07-18T17:15:09.490941Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "הקשור לראייה או לדמיון, לרוב מתייחס למשימות ראיית מחשב העוסקות בעיבוד ופרשנות של נתונים חזותיים כמו תמונות וסרטונים."
 ---
-
 ## Definition
 
 המונח 'ויזואלי' ב-AI מתייחס בעיקר לראיית מחשב (Computer Vision), התחום המוקדש לאפשר למכונות לחלץ מידע משמעותי מתמונות דיגיטליות, סרטונים וקלטים חזותיים אחרים. זה כולל זיהוי דפוסים, עצמים ופנים.

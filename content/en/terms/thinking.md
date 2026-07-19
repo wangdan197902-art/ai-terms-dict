@@ -1,23 +1,23 @@
 ---
-title: "Thinking"
-term_id: "thinking"
-category: "basic_concepts"
-subcategory: ""
-tags: ["cognitive_ai", "foundational"]
+title: Thinking
+term_id: thinking
+category: basic_concepts
+subcategory: ''
+tags:
+- Cognitive AI
+- foundational
 difficulty: 2
 weight: 1
-slug: "thinking"
-aliases:
-  - /en/terms/thinking/
-date: "2026-07-18T10:18:23.485519Z"
-lastmod: "2026-07-18T11:44:44.728574Z"
+slug: thinking
+date: '2026-07-18T10:18:23.485519Z'
+lastmod: '2026-07-18T11:44:44.728574Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "en"
-description: "In AI, thinking refers to the cognitive processes of reasoning, problem-solving, and decision-making simulated by algorithms."
+source: agnes_llm
+status: published
+language: en
+description: In AI, thinking refers to the cognitive processes of reasoning, problem-solving,
+  and decision-making simulated by algorithms.
 ---
-
 ## Definition
 
 While humans think biologically, AI 'thinking' involves computational operations that mimic cognitive functions. It encompasses logical deduction, pattern recognition, and inference. Modern large language models simulate thinking through complex neural network activations, allowing them to process natural language, understand context, and generate coherent responses. This concept bridges the gap between raw data processing and high-level intelligence, enabling systems to perform tasks that traditionally required human mental effort.

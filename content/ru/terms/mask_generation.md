@@ -1,23 +1,24 @@
 ---
-title: "Генерация масок"
-term_id: "mask_generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["computer_vision", "nlp", "processing"]
+title: Генерация масок
+term_id: mask_generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Computer Vision
+- NLP
+- processing
 difficulty: 2
 weight: 1
-slug: "mask_generation"
-aliases:
-  - /ru/terms/mask_generation/
-date: "2026-07-18T16:04:01.137963Z"
-lastmod: "2026-07-18T16:38:07.178922Z"
+slug: mask_generation
+date: '2026-07-18T16:04:01.137963Z'
+lastmod: '2026-07-18T16:38:07.178922Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Процесс создания бинарных или вероятностных масок для выборочного скрытия или выделения частей входных данных во время обработки моделью."
+source: agnes_llm
+status: published
+language: ru
+description: Процесс создания бинарных или вероятностных масок для выборочного скрытия
+  или выделения частей входных данных во время обработки моделью.
 ---
-
 ## Definition
 
 Генерация масок включает создание пространственных или временных масок, которые определяют, какие элементы набора данных видны или активны во время конкретных операций. В компьютерном зрении этот метод используется для сегментации объектов, инпейнтинга и управления вниманием модели.

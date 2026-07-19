@@ -1,23 +1,25 @@
 ---
-title: "Halite AI Programming Competition"
-term_id: "halite_ai_programming_competition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["competition", "game-ai", "strategy"]
+title: Halite AI Programming Competition
+term_id: halite_ai_programming_competition
+category: basic_concepts
+subcategory: ''
+tags:
+- competition
+- Game AI
+- strategy
 difficulty: 4
 weight: 1
-slug: "halite_ai_programming_competition"
-aliases:
-  - /it/terms/halite_ai_programming_competition/
-date: "2026-07-18T16:02:45.872343Z"
-lastmod: "2026-07-18T17:15:08.632436Z"
+slug: halite_ai_programming_competition
+date: '2026-07-18T16:02:45.872343Z'
+lastmod: '2026-07-18T17:15:08.632436Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una competizione di programmazione competitiva in cui i partecipanti scrivono agenti AI per giocare a un gioco di strategia che coinvolge gestione delle risorse e combattimento."
+source: agnes_llm
+status: published
+language: it
+description: Una competizione di programmazione competitiva in cui i partecipanti
+  scrivono agenti AI per giocare a un gioco di strategia che coinvolge gestione delle
+  risorse e combattimento.
 ---
-
 ## Definition
 
 Halite era una competizione annuale di programmazione AI ospitata da Two Sigma, in cui gli sviluppatori creavano agenti autonomi per giocare a un gioco di strategia a turni su una griglia. L'obiettivo consisteva nel raccogliere risorse, espandere il territorio e sconfiggere gli avversari, fornendo un banco di prova per algoritmi di intelligenza artificiale in ambienti competitivi.

@@ -7,8 +7,6 @@ tags: ["mathematics", "fundamentals", "implementation"]
 difficulty: 2
 weight: 1
 slug: "random"
-aliases:
-  - /cs/terms/random/
 date: "2026-07-18T15:28:12.379761Z"
 lastmod: "2026-07-18T17:15:09.075762Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vlastnost bez předvídatelného vzoru, která je v AI často simulována pomocí algoritmů generování pseudonáhodných čísel."
 ---
-
 ## Definition
 
 Náhodnost je v AI zásadní pro inicializaci vah modelů, zamíchávání datových sad a zavádění stochastičnosti během trénování, aby se předešlo přeučení. Protože počítače jsou deterministické, systémy AI

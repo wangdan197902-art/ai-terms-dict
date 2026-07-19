@@ -1,23 +1,23 @@
 ---
-title: "μεγάλου ορίζοντα"
-term_id: "long_horizon"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "planning"]
+title: μεγάλου ορίζοντα
+term_id: long_horizon
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- planning
 difficulty: 4
 weight: 1
-slug: "long_horizon"
-aliases:
-  - /el/terms/long_horizon/
-date: "2026-07-18T15:36:24.941814Z"
-lastmod: "2026-07-18T17:15:09.860678Z"
+slug: long_horizon
+date: '2026-07-18T15:36:24.941814Z'
+lastmod: '2026-07-18T17:15:09.860678Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Αναφέρεται σε εργασίες που απαιτούν λήψη αποφάσεων σε εκτεταμένους χρονικούς ορίζοντες με καθυστερημένες ανταμοιβές ή συνέπειες."
+source: agnes_llm
+status: published
+language: el
+description: Αναφέρεται σε εργασίες που απαιτούν λήψη αποφάσεων σε εκτεταμένους χρονικούς
+  ορίζοντες με καθυστερημένες ανταμοιβές ή συνέπειες.
 ---
-
 ## Definition
 
 Τα προβλήματα μεγάλου ορίζοντα περιλαμβάνουν ακολουθίες ενεργειών όπου η επίδραση των πρώτων αποφάσεων εμφανίζεται μόνο μετά από πολλά βήματα. Αυτό είναι κοινό στη ρομποτική, τον σχεδιασμό και τις εργασίες λογικής πολλαπλών βημάτων. Η πρόκληση...

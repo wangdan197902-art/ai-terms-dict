@@ -1,23 +1,24 @@
 ---
-title: "การแพร่กระจายความคาดหวัง"
-term_id: "expectation_propagation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["bayesian_methods", "inference", "probabilistic_models"]
+title: การแพร่กระจายความคาดหวัง
+term_id: expectation_propagation
+category: basic_concepts
+subcategory: ''
+tags:
+- Bayesian Methods
+- inference
+- Probabilistic Models
 difficulty: 5
 weight: 1
-slug: "expectation_propagation"
-aliases:
-  - /th/terms/expectation_propagation/
-date: "2026-07-18T15:52:35.884218Z"
-lastmod: "2026-07-18T16:38:07.604186Z"
+slug: expectation_propagation
+date: '2026-07-18T15:52:35.884218Z'
+lastmod: '2026-07-18T16:38:07.604186Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "อัลกอริทึมการอนุมานโดยประมาณที่ใช้ประมาณการแจกแจงหลัง (Posterior distributions) ในแบบจำลองกราฟความน่าจะเป็นที่ซับซ้อน"
+source: agnes_llm
+status: published
+language: th
+description: อัลกอริทึมการอนุมานโดยประมาณที่ใช้ประมาณการแจกแจงหลัง (Posterior distributions)
+  ในแบบจำลองกราฟความน่าจะเป็นที่ซับซ้อน
 ---
-
 ## Definition
 
 การแพร่กระจายความคาดหวัง (EP) ประมาณค่าอินทิกรัลที่คำนวณได้ยากโดยการปรับปรุงการประมาณแบบเกาส์เซียนต่อการแจกแจงหลังที่แท้จริงอย่างเป็นขั้นเป็นตอน มันลดความแตกต่างแบบคูลแบ็ก-ไลบ์ลเลอร์ (KL divergence) ระหว่างการแจกแจงประมาณและการแจกแจงจริงเพื่อให้ได้ผลลัพธ์ที่แม่นยำยิ่งขึ้น

@@ -7,8 +7,6 @@ tags: ["Data Engineering", "Semantics", "Integration"]
 difficulty: 3
 weight: 1
 slug: "knowledge_integration"
-aliases:
-  - /ar/terms/knowledge_integration/
 date: "2026-07-18T16:04:36.987706Z"
 lastmod: "2026-07-18T17:15:08.519497Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عملية دمج مصادر معرفة متنوعة في تمثيل موحد ومتسق لتعزيز الاستدلال."
 ---
-
 ## Definition
 
 يتضمن تكامل المعرفة دمج البيانات من مصادر متنوعة، مثل قواعد البيانات، والمخططات المفاهيمية (Ontologies)، والنصوص غير المهيكلة، في مخطط متماسك. يعالج قضايا التباين الدلالي وعدم الاتساق

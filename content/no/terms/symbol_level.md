@@ -1,23 +1,23 @@
 ---
-title: "Symbolsnivå"
-term_id: "symbol_level"
-category: "basic_concepts"
-subcategory: ""
-tags: ["AI_foundations", "knowledge_representation"]
+title: Symbolsnivå
+term_id: symbol_level
+category: basic_concepts
+subcategory: ''
+tags:
+- AI Foundations
+- Knowledge Representation
 difficulty: 2
 weight: 1
-slug: "symbol_level"
-aliases:
-  - /no/terms/symbol_level/
-date: "2026-07-18T16:18:05.557429Z"
-lastmod: "2026-07-18T16:38:07.051546Z"
+slug: symbol_level
+date: '2026-07-18T16:18:05.557429Z'
+lastmod: '2026-07-18T16:38:07.051546Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Symbolsnivå refererer til abstraksjonslaget der diskrete symboler representerer konsepter, objekter eller relasjoner i et AI-system."
+source: agnes_llm
+status: published
+language: 'no'
+description: Symbolsnivå refererer til abstraksjonslaget der diskrete symboler representerer
+  konsepter, objekter eller relasjoner i et AI-system.
 ---
-
 ## Definition
 
 Innan kunstig intelligens representerer symbolsnivået en høyabstraksjonsnivå der kunnskap kodes ved hjelp av diskrete symboler snarere enn kontinuerlige numeriske verdier. Denne tilnærmingen er sentral for

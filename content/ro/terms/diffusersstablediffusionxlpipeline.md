@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionxlpipeline"
-term_id: "diffusersstablediffusionxlpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sdxl", "high-resolution", "photorealism", "advanced"]
+title: 'Diffusers: Stablediffusionxlpipeline'
+term_id: diffusersstablediffusionxlpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- sdxl
+- High Resolution
+- photorealism
+- advanced
 difficulty: 3
 weight: 1
-slug: "diffusersstablediffusionxlpipeline"
-aliases:
-  - /ro/terms/diffusersstablediffusionxlpipeline/
-date: "2026-07-18T15:54:42.021535Z"
-lastmod: "2026-07-18T17:15:09.649323Z"
+slug: diffusersstablediffusionxlpipeline
+date: '2026-07-18T15:54:42.021535Z'
+lastmod: '2026-07-18T17:15:09.649323Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O linie de procesare pentru Stable Diffusion XL (SDXL), oferind rezoluție, detaliu și conformitate îmbunătățite față de versiunile anterioare."
+source: agnes_llm
+status: published
+language: ro
+description: O linie de procesare pentru Stable Diffusion XL (SDXL), oferind rezoluție,
+  detaliu și conformitate îmbunătățite față de versiunile anterioare.
 ---
-
 ## Definition
 
 Această linie de procesare implementează arhitectura Stable Diffusion XL, care utilizează un model de bază rafinat și un model de rafinare pentru a produce imagini la rezoluție înaltă (1024x1024) cu detalii și compoziție superioare. Aceasta...

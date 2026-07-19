@@ -7,8 +7,6 @@ tags: ["Earth Science", "Environment", "Satellite Data"]
 difficulty: 3
 weight: 1
 slug: "machine_learning_in_earth_sciences"
-aliases:
-  - /ro/terms/machine_learning_in_earth_sciences/
 date: "2026-07-18T16:10:30.849980Z"
 lastmod: "2026-07-18T17:15:09.678116Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Utilizarea algoritmilor de învățare automată pentru a analiza date geospațiale și de mediu în vederea predicției fenomenelor naturale și gestionării resurselor."
 ---
-
 ## Definition
 
 Învățarea automată îmbunătățește științele Pământului prin procesarea imaginilor satelitare, a datelor seismice și a înregistrărilor climatice pentru a modela sistemele ambientale complexe. Aceste tehnici ajută la predicția modelelor meteorologice, monitorizarea schimbărilor climatice și evaluarea impactului uman asupra mediului.

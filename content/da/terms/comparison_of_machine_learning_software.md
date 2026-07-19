@@ -7,8 +7,6 @@ tags: ["software", "evaluation", "frameworks"]
 difficulty: 2
 weight: 1
 slug: "comparison_of_machine_learning_software"
-aliases:
-  - /da/terms/comparison_of_machine_learning_software/
 date: "2026-07-18T15:46:44.519763Z"
 lastmod: "2026-07-18T17:15:09.269537Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En analytisk evaluering af forskellige ML-frameworks baseret på funktioner, ydeevne, brugervenlighed og fællesskabsstøtte for at vejlede værktøjsvalg."
 ---
-
 ## Definition
 
 Dette begreb refererer til den systematiske vurdering og benchmarking af forskellige maskinlæringsbiblioteker og platforme, såsom TensorFlow, PyTorch, Scikit-learn og Keras. Sammenligninger analyserer typisk ydeevne, ressourceforbrug, dokumentation og tilgængeligheden af plugins eller extensioner.

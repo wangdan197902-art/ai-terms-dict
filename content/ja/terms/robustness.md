@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /ja/terms/robustness/
 date: "2026-07-18T11:31:06.232933Z"
 lastmod: "2026-07-18T11:44:45.139970Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ノイズのあるデータ、敵対的攻撃、または分布の変化に直面した際に、AIモデルのパフォーマンスと安定性を維持する能力。"
 ---
-
 ## Definition
 
 AIの安全性と倫理において、頑健性とは予期しない入力や悪意のある操作に対するモデルの耐性を指します。頑健なシステムは、入力データにノイズが含まれていても正しく機能し続けます。

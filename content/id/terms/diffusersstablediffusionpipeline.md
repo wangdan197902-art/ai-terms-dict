@@ -1,23 +1,25 @@
 ---
-title: "Diffusers:Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: Diffusers:Stablediffusionpipeline
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /id/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:48:12.131989Z"
-lastmod: "2026-07-18T16:38:07.451233Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:48:12.131989Z'
+lastmod: '2026-07-18T16:38:07.451233Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Pipa standar untuk menjalankan Stable Diffusion v1.5, menggunakan U-Net dan encoder CLIP untuk generasi teks-ke-gambar."
+source: agnes_llm
+status: published
+language: id
+description: Pipa standar untuk menjalankan Stable Diffusion v1.5, menggunakan U-Net
+  dan encoder CLIP untuk generasi teks-ke-gambar.
 ---
-
 ## Definition
 
 Ini adalah pipa dasar untuk model Stable Diffusion v1.5, yang banyak digunakan untuk sintesis teks-ke-gambar tujuan umum. Pipa ini mengandalkan denoiser U-Net dan encoder teks CLIP untuk memetakan prompt tekstual...

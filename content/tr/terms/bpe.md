@@ -7,8 +7,6 @@ tags: ["NLP", "Tokenization", "Data Preprocessing"]
 difficulty: 3
 weight: 1
 slug: "bpe"
-aliases:
-  - /tr/terms/bpe/
 date: "2026-07-18T15:33:48.615823Z"
 lastmod: "2026-07-18T16:38:07.254954Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Bayt Çifti Kodlama (BPE), en sık karakter çiftlerini yinelemeli olarak birleştirerek bir kelime hazinesi oluşturmak için kullanılan, alt kelime parçacığı belirleme (subword tokenization) amacıyla bir "
 ---
-
 ## Definition
 
 Bayt Çifti Kodlama (BPE), kelime hazinesinde bulunmayan (out-of-vocabulary) kelimelerle başa çıkmak için doğal dil işleme alanında uyarlanmış bir veri sıkıştırma tekniğidir. İşlem, bireysel karakterlerden oluşan bir hazineden başlar ve en sık görülen karakter çiftlerini yinelemeli olarak birleştirerek devam eder.

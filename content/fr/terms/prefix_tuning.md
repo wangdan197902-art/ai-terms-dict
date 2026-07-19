@@ -1,23 +1,24 @@
 ---
-title: "Réglage par préfixe"
-term_id: "prefix_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers"]
+title: Réglage par préfixe
+term_id: prefix_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
 difficulty: 4
 weight: 1
-slug: "prefix_tuning"
-aliases:
-  - /fr/terms/prefix_tuning/
-date: "2026-07-18T11:34:01.670402Z"
-lastmod: "2026-07-18T11:44:45.313132Z"
+slug: prefix_tuning
+date: '2026-07-18T11:34:01.670402Z'
+lastmod: '2026-07-18T11:44:45.313132Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une méthode de réglage fin économe en paramètres qui ajoute des vecteurs continus entraînables à l'entrée des couches de transformeur."
+source: agnes_llm
+status: published
+language: fr
+description: Une méthode de réglage fin économe en paramètres qui ajoute des vecteurs
+  continus entraînables à l'entrée des couches de transformeur.
 ---
-
 ## Definition
 
 Le réglage par préfixe est une technique d'adaptation économe en paramètres pour les transformeurs pré-entraînés. Au lieu de mettre à jour tous les poids du modèle, il préfixe une séquence de vecteurs continus entraînables (le préfixe) aux entrées des couches cachées, permettant ainsi une adaptation efficace sans réentraînement complet.

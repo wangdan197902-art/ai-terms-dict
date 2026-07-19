@@ -7,8 +7,6 @@ tags: ["Model Type", "Data Types"]
 difficulty: 3
 weight: 1
 slug: "multimodal"
-aliases:
-  - /fi/terms/multimodal/
 date: "2026-07-18T15:37:10.432296Z"
 lastmod: "2026-07-18T17:15:09.372609Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Viittaa tekoälymalleihin, jotka pystyvät käsittelemään ja tuottamaan sisältöä useista datatyypeistä, kuten tekstistä, kuvista, äänestä ja videosta, samanaikaisesti."
 ---
-
 ## Definition
 
 Monimuotoiset tekoäljärjestelmät integroivat tietoa eri aistilähteistä muodostaakseen kattavamman ymmärryksen maailmasta. Toisin kuin yksimuotoiset mallit, jotka on rajoitettu yhteen datatyyppiin, monimuotoiset mallit voivat yhdistää eri datamuotojen vahvuudet.

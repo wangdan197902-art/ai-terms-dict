@@ -1,23 +1,25 @@
 ---
-title: "Один файл диффузии"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Один файл диффузии
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /ru/terms/diffusion_single_file/
-date: "2026-07-18T15:50:42.738650Z"
-lastmod: "2026-07-18T16:38:07.150616Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:50:42.738650Z'
+lastmod: '2026-07-18T16:38:07.150616Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Формат распространения диффузионных моделей, в котором все веса модели, конфигурации и иногда даже код вывода упакованы в один файл для удобства переносимости."
+source: agnes_llm
+status: published
+language: ru
+description: Формат распространения диффузионных моделей, в котором все веса модели,
+  конфигурации и иногда даже код вывода упакованы в один файл для удобства переносимости.
 ---
-
 ## Definition
 
 Diffusion Single File относится к стратегии упаковки моделей машинного обучения, особенно диффузионных моделей, где весь артефакт модели — включая бинарные веса, гиперпараметры и архитектуру — объединен в один файл.

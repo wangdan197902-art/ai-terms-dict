@@ -7,8 +7,6 @@ tags: ["Training", "Optimization", "Efficiency"]
 difficulty: 4
 weight: 1
 slug: "multi_task_learning"
-aliases:
-  - /es/terms/multi_task_learning/
 date: "2026-07-18T11:01:07.645132Z"
 lastmod: "2026-07-18T11:44:44.834532Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El aprendizaje multitarea es un paradigma de aprendizaje automático en el que un modelo se entrena en múltiples tareas relacionadas simultáneamente para mejorar la generalización."
 ---
-
 ## Definition
 
 Esta técnica aprovecha el sesgo inductivo compartido entre tareas relacionadas para mejorar la eficiencia y el rendimiento del aprendizaje. Al entrenar un único modelo para realizar varias tareas a la vez, el modelo aprende una r

@@ -7,8 +7,6 @@ tags: ["Optimization", "Efficiency", "Fine-Tuning"]
 difficulty: 4
 weight: 1
 slug: "lora"
-aliases:
-  - /ko/terms/lora/
 date: "2026-07-18T15:26:28.689538Z"
 lastmod: "2026-07-18T16:38:06.777597Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "기존 모델 가중치에 학습 가능한 저랭크 분해 행렬을 주입하여 파라미터 효율적인 파인튜닝을 수행하는 방법입니다."
 ---
-
 ## Definition
 
 LoRA는 사전 학습된 모델 가중치를 고정하고 트랜스포머 아키텍처의 각 레이어에 학습 가능한 분해 행렬을 삽입합니다. 이러한 저랭크 행렬만 최적화함으로써 LoRA는 계산 비용과 메모리 사용량을 크게 줄입니다.

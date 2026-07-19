@@ -1,23 +1,24 @@
 ---
-title: "TensorFlow Hub"
-term_id: "tensorflow_hub"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tensorflow", "libraries", "transfer-learning"]
+title: TensorFlow Hub
+term_id: tensorflow_hub
+category: basic_concepts
+subcategory: ''
+tags:
+- tensorflow
+- libraries
+- Transfer Learning
 difficulty: 3
 weight: 1
-slug: "tensorflow_hub"
-aliases:
-  - /tr/terms/tensorflow_hub/
-date: "2026-07-18T16:16:35.045419Z"
-lastmod: "2026-07-18T16:38:07.371584Z"
+slug: tensorflow_hub
+date: '2026-07-18T16:16:35.045419Z'
+lastmod: '2026-07-18T16:38:07.371584Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Önceden eğitilmiş modellerle transfer öğrenimini mümkün kılan, yeniden kullanılabilir makine öğrenimi modüllerinin bulunduğu bir depo."
+source: agnes_llm
+status: published
+language: tr
+description: Önceden eğitilmiş modellerle transfer öğrenimini mümkün kılan, yeniden
+  kullanılabilir makine öğrenimi modüllerinin bulunduğu bir depo.
 ---
-
 ## Definition
 
 TensorFlow Hub, makine öğrenimi bileşenlerini yayınlamak ve yeniden kullanmak için bir platformdur. Geliştiricilerin görüntü sınıflandırma, metin gömme ve diğer görevler için önceden eğitilmiş modellere erişmesini sağlar.

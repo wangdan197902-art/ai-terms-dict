@@ -7,8 +7,6 @@ tags: ["community", "resources", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "ciml_community_portal"
-aliases:
-  - /ko/terms/ciml_community_portal/
 date: "2026-07-18T15:44:26.210059Z"
 lastmod: "2026-07-18T16:38:06.815482Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "계산 지능 및 머신러닝 분야의 연구자와 실무자 간 협력, 자원 공유, 논의를 촉진하는 중앙 집중식 온라인 플랫폼입니다."
 ---
-
 ## Definition
 
 CIML 커뮤니티 포털은 계산 지능에 집중하는 학술 및 전문 커뮤니티를 위한 디지털 허브 역할을 합니다. 데이터셋, 사전 훈련된 모델, 연구 논문 등에 대한 접근을 제공하며, 구성원 간의 지식 공유와 협업을 지원합니다. 이를 통해 연구자들은 최신 트렌드를 파악하고 공동 프로젝트를 진행하며, 피어 리뷰를 통해 연구의 질을 높일 수 있습니다.

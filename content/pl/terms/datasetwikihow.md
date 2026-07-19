@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Summarization"]
 difficulty: 2
 weight: 1
 slug: "datasetwikihow"
-aliases:
-  - /pl/terms/datasetwikihow/
 date: "2026-07-18T15:50:08.469208Z"
 lastmod: "2026-07-18T17:15:08.864096Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Duży zbiór danych składający się z artykułów instruktażowych ze strony WikiHow, wykorzystywany głównie do zadań sumaryzacji tekstu i generowania instrukcji."
 ---
-
 ## Definition
 
 Zbiór danych WikiHow składa się z około 60 000 artykułów instruktażowych zebranych ze strony internetowej WikiHow. Jest szeroko wykorzystywany w badaniach nad przetwarzaniem języka naturalnego do zadań takich jak abstrakcyjna sumaryzacja tekstu.

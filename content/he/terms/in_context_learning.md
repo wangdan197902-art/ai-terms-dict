@@ -7,8 +7,6 @@ tags: ["Prompting", "Adaptation", "LLM Techniques"]
 difficulty: 3
 weight: 1
 slug: "in_context_learning"
-aliases:
-  - /he/terms/in_context_learning/
 date: "2026-07-18T15:23:00.631904Z"
 lastmod: "2026-07-18T17:15:09.471868Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "טכניקה שבה מודלים לומדים לבצע משימות על ידי התבוננות בדוגמאות המסופרות בהנחיה."
 ---
-
 ## Definition
 
 למידה בהקשר (ICL) מאפשרת למודלי שפה גדולים להסתגל למשימות חדשות ללא עדכון המשקלים שלהם. על ידי מתן זוגות קלט-פלט בתוך הקשר ההנחיה, המודל מסיק את הדפוס ו-

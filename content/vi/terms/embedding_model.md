@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Search"]
 difficulty: 4
 weight: 1
 slug: "embedding_model"
-aliases:
-  - /vi/terms/embedding_model/
 date: "2026-07-18T15:34:34.619268Z"
 lastmod: "2026-07-18T16:38:07.708381Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một mô hình nhúng chuyển đổi dữ liệu thô như văn bản hoặc hình ảnh thành các vectơ số dày đặc đại diện cho ý nghĩa ngữ nghĩa."
 ---
-
 ## Definition
 
 Các mô hình này ánh xạ dữ liệu nhiều chiều vào một không gian vectơ liên tục có chiều thấp hơn, nơi các mục tương tự nhau được đặt gần nhau hơn. Phép biến đổi này nắm bắt các mối quan hệ ngữ nghĩa, cho phép máy tính hiểu và so sánh nội dung.

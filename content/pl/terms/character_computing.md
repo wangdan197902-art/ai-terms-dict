@@ -1,23 +1,24 @@
 ---
-title: "Obliczanie znakowe"
-term_id: "character_computing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["text-processing", "fundamentals", "nlp"]
+title: Obliczanie znakowe
+term_id: character_computing
+category: basic_concepts
+subcategory: ''
+tags:
+- Text Processing
+- fundamentals
+- NLP
 difficulty: 2
 weight: 1
-slug: "character_computing"
-aliases:
-  - /pl/terms/character_computing/
-date: "2026-07-18T15:45:27.159900Z"
-lastmod: "2026-07-18T17:15:08.853333Z"
+slug: character_computing
+date: '2026-07-18T15:45:27.159900Z'
+lastmod: '2026-07-18T17:15:08.853333Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Obliczanie znakowe obejmuje przetwarzanie, generowanie lub analizę tekstu na poziomie pojedynczych znaków, a nie słów czy zdań."
+source: agnes_llm
+status: published
+language: pl
+description: Obliczanie znakowe obejmuje przetwarzanie, generowanie lub analizę tekstu
+  na poziomie pojedynczych znaków, a nie słów czy zdań.
 ---
-
 ## Definition
 
 Ta koncepcja koncentruje się na manipulacji tekstem, gdzie podstawową jednostką obliczeniową jest pojedynczy znak. Jest często stosowana w zadaniach wymagających szczegółowej analizy tekstu, takich jak sprawdzanie pisowni.

@@ -7,8 +7,6 @@ tags: ["RL", "algorithms", "learning"]
 difficulty: 4
 weight: 1
 slug: "on_policy"
-aliases:
-  - /fi/terms/on_policy/
 date: "2026-07-18T15:34:09.965799Z"
 lastmod: "2026-07-18T17:15:09.365586Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Vahvistusoppimisen lähestymistapa, jossa arvioitavaa ja parannettavaa politiikkaa käytetään myös datan tuottamiseen."
 ---
-
 ## Definition
 
 On-policy-algoritmit vaativat, että agentti oppii suoraan nykyisen politiikkansa tekemistä toimista. Tämä tarkoittaa, että tutkimisen aikana kerätty dataa käytetään välittömästi politiikan päivittämiseen, varmistamalla

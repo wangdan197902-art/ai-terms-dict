@@ -1,23 +1,24 @@
 ---
-title: "الفيديو المزيف العميق"
-term_id: "deepfake"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "generative_ai", "security"]
+title: الفيديو المزيف العميق
+term_id: deepfake
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Generative AI
+- security
 difficulty: 3
 weight: 1
-slug: "deepfake"
-aliases:
-  - /ar/terms/deepfake/
-date: "2026-07-18T15:36:16.385133Z"
-lastmod: "2026-07-18T17:15:08.460036Z"
+slug: deepfake
+date: '2026-07-18T15:36:16.385133Z'
+lastmod: '2026-07-18T17:15:08.460036Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "وسائط تركيبية يتم فيها استبدال وجه شخص أو مظهره بوجه شخص آخر باستخدام تقنيات الذكاء الاصطناعي والتعلم العميق."
+source: agnes_llm
+status: published
+language: ar
+description: وسائط تركيبية يتم فيها استبدال وجه شخص أو مظهره بوجه شخص آخر باستخدام
+  تقنيات الذكاء الاصطناعي والتعلم العميق.
 ---
-
 ## Definition
 
 الفيديوهات المزيفة العميقة هي عمليات تحريف صوتية أو مرئية شديدة الواقعية تُنشأ باستخدام الشبكات التنافسية التوليدية (GANs) أو المحولات التلقائية. تثير هذه التقنيات مخاوف أخلاقية كبيرة تتعلق بنشر المعلومات المضللة، وانتهاك الخصوصية، والتلاعب بالرأي العام.

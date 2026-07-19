@@ -1,23 +1,23 @@
 ---
-title: "贝叶斯优化"
-term_id: "bayesian_optimization"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "hyperparameters", "surrogate_models"]
+title: 贝叶斯优化
+term_id: bayesian_optimization
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- hyperparameters
+- Surrogate Models
 difficulty: 3
 weight: 1
-slug: "bayesian_optimization"
-aliases:
-  - /zh/terms/bayesian_optimization/
-date: "2026-07-18T11:08:51.667549Z"
-lastmod: "2026-07-18T11:44:45.450575Z"
+slug: bayesian_optimization
+date: '2026-07-18T11:08:51.667549Z'
+lastmod: '2026-07-18T11:44:45.450575Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种用于全局优化昂贵评估黑盒函数的顺序设计策略。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种用于全局优化昂贵评估黑盒函数的顺序设计策略。
 ---
-
 ## Definition
 
 贝叶斯优化使用概率代理模型（通常为高斯过程）来建模目标函数。它采用采集函数来平衡探索与利用，从而高效地找到最优参数配置。

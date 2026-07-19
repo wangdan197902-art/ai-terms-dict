@@ -1,23 +1,23 @@
 ---
-title: "代价敏感机器学习"
-term_id: "cost_sensitive_machine_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "loss-functions", "imbalanced-data"]
+title: 代价敏感机器学习
+term_id: cost_sensitive_machine_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Loss Functions
+- Imbalanced Data
 difficulty: 4
 weight: 1
-slug: "cost_sensitive_machine_learning"
-aliases:
-  - /zh/terms/cost_sensitive_machine_learning/
-date: "2026-07-18T11:11:39.245525Z"
-lastmod: "2026-07-18T11:44:45.468577Z"
+slug: cost_sensitive_machine_learning
+date: '2026-07-18T11:11:39.245525Z'
+lastmod: '2026-07-18T11:44:45.468577Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种将误分类代价纳入训练过程的机器学习范式，旨在优化经济影响而非仅仅追求准确率。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种将误分类代价纳入训练过程的机器学习范式，旨在优化经济影响而非仅仅追求准确率。
 ---
-
 ## Definition
 
 代价敏感机器学习通过为不同类型的错误分配不同的惩罚来扩展传统的监督学习。在现实场景中，假阳性和假阴性往往具有不同的后果...

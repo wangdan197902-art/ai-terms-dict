@@ -1,23 +1,23 @@
 ---
-title: "معدل التعلم"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: معدل التعلم
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /ar/terms/learning_rate/
-date: "2026-07-18T15:37:27.951688Z"
-lastmod: "2026-07-18T17:15:08.462856Z"
+slug: learning_rate
+date: '2026-07-18T15:37:27.951688Z'
+lastmod: '2026-07-18T17:15:08.462856Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "معامل فرعي يتحكم في حجم الخطوة أثناء تحسين النموذج لتقليل دالة الخسارة."
+source: agnes_llm
+status: published
+language: ar
+description: معامل فرعي يتحكم في حجم الخطوة أثناء تحسين النموذج لتقليل دالة الخسارة.
 ---
-
 ## Definition
 
 يحدد معدل التعلم مقدار تحديث أوزان النموذج بالنسبة للتدرج المحسوب خلال كل تكرار تدريبي. قد يؤدي المعدل المرتفع جداً إلى تجاوز النموذج للنقطة المثلى

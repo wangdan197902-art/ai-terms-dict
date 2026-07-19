@@ -1,23 +1,24 @@
 ---
-title: "Итоги от ИИ"
-term_id: "ai_overviews"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "summarization", "user_experience"]
+title: Итоги от ИИ
+term_id: ai_overviews
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- summarization
+- User Experience
 difficulty: 2
 weight: 1
-slug: "ai_overviews"
-aliases:
-  - /ru/terms/ai_overviews/
-date: "2026-07-18T15:37:27.596090Z"
-lastmod: "2026-07-18T16:38:07.112796Z"
+slug: ai_overviews
+date: '2026-07-18T15:37:27.596090Z'
+lastmod: '2026-07-18T16:38:07.112796Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Сжатые ответы, сгенерированные моделями ИИ, которые синтезируют информацию из нескольких источников для быстрого понимания."
+source: agnes_llm
+status: published
+language: ru
+description: Сжатые ответы, сгенерированные моделями ИИ, которые синтезируют информацию
+  из нескольких источников для быстрого понимания.
 ---
-
 ## Definition
 
 Итоги от ИИ — это краткие сводки, создаваемые большими языковыми моделями, которые агрегируют и синтезируют данные из различных веб-источников или баз данных. В отличие от традиционных результатов поиска, которые просто перечисляют ссылки, эти итоги предоставляют прямой ответ, экономя время пользователя.

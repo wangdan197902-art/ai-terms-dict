@@ -1,23 +1,22 @@
 ---
-title: "โอเพนเวต (Open-weight)"
-term_id: "open_weight"
-category: "basic_concepts"
-subcategory: ""
-tags: ["model_types", "accessibility"]
+title: โอเพนเวต (Open-weight)
+term_id: open_weight
+category: basic_concepts
+subcategory: ''
+tags:
+- Model Types
+- accessibility
 difficulty: 2
 weight: 1
-slug: "open_weight"
-aliases:
-  - /th/terms/open_weight/
-date: "2026-07-18T15:33:52.352503Z"
-lastmod: "2026-07-18T16:38:07.556643Z"
+slug: open_weight
+date: '2026-07-18T15:33:52.352503Z'
+lastmod: '2026-07-18T16:38:07.556643Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "โมเดล AI ที่เผยแพร่พารามิเตอร์ที่ผ่านการฝึกแล้ว (น้ำหนัก) แต่โค้ดการฝึกและชุดข้อมูลอาจยังคงเป็นความลับ"
+source: agnes_llm
+status: published
+language: th
+description: โมเดล AI ที่เผยแพร่พารามิเตอร์ที่ผ่านการฝึกแล้ว (น้ำหนัก) แต่โค้ดการฝึกและชุดข้อมูลอาจยังคงเป็นความลับ
 ---
-
 ## Definition
 
 โมเดลแบบโอเพนเวตแตกต่างจาก AI แบบโอเพนซอร์สเต็มตัว เพราะมีการเผยแพร่เฉพาะพารามิเตอร์สุดท้ายที่เรียนรู้เท่านั้น ไม่ได้รวมถึงโครงสร้างพื้นฐานหรือข้อมูลที่ใช้ในการสร้างเสมอไป สิ่งนี้ช่วยให้ผู้ใช้สามารถรันการอนุมาน (inference)

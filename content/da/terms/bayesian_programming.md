@@ -7,8 +7,6 @@ tags: ["probabilistic", "inference", "hierarchical"]
 difficulty: 4
 weight: 1
 slug: "bayesian_programming"
-aliases:
-  - /da/terms/bayesian_programming/
 date: "2026-07-18T15:44:03.646061Z"
 lastmod: "2026-07-18T17:15:09.264625Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Et formelt rammeværk for sandsynligvis resonnement, der udvider Bayesiansk inferens til komplekse, hierarkiske modeller."
 ---
-
 ## Definition
 
 Bayesiansk programmering er et matematisk rammeværk, der generaliserer Bayes' sætning til at håndtere komplekse, flerlagte sandsynlighedsafhængigheder. Det gør det muligt for udviklere at definere hierarkiske modeller, hvor...

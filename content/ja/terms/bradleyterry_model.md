@@ -7,8 +7,6 @@ tags: ["statistics", "ranking", "probability"]
 difficulty: 4
 weight: 1
 slug: "bradleyterry_model"
-aliases:
-  - /ja/terms/bradleyterry_model/
 date: "2026-07-18T11:06:52.900802Z"
 lastmod: "2026-07-18T11:44:45.074642Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "ペア比較データを分析し、ある項目が別の項目よりも好まれる確率を推定するために使用される統計モデル。"
 ---
-
 ## Definition
 
 ブラッドリー・テリーモデルは、心理測定学や機械学習で広く使用される確率モデルであり、対比較（pairwise comparisons）を扱うために設計されています。各項目に潜在的なスコアを割り当て、一方が他方より好まれる確率を計算します。

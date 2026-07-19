@@ -1,23 +1,25 @@
 ---
-title: "Ingeniería de características"
-term_id: "feature_engineering"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "technique", "optimization"]
+title: Ingeniería de características
+term_id: feature_engineering
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- technique
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_engineering"
-aliases:
-  - /es/terms/feature_engineering/
-date: "2026-07-18T10:49:04.249981Z"
-lastmod: "2026-07-18T11:44:44.805645Z"
+slug: feature_engineering
+date: '2026-07-18T10:49:04.249981Z'
+lastmod: '2026-07-18T11:44:44.805645Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "La práctica de utilizar el conocimiento del dominio para crear nuevas características o modificar las existentes para mejorar el rendimiento de los modelos de aprendizaje automático."
+source: agnes_llm
+status: published
+language: es
+description: La práctica de utilizar el conocimiento del dominio para crear nuevas
+  características o modificar las existentes para mejorar el rendimiento de los modelos
+  de aprendizaje automático.
 ---
-
 ## Definition
 
 La ingeniería de características es el arte de aprovechar la experiencia del dominio para transformar datos sin procesar en características que representen mejor los patrones subyacentes a los algoritmos de aprendizaje automático. Este proceso incluye la creación de variables derivadas.

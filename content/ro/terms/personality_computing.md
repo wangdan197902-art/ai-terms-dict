@@ -7,8 +7,6 @@ tags: ["HCI", "psychology", "modeling"]
 difficulty: 3
 weight: 1
 slug: "personality_computing"
-aliases:
-  - /ro/terms/personality_computing/
 date: "2026-07-18T16:15:56.466162Z"
 lastmod: "2026-07-18T17:15:09.690770Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un domeniu de studiu axat pe crearea de modele computaționale care simulează trăsăturile personalității umane pentru a îmbunătăți interacțiunea om-calculator."
 ---
-
 ## Definition
 
 Calculul personalității implică dezvoltarea de algoritmi și sisteme capabile să modeleze, să simuleze sau să se adapteze la dimensiunile personalității umane, cum ar fi cele cinci mari trăsături (Big Five). Aceste sisteme au ca scop crearea unor experiențe de interacțiune mai naturale și personalizate.

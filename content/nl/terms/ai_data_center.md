@@ -7,8 +7,6 @@ tags: ["infrastructure", "hardware", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_data_center"
-aliases:
-  - /nl/terms/ai_data_center/
 date: "2026-07-18T15:40:03.848196Z"
 lastmod: "2026-07-18T17:15:08.712307Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een gespecialiseerde faciliteit ontworpen voor het huisvesten en exploiteren van hoogwaardige rekeninfrastructuur voor AI-werklasten."
 ---
-
 ## Definition
 
 Een AI-datacenter is een fysieke faciliteit die is geoptimaliseerd voor het draaien van kunstmatige intelligentietoepassingen, met name voor het trainen en uitvoeren van diepe leermodellen. Deze centra beschikken over servers met hoge dichtheid, krachtige koelsystemen en snelle netwerkinfrastructuur om de intense rekenkracht die AI vereist, te ondersteunen.

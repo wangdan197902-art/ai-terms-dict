@@ -7,8 +7,6 @@ tags: ["safety", "alignment", "training"]
 difficulty: 4
 weight: 1
 slug: "constitutional_ai"
-aliases:
-  - /cs/terms/constitutional_ai/
 date: "2026-07-18T15:49:20.444262Z"
 lastmod: "2026-07-18T17:15:09.113252Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Metoda trénování modelů AI tak, aby dodržovaly bezpečnostní pokyny prostřednictvím sebekritiky založené na předem definované sadě principů."
 ---
-
 ## Definition
 
 Konstituční AI je rámec pro sladění velkých jazykových modelů s lidskými hodnotami bez spoléhání se výhradně na lidskou zpětnou vazbu v každém kroku. Zahrnuje vytvoření 'ústavy' vysokourovňových principů, kterými se model řídí při generování a opravě odpovědí.

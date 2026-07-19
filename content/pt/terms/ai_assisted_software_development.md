@@ -7,8 +7,6 @@ tags: ["development", "tools", "productivity"]
 difficulty: 2
 weight: 1
 slug: "ai_assisted_software_development"
-aliases:
-  - /pt/terms/ai_assisted_software_development/
 date: "2026-07-18T14:48:19.633226Z"
 lastmod: "2026-07-18T15:51:59.459287Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "O uso de ferramentas de IA para aumentar a produtividade em processos de codificação, depuração, teste e design."
 ---
-
 ## Definition
 
 O desenvolvimento de software assistido por IA envolve o aproveitamento de modelos de aprendizado de máquina para apoiar os desenvolvedores na escrita de código, identificação de bugs, geração de testes e otimização de desempenho. Ferramentas como GitHub Copilot são exemplos comuns.

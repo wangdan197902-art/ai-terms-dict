@@ -1,23 +1,24 @@
 ---
-title: "تقدير كثافة النواة"
-term_id: "kernel_density_estimation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "probability", "data-analysis"]
+title: تقدير كثافة النواة
+term_id: kernel_density_estimation
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- probability
+- Data Analysis
 difficulty: 3
 weight: 1
-slug: "kernel_density_estimation"
-aliases:
-  - /ar/terms/kernel_density_estimation/
-date: "2026-07-18T16:04:14.065593Z"
-lastmod: "2026-07-18T17:15:08.518384Z"
+slug: kernel_density_estimation
+date: '2026-07-18T16:04:14.065593Z'
+lastmod: '2026-07-18T17:15:08.518384Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "طريقة لا معلمية تُستخدم لتقدير دالة الكثافة الاحتمالية لمتغير عشوائي بناءً على عينة بيانات محدودة."
+source: agnes_llm
+status: published
+language: ar
+description: طريقة لا معلمية تُستخدم لتقدير دالة الكثافة الاحتمالية لمتغير عشوائي
+  بناءً على عينة بيانات محدودة.
 ---
-
 ## Definition
 
 تقدير كثافة النواة (KDE) هو تقنية إحصائية أساسية تقوم بتنعيم نقاط البيانات المنفصلة لإنشاء منحنى توزيع احتمالي مستمر. تضع دالة نواة، عادةً ما تكون غاوسية...

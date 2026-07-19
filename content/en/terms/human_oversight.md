@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "governance"]
 difficulty: 3
 weight: 1
 slug: "human_oversight"
-aliases:
-  - /en/terms/human_oversight/
 date: "2026-07-18T10:01:25.452635Z"
 lastmod: "2026-07-18T11:44:44.681937Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "The practice of maintaining human control and review over automated AI systems to ensure safety, accuracy, and ethical compliance."
 ---
-
 ## Definition
 
 Human oversight refers to the mechanisms and processes where humans monitor, evaluate, and intervene in AI-driven decisions or actions. This concept is critical for ensuring that automated systems operate within defined ethical boundaries and safety standards. It involves periodic reviews, real-time monitoring, and the ability to override AI outputs when necessary. By keeping humans in the loop, organizations can mitigate risks associated with algorithmic bias, errors, or unforeseen behaviors, thereby fostering trust and accountability in AI deployment across sensitive domains like healthcare, finance, and autonomous driving.

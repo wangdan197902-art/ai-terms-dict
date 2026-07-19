@@ -7,8 +7,6 @@ tags: ["iot", "hardware", "connectivity", "automation"]
 difficulty: 2
 weight: 1
 slug: "smart_object"
-aliases:
-  - /fr/terms/smart_object/
 date: "2026-07-18T11:38:06.565432Z"
 lastmod: "2026-07-18T11:44:45.328243Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Une entité physique équipée de capteurs, d'actionneurs et de connectivité pour collecter des données et interagir de manière intelligente avec son environnement."
 ---
-
 ## Definition
 
 Les objets connectés sont des composants de l'Internet des objets (IoT) qui possèdent des identifiants uniques et la capacité de transférer des données sur un réseau sans interaction directe homme-machine ou homme-humain. Ils permettent une surveillance et un contrôle automatisés des processus physiques.

@@ -1,23 +1,23 @@
 ---
-title: "ガードレール"
-term_id: "guardrails"
-category: "application_paradigms"
-subcategory: ""
-tags: ["safety", "llm", "deployment"]
+title: ガードレール
+term_id: guardrails
+category: application_paradigms
+subcategory: ''
+tags:
+- safety
+- LLM
+- deployment
 difficulty: 2
 weight: 1
-slug: "guardrails"
-aliases:
-  - /ja/terms/guardrails/
-date: "2026-07-18T11:17:16.245135Z"
-lastmod: "2026-07-18T11:44:45.104235Z"
+slug: guardrails
+date: '2026-07-18T11:17:16.245135Z'
+lastmod: '2026-07-18T11:44:45.104235Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "有害、偏見のある、または不正なコンテンツの生成を防ぐために、AIモデルの出力を制約するように設計された安全メカニズム。"
+source: agnes_llm
+status: published
+language: ja
+description: 有害、偏見のある、または不正なコンテンツの生成を防ぐために、AIモデルの出力を制約するように設計された安全メカニズム。
 ---
-
 ## Definition
 
 ガードレールとは、特に大規模言語モデルにおけるAIアプリケーションに統合された、安全でコンプライアンスに準拠した動作を確保するための一連のソフトウェア制御およびポリシー執行レイヤーを指します。これらはフィルタとして機能し、

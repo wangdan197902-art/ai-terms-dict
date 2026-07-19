@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /cs/terms/cognitive_robotics/
 date: "2026-07-18T15:48:23.873924Z"
 lastmod: "2026-07-18T17:15:09.110773Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Kognitivní robotika je obor zaměřený na vytváření robotů s lidskými kognitivními schopnostmi, jako je vnímání, uvažování a učení."
 ---
-
 ## Definition
 
 Kognitivní robotika integruje kognitivní vědu s robotikou za účelem budování strojů, které dokážou vnímat své okolí, učit se ze zkušeností a přijímat autonomní rozhodnutí. Tito roboté využívají pokročilé algoritmy pro vnímání a interakci s prostředím.

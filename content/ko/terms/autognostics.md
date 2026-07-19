@@ -7,8 +7,6 @@ tags: ["autonomy", "diagnostics", "reliability"]
 difficulty: 4
 weight: 1
 slug: "autognostics"
-aliases:
-  - /ko/terms/autognostics/
 date: "2026-07-18T15:42:35.755272Z"
 lastmod: "2026-07-18T16:38:06.811013Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "인간의 개입 없이 AI 시스템이 자체 내부 상태, 성능 문제 또는 오류를 스스로 진단하는 능력입니다."
 ---
-
 ## Definition
 
 자기 진단 기술은 지능형 시스템에 내장된 자가 모니터링 및 자가 수리 메커니즘을 참조합니다. 이를 통해 AI 에이전트는 이상 징후를 감지하고 실패의 근본 원인을 진단하며, 잠재적으로 스스로 복구할 수 있습니다.

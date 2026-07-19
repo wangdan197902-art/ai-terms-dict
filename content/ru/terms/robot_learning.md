@@ -1,23 +1,25 @@
 ---
-title: "Обучение роботов"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: Обучение роботов
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /ru/terms/robot_learning/
-date: "2026-07-18T16:13:24.122855Z"
-lastmod: "2026-07-18T16:38:07.199120Z"
+slug: robot_learning
+date: '2026-07-18T16:13:24.122855Z'
+lastmod: '2026-07-18T16:38:07.199120Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Раздел робототехники, ориентированный на предоставление роботам возможности приобретать навыки и улучшать производительность посредством опыта и взаимодействия с окружающей средой."
+source: agnes_llm
+status: published
+language: ru
+description: Раздел робототехники, ориентированный на предоставление роботам возможности
+  приобретать навыки и улучшать производительность посредством опыта и взаимодействия
+  с окружающей средой.
 ---
-
 ## Definition
 
 Обучение роботов включает в себя подготовку робототехнических агентов к выполнению задач автономно с использованием методов машинного обучения. В отличие от заранее запрограммированных действий, такие системы адаптируются к динамичным условиям среды

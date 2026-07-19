@@ -1,23 +1,23 @@
 ---
-title: "Rozhodovací seznam"
-term_id: "decision_list"
-category: "basic_concepts"
-subcategory: ""
-tags: ["classification", "interpretability"]
+title: Rozhodovací seznam
+term_id: decision_list
+category: basic_concepts
+subcategory: ''
+tags:
+- Classification
+- interpretability
 difficulty: 2
 weight: 1
-slug: "decision_list"
-aliases:
-  - /cs/terms/decision_list/
-date: "2026-07-18T15:52:50.999974Z"
-lastmod: "2026-07-18T17:15:09.120618Z"
+slug: decision_list
+date: '2026-07-18T15:52:50.999974Z'
+lastmod: '2026-07-18T17:15:09.120618Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Interpretovatelný klasifikátor sestávající z uspořádaného seznamu pravidel, kde první odpovídající pravidlo určuje výstup."
+source: agnes_llm
+status: published
+language: cs
+description: Interpretovatelný klasifikátor sestávající z uspořádaného seznamu pravidel,
+  kde první odpovídající pravidlo určuje výstup.
 ---
-
 ## Definition
 
 Rozhodovací seznam je typ modelu strojového učení, který reprezentuje znalosti jako posloupnost podmíněných pravidel. Každé pravidlo se skládá z podmínky a předpovězené třídy. Při klasifikaci nového vzorku se pravidla vyhodnocují v pořadí a první, jehož podmínka platí, určí výsledek.

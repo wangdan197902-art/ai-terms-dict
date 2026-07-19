@@ -7,8 +7,6 @@ tags: ["education", "ethics", "sociology"]
 difficulty: 2
 weight: 1
 slug: "ai_literacy"
-aliases:
-  - /ja/terms/ai_literacy/
 date: "2026-07-18T11:02:23.128307Z"
 lastmod: "2026-07-18T11:44:45.061272Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "人工知能技術とその社会的影響を理解し、評価し、効果的に相互作用する能力。"
 ---
-
 ## Definition
 
 AIリテラシーとは、AIの影響を強く受ける世界をナビゲートするために必要なコンピテンシーを指します。これは単なる技術的なコーディングスキルを超え、AIシステムがどのように動作し、社会にどのような影響を与えるかを理解することを含みます。

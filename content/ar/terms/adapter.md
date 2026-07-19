@@ -1,23 +1,25 @@
 ---
-title: "المحول (Adapter)"
-term_id: "adapter"
-category: "training_techniques"
-subcategory: ""
-tags: ["fine_tuning", "efficiency", "transformers", "optimization"]
+title: المحول (Adapter)
+term_id: adapter
+category: training_techniques
+subcategory: ''
+tags:
+- Fine-Tuning
+- efficiency
+- transformers
+- Optimization
 difficulty: 4
 weight: 1
-slug: "adapter"
-aliases:
-  - /ar/terms/adapter/
-date: "2026-07-18T15:35:44.707472Z"
-lastmod: "2026-07-18T17:15:08.458454Z"
+slug: adapter
+date: '2026-07-18T15:35:44.707472Z'
+lastmod: '2026-07-18T17:15:08.458454Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "وحدة نمطية خفيفة الوزن تُدرج في النماذج المدربة مسبقاً لتمكين الضبط الدقيق الفعال لمهام محددة."
+source: agnes_llm
+status: published
+language: ar
+description: وحدة نمطية خفيفة الوزن تُدرج في النماذج المدربة مسبقاً لتمكين الضبط الدقيق
+  الفعال لمهام محددة.
 ---
-
 ## Definition
 
 تعد المحولات تقنية لضبط دقيق فعال من حيث المعلمات، وتُستخدم أساساً في نماذج اللغات الكبيرة والمحولات (Transformers). بدلاً من تحديث جميع أوزان النموذج، وهو أمر مكلف حسابياً، تضيف المحولات عدداً قليلاً من المعلمات القابلة للتدريب لكل مهمة.

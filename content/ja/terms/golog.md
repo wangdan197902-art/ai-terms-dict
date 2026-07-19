@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /ja/terms/golog/
 date: "2026-07-18T11:15:24.740369Z"
 lastmod: "2026-07-18T11:44:45.099591Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "状況計算（situation calculus）に基づき、アクションの指定と動的ドメインでの推論を行うための高水準プログラミング言語。"
 ---
-
 ## Definition
 
 GOLOGは、主に人工知能において動的環境での計画と行動のために使用される論理ベースのプログラミング言語です。ライターの状況計算に基づいて構築されており、開発者はアクションの仕様や結果の推論を宣言的に記述できます。

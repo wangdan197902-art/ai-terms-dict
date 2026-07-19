@@ -1,23 +1,24 @@
 ---
-title: "Qwen3 5"
-term_id: "qwen3_5"
-category: "basic_concepts"
-subcategory: ""
-tags: ["versioning", "specific-variant", "technical"]
+title: Qwen3 5
+term_id: qwen3_5
+category: basic_concepts
+subcategory: ''
+tags:
+- versioning
+- Specific Variant
+- technical
 difficulty: 4
 weight: 1
-slug: "qwen3_5"
-aliases:
-  - /vi/terms/qwen3_5/
-date: "2026-07-18T16:09:35.732481Z"
-lastmod: "2026-07-18T16:38:07.798533Z"
+slug: qwen3_5
+date: '2026-07-18T16:09:35.732481Z'
+lastmod: '2026-07-18T16:38:07.798533Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Qwen3 5 có thể đề cập đến một phiên bản phụ hoặc biến thể cụ thể trong thế hệ thứ ba của dòng mô hình Qwen."
+source: agnes_llm
+status: published
+language: vi
+description: Qwen3 5 có thể đề cập đến một phiên bản phụ hoặc biến thể cụ thể trong
+  thế hệ thứ ba của dòng mô hình Qwen.
 ---
-
 ## Definition
 
 Qwen3 5 dường như chỉ một điểm kiểm tra (checkpoint), biến thể kích thước hoặc bản phát hành chuyên biệt cụ thể trong thế hệ Qwen3 rộng lớn hơn. Mặc dù thông số kỹ thuật chính xác có thể thay đổi, nhưng nó thường ngụ ý sự tiến hóa từ...

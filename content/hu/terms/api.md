@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /hu/terms/api/
 date: "2026-07-18T15:22:26.336553Z"
 lastmod: "2026-07-18T17:15:09.712811Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Alkalmazásprogramozási felület, amely lehetővé teszi különböző szoftverrendszerek közötti kommunikációt és adatcserét."
 ---
-
 ## Definition
 
 Az API meghatározza a szoftverek és alkalmazások fejlesztéséhez szükséges protokollok és eszközök halmazát. Az AI területén az API-k lehetővé teszik a fejlesztők számára, hogy hozzáférjenek a hatalmas modellekhez (pl. LLM-ek vagy képgenerátorok) anélkül, hogy azokat helyileg kellene üzemeltetniük.

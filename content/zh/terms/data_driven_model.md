@@ -1,23 +1,23 @@
 ---
-title: "数据驱动模型"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: 数据驱动模型
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /zh/terms/data_driven_model/
-date: "2026-07-18T11:12:36.731265Z"
-lastmod: "2026-07-18T11:44:45.475330Z"
+slug: data_driven_model
+date: '2026-07-18T11:12:36.731265Z'
+lastmod: '2026-07-18T11:44:45.475330Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "其参数和结构直接从经验数据中学习，而非通过显式编程计算的计算模型。"
+source: agnes_llm
+status: published
+language: zh
+description: 其参数和结构直接从经验数据中学习，而非通过显式编程计算的计算模型。
 ---
-
 ## Definition
 
 数据驱动模型是一种人工智能系统类型，其行为和预测结果源于历史数据中识别出的模式，而不是由硬编码的规则或明确的数学公式定义。这类模型能够自动适应数据中的复杂关系。

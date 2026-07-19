@@ -7,8 +7,6 @@ tags: ["evaluation", "metrics", "standards"]
 difficulty: 2
 weight: 1
 slug: "benchmark"
-aliases:
-  - /zh/terms/benchmark/
 date: "2026-07-18T10:49:30.666476Z"
 lastmod: "2026-07-18T11:44:45.363067Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "用于评估AI模型性能相对于既定基线的标准参考点或指标。"
 ---
-
 ## Definition
 
 在人工智能中，基准是一套标准化的测试套件或数据集，旨在衡量机器学习模型的能力。它提供了一个一致的框架，用于比较不同模型的性能表现。

@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /cs/terms/podcast/
 date: "2026-07-18T16:12:54.345851Z"
 lastmod: "2026-07-18T17:15:09.189914Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Digitální audio nebo video soubor dostupný na internetu ke stažení nebo streamování."
 ---
-
 ## Definition
 
 V kontextu AI a technologií podcast odkazuje na epizodický digitální mediální obsah distribuovaný prostřednictvím RSS kanálů, což uživatelům umožňuje odebírat a poslouchat diskuse, rozhovory nebo vzděláva

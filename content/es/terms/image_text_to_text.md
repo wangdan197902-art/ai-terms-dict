@@ -1,23 +1,24 @@
 ---
-title: "De imagen y texto a texto"
-term_id: "image_text_to_text"
-category: "application_paradigms"
-subcategory: ""
-tags: ["multimodal", "vision-language", "generation"]
+title: De imagen y texto a texto
+term_id: image_text_to_text
+category: application_paradigms
+subcategory: ''
+tags:
+- multimodal
+- Vision Language
+- generation
 difficulty: 3
 weight: 1
-slug: "image_text_to_text"
-aliases:
-  - /es/terms/image_text_to_text/
-date: "2026-07-18T10:54:19.610614Z"
-lastmod: "2026-07-18T11:44:44.818111Z"
+slug: image_text_to_text
+date: '2026-07-18T10:54:19.610614Z'
+lastmod: '2026-07-18T11:44:44.818111Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "Una capacidad de IA multimodal que genera descripciones textuales o respuestas basadas en imágenes de entrada y prompts de texto opcionales."
+source: agnes_llm
+status: published
+language: es
+description: Una capacidad de IA multimodal que genera descripciones textuales o respuestas
+  basadas en imágenes de entrada y prompts de texto opcionales.
 ---
-
 ## Definition
 
 La conversión de imagen y texto a texto se refiere a modelos que procesan entradas visuales junto con consultas textuales para producir salidas de lenguaje natural coherentes. Estos sistemas, a menudo denominados Modelos Visión-Lenguaje (VLM), combinan...

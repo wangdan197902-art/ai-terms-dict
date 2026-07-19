@@ -1,23 +1,25 @@
 ---
-title: "Ανίχνευση Χαρακτηριστικών (Feature Hashing)"
-term_id: "feature_hashing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "text-mining", "optimization"]
+title: Ανίχνευση Χαρακτηριστικών (Feature Hashing)
+term_id: feature_hashing
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Text Mining
+- Optimization
 difficulty: 3
 weight: 1
-slug: "feature_hashing"
-aliases:
-  - /el/terms/feature_hashing/
-date: "2026-07-18T16:07:16.335685Z"
-lastmod: "2026-07-18T17:15:09.908085Z"
+slug: feature_hashing
+date: '2026-07-18T16:07:16.335685Z'
+lastmod: '2026-07-18T17:15:09.908085Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Μια τεχνική που χαρτογραφεί χαρακτηριστικά υψηλής διάστασης και αραιά σε ένα διάνυσμα σταθερού μεγέθους χρησιμοποιώντας μια συνάρτηση αρίθμησης (hash function)."
+source: agnes_llm
+status: published
+language: el
+description: Μια τεχνική που χαρτογραφεί χαρακτηριστικά υψηλής διάστασης και αραιά
+  σε ένα διάνυσμα σταθερού μεγέθους χρησιμοποιώντας μια συνάρτηση αρίθμησης (hash
+  function).
 ---
-
 ## Definition
 
 Η ανίχνευση χαρακτηριστικών, γνωστή επίσης ως το κόλπο της αρίθμησης (hashing trick), επιτρέπει στα μοντέλα μηχανικής μάθησης να διαχειρίζονται μεγάλους, αραιούς χώρους χαρακτηριστικών χωρίς να διατηρούν ρητή χαρτογράφηση μεταξύ των χαρακτηριστικών και των δεικτών τους. Εφαρμόζοντας

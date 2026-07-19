@@ -7,8 +7,6 @@ tags: ["statistics", "modeling", "advanced"]
 difficulty: 5
 weight: 1
 slug: "generalized_additive_model_for_location_scale_and_shape"
-aliases:
-  - /sv/terms/generalized_additive_model_for_location_scale_and_shape/
 date: "2026-07-18T15:59:21.943410Z"
 lastmod: "2026-07-18T17:15:09.006544Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "GAMLSS är en flexibel statistisk ramverk som gör det möjligt att modellera alla parametrar för en fördelning som funktioner av förklaringsvariabler med hjälp av additiva glättningar."
 ---
-
 ## Definition
 
 Till skillnad från traditionella regressionsmodeller som endast fokuserar på medelvärdet, modellerar GAMLSS hela fördelningen, inklusive plats (medelvärde/mellanvärde), skala (varians), skevhet och spetsighet. Den använder generaliserade linjära modeller för att koppla dessa parametrar till förklaringsvariabler.

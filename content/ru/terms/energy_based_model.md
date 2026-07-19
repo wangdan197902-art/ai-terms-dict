@@ -1,23 +1,24 @@
 ---
-title: "Энергетическая модель"
-term_id: "energy_based_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generative_models", "probability", "deep_learning"]
+title: Энергетическая модель
+term_id: energy_based_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Generative Models
+- probability
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "energy_based_model"
-aliases:
-  - /ru/terms/energy_based_model/
-date: "2026-07-18T15:51:41.387267Z"
-lastmod: "2026-07-18T16:38:07.153715Z"
+slug: energy_based_model
+date: '2026-07-18T15:51:41.387267Z'
+lastmod: '2026-07-18T16:38:07.153715Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Вероятностная модель, которая присваивает низкие значения энергии правдоподобным конфигурациям и высокие — неправдоподобным."
+source: agnes_llm
+status: published
+language: ru
+description: Вероятностная модель, которая присваивает низкие значения энергии правдоподобным
+  конфигурациям и высокие — неправдоподобным.
 ---
-
 ## Definition
 
 Энергетические модели (EBM) определяют распределение вероятностей над входными данными с использованием ненормированной функции плотности, полученной из энергетической функции. Энергетическая функция отображает точки данных в действительные числа

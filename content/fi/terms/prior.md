@@ -7,8 +7,6 @@ tags: ["bayesian", "statistics", "probability"]
 difficulty: 4
 weight: 1
 slug: "prior"
-aliases:
-  - /fi/terms/prior/
 date: "2026-07-18T15:29:52.454319Z"
 lastmod: "2026-07-18T17:15:09.357214Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Bayesilaisessa tilastotieteessä todennäköisyysjakauma, joka ilmaisee tietoa tai uskomusta parametrista ennen uuden todisteiden tai datan havainnoimista."
 ---
-
 ## Definition
 
 Ennakkotieto edustaa olemassa olevia uskomuksia tai historiallista dataa muuttujasta ennen uusien havaintojen sisällyttämistä. Bayesilaisessa päättelyssä ennakkotieto yhdistetään havaitun datan...

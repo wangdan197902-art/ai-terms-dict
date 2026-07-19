@@ -1,23 +1,25 @@
 ---
-title: "Genie"
-term_id: "genie"
-category: "basic_concepts"
-subcategory: ""
-tags: ["video", "specific-model", "multimodal"]
+title: Genie
+term_id: genie
+category: basic_concepts
+subcategory: ''
+tags:
+- video
+- Specific Model
+- multimodal
 difficulty: 3
 weight: 1
-slug: "genie"
-aliases:
-  - /ro/terms/genie/
-date: "2026-07-18T16:00:03.656834Z"
-lastmod: "2026-07-18T17:15:09.660080Z"
+slug: genie
+date: '2026-07-18T16:00:03.656834Z'
+lastmod: '2026-07-18T17:15:09.660080Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O clasă specifică de modele de generare video, în special Genie al Google, care prezice cadrele viitoare ale videoclipurilor pe baza intrărilor textuale sau vizuale."
+source: agnes_llm
+status: published
+language: ro
+description: O clasă specifică de modele de generare video, în special Genie al Google,
+  care prezice cadrele viitoare ale videoclipurilor pe baza intrărilor textuale sau
+  vizuale.
 ---
-
 ## Definition
 
 Genie se referă la o familie de modele generative concepute special pentru sinteza video. Dezvoltate de cercetători, inclusiv cei de la Google DeepMind, aceste modele vizează generarea de secvențe coerente de...

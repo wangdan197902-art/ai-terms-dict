@@ -7,8 +7,6 @@ tags: ["metrics", "evaluation", "statistics"]
 difficulty: 4
 weight: 1
 slug: "category_utility"
-aliases:
-  - /id/terms/category_utility/
 date: "2026-07-18T15:41:31.890533Z"
 lastmod: "2026-07-18T16:38:07.435548Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Utilitas kategori adalah ukuran matematis yang digunakan untuk mengevaluasi efektivitas skema kategorisasi berdasarkan peningkatan informasi yang diberikan tentang nilai atribut."
 ---
-
 ## Definition
 
 Metrik ini mengukur seberapa baik satu set kategori memungkinkan seseorang untuk memprediksi nilai atribut di dalam kategori tersebut. Utilitas kategori menyeimbangkan ukuran kategori dengan homogenitas konten di dalamnya, memberikan indikasi kuat tentang kualitas struktur kategori yang dihasilkan oleh algoritma pembelajaran.

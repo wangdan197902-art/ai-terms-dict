@@ -1,23 +1,25 @@
 ---
-title: "FP8"
-term_id: "fp8"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_types", "optimization", "hardware"]
+title: FP8
+term_id: fp8
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Types
+- Optimization
+- hardware
 difficulty: 3
 weight: 1
-slug: "fp8"
-aliases:
-  - /ru/terms/fp8/
-date: "2026-07-18T15:53:52.322863Z"
-lastmod: "2026-07-18T16:38:07.158835Z"
+slug: fp8
+date: '2026-07-18T15:53:52.322863Z'
+lastmod: '2026-07-18T16:38:07.158835Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "FP8 — это формат чисел с плавающей запятой разрядностью 8 бит, разработанный для ускорения обучения и вывода моделей глубокого обучения при сохранении приемлемого уровня точности."
+source: agnes_llm
+status: published
+language: ru
+description: FP8 — это формат чисел с плавающей запятой разрядностью 8 бит, разработанный
+  для ускорения обучения и вывода моделей глубокого обучения при сохранении приемлемого
+  уровня точности.
 ---
-
 ## Definition
 
 Числовой тип данных FP8 (Floating-Point 8) обеспечивает баланс между вычислительной эффективностью и точностью, специально оптимизирован для современного аппаратного обеспечения ИИ. Он снижает требования к пропускной способности памяти

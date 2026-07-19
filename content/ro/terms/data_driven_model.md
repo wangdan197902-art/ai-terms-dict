@@ -1,23 +1,24 @@
 ---
-title: "Model bazat pe date"
-term_id: "data_driven_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["modeling", "learning_paradigm", "statistics"]
+title: Model bazat pe date
+term_id: data_driven_model
+category: basic_concepts
+subcategory: ''
+tags:
+- modeling
+- Learning Paradigm
+- statistics
 difficulty: 2
 weight: 1
-slug: "data_driven_model"
-aliases:
-  - /ro/terms/data_driven_model/
-date: "2026-07-18T15:51:48.416280Z"
-lastmod: "2026-07-18T17:15:09.642494Z"
+slug: data_driven_model
+date: '2026-07-18T15:51:48.416280Z'
+lastmod: '2026-07-18T17:15:09.642494Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Un model computațional al cărui parametri și structură sunt învățați direct din date empirice, nu din programare explicită."
+source: agnes_llm
+status: published
+language: ro
+description: Un model computațional al cărui parametri și structură sunt învățați
+  direct din date empirice, nu din programare explicită.
 ---
-
 ## Definition
 
 Un model bazat pe date este un tip de sistem de inteligență artificială în care comportamentul și predicțiile emerg din tiparele identificate în datele istorice, în loc să fie definite de reguli codificate rigid sau de cunoștințe explicite ale domeniului. Aceste modele se bazează pe inferența statistică și învățarea din experiență pentru a generaliza și a face predicții asupra datelor noi.

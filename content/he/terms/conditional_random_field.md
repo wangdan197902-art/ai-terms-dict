@@ -1,23 +1,24 @@
 ---
-title: "שדה רנדומלי מותנה"
-term_id: "conditional_random_field"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "probabilistic_graphical_models", "structured_prediction"]
+title: שדה רנדומלי מותנה
+term_id: conditional_random_field
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Probabilistic Graphical Models
+- Structured Prediction
 difficulty: 4
 weight: 1
-slug: "conditional_random_field"
-aliases:
-  - /he/terms/conditional_random_field/
-date: "2026-07-18T15:49:28.063301Z"
-lastmod: "2026-07-18T17:15:09.522412Z"
+slug: conditional_random_field
+date: '2026-07-18T15:49:28.063301Z'
+lastmod: '2026-07-18T17:15:09.522412Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "שדה רנדומלי מותנה הוא מודל הסתברותי דיסקרימינטיבי המשמש למשימות חיזוי מבני כמו תיוג רצפים."
+source: agnes_llm
+status: published
+language: he
+description: שדה רנדומלי מותנה הוא מודל הסתברותי דיסקרימינטיבי המשמש למשימות חיזוי
+  מבני כמו תיוג רצפים.
 ---
-
 ## Definition
 
 שדות רנדומליים מותנים (CRFs) הם מחלקה של מודלים דיסקרימינטיביים המשמשים נפוצות בעיבוד שפה טבעית ובביואינפורמטיקה. בניגוד למודלים גנראטיביים, CRFs ממodelים ישירות את ההסתברות המותנית של התוויות בהינתן הרצף, תוך התחשבות בקשרים בין איברים סמויים.

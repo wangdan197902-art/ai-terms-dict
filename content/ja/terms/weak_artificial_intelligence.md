@@ -7,8 +7,6 @@ tags: ["AI Types", "Fundamentals", "Philosophy"]
 difficulty: 2
 weight: 1
 slug: "weak_artificial_intelligence"
-aliases:
-  - /ja/terms/weak_artificial_intelligence/
 date: "2026-07-18T11:36:28.698462Z"
 lastmod: "2026-07-18T11:44:45.154930Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "一般的な認知能力を持たず、限られた文脈内で特定のタスクを実行するために設計されたAI。"
 ---
-
 ## Definition
 
 狭義のAIとも呼ばれる「弱い人工知能」は、顔認識や言語翻訳など、特定の問題を解決したり特定のタスクを実行したりするために構築されたシステムを指します。これは汎用的な推論能力や意識を持つものとは異なります。

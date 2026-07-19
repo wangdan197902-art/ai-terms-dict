@@ -7,8 +7,6 @@ tags: ["theoretical", "quantum", "biology"]
 difficulty: 5
 weight: 1
 slug: "quantum_artificial_life"
-aliases:
-  - /ja/terms/quantum_artificial_life/
 date: "2026-07-18T11:29:25.772176Z"
 lastmod: "2026-07-18T11:44:45.136002Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "量子人工生命は、量子コンピューティングの原理を用いて自律系や進化プロセスを研究する分野です。"
 ---
-
 ## Definition
 
 量子人工生命（QAL）は、量子力学と人工生命研究の交差点を探求し、量子コンピュータを使用して生物学的進化や自己複製システムのシミュレーションを行うことを目的としています。

@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /hu/terms/inference/
 date: "2026-07-18T15:23:10.444348Z"
 lastmod: "2026-07-18T17:15:09.714650Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az a fázis, amikor egy betanított modell új adatokat dolgoz fel előrejelzések vagy kimenetek generálásához."
 ---
-
 ## Definition
 
 A levezetés (inference) a telepítési szakaszt jelenti, amikor egy véglegesített modellt használnak döntések meghozatalára vagy előrejelzések készítésére addig nem látott adatokon. A tanítással ellentétben, amely frissíti a súlyokat, a levezetés...

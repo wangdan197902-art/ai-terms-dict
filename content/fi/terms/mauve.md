@@ -1,23 +1,25 @@
 ---
-title: "MAUVE"
-term_id: "mauve"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evaluation", "metrics", "nlp"]
+title: MAUVE
+term_id: mauve
+category: basic_concepts
+subcategory: ''
+tags:
+- evaluation
+- metrics
+- NLP
 difficulty: 4
 weight: 1
-slug: "mauve"
-aliases:
-  - /fi/terms/mauve/
-date: "2026-07-18T16:08:13.994211Z"
-lastmod: "2026-07-18T17:15:09.431200Z"
+slug: mauve
+date: '2026-07-18T16:08:13.994211Z'
+lastmod: '2026-07-18T17:15:09.431200Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "MAUVE (Measuring Alignment Using Virtual Embeddings) on luonnollisen kielentarkastelun mittari, jota käytetään arvioimaan tuotetun tekstin jakauman ja ihmisten kirjoittaman tekstin jakauman välistä va"
+source: agnes_llm
+status: published
+language: fi
+description: MAUVE (Measuring Alignment Using Virtual Embeddings) on luonnollisen
+  kielentarkastelun mittari, jota käytetään arvioimaan tuotetun tekstin jakauman ja
+  ihmisten kirjoittaman tekstin jakauman välistä va
 ---
-
 ## Definition
 
 MAUVE on tilastollinen mittari, joka on suunniteltu arvioimaan, kuinka hyvin generatiivisen kielimallin tuotos muistuttaa ihmisen kielen käyttöä. MAUVE käyttää virtuaalisia upotuksia sen sijaan, että se...

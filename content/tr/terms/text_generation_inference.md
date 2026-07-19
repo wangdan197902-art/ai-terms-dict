@@ -1,23 +1,25 @@
 ---
-title: "Metin Üretimi Çıkarımı"
-term_id: "text_generation_inference"
-category: "application_paradigms"
-subcategory: ""
-tags: ["inference", "optimization", "deployment"]
+title: Metin Üretimi Çıkarımı
+term_id: text_generation_inference
+category: application_paradigms
+subcategory: ''
+tags:
+- inference
+- Optimization
+- deployment
 difficulty: 4
 weight: 1
-slug: "text_generation_inference"
-aliases:
-  - /tr/terms/text_generation_inference/
-date: "2026-07-18T16:17:05.938273Z"
-lastmod: "2026-07-18T16:38:07.372379Z"
+slug: text_generation_inference
+date: '2026-07-18T16:17:05.938273Z'
+lastmod: '2026-07-18T16:38:07.372379Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "tr"
-description: "Büyük dil modellerini ölçeklenebilir şekilde verimli bir şekilde metin üretmek için dağıtmaya özel olarak optimize edilmiş yüksek performanslı bir hizmet motoru."
+source: agnes_llm
+status: published
+language: tr
+description: Büyük dil modellerini ölçeklenebilir şekilde verimli bir şekilde metin
+  üretmek için dağıtmaya özel olarak optimize edilmiş yüksek performanslı bir hizmet
+  motoru.
 ---
-
 ## Definition
 
 Metin Üretimi Çıkarımı (TGI), düşük gecikme süresi ve yüksek veri akışı ile büyük dil modellerini (LLM) hizmete sunmak üzere tasarlanmış özel bir yazılım çerçevesidir. Metin üretimi için çıkarım sürecini optimize eder.

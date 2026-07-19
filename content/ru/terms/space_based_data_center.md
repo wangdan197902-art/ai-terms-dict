@@ -1,23 +1,25 @@
 ---
-title: "Космический дата-центр"
-term_id: "space_based_data_center"
-category: "basic_concepts"
-subcategory: ""
-tags: ["future_tech", "hardware", "sustainability"]
+title: Космический дата-центр
+term_id: space_based_data_center
+category: basic_concepts
+subcategory: ''
+tags:
+- Future Tech
+- hardware
+- sustainability
 difficulty: 5
 weight: 1
-slug: "space_based_data_center"
-aliases:
-  - /ru/terms/space_based_data_center/
-date: "2026-07-18T16:16:07.527192Z"
-lastmod: "2026-07-18T16:38:07.203726Z"
+slug: space_based_data_center
+date: '2026-07-18T16:16:07.527192Z'
+lastmod: '2026-07-18T16:38:07.203726Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Вычислительноеfacility, расположенное на орбите, использующее космические условия, такие как солнечная энергия и охлаждение в вакууме, для эффективной обработки данных."
+source: agnes_llm
+status: published
+language: ru
+description: Вычислительноеfacility, расположенное на орбите, использующее космические
+  условия, такие как солнечная энергия и охлаждение в вакууме, для эффективной обработки
+  данных.
 ---
-
 ## Definition
 
 Космические дата-центры — это предлагаемые вычислительные комплексы, размещаемые на орбите Земли, предназначенные для использования уникальных преимуществ окружающей среды, таких как обилие солнечной энергии и естественное охлаждение в вакууме космоса.

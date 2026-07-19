@@ -1,23 +1,24 @@
 ---
-title: "Penyetelan Prompt"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Penyetelan Prompt
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /id/terms/prompt_tuning/
-date: "2026-07-18T16:05:14.242610Z"
-lastmod: "2026-07-18T16:38:07.496687Z"
+slug: prompt_tuning
+date: '2026-07-18T16:05:14.242610Z'
+lastmod: '2026-07-18T16:38:07.496687Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Metode penyetelan halus yang efisien parameter, mengoptimalkan embedding input kontinu alih-alih memperbarui seluruh bobot model."
+source: agnes_llm
+status: published
+language: id
+description: Metode penyetelan halus yang efisien parameter, mengoptimalkan embedding
+  input kontinu alih-alih memperbarui seluruh bobot model.
 ---
-
 ## Definition
 
 Penyetelan prompt melibatkan penambahan prompt lunak yang dapat dilatih (vektor kontinu) pada lapisan input model bahasa pra-latih sambil mempertahankan parameter model dasar tetap beku. Pendekatan ini memungkinkan

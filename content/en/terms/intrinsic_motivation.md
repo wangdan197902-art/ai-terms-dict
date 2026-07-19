@@ -7,8 +7,6 @@ tags: ["RL", "Robotics", "Algorithm Design"]
 difficulty: 4
 weight: 1
 slug: "intrinsic_motivation"
-aliases:
-  - /en/terms/intrinsic_motivation/
 date: "2026-07-18T10:03:27.084712Z"
 lastmod: "2026-07-18T11:44:44.687176Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A reinforcement learning concept where agents pursue goals based on internal curiosity or knowledge acquisition rather than external rewards."
 ---
-
 ## Definition
 
 In reinforcement learning, intrinsic motivation drives an agent to explore its environment by seeking novelty, reducing uncertainty, or mastering skills, independent of extrinsic task rewards. This mechanism helps solve the sparse reward problem by providing dense internal feedback signals. By encouraging exploration, intrinsic motivation allows agents to discover useful behaviors and states that might otherwise remain unvisited, leading to more robust and generalizable policies in complex environments.

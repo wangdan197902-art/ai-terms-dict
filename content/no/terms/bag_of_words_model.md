@@ -1,23 +1,24 @@
 ---
-title: "Bag-of-words-modellen"
-term_id: "bag_of_words_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["NLP", "text-processing", "feature-engineering"]
+title: Bag-of-words-modellen
+term_id: bag_of_words_model
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- Text Processing
+- Feature Engineering
 difficulty: 2
 weight: 1
-slug: "bag_of_words_model"
-aliases:
-  - /no/terms/bag_of_words_model/
-date: "2026-07-18T15:44:29.706628Z"
-lastmod: "2026-07-18T16:38:06.974986Z"
+slug: bag_of_words_model
+date: '2026-07-18T15:44:29.706628Z'
+lastmod: '2026-07-18T16:38:06.974986Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Bag-of-words-modellen er en forenklet representasjon av tekst som beskriver forekomsten av ord i et dokument, uten å ta hensyn til grammatikk og ordrekkefølge."
+source: agnes_llm
+status: published
+language: 'no'
+description: Bag-of-words-modellen er en forenklet representasjon av tekst som beskriver
+  forekomsten av ord i et dokument, uten å ta hensyn til grammatikk og ordrekkefølge.
 ---
-
 ## Definition
 
 Denne teknikken innen naturlig språkbehandling representerer tekst som en multiset av ord, der syntaks og sekvens ignoreres. Den konverterer dokumenter til numeriske vektorer basert på ordfrekvens eller tilstedeværelse.

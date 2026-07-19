@@ -1,23 +1,23 @@
 ---
-title: "Machine Learning"
-term_id: "machine_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_concept", "AI"]
+title: Machine Learning
+term_id: machine_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
 difficulty: 2
 weight: 1
-slug: "machine_learning"
-aliases:
-  - /it/terms/machine_learning/
-date: "2026-07-18T15:26:24.456788Z"
-lastmod: "2026-07-18T17:15:08.569450Z"
+slug: machine_learning
+date: '2026-07-18T15:26:24.456788Z'
+lastmod: '2026-07-18T17:15:08.569450Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Un sottoinsieme dell'IA focalizzato sulla creazione di sistemi che imparano dai dati per migliorare le prestazioni senza programmazione esplicita."
+source: agnes_llm
+status: published
+language: it
+description: Un sottoinsieme dell'IA focalizzato sulla creazione di sistemi che imparano
+  dai dati per migliorare le prestazioni senza programmazione esplicita.
 ---
-
 ## Definition
 
 Il Machine Learning (ML) consente ai computer di apprendere pattern dai dati storici e prendere decisioni o effettuare previsioni su nuovi dati non visti. Comprende varie tecniche tra cui apprendimento supervisionato, non

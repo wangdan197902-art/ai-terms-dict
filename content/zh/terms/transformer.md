@@ -1,23 +1,23 @@
 ---
-title: "Transformer"
-term_id: "transformer"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "nlp", "attention"]
+title: Transformer
+term_id: transformer
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- NLP
+- attention
 difficulty: 4
 weight: 1
-slug: "transformer"
-aliases:
-  - /zh/terms/transformer/
-date: "2026-07-18T10:55:40.663789Z"
-lastmod: "2026-07-18T11:44:45.387433Z"
+slug: transformer
+date: '2026-07-18T10:55:40.663789Z'
+lastmod: '2026-07-18T11:44:45.387433Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种基于自注意力机制的深度学习架构，能够并行而非顺序地处理序列数据。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种基于自注意力机制的深度学习架构，能够并行而非顺序地处理序列数据。
 ---
-
 ## Definition
 
 Transformer架构在《Attention Is All You Need》论文中被提出，彻底革新了自然语言处理及更多领域。它使用多头自注意力机制来权衡输入序列中不同部分的重要性。

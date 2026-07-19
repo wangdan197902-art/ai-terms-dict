@@ -1,23 +1,25 @@
 ---
-title: "Sterowany"
-term_id: "driven"
-category: "basic_concepts"
-subcategory: ""
-tags: ["terminology", "paradigms", "classification"]
+title: Sterowany
+term_id: driven
+category: basic_concepts
+subcategory: ''
+tags:
+- terminology
+- paradigms
+- Classification
 difficulty: 1
 weight: 1
-slug: "driven"
-aliases:
-  - /pl/terms/driven/
-date: "2026-07-18T15:24:37.995639Z"
-lastmod: "2026-07-18T17:15:08.809833Z"
+slug: driven
+date: '2026-07-18T15:24:37.995639Z'
+lastmod: '2026-07-18T17:15:08.809833Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Termin 'sterowany' opisuje systemy AI lub metodyki, w których podejmowanie decyzji lub architektura modelu są głównie kierowane przez określony typ danych lub cel."
+source: agnes_llm
+status: published
+language: pl
+description: Termin 'sterowany' opisuje systemy AI lub metodyki, w których podejmowanie
+  decyzji lub architektura modelu są głównie kierowane przez określony typ danych
+  lub cel.
 ---
-
 ## Definition
 
 Określenie 'sterowany' jest często używane jako przyrostek wskazujący na główną siłę napędową mechanizmu w podejściu AI. Na przykład 'sterowane danymi' oznacza, że decyzje są podejmowane na podstawie wzorców statystycznych w danych.

@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /zh/terms/scientific/
 date: "2026-07-18T10:54:38.443419Z"
 lastmod: "2026-07-18T11:44:45.384181Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "AI中的科学指在研究中应用严格的实证方法、假设检验和可重复性。"
 ---
-
 ## Definition
 
 人工智能中的科学方法强调基于证据的开发和验证。它涉及提出关于模型行为的假设，进行受控实验，并

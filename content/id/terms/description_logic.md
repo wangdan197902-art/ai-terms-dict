@@ -1,23 +1,23 @@
 ---
-title: "Description Logic"
-term_id: "description_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["knowledge_representation", "semantic_web"]
+title: Description Logic
+term_id: description_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Knowledge Representation
+- Semantic Web
 difficulty: 4
 weight: 1
-slug: "description_logic"
-aliases:
-  - /id/terms/description_logic/
-date: "2026-07-18T15:47:44.305334Z"
-lastmod: "2026-07-18T16:38:07.449967Z"
+slug: description_logic
+date: '2026-07-18T15:47:44.305334Z'
+lastmod: '2026-07-18T16:38:07.449967Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Sebuah keluarga bahasa representasi pengetahuan formal yang digunakan untuk merepresentasikan dan menalar tentang struktur konseptual domain."
+source: agnes_llm
+status: published
+language: id
+description: Sebuah keluarga bahasa representasi pengetahuan formal yang digunakan
+  untuk merepresentasikan dan menalar tentang struktur konseptual domain.
 ---
-
 ## Definition
 
 Logika Deskripsi (DL) adalah fragmen logika orde pertama yang dapat diputuskan yang membentuk dasar teoretis untuk ontologi, khususnya Bahasa Ontologi Web (OWL). Logika ini memungkinkan definisi yang tepat...

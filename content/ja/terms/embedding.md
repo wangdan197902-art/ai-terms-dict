@@ -7,8 +7,6 @@ tags: ["NLP", "Representation Learning", "Vectors"]
 difficulty: 2
 weight: 1
 slug: "embedding"
-aliases:
-  - /ja/terms/embedding/
 date: "2026-07-18T07:42:13.833736Z"
 lastmod: "2026-07-18T11:44:44.586783Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "単語や画像などの離散オブジェクトを連続的なベクトル空間にマッピングする技術。"
 ---
-
 ## Definition
 
 埋め込みは、意味的な関係が幾何学的な空間で保持されるデータの高密度ベクトル表現です。カテゴリカルまたは高次元の入力を固定長のベクトルに変換することで、モデルはデータを効率的に処理できます。

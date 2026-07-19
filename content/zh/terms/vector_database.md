@@ -7,8 +7,6 @@ tags: ["AI Infrastructure", "Database", "Machine Learning"]
 difficulty: 4
 weight: 1
 slug: "vector_database"
-aliases:
-  - /zh/terms/vector_database/
 date: "2026-07-18T10:55:52.609799Z"
 lastmod: "2026-07-18T11:44:45.388285Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种专为存储、索引和查询表示数据特征的高维向量而设计的专用数据库。"
 ---
-
 ## Definition
 
 向量数据库通过将非结构化数据转换为数值嵌入（embeddings）来优化其存储和检索。它们使用近似最近邻（ANN）等算法，以高效地查找相似性。

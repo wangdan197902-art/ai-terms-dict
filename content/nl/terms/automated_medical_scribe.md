@@ -1,23 +1,24 @@
 ---
-title: "Geautomatiseerde medische scribe"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Geautomatiseerde medische scribe
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /nl/terms/automated_medical_scribe/
-date: "2026-07-18T15:44:10.954723Z"
-lastmod: "2026-07-18T17:15:08.720181Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:44:10.954723Z'
+lastmod: '2026-07-18T17:15:08.720181Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een door AI aangedreven systeem dat klinische documentatie automatisch genereert op basis van interacties tussen arts en patiënt."
+source: agnes_llm
+status: published
+language: nl
+description: Een door AI aangedreven systeem dat klinische documentatie automatisch
+  genereert op basis van interacties tussen arts en patiënt.
 ---
-
 ## Definition
 
 Geautomatiseerde medische scriben maken gebruik van natuurlijke taalverwerking (NLP) en spraakherkenningstechnologieën om gesprekken tussen artsen en patiënten te beluisteren en gestructureerde elektronische gezondheidsdossiers te creëren. Deze technologie helpt bij het stroomlijnen van administratieve taken.

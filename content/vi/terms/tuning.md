@@ -1,23 +1,24 @@
 ---
-title: "Điều chỉnh"
-term_id: "tuning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "process", "configuration"]
+title: Điều chỉnh
+term_id: tuning
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- process
+- configuration
 difficulty: 2
 weight: 1
-slug: "tuning"
-aliases:
-  - /vi/terms/tuning/
-date: "2026-07-18T15:29:53.443218Z"
-lastmod: "2026-07-18T16:38:07.698662Z"
+slug: tuning
+date: '2026-07-18T15:29:53.443218Z'
+lastmod: '2026-07-18T16:38:07.698662Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình điều chỉnh các siêu tham số hoặc trọng số mô hình để tối ưu hóa hiệu suất trên một tập dữ liệu hoặc nhiệm vụ cụ thể."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình điều chỉnh các siêu tham số hoặc trọng số mô hình để tối ưu
+  hóa hiệu suất trên một tập dữ liệu hoặc nhiệm vụ cụ thể.
 ---
-
 ## Definition
 
 Điều chỉnh liên quan đến việc tinh chỉnh một mô hình học máy để đạt được độ chính xác hoặc hiệu quả tốt hơn. Nó có thể đề cập đến việc điều chỉnh siêu tham số, nơi các cài đặt như tốc độ học hoặc kích thước lô được tối ưu hóa, hoặc tinh

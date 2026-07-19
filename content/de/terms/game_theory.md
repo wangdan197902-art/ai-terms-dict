@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /de/terms/game_theory/
 date: "2026-07-18T11:15:36.270948Z"
 lastmod: "2026-07-18T11:44:44.942889Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die mathematische Untersuchung strategischer Interaktionen zwischen rationalen Entscheidungsträgern, bei denen die Ergebnisse von den Handlungen aller Beteiligten abhängen."
 ---
-
 ## Definition
 
 Die Spieltheorie ist ein Zweig der angewandten Mathematik, der strategische Interaktionen zwischen rationalen Akteuren modelliert. Sie analysiert Situationen, in denen der Erfolg eines Spielers von den Entscheidungen anderer abhängt. Wichtige Konzepte umfassen das Nash-Gleichgewicht und Auszahlungsmatrizen.

@@ -1,23 +1,24 @@
 ---
-title: "Agent flou"
-term_id: "fuzzy_agent"
-category: "application_paradigms"
-subcategory: ""
-tags: ["fuzzy_logic", "agents", "control_systems"]
+title: Agent flou
+term_id: fuzzy_agent
+category: application_paradigms
+subcategory: ''
+tags:
+- Fuzzy Logic
+- agents
+- Control Systems
 difficulty: 4
 weight: 1
-slug: "fuzzy_agent"
-aliases:
-  - /fr/terms/fuzzy_agent/
-date: "2026-07-18T11:17:47.248190Z"
-lastmod: "2026-07-18T11:44:45.253881Z"
+slug: fuzzy_agent
+date: '2026-07-18T11:17:47.248190Z'
+lastmod: '2026-07-18T11:44:45.253881Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une entité autonome qui utilise la logique floue pour gérer l'incertitude et les informations imprécises dans les processus de prise de décision."
+source: agnes_llm
+status: published
+language: fr
+description: Une entité autonome qui utilise la logique floue pour gérer l'incertitude
+  et les informations imprécises dans les processus de prise de décision.
 ---
-
 ## Definition
 
 Un agent flou opère dans des environnements où les données sont souvent ambiguës ou incomplètes, employant des systèmes de logique floue plutôt que des états binaires vrai/faux. En utilisant des fonctions d'appartenance et des variables linguistiques, il permet une prise de décision plus nuancée.

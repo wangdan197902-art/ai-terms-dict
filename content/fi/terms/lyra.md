@@ -1,23 +1,25 @@
 ---
-title: "Lyra"
-term_id: "lyra"
-category: "basic_concepts"
-subcategory: ""
-tags: ["models", "search", "nlp"]
+title: Lyra
+term_id: lyra
+category: basic_concepts
+subcategory: ''
+tags:
+- models
+- search
+- NLP
 difficulty: 3
 weight: 1
-slug: "lyra"
-aliases:
-  - /fi/terms/lyra/
-date: "2026-07-18T16:08:13.994167Z"
-lastmod: "2026-07-18T17:15:09.430933Z"
+slug: lyra
+date: '2026-07-18T16:08:13.994167Z'
+lastmod: '2026-07-18T17:15:09.430933Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Lyra viittaa eri tekoälyhankkeisiin tai malleihin, huomattavimmin avoimen lähdekoodin suureen kielimalliin tai nimenomaan tekoälypohjaiseen hakua ja tietojen etsimistä parantavaan työkaluun."
+source: agnes_llm
+status: published
+language: fi
+description: Lyra viittaa eri tekoälyhankkeisiin tai malleihin, huomattavimmin avoimen
+  lähdekoodin suureen kielimalliin tai nimenomaan tekoälypohjaiseen hakua ja tietojen
+  etsimistä parantavaan työkaluun.
 ---
-
 ## Definition
 
 Nykytekoälyterminologiassa Lyra tarkoittaa usein erikoistuneita tekoälijärjestelmiä, jotka keskittyvät käyttäjän vuorovaikutuksen parantamiseen luonnollisen kielen käsittelyn avulla. Se voi viitata avoimeen...

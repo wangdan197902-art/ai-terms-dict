@@ -1,23 +1,24 @@
 ---
-title: "Preferenciatanulás"
-term_id: "preference_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["alignment", "human_feedback", "rlhf"]
+title: Preferenciatanulás
+term_id: preference_learning
+category: training_techniques
+subcategory: ''
+tags:
+- alignment
+- Human Feedback
+- rlhf
 difficulty: 3
 weight: 1
-slug: "preference_learning"
-aliases:
-  - /hu/terms/preference_learning/
-date: "2026-07-18T16:18:42.439146Z"
-lastmod: "2026-07-18T17:15:09.823570Z"
+slug: preference_learning
+date: '2026-07-18T16:18:42.439146Z'
+lastmod: '2026-07-18T17:15:09.823570Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy technika, amely összehasonlító visszajelzések segítségével olyan modelleket képez, amelyek kimenetei igazodnak az emberi preferenciákhoz."
+source: agnes_llm
+status: published
+language: hu
+description: Egy technika, amely összehasonlító visszajelzések segítségével olyan
+  modelleket képez, amelyek kimenetei igazodnak az emberi preferenciákhoz.
 ---
-
 ## Definition
 
 A preferenciatanulás arra fókuszál, hogy a modelleket megtanítsa megkülönböztetni a jó és a rossz kimeneteket az abszolút címkék helyett az emberi ítéletek alapján. Ez általában válaszpárok gyűjtését foglalja magában, ahol az emberek azt jelzik, melyik választ részesítik előnyben, majd ezekből a preferenciákból jutalommodellt vagy közvetlen optimalizációs stratégiát vezetnek le.

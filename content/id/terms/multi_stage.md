@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /id/terms/multi_stage/
 date: "2026-07-18T15:32:19.697029Z"
 lastmod: "2026-07-18T16:38:07.409213Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Desain proses yang membagi tugas kompleks menjadi fase-fase berbeda yang berurutan, masing-masing dengan tujuan dan output spesifik."
 ---
-
 ## Definition
 
 Pendekatan multi-tahap memecah alur kerja yang rumit menjadi segmen-segmen yang lebih mudah dikelola, memungkinkan pemrosesan khusus pada setiap langkah. Metode ini meningkatkan kontrol, kemudahan debug, dan optimasi kinerja.

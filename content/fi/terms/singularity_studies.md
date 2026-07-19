@@ -1,23 +1,25 @@
 ---
-title: "Singulaarisuustutkimus"
-term_id: "singularity_studies"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "future_studies", "ethics", "ai_safety"]
+title: Singulaarisuustutkimus
+term_id: singularity_studies
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- Future Studies
+- ethics
+- AI Safety
 difficulty: 4
 weight: 1
-slug: "singularity_studies"
-aliases:
-  - /fi/terms/singularity_studies/
-date: "2026-07-18T16:20:25.521301Z"
-lastmod: "2026-07-18T17:15:09.459403Z"
+slug: singularity_studies
+date: '2026-07-18T16:20:25.521301Z'
+lastmod: '2026-07-18T17:15:09.459403Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Monitieteellinen tutkimusala, joka tutkii tulevan teknologisen singulaarisuuden mahdollisia yhteiskunnallisia, eettisiä ja eksistentiaalisia vaikutuksia."
+source: agnes_llm
+status: published
+language: fi
+description: Monitieteellinen tutkimusala, joka tutkii tulevan teknologisen singulaarisuuden
+  mahdollisia yhteiskunnallisia, eettisiä ja eksistentiaalisia vaikutuksia.
 ---
-
 ## Definition
 
 Singulaarisuustutkimus on nouseva akateeminen tieteenala, joka tutkii hypoteettisen tulevaisuudenhetken seurauksia, jolloin tekoäly ylittää ihmisen älyn, mikä johtaa ennakoimattomiin muutoksiin.

@@ -1,23 +1,24 @@
 ---
-title: "Skala Fitur"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Skala Fitur
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /id/terms/feature_scaling/
-date: "2026-07-18T15:50:36.790454Z"
-lastmod: "2026-07-18T16:38:07.458114Z"
+slug: feature_scaling
+date: '2026-07-18T15:50:36.790454Z'
+lastmod: '2026-07-18T16:38:07.458114Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Proses menormalisasi rentang variabel independen atau fitur data untuk memastikan keseragaman dalam besaran."
+source: agnes_llm
+status: published
+language: id
+description: Proses menormalisasi rentang variabel independen atau fitur data untuk
+  memastikan keseragaman dalam besaran.
 ---
-
 ## Definition
 
 Skala fitur menstandarkan rentang variabel masukan untuk mencegah fitur dengan besaran lebih besar mendominasi proses pembelajaran. Metode umum termasuk normalisasi (skala min-maks) dan standarisasi (skala Z), yang membantu algoritma konvergensi lebih cepat dan stabil.

@@ -1,23 +1,24 @@
 ---
-title: "Viesti"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: Viesti
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /fi/terms/post/
-date: "2026-07-18T15:29:52.454306Z"
-lastmod: "2026-07-18T17:15:09.356997Z"
+slug: post
+date: '2026-07-18T15:29:52.454306Z'
+lastmod: '2026-07-18T17:15:09.356997Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Julkaistu sisältö, tyypillisesti blogissa, sosiaalisen median alustalla tai foorumilla, joka edustaa käyttäjän tuottamaa tietoa tai kommenttia."
+source: agnes_llm
+status: published
+language: fi
+description: Julkaistu sisältö, tyypillisesti blogissa, sosiaalisen median alustalla
+  tai foorumilla, joka edustaa käyttäjän tuottamaa tietoa tai kommenttia.
 ---
-
 ## Definition
 
 Digitaalisessa viestinnässä ja tekoälyn datayhteyksissä 'viesti' viittaa verkkoon jaettuun diskreettiin sisältöyksikköön. Se toimii ensisijaisena lähteenä luonnollen kielen käsittelymallien...

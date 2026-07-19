@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /tr/terms/asr_complete/
 date: "2026-07-18T15:39:35.470596Z"
 lastmod: "2026-07-18T16:38:07.268925Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "ASR-complete, konuşma tanıma sisteminin standartlaştırılmış test setlerinde insan düzeyinde doğruluk sağladığını ifade eder."
 ---
-
 ## Definition
 
 ASR-complete terimi, bir Otomatik Konuşma Tanıma (ASR) sisteminin belirli ve iyi tanımlanmış görevler ve veri setleri üzerinde insan aktarım yapanlarla karşılaştırılabilir bir performans seviyesine ulaştığını belirtir. Bu, alan için önemli bir kilometre taşını işaret eder.

@@ -1,23 +1,24 @@
 ---
-title: "كشف الكائنات (Object Detection)"
-term_id: "object_detection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["computer-vision", "detection", "algorithms"]
+title: كشف الكائنات (Object Detection)
+term_id: object_detection
+category: basic_concepts
+subcategory: ''
+tags:
+- Computer Vision
+- detection
+- algorithms
 difficulty: 3
 weight: 1
-slug: "object_detection"
-aliases:
-  - /ar/terms/object_detection/
-date: "2026-07-18T16:14:53.094469Z"
-lastmod: "2026-07-18T17:15:08.533553Z"
+slug: object_detection
+date: '2026-07-18T16:14:53.094469Z'
+lastmod: '2026-07-18T17:15:08.533553Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية في رؤية الكمبيوتر تحدد وتحدد مواقع الكائنات داخل الصور أو تدفقات الفيديو باستخدام صناديق حدودية."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية في رؤية الكمبيوتر تحدد وتحدد مواقع الكائنات داخل الصور أو تدفقات
+  الفيديو باستخدام صناديق حدودية.
 ---
-
 ## Definition
 
 يمتد كشف الكائنات ليشمل تصنيف الصور، حيث لا يكتفي بتحديد نوع الكائنات الموجودة فحسب، بل يحدد أيضاً مواقعها. ينتج إحداثيات صناديق حدودية حول العناصر المكتشفة جنباً إلى جنب مع تصنيفاتها الفئوية.

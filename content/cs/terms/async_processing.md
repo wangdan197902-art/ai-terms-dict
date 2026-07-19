@@ -1,23 +1,24 @@
 ---
-title: "Asynchronní zpracování"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Asynchronní zpracování
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /cs/terms/async_processing/
-date: "2026-07-18T15:43:35.363340Z"
-lastmod: "2026-07-18T17:15:09.103782Z"
+slug: async_processing
+date: '2026-07-18T15:43:35.363340Z'
+lastmod: '2026-07-18T17:15:09.103782Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Programovací paradigma, kde jsou úlohy vykonávány nezávisle na hlavním vlákně provedení, což umožňuje neblokovající operace."
+source: agnes_llm
+status: published
+language: cs
+description: Programovací paradigma, kde jsou úlohy vykonávány nezávisle na hlavním
+  vlákně provedení, což umožňuje neblokovající operace.
 ---
-
 ## Definition
 
 Asynchronní zpracování umožňuje softwaru provádět dlouhotrvající úlohy, jako jsou operace I/O nebo složité výpočty, aniž by došlo k zamrznutí hlavního uživatelského rozhraní aplikace nebo blokování jiných procesů. Pomocí d

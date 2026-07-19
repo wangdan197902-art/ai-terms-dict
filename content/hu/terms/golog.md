@@ -7,8 +7,6 @@ tags: ["planning", "logic", "robotics"]
 difficulty: 5
 weight: 1
 slug: "golog"
-aliases:
-  - /hu/terms/golog/
 date: "2026-07-18T16:00:39.079535Z"
 lastmod: "2026-07-18T17:15:09.786468Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy magas szintű programozási nyelv, amely a helyzetkalkuluson alapul, és cselekvések specifikálására, valamint dinamikus tartományokban való érvelésre szolgál."
 ---
-
 ## Definition
 
 A GOLOG egy logikai alapú programozási nyelv, amelyet elsősorban a mesterséges intelligenciában használnak tervezésre és cselekvésre dinamikus környezetekben. Reiter helyzetkalkulusára építve lehetővé teszi a fejlesztők számára, hogy formálisan specifikálják a világ állapotát és a cselekvések hatásait.

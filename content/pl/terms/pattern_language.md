@@ -1,23 +1,24 @@
 ---
-title: "Język Wzorcowy"
-term_id: "pattern_language"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-engineering", "design-patterns", "architecture"]
+title: Język Wzorcowy
+term_id: pattern_language
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Engineering
+- Design Patterns
+- architecture
 difficulty: 3
 weight: 1
-slug: "pattern_language"
-aliases:
-  - /pl/terms/pattern_language/
-date: "2026-07-18T16:10:38.342914Z"
-lastmod: "2026-07-18T17:15:08.905330Z"
+slug: pattern_language
+date: '2026-07-18T16:10:38.342914Z'
+lastmod: '2026-07-18T17:15:08.905330Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Strukturalny zbiór powiązanych rozwiązań projektowych adresujących powtarzalne problemy w architekturze oprogramowania lub systemów."
+source: agnes_llm
+status: published
+language: pl
+description: Strukturalny zbiór powiązanych rozwiązań projektowych adresujących powtarzalne
+  problemy w architekturze oprogramowania lub systemów.
 ---
-
 ## Definition
 
 Język Wzorcowy to sformalizowany framework składający się ze zbioru sprawdzonych rozwiązań typowych problemów napotykanych w projektowaniu, szczególnie w inżynierii oprogramowania i planowaniu miejskim. Każdy wzorzec opisuje...

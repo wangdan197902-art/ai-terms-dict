@@ -7,8 +7,6 @@ tags: ["governance", "ethics", "management"]
 difficulty: 2
 weight: 1
 slug: "policies"
-aliases:
-  - /he/terms/policies/
 date: "2026-07-18T15:29:00.176097Z"
 lastmod: "2026-07-18T17:15:09.484298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "קבוצת הנחיות, כללים או פרוטוקולים שנקבעו על ידי ארגון כדי לשלוט בהתנהגות, קבלת החלטות וסטנדרטים תפעוליים."
 ---
-
 ## Definition
 
 בהקשר של בינה מלאכותית וניהול טכנולוגיה, מדיניות מתייחסת למסגרות הרשמיות שקובעות כיצד יש לפתח, להטמיע ולנטר מערכות AI. מסמכים אלה...

@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /sv/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T16:08:17.143850Z"
 lastmod: "2026-07-18T17:15:09.023696Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Tillämpningen av beräkningsmodeller för att analysera biologisk data, såsom genomsökvenser och proteinstrukturer, för att upptäcka biologiska insikter."
 ---
-
 ## Definition
 
 Detta tvärvetenskapliga fält använder maskininlärning för att bearbeta enorma mängder biologisk data, vilket möjliggör för forskare att förutsäga genfunktioner, klassificera sjukdomar och förstå molekylära interaktioner.

@@ -7,8 +7,6 @@ tags: ["LLM", "Reasoning", "Techniques"]
 difficulty: 3
 weight: 1
 slug: "reflection"
-aliases:
-  - /cs/terms/reflection/
 date: "2026-07-18T16:15:22.585665Z"
 lastmod: "2026-07-18T17:15:09.196357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Mechanismus umožňující modelům AI analyzovat jejich vlastní výstupy, procesy uvažování nebo vnitřní stavy za účelem zlepšení budoucího výkonu."
 ---
-
 ## Definition
 
 V kontextu AI je reflexe paradigmatem, kdy se model zastaví a vyhodnotí svůj vlastní proces generování nebo výstup před jeho finálním potvrzením. To může zahrnovat kontrolu logické konzistence, faktické správnosti nebo dodržování pravidel.

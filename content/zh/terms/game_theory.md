@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /zh/terms/game_theory/
 date: "2026-07-18T11:18:04.585948Z"
 lastmod: "2026-07-18T11:44:45.504377Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "对理性决策者之间战略互动的数学研究，其中结果取决于所有参与者的行动。"
 ---
-
 ## Definition
 
 博弈论是应用数学的一个分支，用于建模理性主体之间的战略互动。它分析了其中一个参与者的成功取决于其他人选择的情境。关键概念包括纳什均衡等。

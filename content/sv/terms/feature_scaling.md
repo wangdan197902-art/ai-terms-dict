@@ -1,23 +1,24 @@
 ---
-title: "Funktionsskalning"
-term_id: "feature_scaling"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "statistics", "optimization"]
+title: Funktionsskalning
+term_id: feature_scaling
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- statistics
+- Optimization
 difficulty: 2
 weight: 1
-slug: "feature_scaling"
-aliases:
-  - /sv/terms/feature_scaling/
-date: "2026-07-18T15:57:49.106496Z"
-lastmod: "2026-07-18T17:15:09.003401Z"
+slug: feature_scaling
+date: '2026-07-18T15:57:49.106496Z'
+lastmod: '2026-07-18T17:15:09.003401Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Processen att normalisera intervallet för oberoende variabler eller funktioner i data för att säkerställa enhetlighet i storleksordning."
+source: agnes_llm
+status: published
+language: sv
+description: Processen att normalisera intervallet för oberoende variabler eller funktioner
+  i data för att säkerställa enhetlighet i storleksordning.
 ---
-
 ## Definition
 
 Funktionsskalning standardiserar intervallet för indatavariabler för att förhindra att funktioner med större magnituder dominerar inlärningsprocessen. Vanliga metoder inkluderar normalisering (min-max-skala) och standardisering (z-score), vilket är avgörande för algoritmer som är känsliga för skalorna på indata, såsom gradientnedstigning-baserade metoder och avståndsbaserade algoritmer.

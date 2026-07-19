@@ -1,23 +1,24 @@
 ---
-title: "Matchbox Educable Noughts and Crosses Engine"
-term_id: "matchbox_educable_noughts_and_crosses_engine"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "reinforcement_learning", "education"]
+title: Matchbox Educable Noughts and Crosses Engine
+term_id: matchbox_educable_noughts_and_crosses_engine
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Reinforcement Learning
+- education
 difficulty: 1
 weight: 1
-slug: "matchbox_educable_noughts_and_crosses_engine"
-aliases:
-  - /nl/terms/matchbox_educable_noughts_and_crosses_engine/
-date: "2026-07-18T16:06:22.478359Z"
-lastmod: "2026-07-18T17:15:08.766075Z"
+slug: matchbox_educable_noughts_and_crosses_engine
+date: '2026-07-18T16:06:22.478359Z'
+lastmod: '2026-07-18T17:15:08.766075Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een fysiek versterkingslerapparaat gebouwd door Donald Michie in 1961 om Tic-Tac-Toe te spelen met luciferdoosjes en kralen."
+source: agnes_llm
+status: published
+language: nl
+description: Een fysiek versterkingslerapparaat gebouwd door Donald Michie in 1961
+  om Tic-Tac-Toe te spelen met luciferdoosjes en kralen.
 ---
-
 ## Definition
 
 De ME-Noughts-and-Crosses Engine was een vroeg demonstratiemodel van machine learning, specifiek versterkingsleren. Gebouwd uit 304 luciferdoosjes, waarbij elk een unieke bordtoestand vertegenwoordigt, leerde het systeem door trial-and-error welke zetten leiden tot overwinning.

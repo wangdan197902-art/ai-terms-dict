@@ -7,8 +7,6 @@ tags: ["social", "equity", "society"]
 difficulty: 2
 weight: 1
 slug: "gender_digital_divide"
-aliases:
-  - /nl/terms/gender_digital_divide/
 date: "2026-07-18T15:56:30.221106Z"
 lastmod: "2026-07-18T17:15:08.747570Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De digitale kloof tussen geslachten verwijst naar het verschil tussen mannen en vrouwen in toegang tot, gebruik van en voordelen uit informatie- en communicatietechnologieën."
 ---
-
 ## Definition
 
 Dit sociotechnische concept benadrukt ongelijkheden waarbij vrouwen en meisjes vaak minder toegang hebben tot digitale apparaten, internetconnectiviteit en digitale geletterdheid vergeleken met mannen en jongens. Deze verschillen worden beïnvloed door sociaaleconomische factoren.

@@ -7,8 +7,6 @@ tags: ["applications", "governance", "efficiency"]
 difficulty: 2
 weight: 1
 slug: "automated_decision_making"
-aliases:
-  - /th/terms/automated_decision_making/
 date: "2026-07-18T15:43:09.760718Z"
 lastmod: "2026-07-18T16:38:07.576772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กระบวนการที่อัลกอริทึมเลือกดำเนินการหรือผลลัพธ์อย่างอิสระโดยอิงตามข้อมูลนำเข้า โดยไม่มีการดูแลโดยตรงจากมนุษย์"
 ---
-
 ## Definition
 
 การตัดสินใจอัตโนมัติ (ADM) อาศัยระบบซอฟต์แวร์ในการตัดสินใจซึ่งก่อนหน้านี้ต้องการการตัดสินของมนุษย์ มักใช้ในด้านการให้คะแนนเครดิต การกลั่นกรองเนื้อหา และโลจิสติกส์ ADM ใช้กฎที่กำหนดไว้ล่วงหน้า

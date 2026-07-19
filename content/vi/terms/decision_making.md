@@ -1,23 +1,24 @@
 ---
-title: "ra quyết định"
-term_id: "decision_making"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_ai", "agents", "planning"]
+title: ra quyết định
+term_id: decision_making
+category: basic_concepts
+subcategory: ''
+tags:
+- Core AI
+- agents
+- planning
 difficulty: 2
 weight: 1
-slug: "decision_making"
-aliases:
-  - /vi/terms/decision_making/
-date: "2026-07-18T15:30:44.073531Z"
-lastmod: "2026-07-18T16:38:07.700266Z"
+slug: decision_making
+date: '2026-07-18T15:30:44.073531Z'
+lastmod: '2026-07-18T16:38:07.700266Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quá trình nhận thức lựa chọn một phương án hành động từ nhiều lựa chọn khác nhau dựa trên thông tin có sẵn."
+source: agnes_llm
+status: published
+language: vi
+description: Quá trình nhận thức lựa chọn một phương án hành động từ nhiều lựa chọn
+  khác nhau dựa trên thông tin có sẵn.
 ---
-
 ## Definition
 
 Trong trí tuệ nhân tạo, ra quyết định đề cập đến quá trình thuật toán mà tại đó một hệ thống đánh giá các hành động tiềm năng dựa trên các tiêu chí hoặc mục tiêu cụ thể để chọn ra kết quả tối ưu nhất. Quá trình này bao gồm việc phân tích trạng thái hiện tại và dự đoán hậu quả của các hành động khác nhau.

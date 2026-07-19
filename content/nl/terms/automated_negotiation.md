@@ -7,8 +7,6 @@ tags: ["agents", "economics", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "automated_negotiation"
-aliases:
-  - /nl/terms/automated_negotiation/
 date: "2026-07-18T15:44:10.954741Z"
 lastmod: "2026-07-18T17:15:08.720316Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het gebruik van AI-agenten om autonoom onderhandelingen te voeren en overeenkomsten tussen partijen tot stand te brengen."
 ---
-
 ## Definition
 
 Geautomatiseerde onderhandeling omvat software-agenten die de belangen van mensen vertegenwoordigen in onderhandelingsprocessen. Deze agenten gebruiken speltheorie, optimalisatiealgoritmen en machine learning om aanbiedingen te doen, deze te evalueren en akkoorden te sluiten.

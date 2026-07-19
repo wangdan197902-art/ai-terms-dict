@@ -7,8 +7,6 @@ tags: ["theory", "neuroscience", "modeling"]
 difficulty: 4
 weight: 1
 slug: "neural_modeling_fields"
-aliases:
-  - /vi/terms/neural_modeling_fields/
 date: "2026-07-18T16:05:19.002404Z"
 lastmod: "2026-07-18T16:38:07.787269Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một khung lý thuyết mô tả tổ chức không gian và chức năng của các mẫu hoạt động thần kinh."
 ---
-
 ## Definition
 
 Các trường mô hình hóa thần kinh liên quan đến việc nghiên cứu cách các quần thể nơ-ron tự tổ chức trong không gian nhiều chiều để biểu diễn thông tin. Khái niệm này thường liên quan đến ánh xạ tô-pô và lý thuyết trường.

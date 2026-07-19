@@ -7,8 +7,6 @@ tags: ["Healthcare", "Applications", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "biomedical"
-aliases:
-  - /id/terms/biomedical/
 date: "2026-07-18T15:41:04.174085Z"
 lastmod: "2026-07-18T16:38:07.434157Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Berhubungan dengan penerapan ilmu alam ke dalam praktik medis, sering melibatkan analisis komputasional data kesehatan."
 ---
-
 ## Definition
 
 Biomedis merujuk pada persimpangan biologi, kedokteran, dan teknologi, khususnya dalam pengembangan alat diagnostik, pengobatan, dan metode analisis data. Dalam AI, hal ini melibatkan penerapan pembelajaran mesin untuk data kesehatan.

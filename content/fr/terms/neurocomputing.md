@@ -1,23 +1,25 @@
 ---
-title: "Neuro-informatique"
-term_id: "neurocomputing"
-category: "basic_concepts"
-subcategory: ""
-tags: ["hardware", "biology", "AI_foundations"]
+title: Neuro-informatique
+term_id: neurocomputing
+category: basic_concepts
+subcategory: ''
+tags:
+- hardware
+- biology
+- AI Foundations
 difficulty: 3
 weight: 1
-slug: "neurocomputing"
-aliases:
-  - /fr/terms/neurocomputing/
-date: "2026-07-18T11:31:37.289566Z"
-lastmod: "2026-07-18T11:44:45.302137Z"
+slug: neurocomputing
+date: '2026-07-18T11:31:37.289566Z'
+lastmod: '2026-07-18T11:44:45.302137Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "La neuro-informatique est un domaine interdisciplinaire combinant les neurosciences, l'informatique et l'ingénierie pour développer des modèles computationnels inspirés des systèmes neuronaux biologiq"
+source: agnes_llm
+status: published
+language: fr
+description: La neuro-informatique est un domaine interdisciplinaire combinant les
+  neurosciences, l'informatique et l'ingénierie pour développer des modèles computationnels
+  inspirés des systèmes neuronaux biologiq
 ---
-
 ## Definition
 
 Ce domaine se concentre sur la création d'architectures matérielles et logicielles imitant la structure et le fonctionnement du cerveau humain. Il englobe les réseaux de neurones artificiels, les puces neuromorphiques et la cognition...

@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /ar/terms/semantic_folding/
 date: "2026-07-18T16:20:18.128560Z"
 lastmod: "2026-07-18T17:15:08.546670Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تقنية تقوم بربط التمثيلات الدلالية عالية الأبعاد في فضاء ذي أبعاد أقل مع الحفاظ على الهياكل العلائقية."
 ---
-
 ## Definition
 
 يشير الطي الدلالي إلى عملية ضغط تضمينات المتجهات المعقدة وعالية الأبعاد إلى تمثيل ذي أبعاد أقل وأكثر سهولة في الإدارة دون فقدان كبير للمعنى الدلالي.

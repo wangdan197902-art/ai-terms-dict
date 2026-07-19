@@ -1,23 +1,24 @@
 ---
-title: "عائد الكاذب"
-term_id: "liars_dividend"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "societal_impact", "media"]
+title: عائد الكاذب
+term_id: liars_dividend
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Societal Impact
+- media
 difficulty: 2
 weight: 1
-slug: "liars_dividend"
-aliases:
-  - /ar/terms/liars_dividend/
-date: "2026-07-18T16:05:49.915167Z"
-lastmod: "2026-07-18T17:15:08.522312Z"
+slug: liars_dividend
+date: '2026-07-18T16:05:49.915167Z'
+lastmod: '2026-07-18T17:15:08.522312Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "ظاهرة تسمح فيها وجود الصور العميقة والوسائط التي أنشأتها الذكاء الاصطناعي للأطراف السيئة بتصديق الأدلة الحقيقية على سوء سلوكهم على أنها مزيفة."
+source: agnes_llm
+status: published
+language: ar
+description: ظاهرة تسمح فيها وجود الصور العميقة والوسائط التي أنشأتها الذكاء الاصطناعي
+  للأطراف السيئة بتصديق الأدلة الحقيقية على سوء سلوكهم على أنها مزيفة.
 ---
-
 ## Definition
 
 يشير عائد الكاذب إلى الخطر المجتمعي الذي تشكله تقنيات الذكاء الاصطناعي التوليدية المتقدمة، ولا سيما الصور العميقة. ومع تصبح الوسائط التركيبية لا يمكن تمييزها عن الواقع، يمكن للأفراد الخبيثين الادعاء بأن

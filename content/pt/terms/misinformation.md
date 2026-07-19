@@ -7,8 +7,6 @@ tags: ["ethics", "safety", "LLM"]
 difficulty: 2
 weight: 1
 slug: "misinformation"
-aliases:
-  - /pt/terms/misinformation/
 date: "2026-07-18T15:11:48.782887Z"
 lastmod: "2026-07-18T15:51:59.512881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Informação falsa ou imprecisa que é divulgada independentemente da intenção de enganar."
 ---
-
 ## Definition
 
 Desinformação refere-se a informações falsas ou enganosas compartilhadas sem a intenção deliberada de causar dano ou enganar. Diferente da desinformação maliciosa (disinformation), que é fabricada intencionalmente. No contexto da IA, muitas vezes surge como resultado de alucinações de modelos de linguagem grandes que geram fatos plausíveis, mas incorretos.

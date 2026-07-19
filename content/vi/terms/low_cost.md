@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /vi/terms/low_cost/
 date: "2026-07-18T15:31:11.284342Z"
 lastmod: "2026-07-18T16:38:07.702397Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Chỉ các giải pháp AI giảm thiểu chi phí tính toán, tài chính hoặc năng lượng trong khi vẫn duy trì chức năng."
 ---
-
 ## Definition
 
 AI chi phí thấp tập trung vào hiệu quả, nhằm giảm bớt rào cản gia nhập và chi phí vận hành liên quan đến học máy. Điều này bao gồm các kỹ thuật như nén mô hình, lượng tử hóa và triển khai trên thiết bị biên để tối ưu hóa nguồn lực.

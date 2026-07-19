@@ -1,23 +1,25 @@
 ---
-title: "Aktivaatiofunktio"
-term_id: "activation_function"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "mathematics", "deep_learning", "basics"]
+title: Aktivaatiofunktio
+term_id: activation_function
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- mathematics
+- Deep Learning
+- basics
 difficulty: 3
 weight: 1
-slug: "activation_function"
-aliases:
-  - /fi/terms/activation_function/
-date: "2026-07-18T15:35:11.817691Z"
-lastmod: "2026-07-18T17:15:09.367468Z"
+slug: activation_function
+date: '2026-07-18T15:35:11.817691Z'
+lastmod: '2026-07-18T17:15:09.367468Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Matemaattinen yhtälö, joka määrittää neuroverkon solun tuloksen sen syöttösignaalin perusteella."
+source: agnes_llm
+status: published
+language: fi
+description: Matemaattinen yhtälö, joka määrittää neuroverkon solun tuloksen sen syöttösignaalin
+  perusteella.
 ---
-
 ## Definition
 
 Aktivaatiofunktio tuo ei-lineaarisuutta neuroverkkoon, mikä mahdollistaa monimutkaisten kuvioiden ja suhteiden oppimisen datassa. Ilman näitä funktioita monikerroksinen verkko käyttäytyisi...

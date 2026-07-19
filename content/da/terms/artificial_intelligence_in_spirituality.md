@@ -7,8 +7,6 @@ tags: ["philosophy", "religion", "emerging"]
 difficulty: 4
 weight: 1
 slug: "artificial_intelligence_in_spirituality"
-aliases:
-  - /da/terms/artificial_intelligence_in_spirituality/
 date: "2026-07-18T15:41:51.313308Z"
 lastmod: "2026-07-18T17:15:09.260734Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Det opkommende skæringspunkt, hvor AI bruges til spirituel vejledning, meditationassistance eller udforskning af filosofiske spørgsmål."
 ---
-
 ## Definition
 
 AI i spiritualitet refererer til anvendelsen af kunstig intelligens i religiøse eller kontemplative sammenhænge. Dette inkluderer chatbots, der tilbyder moralsk rådgivning, AI-genereret kunst designet til meditation, eller algoritmer, der analyserer teologiske tekster for at finde nye indsigter i åndelige praksisser og trossystemer.

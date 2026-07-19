@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "clarification"]
 difficulty: 1
 weight: 1
 slug: "tum"
-aliases:
-  - /ja/terms/tum/
 date: "2026-07-18T11:35:22.383430Z"
 lastmod: "2026-07-18T11:44:45.152902Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "TUMは主流のAI用語では標準的な略語として認識されていません。ミュンヘン工科大学などの特定の機関を指すか、誤記である可能性があります。"
 ---
-
 ## Definition
 
 学術文献や産業界において、「Tum」を中核的なAI概念、技術、または指標として広く受け入れられた定義はありません。これはおそらく「チューリングテスト」や「トランスフォーマーモデル」などの用語の誤記である可能性が高いです。文脈によっては、ドイツのミュンヘン工科大学（Technische Universität München）の略称を指している場合もありますが、AI技術そのものを定義する用語ではありません。

@@ -7,8 +7,6 @@ tags: ["ethics", "policy", "governance"]
 difficulty: 2
 weight: 1
 slug: "accountability"
-aliases:
-  - /es/terms/accountability/
 date: "2026-07-18T10:34:40.556965Z"
 lastmod: "2026-07-18T11:44:44.772777Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El principio que establece que los desarrolladores y operadores de sistemas de IA deben responder por los resultados e impactos de dichos sistemas."
 ---
-
 ## Definition
 
 La rendición de cuentas en la inteligencia artificial se refiere a la obligación de individuos, organizaciones y desarrolladores de asumir la responsabilidad por el diseño, la implementación y las consecuencias de las tecnologías de IA.

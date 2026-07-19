@@ -7,8 +7,6 @@ tags: ["visualization", "plural", "monitoring"]
 difficulty: 1
 weight: 1
 slug: "graphs"
-aliases:
-  - /fi/terms/graphs/
 date: "2026-07-18T15:27:00.193103Z"
 lastmod: "2026-07-18T17:15:09.351888Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Monikko, joka viittaa useisiin kaaviorakenteisiin tai datan trendien visuaalisiin esityksiin koneoppimisessa."
 ---
-
 ## Definition
 
 Vaikka yksikkömuoto 'kaavio' viittaa abstraktiin datarakenteeseen, monikko 'kaaviot' tarkoittaa usein joko useita erillisiä kaaviotapauksia tai koneoppimisen seurantaan käytettäviä visuaalisia piirroksia. Visuaalisuudessa viitataan esimerkiksi viivakaavioihin.

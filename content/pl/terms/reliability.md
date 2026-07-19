@@ -7,8 +7,6 @@ tags: ["Safety", "Ethics", "Quality Assurance"]
 difficulty: 2
 weight: 1
 slug: "reliability"
-aliases:
-  - /pl/terms/reliability/
 date: "2026-07-18T16:14:49.376301Z"
 lastmod: "2026-07-18T17:15:08.913766Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Stopień, w jakim system AI konsekwentnie wykonuje swoje zamierzone funkcje poprawnie i bezpiecznie w określonych warunkach."
 ---
-
 ## Definition
 
 Niezawodność w AI odnosi się do zaufaności i spójności zachowania systemu w czasie oraz przy różnych danych wejściowych. Niezawodny system AI powinien dostarczać dokładnych wyników, radzić sobie z przypadkami brzegowymi i zachowywać się przewidywalnie.

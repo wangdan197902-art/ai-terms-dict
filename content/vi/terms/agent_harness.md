@@ -1,23 +1,24 @@
 ---
-title: "Khung điều khiển tác nhân"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Khung điều khiển tác nhân
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /vi/terms/agent_harness/
-date: "2026-07-18T15:39:36.194311Z"
-lastmod: "2026-07-18T16:38:07.725231Z"
+slug: agent_harness
+date: '2026-07-18T15:39:36.194311Z'
+lastmod: '2026-07-18T16:38:07.725231Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Khung điều khiển tác nhân là lớp khung hạ tầng hoặc quản lý vòng đời, giao tiếp và phân bổ tài nguyên của nhiều tác nhân AI trong một hệ thống."
+source: agnes_llm
+status: published
+language: vi
+description: Khung điều khiển tác nhân là lớp khung hạ tầng hoặc quản lý vòng đời,
+  giao tiếp và phân bổ tài nguyên của nhiều tác nhân AI trong một hệ thống.
 ---
-
 ## Definition
 
 Nó đóng vai trò là xương sống cho các hệ thống đa tác nhân, cung cấp công cụ để điều phối, giám sát và phối hợp giữa các tác nhân. Khung điều khiển đảm bảo rằng các tác nhân có thể hoạt động hiệu quả mà không bị cản trở bởi nhau.

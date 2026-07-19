@@ -1,23 +1,24 @@
 ---
-title: "Attributionskalkül"
-term_id: "attributional_calculus"
-category: "basic_concepts"
-subcategory: ""
-tags: ["logic", "multi_agent", "theory"]
+title: Attributionskalkül
+term_id: attributional_calculus
+category: basic_concepts
+subcategory: ''
+tags:
+- logic
+- Multi Agent
+- theory
 difficulty: 5
 weight: 1
-slug: "attributional_calculus"
-aliases:
-  - /de/terms/attributional_calculus/
-date: "2026-07-18T11:03:47.816432Z"
-lastmod: "2026-07-18T11:44:44.911595Z"
+slug: attributional_calculus
+date: '2026-07-18T11:03:47.816432Z'
+lastmod: '2026-07-18T11:44:44.911595Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Ein formales logisches System zur Darstellung und Schlussfolgerung über Wissenszuschreibungen, insbesondere darüber, wer was weiß oder glaubt."
+source: agnes_llm
+status: published
+language: de
+description: Ein formales logisches System zur Darstellung und Schlussfolgerung über
+  Wissenszuschreibungen, insbesondere darüber, wer was weiß oder glaubt.
 ---
-
 ## Definition
 
 Das Attributionskalkül ist ein Zweig der Modallogik, der sich mit der Schlussfolgerung über Erkenntniszustände befasst. Es bietet einen Rahmen zur Modellierung von Aussagen wie 'Agent A weiß, dass P' oder 'Agent B glaubt an Q'. Dies

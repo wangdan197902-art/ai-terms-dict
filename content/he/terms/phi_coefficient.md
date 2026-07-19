@@ -1,23 +1,23 @@
 ---
-title: "מקדם פאי"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: מקדם פאי
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /he/terms/phi_coefficient/
-date: "2026-07-18T16:17:22.515408Z"
-lastmod: "2026-07-18T17:15:09.573820Z"
+slug: phi_coefficient
+date: '2026-07-18T16:17:22.515408Z'
+lastmod: '2026-07-18T17:15:09.573820Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מדד סטטיסטי למדידת הקשר בין שני משתנים בינאריים."
+source: agnes_llm
+status: published
+language: he
+description: מדד סטטיסטי למדידת הקשר בין שני משתנים בינאריים.
 ---
-
 ## Definition
 
 מקדם פאי (φ) הוא מדד לקשר בין שני משתנים בינאריים, המשמש כמקדם המתאם של פיירסון למשתנים דו-קוטביים. ערכו נע בין -1 ל-1, כאשר 0 מצביע על היעדר קשר.

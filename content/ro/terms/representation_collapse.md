@@ -1,23 +1,24 @@
 ---
-title: "Colapsul reprezentării"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: Colapsul reprezentării
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /ro/terms/representation_collapse/
-date: "2026-07-18T16:19:26.009040Z"
-lastmod: "2026-07-18T17:15:09.698825Z"
+slug: representation_collapse
+date: '2026-07-18T16:19:26.009040Z'
+lastmod: '2026-07-18T17:15:09.698825Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O stare de eșec în învățarea auto-supervizată în care modelul generează reprezentări identice pentru toate intrările, pierzându-și puterea de discriminare."
+source: agnes_llm
+status: published
+language: ro
+description: O stare de eșec în învățarea auto-supervizată în care modelul generează
+  reprezentări identice pentru toate intrările, pierzându-și puterea de discriminare.
 ---
-
 ## Definition
 
 Colapsul reprezentării apare când o rețea neuronală, în special în cadrele de învățare contrastivă auto-supervizată, învață să mapeze toate punctele de date de intrare la același vector de ieșire fix. Aceasta constituie o soluție trivială care nu captează structura datelor.

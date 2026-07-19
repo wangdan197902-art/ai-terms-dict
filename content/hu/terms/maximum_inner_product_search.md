@@ -7,8 +7,6 @@ tags: ["search", "algorithms", "recommendations"]
 difficulty: 4
 weight: 1
 slug: "maximum_inner_product_search"
-aliases:
-  - /hu/terms/maximum_inner_product_search/
 date: "2026-07-18T16:12:38.059263Z"
 lastmod: "2026-07-18T17:15:09.811355Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy specializált vektorszimilitás-keresési technika, amely a lekérdezési vektorhoz viszonyítva a legmagasabb skaláris szorzattal rendelkező elemeket nyeri vissza."
 ---
-
 ## Definition
 
 A Maximális Belso Szorzat Kereses (MIPS) az informacios visszakereses es a gépi tanulas alapvető problémája, különösen az ajánlórendszerekben. A standard koszinusz-szimilitás kereséstől eltérően, amely a vektorok kozotti szöget méri...

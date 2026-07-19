@@ -1,23 +1,23 @@
 ---
-title: "딥페이크"
-term_id: "deepfake"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "generative_ai", "security"]
+title: 딥페이크
+term_id: deepfake
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Generative AI
+- security
 difficulty: 3
 weight: 1
-slug: "deepfake"
-aliases:
-  - /ko/terms/deepfake/
-date: "2026-07-18T15:34:04.841884Z"
-lastmod: "2026-07-18T16:38:06.794017Z"
+slug: deepfake
+date: '2026-07-18T15:34:04.841884Z'
+lastmod: '2026-07-18T16:38:06.794017Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "인공지능과 딥러닝 기술을 사용하여 한 사람의 외모를 다른 사람으로 교체한 합성 미디어입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 인공지능과 딥러닝 기술을 사용하여 한 사람의 외모를 다른 사람으로 교체한 합성 미디어입니다.
 ---
-
 ## Definition
 
 딥페이크는 생성적 적대 신경망(GANs)이나 오토인코더(autoencoders)를 사용하여 생성되는 초현실적인 오디오 또는 비디오 조작물입니다. 이는 허위 정보와 사생활 침해에 대한 중대한 윤리적 문제를 제기합니다.

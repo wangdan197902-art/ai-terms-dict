@@ -1,23 +1,23 @@
 ---
-title: "策略"
-term_id: "policy"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "decision-making", "strategy"]
+title: 策略
+term_id: policy
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- Decision Making
+- strategy
 difficulty: 3
 weight: 1
-slug: "policy"
-aliases:
-  - /zh/terms/policy/
-date: "2026-07-18T10:53:51.038710Z"
-lastmod: "2026-07-18T11:44:45.381174Z"
+slug: policy
+date: '2026-07-18T10:53:51.038710Z'
+lastmod: '2026-07-18T11:44:45.381174Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "旨在指导决策并实现理性结果的战略或行动计划，常用于强化学习中将状态映射到动作。"
+source: agnes_llm
+status: published
+language: zh
+description: 旨在指导决策并实现理性结果的战略或行动计划，常用于强化学习中将状态映射到动作。
 ---
-
 ## Definition
 
 “策略”一词根据上下文具有双重含义。在一般管理中，它是决策的指导原则。在强化学习（RL）中，策略是智能体的核心组成部分，它定义了智能体在特定状态下应采取的动作概率分布或确定性动作。

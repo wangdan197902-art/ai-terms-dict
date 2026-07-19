@@ -1,23 +1,24 @@
 ---
-title: "Monimuuttujainen adaptiivinen regressiosplitiini"
-term_id: "multivariate_adaptive_regression_spline"
-category: "basic_concepts"
-subcategory: ""
-tags: ["regression", "statistical_learning", "non_parametric"]
+title: Monimuuttujainen adaptiivinen regressiosplitiini
+term_id: multivariate_adaptive_regression_spline
+category: basic_concepts
+subcategory: ''
+tags:
+- Regression
+- Statistical Learning
+- Non Parametric
 difficulty: 4
 weight: 1
-slug: "multivariate_adaptive_regression_spline"
-aliases:
-  - /fi/terms/multivariate_adaptive_regression_spline/
-date: "2026-07-18T16:12:10.150728Z"
-lastmod: "2026-07-18T17:15:09.437692Z"
+slug: multivariate_adaptive_regression_spline
+date: '2026-07-18T16:12:10.150728Z'
+lastmod: '2026-07-18T17:15:09.437692Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Parametrinen regressiomenetelmä, joka valitsee automaattisesti perusfunktiot mallintaakseen monimutkaisia suhteita."
+source: agnes_llm
+status: published
+language: fi
+description: Parametrinen regressiomenetelmä, joka valitsee automaattisesti perusfunktiot
+  mallintaakseen monimutkaisia suhteita.
 ---
-
 ## Definition
 
 Multivariate Adaptive Regression Splines (MARS) on joustava regressiomenetelmä, joka mallintaa monimutkaisia epälineaarisia suhteita sovittamalla paloittain lineaarisia perusfunktioita. Se valitsee automaattisesti...

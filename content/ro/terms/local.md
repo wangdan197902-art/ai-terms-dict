@@ -7,8 +7,6 @@ tags: ["infrastructure", "privacy"]
 difficulty: 2
 weight: 1
 slug: "local"
-aliases:
-  - /ro/terms/local/
 date: "2026-07-18T15:27:06.837291Z"
 lastmod: "2026-07-18T17:15:09.597456Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Se referă la procesarea sau stocarea datelor pe un dispozitiv specific, în loc să fie realizate într-un mediu cloud centralizat."
 ---
-
 ## Definition
 
 În inteligența artificială, termenul „local” denotă de obicei operațiuni efectuate direct pe hardware-ul utilizatorului, cum ar fi un laptop sau un smartphone, fără a se baza pe servere la distanță. Această abordare îmbunătățește confidențialitatea datelor

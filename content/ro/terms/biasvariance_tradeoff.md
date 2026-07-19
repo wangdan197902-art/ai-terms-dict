@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /ro/terms/biasvariance_tradeoff/
 date: "2026-07-18T15:47:39.831958Z"
 lastmod: "2026-07-18T17:15:09.633863Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O problemă fundamentală în învățarea supravegheată, unde minimizarea erorii necesită echilibrarea complexității modelului cu capacitatea sa de generalizare."
 ---
-
 ## Definition
 
 Compromisul bias-varianță descrie tensiunea dintre subpotrivire (bias ridicat) și suprapotrivire (varianță ridicată). Modelele cu bias ridicat fac ipoteze puternice despre date, ignorând potențial relații relevante, în timp ce cele cu varianță ridicată se adaptează prea mult la zgomotul din datele de antrenament.

@@ -7,8 +7,6 @@ tags: ["defense", "ethics", "automation"]
 difficulty: 3
 weight: 1
 slug: "military_applications_of_artificial_intelligence"
-aliases:
-  - /de/terms/military_applications_of_artificial_intelligence/
 date: "2026-07-18T11:23:43.336995Z"
 lastmod: "2026-07-18T11:44:44.964718Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Dies bezieht sich auf den Einsatz von KI-Technologien im Verteidigungskontext, einschließlich autonomer Waffensysteme, Überwachung, Optimierung der Logistik und Entscheidungsunterstützungssysteme."
 ---
-
 ## Definition
 
 Militärische Anwendungen der KI umfassen ein breites Spektrum an Technologien, die darauf ausgelegt sind, die operative Effektivität und den strategischen Vorteil zu erhöhen. Dazu gehören autonome Drohnen zur Aufklärung, prädiktive Wartung und Systeme zur Bedrohungserkennung.

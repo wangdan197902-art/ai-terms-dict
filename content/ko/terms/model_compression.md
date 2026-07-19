@@ -7,8 +7,6 @@ tags: ["Optimization", "Deployment", "Efficiency"]
 difficulty: 3
 weight: 1
 slug: "model_compression"
-aliases:
-  - /ko/terms/model_compression/
 date: "2026-07-18T16:06:06.322184Z"
 lastmod: "2026-07-18T16:38:06.886052Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "모델 압축은 머신러닝 모델의 크기와 계산 요구 사항을 줄이는 기법을 의미합니다."
 ---
-
 ## Definition
 
 이 범주에는 모델의 용량을 줄이면서도 성능을 유지하는 것을 목표로 하는 가지치기(Pruning), 양자화(Quantization), 지식 증류(Knowledge Distillation) 등의 방법이 포함됩니다. 이는 복잡한 AI 모델을 배포하는 데 필수적입니다.

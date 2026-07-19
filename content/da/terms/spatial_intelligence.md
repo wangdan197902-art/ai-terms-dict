@@ -7,8 +7,6 @@ tags: ["perception", "robotics", "geometry"]
 difficulty: 4
 weight: 1
 slug: "spatial_intelligence"
-aliases:
-  - /da/terms/spatial_intelligence/
 date: "2026-07-18T16:18:53.679240Z"
 lastmod: "2026-07-18T17:15:09.332882Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Evnen hos AI-systemer til at forstå, ræsonnere om og navigere i tredimensionelle miljøer."
 ---
-
 ## Definition
 
 Rummelig intelligens refererer til evnen hos kunstige intelligensmodeller til at opfatte, fortolke og manipulere rumlige relationer i fysiske eller virtuelle miljøer. Det indebærer forståelsen af geometriske strukturer og dybdeforhold.

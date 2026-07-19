@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /nl/terms/given/
 date: "2026-07-18T15:26:54.607241Z"
 lastmod: "2026-07-18T17:15:08.685917Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een term die bestaande gegevens, beperkingen of context aanduidt die als invoer aan een algoritmisch proces worden aangeboden."
 ---
-
 ## Definition
 
 In AI- en informaticasamenhangen verwijst 'gegeven' naar de beginstatus, de dataset of de parameters die aan een model of functie worden meegegeven voordat de berekening begint. Het stelt de randvoorwaarden vast voor...

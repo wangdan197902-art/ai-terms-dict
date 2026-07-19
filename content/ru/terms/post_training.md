@@ -1,23 +1,25 @@
 ---
-title: "постобучение"
-term_id: "post_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["model_optimization", "llm", "training_pipeline"]
+title: постобучение
+term_id: post_training
+category: training_techniques
+subcategory: ''
+tags:
+- Model Optimization
+- LLM
+- Training Pipeline
 difficulty: 3
 weight: 1
-slug: "post_training"
-aliases:
-  - /ru/terms/post_training/
-date: "2026-07-18T15:32:19.950497Z"
-lastmod: "2026-07-18T16:38:07.097795Z"
+slug: post_training
+date: '2026-07-18T15:32:19.950497Z'
+lastmod: '2026-07-18T16:38:07.097795Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Постобучение — это этап доработки предварительно обученной модели на специфических наборах данных для адаптации к конкретным задачам или оптимизации производительности."
+source: agnes_llm
+status: published
+language: ru
+description: Постобучение — это этап доработки предварительно обученной модели на
+  специфических наборах данных для адаптации к конкретным задачам или оптимизации
+  производительности.
 ---
-
 ## Definition
 
 Постобучение является критическим этапом в жизненном цикле машинного обучения, который происходит после начального предварительного обучения модели на масштабных общедоступных данных. На этом этапе модель проходит дообучение с использованием узкоспециализированных данных, что позволяет ей адаптироваться к конкретным доменам, улучшать качество ответов или снижать вычислительные затраты. Этот процесс часто включает методы тонкой настройки (fine-tuning) и выравнивание с человеческими предпочтениями.

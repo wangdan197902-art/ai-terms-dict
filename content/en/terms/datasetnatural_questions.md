@@ -7,8 +7,6 @@ tags: ["qa", "google", "wikipedia", "retrieval"]
 difficulty: 3
 weight: 1
 slug: "datasetnatural_questions"
-aliases:
-  - /en/terms/datasetnatural_questions/
 date: "2026-07-18T09:53:44.380008Z"
 lastmod: "2026-07-18T11:44:44.661930Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A large-scale dataset for open-domain question answering, featuring real user queries from Google Search paired with annotated Wikipedia passages as answers."
 ---
-
 ## Definition
 
 Natural Questions (NQ) is a benchmark dataset introduced by Google to advance research in open-domain question answering. It maps real, anonymized search queries from Google to long-form answers found within Wikipedia articles. The dataset includes both 'short answers' (specific spans of text) and 'long answers' (paragraphs containing the short answer). It is essential for training models that can retrieve and synthesize information from vast knowledge bases to answer complex, real-world questions.

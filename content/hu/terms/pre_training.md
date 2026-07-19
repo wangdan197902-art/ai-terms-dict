@@ -1,23 +1,25 @@
 ---
-title: "Előtanítás"
-term_id: "pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["deep-learning", "nlp", "training"]
+title: Előtanítás
+term_id: pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- Deep Learning
+- NLP
+- training
 difficulty: 4
 weight: 1
-slug: "pre_training"
-aliases:
-  - /hu/terms/pre_training/
-date: "2026-07-18T15:30:09.867656Z"
-lastmod: "2026-07-18T17:15:09.727030Z"
+slug: pre_training
+date: '2026-07-18T15:30:09.867656Z'
+lastmod: '2026-07-18T17:15:09.727030Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "A gépi tanulási modell betanításának kezdeti szakasza egy nagy, címkézetlen adathalmazon, általános reprezentációk elsajátítása érdekében a specifikus feladatokra történő finomhangolás előtt."
+source: agnes_llm
+status: published
+language: hu
+description: A gépi tanulási modell betanításának kezdeti szakasza egy nagy, címkézetlen
+  adathalmazon, általános reprezentációk elsajátítása érdekében a specifikus feladatokra
+  történő finomhangolás előtt.
 ---
-
 ## Definition
 
 Az előtanítás egy alapvető technika a mélytanulásban, ahol a modell széles körű jellemzőket és mintázatokat tanul hatalmas mennyiségű, gyakran címkézetlen adatból. Ez a folyamat lehetővé teszi, hogy a modell általánosabb...

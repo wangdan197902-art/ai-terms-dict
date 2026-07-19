@@ -7,8 +7,6 @@ tags: ["NLP", "Datasets", "Semantics"]
 difficulty: 3
 weight: 1
 slug: "datasetembedding_dataaltlex"
-aliases:
-  - /ro/terms/datasetembedding_dataaltlex/
 date: "2026-07-18T15:52:13.995432Z"
 lastmod: "2026-07-18T17:15:09.643174Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Un set de date care conține forme lexice alternative utilizate pentru antrenarea modelelor pe echivalența semantică și detectarea parafrazelor."
 ---
-
 ## Definition
 
 Setul de date Altlex constă în perechi de propoziții care împărtășesc același sens subiacent, dar utilizează vocabular sau structuri sintactice diferite. Este utilizat principal în antrenarea modelelor de tip embedding.

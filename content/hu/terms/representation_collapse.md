@@ -1,23 +1,24 @@
 ---
-title: "Reprezentáció összeomlása"
-term_id: "representation_collapse"
-category: "basic_concepts"
-subcategory: ""
-tags: ["self_supervised", "training_dynamics", "computer_vision"]
+title: Reprezentáció összeomlása
+term_id: representation_collapse
+category: basic_concepts
+subcategory: ''
+tags:
+- Self Supervised
+- Training Dynamics
+- Computer Vision
 difficulty: 3
 weight: 1
-slug: "representation_collapse"
-aliases:
-  - /hu/terms/representation_collapse/
-date: "2026-07-18T16:21:30.695165Z"
-lastmod: "2026-07-18T17:15:09.829532Z"
+slug: representation_collapse
+date: '2026-07-18T16:21:30.695165Z'
+lastmod: '2026-07-18T17:15:09.829532Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy kudarcmodusz az önfelügyelt tanulásban, ahol a modell minden bemenetre azonos reprezentációt ad ki, elveszítve megkülönböztető erejét."
+source: agnes_llm
+status: published
+language: hu
+description: Egy kudarcmodusz az önfelügyelt tanulásban, ahol a modell minden bemenetre
+  azonos reprezentációt ad ki, elveszítve megkülönböztető erejét.
 ---
-
 ## Definition
 
 A reprezentáció összeomlása akkor következik be, amikor egy neurális hálózat – különösen az önfelügyelt kontrasztív tanítási keretrendszerekben – megtanulja az összes bemeneti adatpontot ugyanarra a rögzített kimeneti vektorra leképezni. Ez egy triviális megoldás, amely nem tanul hasznos jellemzőket.

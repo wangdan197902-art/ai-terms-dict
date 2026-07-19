@@ -1,23 +1,24 @@
 ---
-title: "Triển khai liên tục"
-term_id: "continuous_deployment"
-category: "engineering_practice"
-subcategory: ""
-tags: ["devops", "software_engineering", "automation"]
+title: Triển khai liên tục
+term_id: continuous_deployment
+category: engineering_practice
+subcategory: ''
+tags:
+- devops
+- Software Engineering
+- automation
 difficulty: 2
 weight: 1
-slug: "continuous_deployment"
-aliases:
-  - /vi/terms/continuous_deployment/
-date: "2026-07-18T15:46:08.933171Z"
-lastmod: "2026-07-18T16:38:07.740024Z"
+slug: continuous_deployment
+date: '2026-07-18T15:46:08.933171Z'
+lastmod: '2026-07-18T16:38:07.740024Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một thực hành kỹ thuật phần mềm trong đó mọi thay đổi mã nguồn vượt qua kiểm tra tự động đều được phát hành tự động vào môi trường sản xuất."
+source: agnes_llm
+status: published
+language: vi
+description: Một thực hành kỹ thuật phần mềm trong đó mọi thay đổi mã nguồn vượt qua
+  kiểm tra tự động đều được phát hành tự động vào môi trường sản xuất.
 ---
-
 ## Definition
 
 Triển khai liên tục là một phần mở rộng của giao hàng liên tục, tự động hóa toàn bộ quy trình phát hành. Khi các thay đổi mã nguồn vượt qua tất cả các cổng chất lượng, bao gồm kiểm tra đơn vị, kiểm tra tích hợp và bảo mật, chúng sẽ được triển khai tự động lên môi trường sản xuất.

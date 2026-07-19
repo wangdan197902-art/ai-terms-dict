@@ -1,23 +1,24 @@
 ---
-title: "Kontrasztív nyelvi-képi előzetes tanítás"
-term_id: "contrastive_languageimage_pre_training"
-category: "training_techniques"
-subcategory: ""
-tags: ["multimodal", "pre_training", "computer_vision"]
+title: Kontrasztív nyelvi-képi előzetes tanítás
+term_id: contrastive_languageimage_pre_training
+category: training_techniques
+subcategory: ''
+tags:
+- multimodal
+- Pre-Training
+- Computer Vision
 difficulty: 4
 weight: 1
-slug: "contrastive_languageimage_pre_training"
-aliases:
-  - /hu/terms/contrastive_languageimage_pre_training/
-date: "2026-07-18T15:51:46.265060Z"
-lastmod: "2026-07-18T17:15:09.765790Z"
+slug: contrastive_languageimage_pre_training
+date: '2026-07-18T15:51:46.265060Z'
+lastmod: '2026-07-18T17:15:09.765790Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy multimodális előzetes tanítási módszer, amely kontrasztív veszteségfüggvényekkel igazítja össze a képek és a szöveg reprezentációit."
+source: agnes_llm
+status: published
+language: hu
+description: Egy multimodális előzetes tanítási módszer, amely kontrasztív veszteségfüggvényekkel
+  igazítja össze a képek és a szöveg reprezentációit.
 ---
-
 ## Definition
 
 A Kontrasztív Nyelvi-Képi Előzetes Tanítás (CLIP) egy neurális hálózati architektúra, amelyet az internetről származó képekről és azok megfelelő feliratairól tanítanak. Kontrasztív célfüggvényt használ annak maximalizálására, hogy a megfelelő szöveg-kép párok közötti hasonlóság nagy legyen, míg a nem megfelelő párok közötti hasonlóság kicsi maradjon.

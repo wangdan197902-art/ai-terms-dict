@@ -7,8 +7,6 @@ tags: ["legal", "history", "ethics"]
 difficulty: 4
 weight: 1
 slug: "dabus"
-aliases:
-  - /ja/terms/dabus/
 date: "2026-07-18T11:09:46.134076Z"
 lastmod: "2026-07-18T11:44:45.082617Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "DABUSは「Device for the Autonomous Bootstrapping of Unified Sentience（統一された意識の自律的ブートストラップ化デバイス）」の略称であり、ステファン・テラーによって作成され、自律的に技術的発明を行ったと主張するAIシステムです。"
 ---
-
 ## Definition
 
 DABUSは、人間の直接的な介入なしに革新的な発明を生成するように設計された特定の人工ニューラルネットワークです。その創設者であるステファン・テラーが特許権者としての地位を主張した際、大きな法的注目を集めました。

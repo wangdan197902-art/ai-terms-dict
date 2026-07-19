@@ -7,8 +7,6 @@ tags: ["methodology", "research"]
 difficulty: 2
 weight: 1
 slug: "scientific"
-aliases:
-  - /de/terms/scientific/
 date: "2026-07-18T10:53:38.253878Z"
 lastmod: "2026-07-18T11:44:44.883113Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Wissenschaftlich bezieht sich in der KI auf die Anwendung rigoroser empirischer Methoden, Hypothesentests und Reproduzierbarkeit in der Forschung."
 ---
-
 ## Definition
 
 Der wissenschaftliche Ansatz in der künstlichen Intelligenz betont eine evidenzbasierte Entwicklung und Validierung. Er beinhaltet die Formulierung von Hypothesen über das Modellverhalten, die Durchführung kontrollierter Experimente und

@@ -7,8 +7,6 @@ tags: ["probability", "models"]
 difficulty: 3
 weight: 1
 slug: "stochastic"
-aliases:
-  - /ja/terms/stochastic/
 date: "2026-07-18T10:55:09.231561Z"
 lastmod: "2026-07-18T11:44:45.020182Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "決定論的な結果ではなく、ランダム性と確率を含むプロセスやモデルを記述する。"
 ---
-
 ## Definition
 
 確率的な要素は、データ内のノイズや重みのランダムな初期化など、AIシステムに変動性をもたらします。決定論的モデルとは異なり、確率的モデルは不確実性を考慮するため、予測の信頼性向上に寄与します。

@@ -1,23 +1,24 @@
 ---
-title: "Învățare prin transfer"
-term_id: "transfer_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "efficiency", "deep_learning"]
+title: Învățare prin transfer
+term_id: transfer_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- efficiency
+- Deep Learning
 difficulty: 3
 weight: 1
-slug: "transfer_learning"
-aliases:
-  - /ro/terms/transfer_learning/
-date: "2026-07-18T15:31:06.936919Z"
-lastmod: "2026-07-18T17:15:09.606042Z"
+slug: transfer_learning
+date: '2026-07-18T15:31:06.936919Z'
+lastmod: '2026-07-18T17:15:09.606042Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "O tehnică de învățare automată în care un model dezvoltat pentru o sarcină este reutilizat ca punct de plecare pentru un model pe o a doua sarcină."
+source: agnes_llm
+status: published
+language: ro
+description: O tehnică de învățare automată în care un model dezvoltat pentru o sarcină
+  este reutilizat ca punct de plecare pentru un model pe o a doua sarcină.
 ---
-
 ## Definition
 
 Învățarea prin transfer utilizează modele preantrenate pentru a îmbunătăți performanța și a reduce timpul de antrenament pe sarcini noi, conexe. În loc să antreneze de la zero, dezvoltatorii ajustează fine (fine-tune) ponderile existente, permițând

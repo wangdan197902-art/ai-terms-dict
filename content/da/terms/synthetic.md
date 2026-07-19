@@ -1,23 +1,23 @@
 ---
-title: "Syntetisk"
-term_id: "synthetic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data_science", "generative_ai"]
+title: Syntetisk
+term_id: synthetic
+category: basic_concepts
+subcategory: ''
+tags:
+- Data Science
+- Generative AI
 difficulty: 3
 weight: 1
-slug: "synthetic"
-aliases:
-  - /da/terms/synthetic/
-date: "2026-07-18T15:30:35.681440Z"
-lastmod: "2026-07-18T17:15:09.234910Z"
+slug: synthetic
+date: '2026-07-18T15:30:35.681440Z'
+lastmod: '2026-07-18T17:15:09.234910Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Syntetisk refererer til data eller indhold, der er kunstigt genereret af algoritmer frem for indsamlet fra naturlige kilder."
+source: agnes_llm
+status: published
+language: da
+description: Syntetisk refererer til data eller indhold, der er kunstigt genereret
+  af algoritmer frem for indsamlet fra naturlige kilder.
 ---
-
 ## Definition
 
 Inden for AI er syntetiske data kunstigt genereret information, der efterligner virkelighedsnære data, men som ikke indeholder faktiske personlige eller følsomme registre. De er afgørende for træning af maskinlæringsmodeller, når reelle

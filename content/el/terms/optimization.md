@@ -1,23 +1,24 @@
 ---
-title: "Βελτιστοποίηση"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Βελτιστοποίηση
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /el/terms/optimization/
-date: "2026-07-18T15:42:14.806332Z"
-lastmod: "2026-07-18T17:15:09.868796Z"
+slug: optimization
+date: '2026-07-18T15:42:14.806332Z'
+lastmod: '2026-07-18T17:15:09.868796Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η μαθηματική διαδικασία ελαχιστοποίησης ή μεγιστοποίησης μιας συνάρτησης στόχου για την εύρεση των βέλτιστων παραμέτρων λύσης."
+source: agnes_llm
+status: published
+language: el
+description: Η μαθηματική διαδικασία ελαχιστοποίησης ή μεγιστοποίησης μιας συνάρτησης
+  στόχου για την εύρεση των βέλτιστων παραμέτρων λύσης.
 ---
-
 ## Definition
 
 Στη μηχανική μάθηση, η βελτιστοποίηση αναφέρεται στους αλγορίθμους που χρησιμοποιούνται για την προσαρμογή των παραμέτρων του μοντέλου ώστε να ελαχιστοποιηθεί μια συνάρτηση απωλειών, βελτιώνοντας έτσι την απόδοση του μοντέλου. Κοινές μέθοδοι περιλαμβάνουν την Κλίση Καθοδικής Ροής (Gradient Descent) και τις παραλλαγές της.

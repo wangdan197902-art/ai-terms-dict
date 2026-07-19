@@ -1,23 +1,24 @@
 ---
-title: "Data-keskeinen tekoäly"
-term_id: "data_centric_ai"
-category: "basic_concepts"
-subcategory: ""
-tags: ["methodology", "best_practices", "data_management"]
+title: Data-keskeinen tekoäly
+term_id: data_centric_ai
+category: basic_concepts
+subcategory: ''
+tags:
+- methodology
+- Best Practices
+- Data Management
 difficulty: 3
 weight: 1
-slug: "data_centric_ai"
-aliases:
-  - /fi/terms/data_centric_ai/
-date: "2026-07-18T15:51:01.333359Z"
-lastmod: "2026-07-18T17:15:09.397316Z"
+slug: data_centric_ai
+date: '2026-07-18T15:51:01.333359Z'
+lastmod: '2026-07-18T17:15:09.397316Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Lähestymistapa tekoälyn kehittämiseen, jossa painotetaan koulutusdatan laadun ja määrän parantamista mallirakenteiden muuttamisen sijaan."
+source: agnes_llm
+status: published
+language: fi
+description: Lähestymistapa tekoälyn kehittämiseen, jossa painotetaan koulutusdatan
+  laadun ja määrän parantamista mallirakenteiden muuttamisen sijaan.
 ---
-
 ## Definition
 
 Data-keskeinen tekoäly edustaa paradigman muutosta tekoälyn kehityksessä, keskittyen systemaattisesti mallien koulutuksessa käytetyn datan parantamiseen sen sijaan, että optimoitaisiin yksinomaan algoritmeja tai hyperparametreja. Tämä lähestymistapa korostaa datan merkitystä suorituskyvyn saavuttamisessa.

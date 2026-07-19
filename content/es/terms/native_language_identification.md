@@ -1,23 +1,24 @@
 ---
-title: "Identificación de idioma nativo"
-term_id: "native_language_identification"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nlp", "speech", "security"]
+title: Identificación de idioma nativo
+term_id: native_language_identification
+category: basic_concepts
+subcategory: ''
+tags:
+- NLP
+- speech
+- security
 difficulty: 3
 weight: 1
-slug: "native_language_identification"
-aliases:
-  - /es/terms/native_language_identification/
-date: "2026-07-18T11:01:53.634169Z"
-lastmod: "2026-07-18T11:44:44.836007Z"
+slug: native_language_identification
+date: '2026-07-18T11:01:53.634169Z'
+lastmod: '2026-07-18T11:44:44.836007Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El proceso de determinar automáticamente el idioma nativo de un hablante a partir de muestras de su voz o texto."
+source: agnes_llm
+status: published
+language: es
+description: El proceso de determinar automáticamente el idioma nativo de un hablante
+  a partir de muestras de su voz o texto.
 ---
-
 ## Definition
 
 La identificación de idioma nativo (NLI, por sus siglas en inglés) es una subárea del procesamiento del lenguaje natural que se centra en reconocer la primera lengua aprendida por un hablante. A diferencia de la detección de lenguaje general, la NLI analiza características lingüísticas sutiles y patrones de acentuación específicos para identificar el origen idiomático del usuario.

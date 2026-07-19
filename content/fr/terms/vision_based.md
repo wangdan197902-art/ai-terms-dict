@@ -7,8 +7,6 @@ tags: ["applications", "hardware"]
 difficulty: 2
 weight: 1
 slug: "vision_based"
-aliases:
-  - /fr/terms/vision_based/
 date: "2026-07-18T10:58:39.505841Z"
 lastmod: "2026-07-18T11:44:45.181427Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Systèmes qui s'appuient principalement sur des entrées de données visuelles pour percevoir et interagir avec le monde."
 ---
-
 ## Definition
 
 Les paradigmes basés sur la vision utilisent des caméras et des algorithmes de traitement d'image pour extraire des informations significatives des scènes visuelles. Ces systèmes sont fondamentaux en robotique, conduite autonome et réalité augmentée...

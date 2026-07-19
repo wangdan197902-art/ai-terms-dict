@@ -7,8 +7,6 @@ tags: ["Bioinformatics", "Healthcare", "Data Analysis"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_in_bioinformatics"
-aliases:
-  - /nl/terms/machine_learning_in_bioinformatics/
 date: "2026-07-18T16:05:47.681044Z"
 lastmod: "2026-07-18T17:15:08.764799Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "De toepassing van computationele modellen om biologische gegevens, zoals genomische sequenties en eiwitstructuren, te analyseren met als doel biologische inzichten te ontdekken."
 ---
-
 ## Definition
 
 Dit interdisciplinaire vakgebied maakt gebruik van machine learning om enorme hoeveelheden biologische gegevens te verwerken. Dit stelt onderzoekers in staat om genfuncties te voorspellen, ziekten te classificeren en moleculaire interacties te begrijpen, wat essentieel is voor het versnellen van wetenschappelijke ontdekkingen in de biologie en geneeskunde.

@@ -1,23 +1,24 @@
 ---
-title: "Rétegnormalizálás"
-term_id: "layer_normalization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["neural_networks", "optimization", "architecture"]
+title: Rétegnormalizálás
+term_id: layer_normalization
+category: basic_concepts
+subcategory: ''
+tags:
+- Neural Networks
+- Optimization
+- architecture
 difficulty: 3
 weight: 1
-slug: "layer_normalization"
-aliases:
-  - /hu/terms/layer_normalization/
-date: "2026-07-18T16:09:44.820280Z"
-lastmod: "2026-07-18T17:15:09.801444Z"
+slug: layer_normalization
+date: '2026-07-18T16:09:44.820280Z'
+lastmod: '2026-07-18T17:15:09.801444Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy technika, amely egy neurális hálózat rétegének aktivációit normalizálja a jellemzők mentén minden egyes egyedi minta esetén."
+source: agnes_llm
+status: published
+language: hu
+description: Egy technika, amely egy neurális hálózat rétegének aktivációit normalizálja
+  a jellemzők mentén minden egyes egyedi minta esetén.
 ---
-
 ## Definition
 
 A rétegnormalizálás stabilizálja a tanítást a belső kovariáns eltolódás csökkentésével, különösen hatékony rekurzív és transzformer architektúrákban. Ellentétben a kötegelt normalizálással (Batch Normalization), amely a köteg statisztikáitól függ, ez a módszer mintánként működik.

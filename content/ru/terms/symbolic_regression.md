@@ -1,23 +1,24 @@
 ---
-title: "Символьная регрессия"
-term_id: "symbolic_regression"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "model_discovery"]
+title: Символьная регрессия
+term_id: symbolic_regression
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- Model Discovery
 difficulty: 4
 weight: 1
-slug: "symbolic_regression"
-aliases:
-  - /ru/terms/symbolic_regression/
-date: "2026-07-18T16:17:40.526687Z"
-lastmod: "2026-07-18T16:38:07.207125Z"
+slug: symbolic_regression
+date: '2026-07-18T16:17:40.526687Z'
+lastmod: '2026-07-18T16:38:07.207125Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Символьная регрессия — это метод, который ищет математические выражения, наилучшим образом подходящие к набору данных, стремясь к обнаружению интерпретируемых формул."
+source: agnes_llm
+status: published
+language: ru
+description: Символьная регрессия — это метод, который ищет математические выражения,
+  наилучшим образом подходящие к набору данных, стремясь к обнаружению интерпретируемых
+  формул.
 ---
-
 ## Definition
 
 Символьная регрессия — это тип регрессионного анализа, целью которого является нахождение математического выражения, обычно представленного в виде древовидной структуры, которое оптимально описывает наблюдаемые данные. В отличие от традиционной регрессии...

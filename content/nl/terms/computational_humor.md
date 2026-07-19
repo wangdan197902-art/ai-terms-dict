@@ -7,8 +7,6 @@ tags: ["NLP", "creativity", "humor"]
 difficulty: 5
 weight: 1
 slug: "computational_humor"
-aliases:
-  - /nl/terms/computational_humor/
 date: "2026-07-18T15:47:02.267793Z"
 lastmod: "2026-07-18T17:15:08.727433Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het deelgebied van AI dat zich richt op het genereren, begrijpen en waarderen van humoristische inhoud via computationele methoden."
 ---
-
 ## Definition
 
 Computational humor bestudeert hoe machines grappen, woordspelingen en gevatte opmerkingen kunnen produceren of interpreteren. Het vertrouwt doorgaans op natuurlijke taalverwerking om incongruenties, semantische verschuivingen of onverwachte...

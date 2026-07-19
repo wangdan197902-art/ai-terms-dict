@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /vi/terms/harmful_content/
 date: "2026-07-18T15:56:30.364207Z"
 lastmod: "2026-07-18T16:38:07.764592Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Thông tin đe dọa đến cá nhân hoặc xã hội, bao gồm ngôn từ thù ghét, bạo lực và các hành vi trái pháp luật."
 ---
-
 ## Definition
 
 Nội dung gây hại đề cập đến phương tiện kỹ thuật số hoặc văn bản có thể gây ra tổn hại về thể chất, tâm lý hoặc xã hội. Trong lĩnh vực an toàn AI, việc phát hiện và lọc các nội dung này là cực kỳ quan trọng để ngăn chặn mô hình tạo ra

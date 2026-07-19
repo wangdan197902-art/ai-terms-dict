@@ -7,8 +7,6 @@ tags: ["safety", "security", "reliability"]
 difficulty: 3
 weight: 1
 slug: "robustness"
-aliases:
-  - /vi/terms/robustness/
 date: "2026-07-18T16:10:43.773912Z"
 lastmod: "2026-07-18T16:38:07.801945Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khả năng duy trì hiệu suất và sự ổn định của mô hình AI khi đối mặt với dữ liệu nhiễu, các cuộc tấn công đối kháng hoặc sự thay đổi phân phối."
 ---
-
 ## Definition
 
 Trong an toàn và đạo đức AI, tính bền vững đề cập đến khả năng phục hồi của mô hình trước các đầu vào bất ngờ hoặc thao tác độc hại. Một hệ thống bền vững tiếp tục hoạt động chính xác ngay cả khi dữ liệu đầu vào chứa nhiều

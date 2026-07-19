@@ -1,23 +1,24 @@
 ---
-title: "Deteksjon av toxisitet"
-term_id: "toxicity_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["application", "safety", "nlp"]
+title: Deteksjon av toxisitet
+term_id: toxicity_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- application
+- safety
+- NLP
 difficulty: 3
 weight: 1
-slug: "toxicity_detection"
-aliases:
-  - /no/terms/toxicity_detection/
-date: "2026-07-18T16:19:19.453525Z"
-lastmod: "2026-07-18T16:38:07.054925Z"
+slug: toxicity_detection
+date: '2026-07-18T16:19:19.453525Z'
+lastmod: '2026-07-18T16:38:07.054925Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Den automatiserte prosessen med å identifisere og klassifisere skadelig eller misbrukende språk i tekst ved hjelp av maskinlæringsmodeller."
+source: agnes_llm
+status: published
+language: 'no'
+description: Den automatiserte prosessen med å identifisere og klassifisere skadelig
+  eller misbrukende språk i tekst ved hjelp av maskinlæringsmodeller.
 ---
-
 ## Definition
 
 Toxisitetsdeteksjon bruker teknikker for naturlig språkbehandling til å analysere tekstinndata og tildele en sannsynlighetsscore som indikerer sjansen for skadelig innhold. Disse systemene bruker vanligvis overvåket...

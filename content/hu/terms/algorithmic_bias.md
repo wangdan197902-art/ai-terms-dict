@@ -1,23 +1,24 @@
 ---
-title: "Algoritmikus elfogultság"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: Algoritmikus elfogultság
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /hu/terms/algorithmic_bias/
-date: "2026-07-18T15:43:26.247860Z"
-lastmod: "2026-07-18T17:15:09.752637Z"
+slug: algorithmic_bias
+date: '2026-07-18T15:43:26.247860Z'
+lastmod: '2026-07-18T17:15:09.752637Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az algoritmikus elfogultság a számítógépes rendszerekben fellépő szisztematikus és ismétlődő hibákra utal, amelyek igazságtalan kimeneteleket hoznak létre, például egy önkényes csoport előnyben részes"
+source: agnes_llm
+status: published
+language: hu
+description: Az algoritmikus elfogultság a számítógépes rendszerekben fellépő szisztematikus
+  és ismétlődő hibákra utal, amelyek igazságtalan kimeneteleket hoznak létre, például
+  egy önkényes csoport előnyben részes
 ---
-
 ## Definition
 
 Az algoritmusokban lévő elfogultság általában nem reprezentatív képzési adatokból, szubjektív tervezési döntésekből vagy visszacsatolási hurkokból ered, amelyek felerősítik a meglévő társadalmi előítéleteket. Torzított előrejelzések formájában nyilvánul meg.

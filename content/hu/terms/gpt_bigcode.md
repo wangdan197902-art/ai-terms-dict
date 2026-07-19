@@ -7,8 +7,6 @@ tags: ["coding", "models", "bigcode"]
 difficulty: 3
 weight: 1
 slug: "gpt_bigcode"
-aliases:
-  - /hu/terms/gpt_bigcode/
 date: "2026-07-18T16:02:00.188741Z"
 lastmod: "2026-07-18T17:15:09.789854Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy nagy nyelvi modellek családja, amelyet kifejezetten kódgenerálásra és megértésre képeztek ki, a BigCode projekt keretében fejlesztve."
 ---
-
 ## Definition
 
 A GPT Bigcode gyakran társul olyan modellekhez, mint a StarCoder, és jelentős előrelépést jelent a kódolási asszisztensek területén. Ezeket a modelleket nyilvános kódrepozitóriumok hatalmas készletén tanították elő, hogy megértsék a programozási nyelvek szintaxisát és szemantikáját.

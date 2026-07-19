@@ -7,8 +7,6 @@ tags: ["AI Architecture", "Context"]
 difficulty: 3
 weight: 1
 slug: "memory"
-aliases:
-  - /cs/terms/memory/
 date: "2026-07-18T15:36:21.262961Z"
 lastmod: "2026-07-18T17:15:09.090881Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Schopnost systému AI ukládat, načítat a využívat informace napříč interakcemi pro udržení kontextu a zlepšování výkonu v čase."
 ---
-
 ## Definition
 
 V umělé inteligenci paměť označuje mechanismy, které umožňují modelům uchovávat informace přesahující jeden krok inferenčního procesu. To zahrnuje krátkodobou pracovní paměť pro okamžitý kontext během jedné relace.

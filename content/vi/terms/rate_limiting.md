@@ -7,8 +7,6 @@ tags: ["infrastructure", "security", "devops"]
 difficulty: 2
 weight: 1
 slug: "rate_limiting"
-aliases:
-  - /vi/terms/rate_limiting/
 date: "2026-07-18T16:10:06.878760Z"
 lastmod: "2026-07-18T16:38:07.799889Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Cơ chế kiểm soát kỹ thuật hạn chế số lượng yêu cầu mà một khách hàng có thể gửi đến một dịch vụ trong một khoảng thời gian cụ thể."
 ---
-
 ## Definition
 
 Giới hạn tốc độ bảo vệ các dịch vụ AI và API khỏi việc lạm dụng, quá tải và tiêu thụ tài nguyên quá mức. Nó đảm bảo việc sử dụng công bằng giữa các người dùng và duy trì sự ổn định của hệ thống bằng cách giới hạn thông lượng. Các chiến lược phổ biến bao gồm...

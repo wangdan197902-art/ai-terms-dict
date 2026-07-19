@@ -1,23 +1,25 @@
 ---
-title: "PHerc. Paris. 4"
-term_id: "pherc_paris_4"
-category: "basic_concepts"
-subcategory: ""
-tags: ["history", "digital_humanities", "archaeology"]
+title: PHerc. Paris. 4
+term_id: pherc_paris_4
+category: basic_concepts
+subcategory: ''
+tags:
+- history
+- Digital Humanities
+- archaeology
 difficulty: 5
 weight: 1
-slug: "pherc_paris_4"
-aliases:
-  - /pt/terms/pherc_paris_4/
-date: "2026-07-18T15:15:51.755832Z"
-lastmod: "2026-07-18T15:51:59.520519Z"
+slug: pherc_paris_4
+date: '2026-07-18T15:15:51.755832Z'
+lastmod: '2026-07-18T15:51:59.520519Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "PHerc. Paris. 4 refere-se a um fragmento específico de um papiro de Herculano mantido na biblioteca de Paris, frequentemente citado em projetos de humanidades digitais e reconstrução de textos antigos"
+source: agnes_llm
+status: published
+language: pt
+description: PHerc. Paris. 4 refere-se a um fragmento específico de um papiro de Herculano
+  mantido na biblioteca de Paris, frequentemente citado em projetos de humanidades
+  digitais e reconstrução de textos antigos
 ---
-
 ## Definition
 
 PHerc. Paris. 4 é uma designação para um fragmento de um rolo de papiro carbonizado descoberto na Vila dos Papiros em Herculano, atualmente alojado na Biblioteca Nacional da França. Estes pap...

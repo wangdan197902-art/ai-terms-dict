@@ -7,8 +7,6 @@ tags: ["media", "distribution", "education"]
 difficulty: 1
 weight: 1
 slug: "podcast"
-aliases:
-  - /en/terms/podcast/
 date: "2026-07-18T10:10:59.166657Z"
 lastmod: "2026-07-18T11:44:44.709983Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A digital audio or video file made available on the internet for downloading or streaming."
 ---
-
 ## Definition
 
 In the context of AI and technology, a podcast refers to episodic digital media content distributed via RSS feeds, allowing users to subscribe and listen to discussions, interviews, or educational material on demand. While not a technical AI algorithm, podcasts are a primary medium for disseminating AI news, research summaries, and industry trends. They serve as an accessible format for experts to share insights on machine learning developments, ethical considerations, and practical applications of artificial intelligence.

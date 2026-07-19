@@ -7,8 +7,6 @@ tags: ["terminology", "architecture"]
 difficulty: 2
 weight: 1
 slug: "multi"
-aliases:
-  - /pl/terms/multi/
 date: "2026-07-18T15:27:31.236925Z"
 lastmod: "2026-07-18T17:15:08.816101Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Przedrostek wskazujący na obecność wielu instancji, głów lub modali w systemie lub modelu."
 ---
-
 ## Definition
 
 Przedrostek 'multi-' jest często używany w AI do oznaczania architektur lub procesów obejmujących kilka równoległych komponentów. Przykładami są Multi-Head Attention, które pozwalają modelom skupiać się na różnych reprezentacjach jednocześnie.

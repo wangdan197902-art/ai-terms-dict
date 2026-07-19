@@ -7,8 +7,6 @@ tags: ["Machine Learning Theory", "Ethics", "Statistics"]
 difficulty: 4
 weight: 1
 slug: "biasvariance_tradeoff"
-aliases:
-  - /sv/terms/biasvariance_tradeoff/
 date: "2026-07-18T15:47:58.234725Z"
 lastmod: "2026-07-18T17:15:08.981183Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "sv"
 description: "Ett grundläggande problem i övervakad inlärning där minimering av felkräver en balans mellan modellkomplexitet och generaliseringsförmåga."
 ---
-
 ## Definition
 
 Bias-varians-tradeoff beskriver spänningen mellan underanpassning (hög bias) och överanpassning (hög varians). Modeller med hög bias gör starka antaganden om datan och riskerar att ignorera relevanta mönster, medan modeller med hög varians anpassar sig för noggrant till träningsdatan inklusive brus.

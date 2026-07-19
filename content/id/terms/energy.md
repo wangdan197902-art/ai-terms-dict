@@ -7,8 +7,6 @@ tags: ["sustainability", "theory", "hardware"]
 difficulty: 3
 weight: 1
 slug: "energy"
-aliases:
-  - /id/terms/energy/
 date: "2026-07-18T15:25:20.411570Z"
 lastmod: "2026-07-18T16:38:07.391910Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Dalam AI, energi sering merujuk pada daya komputasi yang dikonsumsi selama pelatihan dan inferensi model, atau fungsi potensial matematis dalam model probabilistik."
 ---
-
 ## Definition
 
 Energi memiliki dua makna utama dalam AI. Pertama, ini menunjukkan daya listrik yang dibutuhkan untuk menjalankan perangkat keras, sebuah isu keberlanjutan yang semakin penting seiring skalanya model. Kedua, dalam mekanika statistik, energi digunakan sebagai fungsi dalam model berbasis energi.

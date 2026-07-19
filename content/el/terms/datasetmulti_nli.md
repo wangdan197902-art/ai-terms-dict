@@ -1,23 +1,26 @@
 ---
-title: "Dataset:Multi Nli"
-term_id: "datasetmulti_nli"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nli", "semantics", "benchmark", "glue"]
+title: Dataset:Multi Nli
+term_id: datasetmulti_nli
+category: basic_concepts
+subcategory: ''
+tags:
+- nli
+- semantics
+- Benchmark
+- glue
 difficulty: 2
 weight: 1
-slug: "datasetmulti_nli"
-aliases:
-  - /el/terms/datasetmulti_nli/
-date: "2026-07-18T16:00:45.702120Z"
-lastmod: "2026-07-18T17:15:09.897504Z"
+slug: datasetmulti_nli
+date: '2026-07-18T16:00:45.702120Z'
+lastmod: '2026-07-18T17:15:09.897504Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Το Σώμα Φυσικής Γλωσσικής Συλλογιστικής Πολλαπλών Ειδών (Multi-Genre Natural Language Inference Corpus), ένα μεγάλο σύνολο δεδομένων που περιλαμβάνει εκατομμύρια ανθρώπινα γραμμένα αγγλικά πρόταση με "
+source: agnes_llm
+status: published
+language: el
+description: 'Το Σώμα Φυσικής Γλωσσικής Συλλογιστικής Πολλαπλών Ειδών (Multi-Genre
+  Natural Language Inference Corpus), ένα μεγάλο σύνολο δεδομένων που περιλαμβάνει
+  εκατομμύρια ανθρώπινα γραμμένα αγγλικά πρόταση με '
 ---
-
 ## Definition
 
 Το MultiNLI είναι ένα σώμα δεδομένων που έχει δημιουργηθεί μέσω συλλογής από το κοινό (crowdsourced) και διατίθεται μέσω του δείκτη GLUE. Σχεδιάστηκε για την αξιολόγηση της φυσικής γλωσσικής συλλογιστικής (NLI) σε διάφορα είδη ομιλούμενου και γραπτού κειμένου. Παρέχει ζεύγη προτάσεων (premise-hypothesis) για να δοκιμάσει την ικανότητα ενός μοντέλου να συμπεράνει αν μια υπόθεση ακολουθεί λογικά από μια προκείμενη πρόταση.

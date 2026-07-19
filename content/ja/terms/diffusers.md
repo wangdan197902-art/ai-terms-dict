@@ -1,23 +1,24 @@
 ---
-title: "Diffusers"
-term_id: "diffusers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["library", "generative_ai", "tools", "hugging_face"]
+title: Diffusers
+term_id: diffusers
+category: basic_concepts
+subcategory: ''
+tags:
+- library
+- Generative AI
+- tools
+- Hugging Face
 difficulty: 2
 weight: 1
-slug: "diffusers"
-aliases:
-  - /ja/terms/diffusers/
-date: "2026-07-18T11:12:11.297154Z"
-lastmod: "2026-07-18T11:44:45.090916Z"
+slug: diffusers
+date: '2026-07-18T11:12:11.297154Z'
+lastmod: '2026-07-18T11:44:45.090916Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "画像、音声、テキスト生成のための最先端拡散モデル実装を提供する、Hugging Faceエコシステム内のライブラリ。"
+source: agnes_llm
+status: published
+language: ja
+description: 画像、音声、テキスト生成のための最先端拡散モデル実装を提供する、Hugging Faceエコシステム内のライブラリ。
 ---
-
 ## Definition
 
 Hugging Face Diffusersは、拡散モデルの使用を簡素化するために設計されたモジュラーツールキットです。テキストから画像への生成や画像のインペインティング、スーパー解像度などのタスクに対して、事前学習済みパイプラインを提供しています。

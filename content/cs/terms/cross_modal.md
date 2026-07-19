@@ -7,8 +7,6 @@ tags: ["multimodal", "integration", "representation"]
 difficulty: 3
 weight: 1
 slug: "cross_modal"
-aliases:
-  - /cs/terms/cross_modal/
 date: "2026-07-18T15:31:28.703746Z"
 lastmod: "2026-07-18T17:15:09.082482Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Techniky integrující a zpracovávající informace z různých typů senzorických dat, jako je text a obrázky."
 ---
-
 ## Definition
 
 Cross-modální AI zahrnuje zpracování a korelaci dat z odlišných modalit, například kombinování vizuálních, sluchových a textových vstupů. Tyto systémy se učí sdílené reprezentace pro porozumění vztahům mezi různými typy dat...

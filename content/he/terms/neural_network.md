@@ -7,8 +7,6 @@ tags: ["Deep Learning", "Architecture", "AI"]
 difficulty: 4
 weight: 1
 slug: "neural_network"
-aliases:
-  - /he/terms/neural_network/
 date: "2026-07-18T15:28:29.457486Z"
 lastmod: "2026-07-18T17:15:09.483299Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מערכת מחשוב המושפעת ממוח הביולוגי, המורכבת מצמתים או נוירונים מקושרים המאורגנים בשכבות."
 ---
-
 ## Definition
 
 רשת נוירונים היא סדרה של אלגוריתמים השואפים לזהות קשרים מתחת לפני השטח בקבוצת נתונים בתהליך החוזר על פעולת המוח האנושי. היא מורכבת משכבות של נוירונים מלאכותיים.

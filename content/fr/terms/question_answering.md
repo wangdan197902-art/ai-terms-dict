@@ -1,23 +1,24 @@
 ---
-title: "Réponse aux Questions"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Réponse aux Questions
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /fr/terms/question_answering/
-date: "2026-07-18T11:00:53.340864Z"
-lastmod: "2026-07-18T11:44:45.187626Z"
+slug: question_answering
+date: '2026-07-18T11:00:53.340864Z'
+lastmod: '2026-07-18T11:44:45.187626Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Une tâche de TALN où un système fournit automatiquement des réponses précises à des questions posées en langage naturel."
+source: agnes_llm
+status: published
+language: fr
+description: Une tâche de TALN où un système fournit automatiquement des réponses
+  précises à des questions posées en langage naturel.
 ---
-
 ## Definition
 
 La réponse aux questions (QA) consiste à récupérer ou générer des réponses exactes aux requêtes des utilisateurs à partir d'un contexte ou d'une base de connaissances donné(e). Elle varie de la QA à domaine fermé, qui s'appuie sur des documents spécifiques...

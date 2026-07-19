@@ -1,23 +1,24 @@
 ---
-title: "Bất kỳ sang Bất kỳ"
-term_id: "any_to_any"
-category: "basic_concepts"
-subcategory: ""
-tags: ["multimodal", "generative_ai", "architecture"]
+title: Bất kỳ sang Bất kỳ
+term_id: any_to_any
+category: basic_concepts
+subcategory: ''
+tags:
+- multimodal
+- Generative AI
+- architecture
 difficulty: 4
 weight: 1
-slug: "any_to_any"
-aliases:
-  - /vi/terms/any_to_any/
-date: "2026-07-18T15:40:23.931802Z"
-lastmod: "2026-07-18T16:38:07.727367Z"
+slug: any_to_any
+date: '2026-07-18T15:40:23.931802Z'
+lastmod: '2026-07-18T16:38:07.727367Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một khả năng của AI tạo sinh cho phép mô hình chuyển đổi đầu vào từ một phương thức trực tiếp sang đầu ra ở một phương thức tùy ý khác."
+source: agnes_llm
+status: published
+language: vi
+description: Một khả năng của AI tạo sinh cho phép mô hình chuyển đổi đầu vào từ một
+  phương thức trực tiếp sang đầu ra ở một phương thức tùy ý khác.
 ---
-
 ## Definition
 
 Bất kỳ sang Bất kỳ đề cập đến các kiến trúc đa phương thức thống nhất có thể xử lý nhiều tổ hợp đầu vào - đầu ra khác nhau, chẳng hạn như văn bản sang hình ảnh, hình ảnh sang văn bản hoặc âm thanh sang video. Khác với các mô hình chuyên biệt, những hệ thống này...

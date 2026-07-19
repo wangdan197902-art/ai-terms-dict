@@ -7,8 +7,6 @@ tags: ["Mathematics", "Strategy", "Multi-Agent"]
 difficulty: 3
 weight: 1
 slug: "game_theory"
-aliases:
-  - /ro/terms/game_theory/
 date: "2026-07-18T15:59:28.000268Z"
 lastmod: "2026-07-18T17:15:09.658737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Studiul matematic al interacțiunii strategice dintre decidenții raționali, unde rezultatele depind de acțiunile tuturor participanților."
 ---
-
 ## Definition
 
 Teoria jocurilor este o ramură a matematicii aplicate care modelează interacțiunile strategice dintre agenții raționali. Analizează situațiile în care succesul unui jucător depinde de alegerile altora. Cheie

@@ -7,8 +7,6 @@ tags: ["ML Basics", "Optimization", "Statistics"]
 difficulty: 2
 weight: 1
 slug: "regularization"
-aliases:
-  - /ja/terms/regularization/
 date: "2026-07-18T11:30:18.434901Z"
 lastmod: "2026-07-18T11:44:45.138396Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "損失関数にペナルティを追加したりモデルの複雑さを制限したりすることで、過学習を防ぐためのトレーニング手法のセット。"
 ---
-
 ## Definition
 
 正則化は、機械学習において一般化誤差を大幅に増加させることなく減少させるための重要な概念です。これは、モデルが過度に複雑なパターンやノイズを学習することを抑制することで機能します。

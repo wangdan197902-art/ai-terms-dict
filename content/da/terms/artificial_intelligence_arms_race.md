@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /da/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:41:51.313271Z"
 lastmod: "2026-07-18T17:15:09.260238Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En konkurrencedygtig dynamik, hvor nationer eller organisationer hurtigt udvikler AI-kapaciteter for at opnå strategisk overlegenhed."
 ---
-
 ## Definition
 
 AI-kappløbet refererer til den intense konkurrence mellem lande, virksomheder og forskningsinstitutioner om at opnå dominans inden for teknologier til kunstig intelligens. Denne rivalisering driver hurtig innovation, men rejser også bekymringer om sikkerhed og etiske konsekvenser i takt med, at teknologien udvikles uden tilstrækkelige regulatoriske rammer.

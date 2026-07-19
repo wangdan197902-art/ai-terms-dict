@@ -7,8 +7,6 @@ tags: ["efficiency", "deployment"]
 difficulty: 2
 weight: 1
 slug: "low_cost"
-aliases:
-  - /en/terms/low_cost/
 date: "2026-07-18T09:38:47.626187Z"
 lastmod: "2026-07-18T11:44:44.617183Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "Denotes AI solutions that minimize computational, financial, or energy expenditures while maintaining functionality."
 ---
-
 ## Definition
 
 Low-cost AI focuses on efficiency, aiming to reduce the barriers to entry and operational expenses associated with machine learning. This includes techniques like model compression, quantization, and using smaller architectures. It also encompasses economic aspects such as affordable cloud inference and open-source tooling. Achieving low cost is vital for democratizing AI access, enabling deployment on edge devices, and making sustainable, scalable solutions viable for widespread adoption.

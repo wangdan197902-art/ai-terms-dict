@@ -7,8 +7,6 @@ tags: ["NLP", "Metrics", "Semantics"]
 difficulty: 2
 weight: 1
 slug: "sentence_similarity"
-aliases:
-  - /da/terms/sentence_similarity/
 date: "2026-07-18T16:17:05.530660Z"
 lastmod: "2026-07-18T17:15:09.330158Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En metrik eller opgave, der kvantificerer, hvor semantisk ens to sætninger er, ofte repræsenteret som en numerisk score."
 ---
-
 ## Definition
 
 Sætningssimilaritet måler graden af semantisk overlap mellem to forskellige sætninger. Det går ud over ordlig matchning for at forstå betydning, kontekst og hensigt. Dette opnås typisk ved at beregne afstanden mellem vektorrepræsentationer.

@@ -7,8 +7,6 @@ tags: ["Deployment", "Production", "Performance"]
 difficulty: 2
 weight: 1
 slug: "inference"
-aliases:
-  - /ja/terms/inference/
 date: "2026-07-18T07:42:13.833811Z"
 lastmod: "2026-07-18T11:44:44.587260Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "訓練済みモデルが新しいデータを処理して予測や出力を生成するフェーズ。"
 ---
-
 ## Definition
 
 推論とは、完成したモデルを使用して未見のデータに対して判断や予測を行うデプロイメント段階を指します。重みを更新するトレーニングとは異なり、推論は計算リソースを消費して結果を出力します。

@@ -7,8 +7,6 @@ tags: ["Development", "Integration", "Infrastructure"]
 difficulty: 1
 weight: 1
 slug: "api"
-aliases:
-  - /da/terms/api/
 date: "2026-07-18T15:22:13.416327Z"
 lastmod: "2026-07-18T17:15:09.216540Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En Application Programming Interface, der gør det muligt for forskellige softwaresystemer at kommunikere og udveksle data."
 ---
-
 ## Definition
 
 En API definerer en række protokoller og værktøjer til udvikling af software og applikationer. Inden for AI gør API'er det muligt for udviklere at få adgang til kraftfulde modeller som LLM'er eller billedgeneratorer uden at skulle hoste dem lokalt.

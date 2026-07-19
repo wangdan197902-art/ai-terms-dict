@@ -7,8 +7,6 @@ tags: ["AGI", "Theory", "Mathematics"]
 difficulty: 5
 weight: 1
 slug: "aixi"
-aliases:
-  - /hu/terms/aixi/
 date: "2026-07-18T15:42:01.445377Z"
 lastmod: "2026-07-18T17:15:09.750363Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Az AIXI egy mesterséges általános intelligencia matematikai elmélete, amely egy optimális ügynök környezetével való interakcióját modellezi."
 ---
-
 ## Definition
 
 Az AIXI egy Marcus Hutter által javasolt elméleti keretrendszer, amely definiál egy idealizált intelligens ügynököt. Kombinálja a Solomonoff-indukciót a környezet előrejelzésére a megerősítési tanulással a döntéshoz

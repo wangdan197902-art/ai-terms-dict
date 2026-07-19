@@ -7,8 +7,6 @@ tags: ["benchmarking", "speech", "platform"]
 difficulty: 2
 weight: 1
 slug: "hf_asr_leaderboard"
-aliases:
-  - /th/terms/hf_asr_leaderboard/
 date: "2026-07-18T15:58:26.416606Z"
 lastmod: "2026-07-18T16:38:07.614335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "ระบบการจัดอันดับบน Hugging Face ที่ประเมินและเปรียบเทียบประสิทธิภาพของแบบจำลองการรู้จำเสียงพูดอัตโนมัติ (ASR)"
 ---
-
 ## Definition
 
 กระดานผู้นำ HF ASR เป็นแพลตฟอร์มเมตริกที่ขับเคลื่อนโดยชุมชนซึ่งโฮสต์โดย Hugging Face โดยติดตามประสิทธิภาพระดับสูงสุดในการรู้จำเสียงพูดอัตโนมัติ ช่วยให้นักวิจัยและนักพัฒนาสามารถ

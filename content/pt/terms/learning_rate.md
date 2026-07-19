@@ -1,23 +1,24 @@
 ---
-title: "Taxa de Aprendizado"
-term_id: "learning_rate"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization", "hyperparameters"]
+title: Taxa de Aprendizado
+term_id: learning_rate
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
+- hyperparameters
 difficulty: 3
 weight: 1
-slug: "learning_rate"
-aliases:
-  - /pt/terms/learning_rate/
-date: "2026-07-18T14:44:48.745964Z"
-lastmod: "2026-07-18T15:51:59.451473Z"
+slug: learning_rate
+date: '2026-07-18T14:44:48.745964Z'
+lastmod: '2026-07-18T15:51:59.451473Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "Um hiperparâmetro que controla o tamanho do passo durante a otimização do modelo para minimizar a função de perda."
+source: agnes_llm
+status: published
+language: pt
+description: Um hiperparâmetro que controla o tamanho do passo durante a otimização
+  do modelo para minimizar a função de perda.
 ---
-
 ## Definition
 
 A taxa de aprendizado determina em quanto os pesos do modelo são atualizados em relação ao gradiente calculado durante cada iteração de treinamento. Uma taxa muito alta pode fazer com que o modelo ultrapasse o ótimo.

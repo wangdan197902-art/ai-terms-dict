@@ -1,23 +1,24 @@
 ---
-title: "TensorFlow Hub"
-term_id: "tensorflow_hub"
-category: "basic_concepts"
-subcategory: ""
-tags: ["tensorflow", "libraries", "transfer-learning"]
+title: TensorFlow Hub
+term_id: tensorflow_hub
+category: basic_concepts
+subcategory: ''
+tags:
+- tensorflow
+- libraries
+- Transfer Learning
 difficulty: 3
 weight: 1
-slug: "tensorflow_hub"
-aliases:
-  - /ru/terms/tensorflow_hub/
-date: "2026-07-18T16:18:02.515750Z"
-lastmod: "2026-07-18T16:38:07.207781Z"
+slug: tensorflow_hub
+date: '2026-07-18T16:18:02.515750Z'
+lastmod: '2026-07-18T16:38:07.207781Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Репозиторий для переиспользования модулей машинного обучения, обеспечивающий трансферное обучение с помощью предварительно обученных моделей."
+source: agnes_llm
+status: published
+language: ru
+description: Репозиторий для переиспользования модулей машинного обучения, обеспечивающий
+  трансферное обучение с помощью предварительно обученных моделей.
 ---
-
 ## Definition
 
 TensorFlow Hub — это платформа для публикации и повторного использования компонентов машинного обучения. Она позволяет разработчикам получать доступ к предварительно обученным моделям для различных задач, таких как классификация изображений, текстовые эмбеддинги и другие.

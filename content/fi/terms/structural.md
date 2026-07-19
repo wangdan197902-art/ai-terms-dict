@@ -7,8 +7,6 @@ tags: ["architecture", "design"]
 difficulty: 2
 weight: 1
 slug: "structural"
-aliases:
-  - /fi/terms/structural/
 date: "2026-07-18T15:31:25.815265Z"
 lastmod: "2026-07-18T17:15:09.360286Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Liittyy järjestelmän komponenttien taustalla olevaan organisaatioon, arkkitehtuuriin tai asetelmaan."
 ---
-
 ## Definition
 
 Rakenteelliset näkökohdat määrittävät, miten data tai neuroverkkokerrokset on järjestetty. Graafineuroverkoissa rakenne viittaa solmujen yhteyksiin; syväoppimisessa se viittaa kerrosten topologiaan. Ymmärtäminen...

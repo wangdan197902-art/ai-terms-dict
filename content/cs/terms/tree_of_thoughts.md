@@ -7,8 +7,6 @@ tags: ["reasoning", "prompting", "algorithms"]
 difficulty: 4
 weight: 1
 slug: "tree_of_thoughts"
-aliases:
-  - /cs/terms/tree_of_thoughts/
 date: "2026-07-18T16:21:45.233546Z"
 lastmod: "2026-07-18T17:15:09.208772Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Strom myšlenek (Tree of Thoughts) je rámec pro odvozování, který současně zkoumá více možných cest úsudku a vyhodnocuje je s cílem vybrat nejslibnější další krok."
 ---
-
 ## Definition
 
 Strom myšlenek (ToT) rozšiřuje tradiční techniku Chain-of-Thought tím, že umožňuje modelu zkoumat na každém kroku více odlišných cest úsudku, čímž vytváří stromovou strukturu. Model vyhodnocuje kvalitu jednotlivých stavů...

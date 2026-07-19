@@ -7,8 +7,6 @@ tags: ["terminology", "inputs", "logic"]
 difficulty: 1
 weight: 1
 slug: "given"
-aliases:
-  - /zh/terms/given/
 date: "2026-07-18T10:51:41.469499Z"
 lastmod: "2026-07-18T11:44:45.369607Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "指作为算法过程输入提供的现有数据、约束或上下文。"
 ---
-
 ## Definition
 
 在人工智能和计算机科学语境中，“给定”指在计算开始前提供给模型或函数的初始状态、数据集或参数。它确立了计算的边界条件。

@@ -1,23 +1,24 @@
 ---
-title: "Federated Learning"
-term_id: "federated_learning"
-category: "ethics_safety"
-subcategory: ""
-tags: ["privacy", "distributed_ml", "security"]
+title: Federated Learning
+term_id: federated_learning
+category: ethics_safety
+subcategory: ''
+tags:
+- privacy
+- Distributed ML
+- security
 difficulty: 4
 weight: 1
-slug: "federated_learning"
-aliases:
-  - /da/terms/federated_learning/
-date: "2026-07-18T15:35:10.488998Z"
-lastmod: "2026-07-18T17:15:09.244392Z"
+slug: federated_learning
+date: '2026-07-18T15:35:10.488998Z'
+lastmod: '2026-07-18T17:15:09.244392Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Federated learning er en distribueret maskinlæringsmetode, der træner modeller på tværs af decentraliserede enheder, mens dataene forbliver lokale."
+source: agnes_llm
+status: published
+language: da
+description: Federated learning er en distribueret maskinlæringsmetode, der træner
+  modeller på tværs af decentraliserede enheder, mens dataene forbliver lokale.
 ---
-
 ## Definition
 
 Federated learning gør det muligt for organisationer at samarbejde om at træne AI-modeller uden at dele følsomme rådata. I stedet for at centralisere informationen sendes modellen til lokale enheder, hvor den lærer, og kun opdateringerne sendes tilbage til serveren.

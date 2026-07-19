@@ -7,8 +7,6 @@ tags: ["NLP", "Graph Learning", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "knowledge_graph_embedding"
-aliases:
-  - /ja/terms/knowledge_graph_embedding/
 date: "2026-07-18T11:20:51.477897Z"
 lastmod: "2026-07-18T11:44:45.112834Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "知識グラフ内のエンティティと関係を、構造的意味を保持したまま連続ベクトル空間にマッピングする技術。"
 ---
-
 ## Definition
 
 TransEやDistMultなどの知識グラフ埋め込み手法は、離散なグラフ構造を低次元の密ベクトルに変換します。これにより、機械学習モデルは数学的な演算を行うことができます。

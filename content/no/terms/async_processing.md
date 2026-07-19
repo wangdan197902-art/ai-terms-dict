@@ -1,23 +1,24 @@
 ---
-title: "Asynkron prosessering"
-term_id: "async_processing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["programming", "performance", "software_engineering"]
+title: Asynkron prosessering
+term_id: async_processing
+category: engineering_practice
+subcategory: ''
+tags:
+- programming
+- performance
+- Software Engineering
 difficulty: 3
 weight: 1
-slug: "async_processing"
-aliases:
-  - /no/terms/async_processing/
-date: "2026-07-18T15:43:39.235937Z"
-lastmod: "2026-07-18T16:38:06.973199Z"
+slug: async_processing
+date: '2026-07-18T15:43:39.235937Z'
+lastmod: '2026-07-18T16:38:06.973199Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En programmeringsparadigme der oppgaver kjøres uavhengig av hovedkjøretråden, noe som tillater ikke-blokkerende operasjoner."
+source: agnes_llm
+status: published
+language: 'no'
+description: En programmeringsparadigme der oppgaver kjøres uavhengig av hovedkjøretråden,
+  noe som tillater ikke-blokkerende operasjoner.
 ---
-
 ## Definition
 
 Asynkron prosessering lar programvare utføre langvarige oppgaver, som I/O-operasjoner eller komplekse beregninger, uten å fryse hovedapplikasjonsgrensesnittet eller blokkere andre prosesser. Ved å d

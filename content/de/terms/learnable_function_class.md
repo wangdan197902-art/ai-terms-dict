@@ -1,23 +1,25 @@
 ---
-title: "Lernbare Funktionsklasse"
-term_id: "learnable_function_class"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "model-selection", "statistics"]
+title: Lernbare Funktionsklasse
+term_id: learnable_function_class
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Model Selection
+- statistics
 difficulty: 4
 weight: 1
-slug: "learnable_function_class"
-aliases:
-  - /de/terms/learnable_function_class/
-date: "2026-07-18T11:21:20.803364Z"
-lastmod: "2026-07-18T11:44:44.957673Z"
+slug: learnable_function_class
+date: '2026-07-18T11:21:20.803364Z'
+lastmod: '2026-07-18T11:44:44.957673Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine lernbare Funktionsklasse ist eine Menge mathematischer Funktionen, die durch eine spezifische Modellarchitektur und einen Parameterraum definiert sind, die ein Lernalgorithmus optimieren kann."
+source: agnes_llm
+status: published
+language: de
+description: Eine lernbare Funktionsklasse ist eine Menge mathematischer Funktionen,
+  die durch eine spezifische Modellarchitektur und einen Parameterraum definiert sind,
+  die ein Lernalgorithmus optimieren kann.
 ---
-
 ## Definition
 
 In der statistischen Lerntheorie repräsentiert eine lernbare Funktionsklasse den Hypothesenraum, der einem Algorithmus zur Verfügung steht. Sie definiert den Bereich der Muster oder Abbildungen, die das Modell potenziell erfassen kann.

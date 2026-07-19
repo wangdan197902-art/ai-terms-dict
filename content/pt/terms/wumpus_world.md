@@ -7,8 +7,6 @@ tags: ["AI Education", "Logic", "Search Algorithms"]
 difficulty: 2
 weight: 1
 slug: "wumpus_world"
-aliases:
-  - /pt/terms/wumpus_world/
 date: "2026-07-18T15:27:25.927003Z"
 lastmod: "2026-07-18T15:51:59.542953Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "Um ambiente clássico de inteligência artificial usado para demonstrar raciocínio sob incerteza e observabilidade parcial."
 ---
-
 ## Definition
 
 O Mundo Wumpus é um ambiente baseado em grade introduzido no livro de IA de Russell e Norvig. Um agente deve navegar pela grade para encontrar ouro enquanto evita buracos e um monstro Wumpus. O agente percebe o ambiente através de sensações limitadas (como brisa ou cheiro), exigindo inferência lógica para tomar decisões seguras.

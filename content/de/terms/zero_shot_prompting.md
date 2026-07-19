@@ -7,8 +7,6 @@ tags: ["Prompting", "LLM Applications", "NLP"]
 difficulty: 2
 weight: 1
 slug: "zero_shot_prompting"
-aliases:
-  - /de/terms/zero_shot_prompting/
 date: "2026-07-18T11:38:40.576299Z"
 lastmod: "2026-07-18T11:44:45.000565Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Eine Technik, bei der große Sprachmodelle Aufgaben ohne vorherige Beispiele oder Feinabstimmung ausführen und sich ausschließlich auf natürliche Sprachanweisungen verlassen."
 ---
-
 ## Definition
 
 Beim Zero-Shot-Prompting wird ein vortrainiertes Sprachmodell direkt aufgefordert, eine Aufgabe über einen textuellen Prompt zu erledigen, ohne dass Few-Shot-Beispiele bereitgestellt oder zusätzliche Feinabstimmungen durchgeführt werden. Das Mod

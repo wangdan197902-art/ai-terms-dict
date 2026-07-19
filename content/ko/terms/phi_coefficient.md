@@ -1,23 +1,23 @@
 ---
-title: "피 계수(Phi coefficient)"
-term_id: "phi_coefficient"
-category: "basic_concepts"
-subcategory: ""
-tags: ["statistics", "evaluation_metrics", "binary_classification"]
+title: 피 계수(Phi coefficient)
+term_id: phi_coefficient
+category: basic_concepts
+subcategory: ''
+tags:
+- statistics
+- Evaluation Metrics
+- Binary Classification
 difficulty: 3
 weight: 1
-slug: "phi_coefficient"
-aliases:
-  - /ko/terms/phi_coefficient/
-date: "2026-07-18T16:09:36.005151Z"
-lastmod: "2026-07-18T16:38:06.896490Z"
+slug: phi_coefficient
+date: '2026-07-18T16:09:36.005151Z'
+lastmod: '2026-07-18T16:38:06.896490Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "두 이항 변수(binary variables) 간의 연관성을 측정하는 통계적 지표."
+source: agnes_llm
+status: published
+language: ko
+description: 두 이항 변수(binary variables) 간의 연관성을 측정하는 통계적 지표.
 ---
-
 ## Definition
 
 피 계수(φ)는 두 개의 이항 변수 간 연관성을 측정하는 지표로, 이분형 변수에 대한 피어슨 상관계수(Pearson correlation coefficient)와 같습니다. 값은 -1부터 +1까지 범위를 가지며, 0은 연관성이 없음을, ±1은 완전한 양의 또는 음의 연관성을 나타냅니다.

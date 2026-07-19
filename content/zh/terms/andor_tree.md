@@ -1,23 +1,23 @@
 ---
-title: "与或树"
-term_id: "andor_tree"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search", "planning", "graph_theory"]
+title: 与或树
+term_id: andor_tree
+category: basic_concepts
+subcategory: ''
+tags:
+- search
+- planning
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "andor_tree"
-aliases:
-  - /zh/terms/andor_tree/
-date: "2026-07-18T11:04:49.783886Z"
-lastmod: "2026-07-18T11:44:45.442047Z"
+slug: andor_tree
+date: '2026-07-18T11:04:49.783886Z'
+lastmod: '2026-07-18T11:44:45.442047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "一种在搜索算法中使用的分层图结构，其中节点表示状态，边表示导致子目标的操作。"
+source: agnes_llm
+status: published
+language: zh
+description: 一种在搜索算法中使用的分层图结构，其中节点表示状态，边表示导致子目标的操作。
 ---
-
 ## Definition
 
 与或树是一种用于问题解决和规划的代表结构，特别适用于AI搜索算法。“或”节点表示不同行动之间的选择，而“与”节点表明必须同时完成多个子目标。

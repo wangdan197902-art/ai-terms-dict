@@ -1,23 +1,24 @@
 ---
-title: "Distilasi"
-term_id: "distillation"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "compression", "model_efficiency"]
+title: Distilasi
+term_id: distillation
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- compression
+- Model Efficiency
 difficulty: 3
 weight: 1
-slug: "distillation"
-aliases:
-  - /id/terms/distillation/
-date: "2026-07-18T15:25:07.993958Z"
-lastmod: "2026-07-18T16:38:07.391108Z"
+slug: distillation
+date: '2026-07-18T15:25:07.993958Z'
+lastmod: '2026-07-18T16:38:07.391108Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "id"
-description: "Distilasi pengetahuan adalah teknik kompresi model di mana model siswa yang lebih kecil belajar meniru perilaku model guru yang lebih besar."
+source: agnes_llm
+status: published
+language: id
+description: Distilasi pengetahuan adalah teknik kompresi model di mana model siswa
+  yang lebih kecil belajar meniru perilaku model guru yang lebih besar.
 ---
-
 ## Definition
 
 Proses ini melibatkan transfer pengetahuan dari jaringan saraf 'guru' yang kompleks dan berkinerja tinggi ke jaringan 'siswa' yang lebih sederhana dan efisien. Siswa belajar tidak hanya dari label keras tetapi juga dari probabilitas kelas yang diprediksi oleh guru, yang memberikan informasi lebih kaya daripada label biner saja.

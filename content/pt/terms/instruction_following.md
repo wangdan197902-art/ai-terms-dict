@@ -7,8 +7,6 @@ tags: ["LLM", "interaction", "paradigm"]
 difficulty: 2
 weight: 1
 slug: "instruction_following"
-aliases:
-  - /pt/terms/instruction_following/
 date: "2026-07-18T15:05:42.632390Z"
 lastmod: "2026-07-18T15:51:59.502114Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pt"
 description: "A capacidade de um modelo de IA interpretar e executar com precisão comandos ou restrições humanas específicas."
 ---
-
 ## Definition
 
 O seguimento de instruções refere-se à habilidade de modelos de linguagem grandes e outros sistemas de IA de entender diretrizes humanas sutis e aderir a restrições explícitas dentro de um prompt. Essa mudança de paradigma

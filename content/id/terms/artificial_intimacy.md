@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /id/terms/artificial_intimacy/
 date: "2026-07-18T15:39:29.720285Z"
 lastmod: "2026-07-18T16:38:07.429242Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Koneksi emosional yang dibentuk pengguna dengan entitas AI yang mensimulasikan empati, persahabatan, dan interaksi pribadi."
 ---
-
 ## Definition
 
 Intimitas buatan merujuk pada fenomena psikologis di mana manusia mengembangkan ikatan emosional yang tulus dengan agen buatan, seperti chatbot, asisten virtual, atau robot sosial. Sistem-sistem ini dirancang untuk

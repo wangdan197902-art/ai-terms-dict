@@ -7,8 +7,6 @@ tags: ["politics", "ethics", "society"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_and_elections"
-aliases:
-  - /ar/terms/artificial_intelligence_and_elections/
 date: "2026-07-18T15:44:35.284676Z"
 lastmod: "2026-07-18T17:15:08.476359Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "تطبيق تقنيات الذكاء الاصطناعي في العمليات الانتخابية، بما في ذلك إدارة الحملات وتحليل الناخبين ومخاوف انتشار المعلومات المضللة."
 ---
-
 ## Definition
 
 يشمل هذا المصطلح الدور المزدوج للذكاء الاصطناعي في العمليات الديمقراطية: تعزيز الكفاءة من خلال تحليل البيانات، وتوجيه المخاطر عبر التلاعب. من ناحية، يساعد الذكاء الاصطناعي الحملات في استهداف الناخبين وتحسين...

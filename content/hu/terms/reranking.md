@@ -7,8 +7,6 @@ tags: ["search", "recommendations", "architecture"]
 difficulty: 2
 weight: 1
 slug: "reranking"
-aliases:
-  - /hu/terms/reranking/
 date: "2026-07-18T16:21:30.695186Z"
 lastmod: "2026-07-18T17:15:09.829654Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy kétlépcsős lekérdezési folyamat, ahol egy kezdeti durva rendezést egy számítási szempontból drágább modell finomít az eredmények relevanciájának javítása érdekében."
 ---
-
 ## Definition
 
 Az újrarendezés egy információs visszakeresésben és ajánló rendszerekben alkalmazott stratégia a pontosság növelése érdekében. Először egy gyors, de kevésbé pontos modell nagy jelöltkészletet nyer ki. Ezt követően egy lassabb, de kifinomultabb modell újra rangsorolja ezeket a találatokat.

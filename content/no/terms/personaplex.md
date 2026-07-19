@@ -7,8 +7,6 @@ tags: ["metaverse", "identity", "systems"]
 difficulty: 4
 weight: 1
 slug: "personaplex"
-aliases:
-  - /no/terms/personaplex/
 date: "2026-07-18T16:11:31.459610Z"
 lastmod: "2026-07-18T16:38:07.033395Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Et konseptuelt rammeverk eller plattform designet for å håndtere komplekse nettverk av digitale personaer og deres interaksjoner i AI-drevne miljøer."
 ---
-
 ## Definition
 
 Personaplex refererer til økosystemet eller infrastrukturen som støtter opprettelsen, håndteringen og interaksjonen mellom flere digitale personaer. Det omfatter tekniske og etiske overveielser knyttet til hoved-

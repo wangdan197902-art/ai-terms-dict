@@ -1,23 +1,24 @@
 ---
-title: "ייצוג מצב חיזויי"
-term_id: "predictive_state_representation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["rl", "state_representation", "pomdp"]
+title: ייצוג מצב חיזויי
+term_id: predictive_state_representation
+category: basic_concepts
+subcategory: ''
+tags:
+- RL
+- State Representation
+- pomdp
 difficulty: 4
 weight: 1
-slug: "predictive_state_representation"
-aliases:
-  - /he/terms/predictive_state_representation/
-date: "2026-07-18T16:18:27.730754Z"
-lastmod: "2026-07-18T17:15:09.574520Z"
+slug: predictive_state_representation
+date: '2026-07-18T16:18:27.730754Z'
+lastmod: '2026-07-18T17:15:09.574520Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "ניסוח של מצב סמוך בהכשרה מחזקת החוזה תצפיות עתידיות בהתבסס על היסטוריית פעולות."
+source: agnes_llm
+status: published
+language: he
+description: ניסוח של מצב סמוך בהכשרה מחזקת החוזה תצפיות עתידיות בהתבסס על היסטוריית
+  פעולות.
 ---
-
 ## Definition
 
 ייצוגים מצביים חיזוייים (PSRs) מרחיבים את תהליכי ההחלטה המרקוביים חלקית נצפים (POMDP) מסורתיים על ידי הגדרת מצבים כוקטורים של תחזיות לגבי אירועים נצבים בעתיד. במקום להסתמך על מצבים סמויים בלתי ניתנים לתצפית ישירה, המערכת משתמשת בתחזיות על עתיד המערכת כדי לייצג את המצב הנוכחי.

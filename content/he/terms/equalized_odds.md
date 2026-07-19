@@ -7,8 +7,6 @@ tags: ["fairness", "ethics", "metrics"]
 difficulty: 4
 weight: 1
 slug: "equalized_odds"
-aliases:
-  - /he/terms/equalized_odds/
 date: "2026-07-18T15:56:13.250018Z"
 lastmod: "2026-07-18T17:15:09.538142Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "מדד צדק הדורש ששיעורי חיובים אמיתיים וחיוביים שגויים יהיו שווים בין קבוצות דמוגרפיות שונות."
 ---
-
 ## Definition
 
 סיכויים שווים הוא אילוץ של שוויון סטטיסטי המשמש בצדק אלגוריתמי כדי להבטיח שמודל יבצע באותה מידה טובה עבור כל הקבוצות המוגנות. ספציפית, הוא דורש שההסתברות לתוצאה חיובית תהיה זהה בין קבוצות.

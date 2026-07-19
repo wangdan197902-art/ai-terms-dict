@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /cs/terms/explainability/
 date: "2026-07-18T15:35:06.072837Z"
 lastmod: "2026-07-18T17:15:09.089208Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Vysvětlitelnost označuje míru, do které může člověk pochopit příčinu rozhodnutí přijatého modelem AI."
 ---
-
 ## Definition
 
 Tento koncept řeší problém „černé skříňky“ u složitých systémů AI poskytováním vhledu do toho, jak modely docházejí ke konkrétním predikcím. Techniky jako SHAP nebo LIME pomáhají vizualizovat důležitost jednotlivých znaků pro konečné rozhodnutí.

@@ -7,8 +7,6 @@ tags: ["process", "design", "structure"]
 difficulty: 2
 weight: 1
 slug: "multi_stage"
-aliases:
-  - /en/terms/multi_stage/
 date: "2026-07-18T09:39:01.031344Z"
 lastmod: "2026-07-18T11:44:44.617456Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A process design that divides a complex task into distinct, sequential phases, each with specific objectives and outputs."
 ---
-
 ## Definition
 
 Multi-stage approaches break down intricate workflows into manageable segments, allowing for specialized processing at each step. This method enhances control, debugging, and performance optimization by isolating variables within each phase. It is commonly used in machine learning pipelines, manufacturing processes, and decision-making frameworks where intermediate results inform subsequent actions.

@@ -7,8 +7,6 @@ tags: ["safety", "ethics", "moderation"]
 difficulty: 2
 weight: 1
 slug: "harmful_content"
-aliases:
-  - /ro/terms/harmful_content/
 date: "2026-07-18T16:02:17.351448Z"
 lastmod: "2026-07-18T17:15:09.663825Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Informații care prezintă riscuri pentru indivizi sau societate, inclusiv discursul urii, violența și actele ilegale."
 ---
-
 ## Definition
 
 Conținutul dăunător se referă la media digitală sau text care poate cauza daune fizice, psihologice sau sociale. În domeniul siguranței IA, detectarea și filtrarea acestui tip de conținut sunt critice pentru a preveni modelele să genereze materiale nocive.

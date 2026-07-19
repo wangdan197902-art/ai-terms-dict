@@ -7,8 +7,6 @@ tags: ["finance", "visualization", "trading"]
 difficulty: 2
 weight: 1
 slug: "k_line"
-aliases:
-  - /no/terms/k_line/
 date: "2026-07-18T16:01:09.287421Z"
 lastmod: "2026-07-18T16:38:07.015156Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "En type finansdiagram, også kjent som stearinlysdiagram, brukt til å visualisere prisbevegelser over spesifikke tidsintervaller."
 ---
-
 ## Definition
 
 En K-linje, ofte referert til som et stearinlysdiagram i vestlige markeder, er en grafisk representasjon av prisdynamikken for en verdipapir, derivat eller valuta. Den viser fire nøkkeldatapunkter: åpning, høyde, lav og lukking.

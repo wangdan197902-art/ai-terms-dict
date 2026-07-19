@@ -7,8 +7,6 @@ tags: ["Speech", "NLP", "Metrics"]
 difficulty: 2
 weight: 1
 slug: "asr_complete"
-aliases:
-  - /ko/terms/asr_complete/
 date: "2026-07-18T15:39:56.054987Z"
 lastmod: "2026-07-18T16:38:06.805073Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "ASR 완전 달성(ASR-complete)은 음성 인식 시스템이 표준화된 벤치마크 데이터셋에서 인간 수준의 정확도를 달성했음을 나타냅니다."
 ---
-
 ## Definition
 
 ASR 완전 달성이라는 용어는 자동 음성 인식(ASR) 시스템이 특정하고 명확하게 정의된 작업 및 데이터셋에서 인간 녹음원 수준과 비교할 만한 성능에 도달했음을 의미합니다. 이는 음성 인식 기술이 성숙 단계에 접어들었음을 보여주는 중요한 지표입니다.

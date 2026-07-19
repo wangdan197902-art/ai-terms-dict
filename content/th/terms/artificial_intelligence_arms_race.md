@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /th/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:42:31.342182Z"
 lastmod: "2026-07-18T16:38:07.574298Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "พลวัตการแข่งขันที่ประเทศหรือองค์กรพัฒนาความสามารถด้าน AI อย่างรวดเร็วเพื่อสร้างความได้เปรียบเชิงกลยุทธ์"
 ---
-
 ## Definition
 
 การแข่งขันอาวุธ AI หมายถึงการแข่งขันอันดุเดือดระหว่างประเทศ บริษัท และสถาบันวิจัย เพื่อความเป็นผู้นำในเทคโนโลยีปัญญาประดิษฐ์ ความขัดแย้งนี้ขับเคลื่อนนวัตกรรมอย่างรวดเร็ว โดยมักนำไปสู่การเร่งพัฒนาทั้งในด้านประสิทธิภาพและความปลอดภัย

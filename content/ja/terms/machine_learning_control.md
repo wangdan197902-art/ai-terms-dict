@@ -7,8 +7,6 @@ tags: ["Robotics", "Control Systems", "AI"]
 difficulty: 4
 weight: 1
 slug: "machine_learning_control"
-aliases:
-  - /ja/terms/machine_learning_control/
 date: "2026-07-18T11:22:54.776746Z"
 lastmod: "2026-07-18T11:44:45.119100Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "機械学習アルゴリズムがシステムダイナミクスを適応的に管理し、リアルタイムでパフォーマンスを最適化する制御理論のアプローチ。"
 ---
-
 ## Definition
 
 機械学習制御は、適応型アルゴリズムを従来の制御システムと統合し、非線形または不確実な環境に対応します。静的コントローラーとは異なり、これらのシステムは運用データから学習し、変化する条件に自律的に適応します。

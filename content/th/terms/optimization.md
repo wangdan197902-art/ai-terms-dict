@@ -1,23 +1,24 @@
 ---
-title: "การหาค่าเหมาะที่สุด"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: การหาค่าเหมาะที่สุด
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /th/terms/optimization/
-date: "2026-07-18T15:36:44.688174Z"
-lastmod: "2026-07-18T16:38:07.563134Z"
+slug: optimization
+date: '2026-07-18T15:36:44.688174Z'
+lastmod: '2026-07-18T16:38:07.563134Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "กระบวนการทางคณิตศาสตร์ในการหาค่าต่ำสุดหรือสูงสุดของฟังก์ชันวัตถุประสงค์ เพื่อหาพารามิเตอร์ของคำตอบที่ดีที่สุด"
+source: agnes_llm
+status: published
+language: th
+description: กระบวนการทางคณิตศาสตร์ในการหาค่าต่ำสุดหรือสูงสุดของฟังก์ชันวัตถุประสงค์
+  เพื่อหาพารามิเตอร์ของคำตอบที่ดีที่สุด
 ---
-
 ## Definition
 
 ในการเรียนรู้ของเครื่อง การหาค่าเหมาะที่สุด (Optimization) หมายถึงอัลกอริทึมที่ใช้ปรับพารามิเตอร์ของโมเดลเพื่อลดฟังก์ชันความสูญเสีย (loss function) ซึ่งจะช่วยปรับปรุงประสิทธิภาพของโมเดล วิธีการทั่วไป ได้แก่ Gradient Descent และ Variants ต่างๆ ของมัน

@@ -7,8 +7,6 @@ tags: ["Neural Network Architecture", "Feature Engineering", "Transformers"]
 difficulty: 3
 weight: 1
 slug: "encoder"
-aliases:
-  - /zh/terms/encoder/
 date: "2026-07-18T10:59:51.920773Z"
 lastmod: "2026-07-18T11:44:45.399506Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "编码器是神经网络的组件，它将输入数据转换为压缩的、有意义的表示形式。"
 ---
-
 ## Definition
 
 编码器处理原始输入序列或数据结构，并将它们转换为潜在空间表示，通常称为嵌入或代码。它们是 Transformer 和自编码器等架构的核心部分。

@@ -7,8 +7,6 @@ tags: ["software", "tools", "basics"]
 difficulty: 2
 weight: 1
 slug: "ai_browser"
-aliases:
-  - /tr/terms/ai_browser/
 date: "2026-07-18T15:38:32.755766Z"
 lastmod: "2026-07-18T16:38:07.267147Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Arama, özetleme ve içerik analizi konusunda yardımcı olmak için yapay zeka yetenekleriyle entegre edilmiş bir web tarayıcısı."
 ---
-
 ## Definition
 
 Bir yapay zeka tarayıcısı, yapay zeka özelliklerini doğrudan kullanıcı arayüzüne entegre eden bir web gezinme uygulamasıdır. Bu özellikler genellikle doğal dil arama, otomatik içerik özetleme ve akıllı öneriler gibi unsurları içerir.

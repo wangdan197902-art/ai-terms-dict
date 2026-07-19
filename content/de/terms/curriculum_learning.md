@@ -1,23 +1,23 @@
 ---
-title: "Curriculum Learning"
-term_id: "curriculum_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["optimization", "training_strategy"]
+title: Curriculum Learning
+term_id: curriculum_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Optimization
+- Training Strategy
 difficulty: 3
 weight: 1
-slug: "curriculum_learning"
-aliases:
-  - /de/terms/curriculum_learning/
-date: "2026-07-18T11:38:54.182370Z"
-lastmod: "2026-07-18T11:44:45.000893Z"
+slug: curriculum_learning
+date: '2026-07-18T11:38:54.182370Z'
+lastmod: '2026-07-18T11:44:45.000893Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Trainingsstrategie, bei der Modelle zunächst von einfachen Beispielen lernen, bevor sie zu schwierigeren übergehen."
+source: agnes_llm
+status: published
+language: de
+description: Eine Trainingsstrategie, bei der Modelle zunächst von einfachen Beispielen
+  lernen, bevor sie zu schwierigeren übergehen.
 ---
-
 ## Definition
 
 Curriculum Learning imitiert die menschliche Bildung, indem Trainingsdaten in einer strukturierten Reihenfolge präsentiert werden, beginnend mit einfachen Samples und schrittweise steigender Komplexität. Dieser Ansatz hilft neuronalen Netzen,

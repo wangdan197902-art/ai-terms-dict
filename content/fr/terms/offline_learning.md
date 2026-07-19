@@ -7,8 +7,6 @@ tags: ["Training", "Machine Learning", "Data Science"]
 difficulty: 2
 weight: 1
 slug: "offline_learning"
-aliases:
-  - /fr/terms/offline_learning/
 date: "2026-07-18T11:31:58.210080Z"
 lastmod: "2026-07-18T11:44:45.306425Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "L'apprentissage hors ligne est un paradigme d'entraînement où les modèles sont formés sur des jeux de données statiques sans interagir avec l'environnement en direct pendant la phase d'apprentissage."
 ---
-
 ## Definition
 
 Également connu sous le nom d'apprentissage par lots, l'apprentissage hors ligne consiste à entraîner des modèles d'apprentissage automatique sur un jeu de données fixe collecté précédemment. Contrairement à l'apprentissage en ligne, le modèle ne met pas à jour ses paramètres en

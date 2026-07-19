@@ -1,23 +1,24 @@
 ---
-title: "Гамильтониан"
-term_id: "hamiltonian"
-category: "basic_concepts"
-subcategory: ""
-tags: ["physics-ml", "dynamics", "scientific-computing"]
+title: Гамильтониан
+term_id: hamiltonian
+category: basic_concepts
+subcategory: ''
+tags:
+- Physics ML
+- dynamics
+- Scientific Computing
 difficulty: 5
 weight: 1
-slug: "hamiltonian"
-aliases:
-  - /ru/terms/hamiltonian/
-date: "2026-07-18T15:26:01.922377Z"
-lastmod: "2026-07-18T16:38:07.079049Z"
+slug: hamiltonian
+date: '2026-07-18T15:26:01.922377Z'
+lastmod: '2026-07-18T16:38:07.079049Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Функция, представляющая полную энергию системы, используемая в моделях ИИ, вдохновленных физикой, для симуляции динамики и сохранения энергии."
+source: agnes_llm
+status: published
+language: ru
+description: Функция, представляющая полную энергию системы, используемая в моделях
+  ИИ, вдохновленных физикой, для симуляции динамики и сохранения энергии.
 ---
-
 ## Definition
 
 Происходя из классической механики, гамильтониан представляет собой сумму кинетической и потенциальной энергий системы. В ИИ Нейронные сети Гамильтона (HNN) используют эту концепцию для обучения динамике...

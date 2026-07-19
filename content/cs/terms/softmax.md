@@ -1,23 +1,24 @@
 ---
-title: "Softmax"
-term_id: "softmax"
-category: "basic_concepts"
-subcategory: ""
-tags: ["math", "neural-networks", "classification"]
+title: Softmax
+term_id: softmax
+category: basic_concepts
+subcategory: ''
+tags:
+- math
+- Neural Networks
+- Classification
 difficulty: 2
 weight: 1
-slug: "softmax"
-aliases:
-  - /cs/terms/softmax/
-date: "2026-07-18T15:38:50.937203Z"
-lastmod: "2026-07-18T17:15:09.093890Z"
+slug: softmax
+date: '2026-07-18T15:38:50.937203Z'
+lastmod: '2026-07-18T17:15:09.093890Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "cs"
-description: "Matematická funkce, která převádí vektor libovolných reálných skóre na pravděpodobnostní rozdělení."
+source: agnes_llm
+status: published
+language: cs
+description: Matematická funkce, která převádí vektor libovolných reálných skóre na
+  pravděpodobnostní rozdělení.
 ---
-
 ## Definition
 
 Softmax je široce používán ve výstupní vrstvě neuronových sítí pro úlohy víceklasifikace. Přijímá vektor surových logitů a normalizuje je tak, že každý prvek představuje pravděpodobnost příslušnosti k dané třídě.

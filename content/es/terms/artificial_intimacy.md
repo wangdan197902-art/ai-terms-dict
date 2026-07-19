@@ -7,8 +7,6 @@ tags: ["Psychology", "HCI", "Ethics", "Chatbots"]
 difficulty: 4
 weight: 1
 slug: "artificial_intimacy"
-aliases:
-  - /es/terms/artificial_intimacy/
 date: "2026-07-18T10:36:59.313650Z"
 lastmod: "2026-07-18T11:44:44.778174Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "La conexión emocional que los usuarios forman con entidades de IA que simulan empatía, compañía e interacción personal."
 ---
-
 ## Definition
 
 La intimidad artificial se refiere al fenómeno psicológico mediante el cual los seres humanos desarrollan vínculos emocionales genuinos con agentes artificiales, como chatbots, asistentes virtuales o robots sociales. Estos sistemas están diseñados para replicar comportamientos empáticos y conversacionales, lo que puede llevar a los usuarios a percibirlos como compañeros reales, planteando cuestiones sobre la autenticidad de las relaciones digitales.

@@ -7,8 +7,6 @@ tags: ["architecture", "autonomy", "agents"]
 difficulty: 3
 weight: 1
 slug: "intelligent_agent"
-aliases:
-  - /vi/terms/intelligent_agent/
 date: "2026-07-18T15:58:22.548863Z"
 lastmod: "2026-07-18T16:38:07.770683Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thực thể phần mềm tự chủ có khả năng cảm nhận môi trường, lập luận về hành động và thực thi nhiệm vụ để đạt được các mục tiêu cụ thể."
 ---
-
 ## Definition
 
 Một tác nhân thông minh là hệ thống có khả năng cảm nhận môi trường xung quanh thông qua cảm biến hoặc đầu vào dữ liệu, xử lý thông tin này bằng các thuật toán lập luận và tác động lên môi trường thông qua các bộ truyền động

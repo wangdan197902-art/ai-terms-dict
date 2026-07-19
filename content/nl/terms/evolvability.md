@@ -1,23 +1,24 @@
 ---
-title: "Evolueerbaarheid"
-term_id: "evolvability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["evolutionary_computation", "optimization", "theory"]
+title: Evolueerbaarheid
+term_id: evolvability
+category: basic_concepts
+subcategory: ''
+tags:
+- Evolutionary Computation
+- Optimization
+- theory
 difficulty: 3
 weight: 1
-slug: "evolvability"
-aliases:
-  - /nl/terms/evolvability/
-date: "2026-07-18T15:54:32.087322Z"
-lastmod: "2026-07-18T17:15:08.743019Z"
+slug: evolvability
+date: '2026-07-18T15:54:32.087322Z'
+lastmod: '2026-07-18T17:15:08.743019Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Het vermogen van een genotype of systeem om erfelijke fenotypische variatie te genereren die geselecteerd kan worden voor aanpassing."
+source: agnes_llm
+status: published
+language: nl
+description: Het vermogen van een genotype of systeem om erfelijke fenotypische variatie
+  te genereren die geselecteerd kan worden voor aanpassing.
 ---
-
 ## Definition
 
 In computationele contexten verwijst evoleerbaarheid naar hoe gemakkelijk een algoritme of neurale netwerkarchitectuur zijn geschiktheid (fitness) kan verbeteren over generaties of trainingsstappen. Hoge evoleerbaarheid impliceert dat kleine veranderingen leiden tot significante prestatieverbeteringen.

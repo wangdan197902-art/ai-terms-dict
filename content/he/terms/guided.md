@@ -1,23 +1,24 @@
 ---
-title: "מונחה"
-term_id: "guided"
-category: "basic_concepts"
-subcategory: ""
-tags: ["generation", "reinforcement-learning", "control"]
+title: מונחה
+term_id: guided
+category: basic_concepts
+subcategory: ''
+tags:
+- generation
+- Reinforcement Learning
+- control
 difficulty: 3
 weight: 1
-slug: "guided"
-aliases:
-  - /he/terms/guided/
-date: "2026-07-18T15:26:14.702579Z"
-lastmod: "2026-07-18T17:15:09.479390Z"
+slug: guided
+date: '2026-07-18T15:26:14.702579Z'
+lastmod: '2026-07-18T17:15:09.479390Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "מתאר תהליכי בינה מלאכותית או שיטות יצירה המוגבלות או מכוונות על ידי אותות חיצוניים ספציפיים, אילוצים או מטרות ביניים."
+source: agnes_llm
+status: published
+language: he
+description: מתאר תהליכי בינה מלאכותית או שיטות יצירה המוגבלות או מכוונות על ידי אותות
+  חיצוניים ספציפיים, אילוצים או מטרות ביניים.
 ---
-
 ## Definition
 
 המונח 'מונחה' בבינה מלאכותית מתייחס בדרך כלל לטכניקות בהן התנהגות המודל מונעת על ידי מידע נוסף מעבר לקלט הראשי. דוגמאות נפוצות כוללות דיפוזיה מונחה, שבה מחלקה...

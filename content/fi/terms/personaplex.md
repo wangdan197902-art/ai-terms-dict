@@ -7,8 +7,6 @@ tags: ["metaverse", "identity", "systems"]
 difficulty: 4
 weight: 1
 slug: "personaplex"
-aliases:
-  - /fi/terms/personaplex/
 date: "2026-07-18T16:15:31.892863Z"
 lastmod: "2026-07-18T17:15:09.443511Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Käsitteellinen viitekehys tai alusta, joka on suunniteltu hallitsemaan monimutkaisia digitaalisten persoontojen verkostoja ja niiden vuorovaikutusta tekoälyn ohjaamissa ympäristöissä."
 ---
-
 ## Definition
 
 Personaplex viittaa ekosysteemiin tai infrastruktuuriin, joka tukee useiden digitaalisten persoontojen luomista, hallintaa ja vuorovaikutusta. Se kattaa tekniset ja eettiset näkökohdat pää-

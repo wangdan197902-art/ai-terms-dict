@@ -1,23 +1,24 @@
 ---
-title: "Stemme"
-term_id: "voice"
-category: "basic_concepts"
-subcategory: ""
-tags: ["audio", "speech", "input_modality"]
+title: Stemme
+term_id: voice
+category: basic_concepts
+subcategory: ''
+tags:
+- audio
+- speech
+- Input Modality
 difficulty: 1
 weight: 1
-slug: "voice"
-aliases:
-  - /no/terms/voice/
-date: "2026-07-18T16:20:55.980464Z"
-lastmod: "2026-07-18T16:38:07.057002Z"
+slug: voice
+date: '2026-07-18T16:20:55.980464Z'
+lastmod: '2026-07-18T16:38:07.057002Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Stemme refererer til menneskelige lyder produsert ved tale, som fungerer som hovedinngangsmodus for talegjenkjennings- og syntesesystemer."
+source: agnes_llm
+status: published
+language: 'no'
+description: Stemme refererer til menneskelige lyder produsert ved tale, som fungerer
+  som hovedinngangsmodus for talegjenkjennings- og syntesesystemer.
 ---
-
 ## Definition
 
 Innen kunstig intelligens omfatter stemme de akustiske signalene generert av menneskelige stemmebånd som bærer språklig informasjon. Den skiller seg fra generell lyd ved at den spesifikt relaterer seg til tale.

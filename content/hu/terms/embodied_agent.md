@@ -7,8 +7,6 @@ tags: ["robotics", "interaction", "paradigm"]
 difficulty: 3
 weight: 1
 slug: "embodied_agent"
-aliases:
-  - /hu/terms/embodied_agent/
 date: "2026-07-18T15:58:10.698756Z"
 lastmod: "2026-07-18T17:15:09.780106Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy testtel bíró ügynök (embodied agent) egy olyan AI rendszer, amely fizikai testen vagy szenzomotoros készüléken keresztül lép kölcsönhatásba a környezetével."
 ---
-
 ## Definition
 
 Ellentétben az elvont adatokat feldolgozó, test nélküli AI-val, a testtel bíró ügynökök fizikai kontextusban tanulnak és cselekszenek, érzéki bemenetekre és motoros kimenetekre támaszkodva. Ez a paradigmatervezés központi szerepet játszik a robotikában és az autonóm rendszerekben.

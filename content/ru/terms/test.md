@@ -1,23 +1,23 @@
 ---
-title: "Тест"
-term_id: "test"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml_workflow", "evaluation"]
+title: Тест
+term_id: test
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Workflow
+- evaluation
 difficulty: 2
 weight: 1
-slug: "test"
-aliases:
-  - /ru/terms/test/
-date: "2026-07-18T15:29:44.456769Z"
-lastmod: "2026-07-18T16:38:07.091568Z"
+slug: test
+date: '2026-07-18T15:29:44.456769Z'
+lastmod: '2026-07-18T16:38:07.091568Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Тест относится к фазе оценки, на которой обученная модель ИИ проверяется на ранее не виденных данных для измерения производительности."
+source: agnes_llm
+status: published
+language: ru
+description: Тест относится к фазе оценки, на которой обученная модель ИИ проверяется
+  на ранее не виденных данных для измерения производительности.
 ---
-
 ## Definition
 
 Тестовый набор — это часть данных, исключенная из процесса обучения для оценки способности конечной модели к обобщению. В отличие от проверочных наборов (validation sets), используемых для настройки гиперпараметров, тестовый набор обеспечивает...

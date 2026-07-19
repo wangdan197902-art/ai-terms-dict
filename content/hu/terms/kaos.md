@@ -7,8 +7,6 @@ tags: ["enterprise", "automation", "agents"]
 difficulty: 4
 weight: 1
 slug: "kaos"
-aliases:
-  - /hu/terms/kaos/
 date: "2026-07-18T16:06:57.405230Z"
 lastmod: "2026-07-18T17:15:09.798818Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "hu"
 description: "Egy intelligens ügynök keretrendszer, amelyet komplex, elosztott vállalati környezetek szabályalapú automatizálással történő kezelésére terveztek."
 ---
-
 ## Definition
 
 A KAoS egy intelligens ügynök keretrendszer, amelyet nagy léptékű, elosztott vállalati rendszerek bonyolultságának kezelésére fejlesztettek ki. Szabályalapú megközelítést alkalmaz, ahol a magas szintű irányítási célokat...

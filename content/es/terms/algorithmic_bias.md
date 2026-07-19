@@ -1,23 +1,24 @@
 ---
-title: "Sesgo algorítmico"
-term_id: "algorithmic_bias"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "data_quality"]
+title: Sesgo algorítmico
+term_id: algorithmic_bias
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- Data Quality
 difficulty: 3
 weight: 1
-slug: "algorithmic_bias"
-aliases:
-  - /es/terms/algorithmic_bias/
-date: "2026-07-18T10:35:07.183924Z"
-lastmod: "2026-07-18T11:44:44.774713Z"
+slug: algorithmic_bias
+date: '2026-07-18T10:35:07.183924Z'
+lastmod: '2026-07-18T11:44:44.774713Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "es"
-description: "El sesgo algorítmico se refiere a errores sistemáticos y repetibles en un sistema informático que crean resultados injustos, como privilegiar a un grupo arbitrario sobre otros."
+source: agnes_llm
+status: published
+language: es
+description: El sesgo algorítmico se refiere a errores sistemáticos y repetibles en
+  un sistema informático que crean resultados injustos, como privilegiar a un grupo
+  arbitrario sobre otros.
 ---
-
 ## Definition
 
 El sesgo en los algoritmos generalmente origina en datos de entrenamiento no representativos, elecciones de diseño subjetivas o bucles de retroalimentación que amplifican los prejuicios sociales existentes. Se manifiesta como predicciones distorsionadas o decisiones desiguales.

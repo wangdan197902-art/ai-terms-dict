@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /de/terms/artificial_brain/
 date: "2026-07-18T11:03:12.753920Z"
 lastmod: "2026-07-18T11:44:44.909618Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein computationales System, das entwickelt wurde, um die Struktur und Funktion des biologischen menschlichen Gehirns nachzuahmen, oft unter Verwendung neuronaler Netzwerke."
 ---
-
 ## Definition
 
 Ein künstliches Gehirn bezeichnet Hardware- oder Softwarearchitekturen, die die neuronalen Strukturen und Verarbeitungsweisen des menschlichen Gehirns emulieren. Dazu gehören neuromorphe Computing-Chips, die...

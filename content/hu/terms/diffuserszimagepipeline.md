@@ -1,23 +1,26 @@
 ---
-title: "Diffusers: Zimagepipeline"
-term_id: "diffuserszimagepipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["zero-shot", "image-generation", "hugging-face", "custom-pipelines"]
+title: 'Diffusers: Zimagepipeline'
+term_id: diffuserszimagepipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Zero-Shot
+- Image Generation
+- Hugging Face
+- Custom Pipelines
 difficulty: 3
 weight: 1
-slug: "diffuserszimagepipeline"
-aliases:
-  - /hu/terms/diffuserszimagepipeline/
-date: "2026-07-18T15:57:22.016507Z"
-lastmod: "2026-07-18T17:15:09.777324Z"
+slug: diffuserszimagepipeline
+date: '2026-07-18T15:57:22.016507Z'
+lastmod: '2026-07-18T17:15:09.777324Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Egy specializált Hugging Face Diffusers pipeline, amely általában a nulladik tanulású (zero-shot) vagy specifikus architektúrális implementációkhoz kapcsolódik képgenerálási feladatoknál, gyakran a Z-"
+source: agnes_llm
+status: published
+language: hu
+description: Egy specializált Hugging Face Diffusers pipeline, amely általában a nulladik
+  tanulású (zero-shot) vagy specifikus architektúrális implementációkhoz kapcsolódik
+  képgenerálási feladatoknál, gyakran a Z-
 ---
-
 ## Definition
 
 A Hugging Face Diffusers ökoszisztémájának kontextusában ez a kifejezés általában egy olyan pipeline konfigurációt vagy burkolatot jelent, amelyet specifikus képgenerálási feladatokra terveztek, és amelyek potenciálisan kihasználják a nulladik tanulású módszereket.

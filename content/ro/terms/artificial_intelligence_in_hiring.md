@@ -7,8 +7,6 @@ tags: ["recruitment", "bias", "automation"]
 difficulty: 2
 weight: 1
 slug: "artificial_intelligence_in_hiring"
-aliases:
-  - /ro/terms/artificial_intelligence_in_hiring/
 date: "2026-07-18T15:44:43.168382Z"
 lastmod: "2026-07-18T17:15:09.628738Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Utilizarea uneltelor IA pentru a optimiza procesele de recrutare, inclusiv filtrarea CV-urilor, potrivirea candidaților și analiza interviurilor."
 ---
-
 ## Definition
 
 IA în recrutare utilizează algoritmi pentru a automatiza și îmbunătăți diverse etape ale ciclului de recrutare. Uneltele analizează CV-urile pentru relevanța cuvintelor cheie, evaluează potrivirea candidaților prin modelare predictivă și pot analiza interviurile video.

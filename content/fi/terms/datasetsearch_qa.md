@@ -7,8 +7,6 @@ tags: ["Search", "QA", "IR", "Application"]
 difficulty: 4
 weight: 1
 slug: "datasetsearch_qa"
-aliases:
-  - /fi/terms/datasetsearch_qa/
 date: "2026-07-18T15:52:10.229324Z"
 lastmod: "2026-07-18T17:15:09.400916Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kysymys-vastaus-tehtäviin keskittyvä tietojoukko, joka on peräisin hakukoneiden lokitiedoista tai verkkohauista, korostaen todellisen maailman informaationhakua."
 ---
-
 ## Definition
 
 Search QA -tietojoukot koostuvat yleensä hakukoneiden tuloksista poimituista hakulausekkeiden ja niihin liittyvien vastauspätkien tai dokumenttien pareista. Nämä tietojoukot ovat ratkaisevia mallien kouluttamisessa ymmärtämään käyttäjien tarkoituksia.

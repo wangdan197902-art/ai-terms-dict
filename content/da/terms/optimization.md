@@ -1,23 +1,24 @@
 ---
-title: "Optimering"
-term_id: "optimization"
-category: "basic_concepts"
-subcategory: ""
-tags: ["mathematics", "model_training", "algorithms"]
+title: Optimering
+term_id: optimization
+category: basic_concepts
+subcategory: ''
+tags:
+- mathematics
+- Model Training
+- algorithms
 difficulty: 2
 weight: 1
-slug: "optimization"
-aliases:
-  - /da/terms/optimization/
-date: "2026-07-18T15:37:01.589258Z"
-lastmod: "2026-07-18T17:15:09.247305Z"
+slug: optimization
+date: '2026-07-18T15:37:01.589258Z'
+lastmod: '2026-07-18T17:15:09.247305Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Den matematiske proces med at minimere eller maksimere en målfunktion for at finde de bedste løsningsparametre."
+source: agnes_llm
+status: published
+language: da
+description: Den matematiske proces med at minimere eller maksimere en målfunktion
+  for at finde de bedste løsningsparametre.
 ---
-
 ## Definition
 
 Inden for maskinlæring refererer optimering til algoritmerne, der bruges til at justere modellens parametre for at minimere en tabfunktion, hvilket forbedrer modellens ydeevne. Almindelige metoder inkluderer Gradient Descent og dens varianter som Adam og RMSprop.

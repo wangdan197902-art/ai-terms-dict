@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /vi/terms/hallucination/
 date: "2026-07-18T15:23:05.192110Z"
 lastmod: "2026-07-18T16:38:07.679024Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khi một mô hình AI tạo ra thông tin sai lệch về mặt sự thật hoặc vô nghĩa nhưng vẫn thể hiện sự tự tin cao."
 ---
-
 ## Definition
 
 Hiện tượng Hallucination xảy ra khi các mô hình AI sinh tạo tạo ra đầu ra trông có vẻ hợp lý nhưng thiếu cơ sở thực tế hoặc dữ liệu nguồn. Đây là một thách thức đáng kể trong các ứng dụng đòi hỏi độ chính xác cao và tính trung thực của thông tin.

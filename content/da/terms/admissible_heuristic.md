@@ -1,23 +1,24 @@
 ---
-title: "Admissibel heuristik"
-term_id: "admissible_heuristic"
-category: "basic_concepts"
-subcategory: ""
-tags: ["search_algorithms", "optimization", "graph_theory"]
+title: Admissibel heuristik
+term_id: admissible_heuristic
+category: basic_concepts
+subcategory: ''
+tags:
+- Search Algorithms
+- Optimization
+- Graph Theory
 difficulty: 3
 weight: 1
-slug: "admissible_heuristic"
-aliases:
-  - /da/terms/admissible_heuristic/
-date: "2026-07-18T15:40:09.254969Z"
-lastmod: "2026-07-18T17:15:09.256346Z"
+slug: admissible_heuristic
+date: '2026-07-18T15:40:09.254969Z'
+lastmod: '2026-07-18T17:15:09.256346Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "En heuristisk funktion i søgealgoritmer, der aldrig undervurderer den sande omkostning til at nå målet, hvilket sikrer optimalitet."
+source: agnes_llm
+status: published
+language: da
+description: En heuristisk funktion i søgealgoritmer, der aldrig undervurderer den
+  sande omkostning til at nå målet, hvilket sikrer optimalitet.
 ---
-
 ## Definition
 
 Ved stifinding og søgeproblemer giver en admissibel heuristik et nedre grænse for den faktiske omkostning til at nå målknuden. Ved at garantere, at den estimerede omkostning altid er mindre end eller lig med den sande omkostning, sikres det, at algoritmen finder den optimale løsning.

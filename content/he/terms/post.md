@@ -1,23 +1,24 @@
 ---
-title: "פוסט"
-term_id: "post"
-category: "basic_concepts"
-subcategory: ""
-tags: ["data", "social-media", "nlp"]
+title: פוסט
+term_id: post
+category: basic_concepts
+subcategory: ''
+tags:
+- data
+- Social Media
+- NLP
 difficulty: 1
 weight: 1
-slug: "post"
-aliases:
-  - /he/terms/post/
-date: "2026-07-18T15:29:00.176127Z"
-lastmod: "2026-07-18T17:15:09.484509Z"
+slug: post
+date: '2026-07-18T15:29:00.176127Z'
+lastmod: '2026-07-18T17:15:09.484509Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "he"
-description: "פריט תוכן שפורסם, לרוב בבלוג, בפלטפורמת מדיה חברתית או בפורום, המייצג מידע או הערות שנוצרו על ידי המשתמשים."
+source: agnes_llm
+status: published
+language: he
+description: פריט תוכן שפורסם, לרוב בבלוג, בפלטפורמת מדיה חברתית או בפורום, המייצג
+  מידע או הערות שנוצרו על ידי המשתמשים.
 ---
-
 ## Definition
 
 בתקשורת דיגיטלית והקשרי נתוני AI, 'פוסט' מתייחס ליחידת תוכן נפרדת המשותפת באינטרנט. הוא משמש כמקור ראשוני לאימון מודלים לעיבוד שפה טבעית, ניתוח רגשות...

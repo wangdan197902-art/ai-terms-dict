@@ -1,23 +1,23 @@
 ---
-title: "能動学習"
-term_id: "active_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["supervised_learning", "efficiency", "annotation"]
+title: 能動学習
+term_id: active_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Supervised Learning
+- efficiency
+- annotation
 difficulty: 3
 weight: 1
-slug: "active_learning"
-aliases:
-  - /ja/terms/active_learning/
-date: "2026-07-18T11:03:01.062654Z"
-lastmod: "2026-07-18T11:44:45.063549Z"
+slug: active_learning
+date: '2026-07-18T11:03:01.062654Z'
+lastmod: '2026-07-18T11:44:45.063549Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ja"
-description: "アルゴリズムが新しいデータポイントのラベル付けのためにユーザーまたはオラクルを選択的に照会し、トレーニングプロセスを最適化する機械学習戦略。"
+source: agnes_llm
+status: published
+language: ja
+description: アルゴリズムが新しいデータポイントのラベル付けのためにユーザーまたはオラクルを選択的に照会し、トレーニングプロセスを最適化する機械学習戦略。
 ---
-
 ## Definition
 
 能動学習は、モデルが人間によるラベル付けにとって最も情報的なインスタンスを選択できるようにすることで、必要なラベル付きデータの量を削減します。ランダムなサンプルを待つのではなく、アルゴリズムが積極的にデータをクエリします。

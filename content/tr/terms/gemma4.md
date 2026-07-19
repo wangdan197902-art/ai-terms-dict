@@ -7,8 +7,6 @@ tags: ["speculative", "naming", "uncertain"]
 difficulty: 4
 weight: 1
 slug: "gemma4"
-aliases:
-  - /tr/terms/gemma4/
 date: "2026-07-18T15:54:45.167899Z"
 lastmod: "2026-07-18T16:38:07.312159Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Gemma4, Google'ın Gemma model ailesinin varsayımsal veya gelecekteki bir iterasyonunu ifade eder; muhtemelen dördüncü ana sürümü veya soy ağacındaki belirli bir varyantı ima eder."
 ---
-
 ## Definition
 
 Mevcut bilgilerimize göre, mevcut Gemma 2 serisinden ayrı olarak 'Gemma4' adında resmi olarak yayınlanmış bir model bulunmamaktadır. Bu terim, spekülasyon amaçlı gelecekteki bir yayını veya belirli bir iç yapıyı işaret ediyor olabilir.

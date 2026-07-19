@@ -1,23 +1,24 @@
 ---
-title: "Neurális számítás"
-term_id: "neural_computation"
-category: "basic_concepts"
-subcategory: ""
-tags: ["fundamentals", "neural-networks", "computation"]
+title: Neurális számítás
+term_id: neural_computation
+category: basic_concepts
+subcategory: ''
+tags:
+- fundamentals
+- Neural Networks
+- computation
 difficulty: 3
 weight: 1
-slug: "neural_computation"
-aliases:
-  - /hu/terms/neural_computation/
-date: "2026-07-18T16:14:44.460356Z"
-lastmod: "2026-07-18T17:15:09.817138Z"
+slug: neural_computation
+date: '2026-07-18T16:14:44.460356Z'
+lastmod: '2026-07-18T17:15:09.817138Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "hu"
-description: "Az információfeldolgozás folyamata az élő idegsejtekből ihletett mesterséges neurális hálózatokon belül."
+source: agnes_llm
+status: published
+language: hu
+description: Az információfeldolgozás folyamata az élő idegsejtekből ihletett mesterséges
+  neurális hálózatokon belül.
 ---
-
 ## Definition
 
 A neurális számítás a mesterséges neuronok által végzett matematikai műveletekre utal, amelyek bemeneti jeleket alakítanak át kimeneti válaszokká. Magában foglalja a súlyozott összegeket, az aktivációs függvényeket és a hátranyilási algoritmust (backpropagation).

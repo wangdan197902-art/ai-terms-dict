@@ -7,8 +7,6 @@ tags: ["AI Ethics", "Model Interpretation", "Safety"]
 difficulty: 4
 weight: 1
 slug: "explainability"
-aliases:
-  - /vi/terms/explainability/
 date: "2026-07-18T15:34:34.619309Z"
 lastmod: "2026-07-18T16:38:07.708645Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Khả năng giải thích đề cập đến mức độ mà một con người có thể hiểu nguyên nhân của một quyết định do mô hình AI đưa ra."
 ---
-
 ## Definition
 
 Khái niệm này giải quyết vấn đề 'hộp đen' trong các hệ thống AI phức tạp bằng cách cung cấp cái nhìn sâu sắc về cách các mô hình đưa ra các dự đoán cụ thể. Các kỹ thuật như SHAP hoặc LIME giúp trực quan hóa tầm quan trọng của các đặc trưng đầu vào.

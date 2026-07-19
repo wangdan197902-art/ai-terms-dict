@@ -7,8 +7,6 @@ tags: ["context", "awareness", "interaction"]
 difficulty: 2
 weight: 1
 slug: "aware"
-aliases:
-  - /fi/terms/aware/
 date: "2026-07-18T15:23:20.624100Z"
 lastmod: "2026-07-18T17:15:09.346331Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Kuvailee tekoälyn kykyä tunnistaa ja käsitellä tiettyjä kontekstuaalisia tietoja tai ärsykkeitä."
 ---
-
 ## Definition
 
 Tekoälyn yhteydessä 'tietoinen' viittaa yleensä tilannetietoisuuteen tai kontekstuaaliseen tietoisuuteen, jossa järjestelmä tunnistaa relevantteja ympäristötekijöitä tai käyttäjän tilaa. Se ei viittaa tietoisuuteen vaan kykyyn reagoida kontekstiin.

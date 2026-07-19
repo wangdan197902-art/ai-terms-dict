@@ -7,8 +7,6 @@ tags: ["NLP", "Globalization", "Language"]
 difficulty: 2
 weight: 1
 slug: "multilingual"
-aliases:
-  - /tr/terms/multilingual/
 date: "2026-07-18T16:04:49.902230Z"
 lastmod: "2026-07-18T16:38:07.337898Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Yapay zekada çok dilli, birden fazla doğal dilde içerik işleyebilen, anlayabilen veya üretebilen modelleri ifade eder."
 ---
-
 ## Definition
 
 Çok dilli modeller, her dil için ayrı modeller gerektirmeden çeşitli dil girdilerini işlemek üzere tasarlanmıştır. Bu sistemler genellikle paylaşılan gömme katmanları veya çapraz dilsel eşleme...

@@ -1,23 +1,23 @@
 ---
-title: "Uczenie maszynowe"
-term_id: "machine_learning"
-category: "basic_concepts"
-subcategory: ""
-tags: ["core_concept", "AI"]
+title: Uczenie maszynowe
+term_id: machine_learning
+category: basic_concepts
+subcategory: ''
+tags:
+- Core Concept
+- AI
 difficulty: 2
 weight: 1
-slug: "machine_learning"
-aliases:
-  - /pl/terms/machine_learning/
-date: "2026-07-18T15:27:03.160270Z"
-lastmod: "2026-07-18T17:15:08.814985Z"
+slug: machine_learning
+date: '2026-07-18T15:27:03.160270Z'
+lastmod: '2026-07-18T17:15:08.814985Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Podzbiór AI skupiający się na budowaniu systemów, które uczą się z danych, aby poprawić wydajność bez jawnego programowania."
+source: agnes_llm
+status: published
+language: pl
+description: Podzbiór AI skupiający się na budowaniu systemów, które uczą się z danych,
+  aby poprawić wydajność bez jawnego programowania.
 ---
-
 ## Definition
 
 Uczenie maszynowe (ML) umożliwia komputerom naukę wzorców z historycznych danych oraz podejmowanie decyzji lub przewidywanie wyników dla nowych, niewidzianych wcześniej danych. Obejmuje różne techniki, w tym uczenie nadzorowane, nienadzorowane i

@@ -1,23 +1,24 @@
 ---
-title: "Reconhecimento de Padrões"
-term_id: "pattern_recognition"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ml-fundamentals", "data-analysis", "ai-core"]
+title: Reconhecimento de Padrões
+term_id: pattern_recognition
+category: basic_concepts
+subcategory: ''
+tags:
+- ML Fundamentals
+- Data Analysis
+- AI Core
 difficulty: 2
 weight: 1
-slug: "pattern_recognition"
-aliases:
-  - /pt/terms/pattern_recognition/
-date: "2026-07-18T15:16:04.818190Z"
-lastmod: "2026-07-18T15:51:59.521362Z"
+slug: pattern_recognition
+date: '2026-07-18T15:16:04.818190Z'
+lastmod: '2026-07-18T15:51:59.521362Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pt"
-description: "A identificação automatizada de regularidades e estruturas dentro de dados usando métodos estatísticos e de aprendizado de máquina."
+source: agnes_llm
+status: published
+language: pt
+description: A identificação automatizada de regularidades e estruturas dentro de
+  dados usando métodos estatísticos e de aprendizado de máquina.
 ---
-
 ## Definition
 
 O Reconhecimento de Padrões é um ramo da inteligência artificial e da estatística preocupado em identificar regularidades nos dados. Envolve classificar dados de entrada em categorias predefinidas com base em características extraídas.

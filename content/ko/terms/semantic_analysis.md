@@ -7,8 +7,6 @@ tags: ["NLP", "linguistics", "processing"]
 difficulty: 3
 weight: 1
 slug: "semantic_analysis"
-aliases:
-  - /ko/terms/semantic_analysis/
 date: "2026-07-18T16:14:49.554426Z"
 lastmod: "2026-07-18T16:38:06.906581Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "의미 분석은 자연어 처리에서 단어 간의 관계와 문맥을 이해하여 텍스트에서 의미를 추출하는 과정입니다."
 ---
-
 ## Definition
 
 문법적 구조를 넘어 언어 입력의 실제 의도와 중요성을 해석합니다. 이는 문맥에 따른 단어 의미의 모호성 해소(disambiguation), 엔티티 식별, 그리고 전체적인 문장의 의미 파악을 포함하여, 기계가 인간 언어의 본질적인 의미를 이해하도록 돕습니다.

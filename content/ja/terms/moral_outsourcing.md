@@ -7,8 +7,6 @@ tags: ["Ethics", "Society", "Philosophy"]
 difficulty: 3
 weight: 1
 slug: "moral_outsourcing"
-aliases:
-  - /ja/terms/moral_outsourcing/
 date: "2026-07-18T11:24:29.840466Z"
 lastmod: "2026-07-18T11:44:45.124087Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "個人や組織が、自律的なAIシステムに対して道徳的な意思決定の責任を委譲することに伴う倫理的懸念。"
 ---
-
 ## Definition
 
 モラル・アウトソーシングとは、人間がアルゴリズムやAIシステムに対して倫理的な判断と責任を委ねる現象を指します。これは、人々が道徳的に重要な

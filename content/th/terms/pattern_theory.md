@@ -7,8 +7,6 @@ tags: ["mathematics", "theory", "representation"]
 difficulty: 4
 weight: 1
 slug: "pattern_theory"
-aliases:
-  - /th/terms/pattern_theory/
 date: "2026-07-18T16:10:36.186870Z"
 lastmod: "2026-07-18T16:38:07.640860Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "กรอบทางคณิตศาสตร์สำหรับอธิบายโครงสร้างที่ซับซ้อนโดยการวิเคราะห์รูปแบบภายในพื้นที่ข้อมูล"
 ---
-
 ## Definition
 
 ทฤษฎีรูปแบบ (Pattern theory) ให้พื้นฐานทางคณิตศาสตร์ที่เข้มงวดสำหรับการทำความเข้าใจว่าวัตถุและปรากฏการณ์ที่ซับซ้อนสามารถถูกอธิบายผ่านรูปแบบได้อย่างไร ทฤษฎีนี้ตั้งสมมติฐานว่าวัตถุใดๆ สามารถถูกกำหนดลักษณะได้โดยอาศัย

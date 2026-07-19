@@ -7,8 +7,6 @@ tags: ["education", "NLP", "interaction"]
 difficulty: 2
 weight: 1
 slug: "pedagogical_agent"
-aliases:
-  - /th/terms/pedagogical_agent/
 date: "2026-07-18T16:10:36.186913Z"
 lastmod: "2026-07-18T16:38:07.641085Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "th"
 description: "เอเจนต์ปัญญาประดิษฐ์ที่ออกแบบมาเพื่ออำนวยความสะดวกในการเรียนรู้โดยการให้คำแนะนำ ข้อเสนอแนะ และการชี้นำ"
 ---
-
 ## Definition
 
 ตัวแทนทางการสอน (Pedagogical agent) เป็นส่วนประกอบของซอฟต์แวร์ ซึ่งมักปรากฏเป็นตัวละครเสมือนจริง ทำหน้าที่เป็นผู้สอนหรือติวเตอร์ในสภาพแวดล้อมทางการศึกษา เอเจนต์เหล่านี้ใช้การประมวลผลภาษาธรรมชาติเพื่

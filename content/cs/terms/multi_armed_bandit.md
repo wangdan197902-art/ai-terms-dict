@@ -7,8 +7,6 @@ tags: ["RL", "Probability", "Decision Making"]
 difficulty: 3
 weight: 1
 slug: "multi_armed_bandit"
-aliases:
-  - /cs/terms/multi_armed_bandit/
 date: "2026-07-18T16:10:00.180593Z"
 lastmod: "2026-07-18T17:15:09.155635Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Problém více paží bandity je klasickým problémem v teorii pravděpodobnosti a posilovacím učení, který modeluje kompromis mezi průzkumem a využíváním."
 ---
-
 ## Definition
 
 Problém více paží bandity ilustruje dilema, kterému čelí agent při rozhodování, zda se držet známé odměňující možnosti (využívání), nebo zkoušet nové možnosti za účelem objevení potenciálně lepších odměn...

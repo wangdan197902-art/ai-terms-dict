@@ -7,8 +7,6 @@ tags: ["security", "ethics", "detection"]
 difficulty: 2
 weight: 1
 slug: "inauthentic_text"
-aliases:
-  - /ro/terms/inauthentic_text/
 date: "2026-07-18T16:04:06.348564Z"
 lastmod: "2026-07-18T17:15:09.668050Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Conținut textual generat artificial sau manipulat pentru a înșela cititorii privind originea, autorul sau baza factuală a acestuia."
 ---
-
 ## Definition
 
 Textul neautentic se referă la materiale scrise produse de sisteme IA sau de oameni cu intenție înșelătoare, lipsite de experiență umană autentică sau fundamentare factuală. Include spam generat de IA, știri fabricate sau texte copiate fără atribuire.

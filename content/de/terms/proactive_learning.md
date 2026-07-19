@@ -1,23 +1,24 @@
 ---
-title: "Proaktives Lernen"
-term_id: "proactive_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["learning-strategy", "efficiency", "active-learning"]
+title: Proaktives Lernen
+term_id: proactive_learning
+category: training_techniques
+subcategory: ''
+tags:
+- Learning Strategy
+- efficiency
+- Active Learning
 difficulty: 4
 weight: 1
-slug: "proactive_learning"
-aliases:
-  - /de/terms/proactive_learning/
-date: "2026-07-18T11:28:15.998072Z"
-lastmod: "2026-07-18T11:44:44.976866Z"
+slug: proactive_learning
+date: '2026-07-18T11:28:15.998072Z'
+lastmod: '2026-07-18T11:44:44.976866Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Lernstrategie, bei der der Akteur aktiv informative Datenpunkte auswählt, um sie abzufragen oder zu erkunden, anstatt sie passiv zu empfangen."
+source: agnes_llm
+status: published
+language: de
+description: Eine Lernstrategie, bei der der Akteur aktiv informative Datenpunkte
+  auswählt, um sie abzufragen oder zu erkunden, anstatt sie passiv zu empfangen.
 ---
-
 ## Definition
 
 Beim proaktiven Lernen bestimmt das KI-System, welche Proben die Unsicherheit am meisten reduzieren oder die Modellleistung verbessern würden, oft durch Strategien des aktiven Lernens oder der Erkundung. Dies steht im Gegensatz zum passiven Lernen.

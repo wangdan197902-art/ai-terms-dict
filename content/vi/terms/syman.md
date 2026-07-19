@@ -7,8 +7,6 @@ tags: ["undefined", "typo", "misc"]
 difficulty: 1
 weight: 1
 slug: "syman"
-aliases:
-  - /vi/terms/syman/
 date: "2026-07-18T16:13:26.365957Z"
 lastmod: "2026-07-18T16:38:07.809243Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một thuật ngữ không chuẩn hoặc mơ hồ trong tài liệu AI; có khả năng là lỗi đánh máy của từ 'System' (Hệ thống) hoặc một từ viết tắt chuyên ngành hẹp chưa được công nhận rộng rãi."
 ---
-
 ## Definition
 
 Không có định nghĩa chuẩn được chấp nhận rộng rãi cho 'Syman' trong thuật ngữ trí tuệ nhân tạo chính thống. Nó có thể đề cập đến một công cụ độc quyền cụ thể, lỗi đánh máy của từ 'System' (như System Prompt) hoặc một khái niệm khác.

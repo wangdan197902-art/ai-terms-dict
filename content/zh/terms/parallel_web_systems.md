@@ -1,23 +1,23 @@
 ---
-title: "并行Web系统"
-term_id: "parallel_web_systems"
-category: "basic_concepts"
-subcategory: ""
-tags: ["architecture", "distributed-systems", "web-development"]
+title: 并行Web系统
+term_id: parallel_web_systems
+category: basic_concepts
+subcategory: ''
+tags:
+- architecture
+- Distributed Systems
+- Web Development
 difficulty: 3
 weight: 1
-slug: "parallel_web_systems"
-aliases:
-  - /zh/terms/parallel_web_systems/
-date: "2026-07-18T11:29:29.606979Z"
-lastmod: "2026-07-18T11:44:45.540669Z"
+slug: parallel_web_systems
+date: '2026-07-18T11:29:29.606979Z'
+lastmod: '2026-07-18T11:44:45.540669Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "zh"
-description: "利用多个节点上的并发处理来高效处理Web规模工作负载的分布式计算架构。"
+source: agnes_llm
+status: published
+language: zh
+description: 利用多个节点上的并发处理来高效处理Web规模工作负载的分布式计算架构。
 ---
-
 ## Definition
 
 并行Web系统是指将计算任务划分并在通过网络连接的多台服务器或处理器上同时执行的基础设施设计。这种方法显著提高了处理大规模并发请求的能力，确保在高流量场景下的系统稳定性和低延迟响应。

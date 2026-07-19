@@ -1,23 +1,26 @@
 ---
-title: "Diffusion Single File"
-term_id: "diffusion_single_file"
-category: "application_paradigms"
-subcategory: ""
-tags: ["model-format", "deployment", "file-structure", "community-tools"]
+title: Diffusion Single File
+term_id: diffusion_single_file
+category: application_paradigms
+subcategory: ''
+tags:
+- Model Format
+- deployment
+- File Structure
+- Community Tools
 difficulty: 2
 weight: 1
-slug: "diffusion_single_file"
-aliases:
-  - /fi/terms/diffusion_single_file/
-date: "2026-07-18T15:54:59.970934Z"
-lastmod: "2026-07-18T17:15:09.405611Z"
+slug: diffusion_single_file
+date: '2026-07-18T15:54:59.970934Z'
+lastmod: '2026-07-18T17:15:09.405611Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Levitysmuoto diffuusiomalleille, jossa kaikki mallin painot, konfiguraatiot ja joskus jopa päättelykoodi on pakattu yhteen tiedostoon helpon siirrettävyyden varmistamiseksi."
+source: agnes_llm
+status: published
+language: fi
+description: Levitysmuoto diffuusiomalleille, jossa kaikki mallin painot, konfiguraatiot
+  ja joskus jopa päättelykoodi on pakattu yhteen tiedostoon helpon siirrettävyyden
+  varmistamiseksi.
 ---
-
 ## Definition
 
 Diffusion Single File viittaa pakkausstrategiaan koneoppimismalleille, erityisesti diffuusiomalleille, jossa koko malli – mukaan lukien binääripainot, hyperparametrit ja malliarkkitehtuuri – on tallennettu yhteen tiedostoon. Tämä helpottaa mallien jakamista ja käyttöönottoa ilman monimutkaisia riippuvuuksia.

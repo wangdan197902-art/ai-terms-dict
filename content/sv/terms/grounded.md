@@ -1,23 +1,24 @@
 ---
-title: "Grounded"
-term_id: "grounded"
-category: "basic_concepts"
-subcategory: ""
-tags: ["language-models", "robotics", "semantics"]
+title: Grounded
+term_id: grounded
+category: basic_concepts
+subcategory: ''
+tags:
+- Language Models
+- robotics
+- semantics
 difficulty: 3
 weight: 1
-slug: "grounded"
-aliases:
-  - /sv/terms/grounded/
-date: "2026-07-18T15:26:46.871480Z"
-lastmod: "2026-07-18T17:15:08.943526Z"
+slug: grounded
+date: '2026-07-18T15:26:46.871480Z'
+lastmod: '2026-07-18T17:15:08.943526Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Avser AI-system som kopplar abstrakta symboler eller språk till verkliga sensoriska data eller fysiska handlingar."
+source: agnes_llm
+status: published
+language: sv
+description: Avser AI-system som kopplar abstrakta symboler eller språk till verkliga
+  sensoriska data eller fysiska handlingar.
 ---
-
 ## Definition
 
 Inom artificiell intelligens beskriver 'grounded' processen att länka symboliska representationer, såsom ord eller logiska påståenden, till deras faktiska referenser i den fysiska världen eller sensoriska upplevelser.

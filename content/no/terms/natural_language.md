@@ -7,8 +7,6 @@ tags: ["language", "communication", "foundation"]
 difficulty: 1
 weight: 1
 slug: "natural_language"
-aliases:
-  - /no/terms/natural_language/
 date: "2026-07-18T15:35:13.350143Z"
 lastmod: "2026-07-18T16:38:06.953898Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "no"
 description: "Den vanlige menneskelige kommunikasjonsmetoden, preget av grammatikk, ordføre og kontekst, i motsetning til formelle programmeringsspråk."
 ---
-
 ## Definition
 
 Naturlig språk refererer til måten mennesker snakker og skriver på, inkludert alle dets tvetydigheter, idiomuttrykk og kulturelle nyanser. I AI innebærer behandling av naturlig språk forståelse av syntaks, semantikk og kontekst.

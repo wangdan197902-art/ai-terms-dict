@@ -7,8 +7,6 @@ tags: ["neuroscience", "hardware", "architecture"]
 difficulty: 4
 weight: 1
 slug: "artificial_brain"
-aliases:
-  - /fi/terms/artificial_brain/
 date: "2026-07-18T15:42:54.285284Z"
 lastmod: "2026-07-18T17:15:09.383435Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Laskennallinen järjestelmä, joka on suunniteltu jäljittelemään biologisen ihmisaivojen rakennetta ja toimintaa käyttäen usein neuroverkkoja."
 ---
-
 ## Definition
 
 Tekoälyaivot viittaavat laite- tai ohjelmistoarkkitehtuureihin, jotka emuloidaan ihmisaivojen hermosolurakenteita ja käsittelymenetelmiä. Tämä sisältää neuromorfinen laskenta -piirejä, jotka toistavat aivojen paralleelista tietojenkäsittelyä energiatehokkaammalla tavalla.

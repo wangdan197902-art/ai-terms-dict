@@ -7,8 +7,6 @@ tags: ["privacy", "mathematics", "security", "ethics"]
 difficulty: 4
 weight: 1
 slug: "differential_privacy"
-aliases:
-  - /id/terms/differential_privacy/
 date: "2026-07-18T15:47:58.010200Z"
 lastmod: "2026-07-18T16:38:07.450311Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "id"
 description: "Kerangka kerja matematika yang ketat yang memastikan bahwa inklusi atau eksklusi data individu tunggal tidak secara signifikan memengaruhi hasil analisis."
 ---
-
 ## Definition
 
 Privasi diferensial memberikan jaminan privasi yang kuat dengan menambahkan noise statistik yang terkalibrasi ke hasil kueri atau parameter model. Ini mengukur jumlah maksimum kebocoran informasi tentang setiap individu.

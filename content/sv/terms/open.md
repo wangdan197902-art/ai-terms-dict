@@ -1,23 +1,23 @@
 ---
-title: "Öppen"
-term_id: "open"
-category: "basic_concepts"
-subcategory: ""
-tags: ["software-models", "research"]
+title: Öppen
+term_id: open
+category: basic_concepts
+subcategory: ''
+tags:
+- Software Models
+- research
 difficulty: 2
 weight: 1
-slug: "open"
-aliases:
-  - /sv/terms/open/
-date: "2026-07-18T15:29:33.458467Z"
-lastmod: "2026-07-18T17:15:08.947991Z"
+slug: open
+date: '2026-07-18T15:29:33.458467Z'
+lastmod: '2026-07-18T17:15:08.947991Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "Inom AI syftar 'öppen' vanligtvis på öppen källkod-modeller eller öppna uppgifter som saknar fördefinierade begränsningar eller fullständiga lösningsrum."
+source: agnes_llm
+status: published
+language: sv
+description: Inom AI syftar 'öppen' vanligtvis på öppen källkod-modeller eller öppna
+  uppgifter som saknar fördefinierade begränsningar eller fullständiga lösningsrum.
 ---
-
 ## Definition
 
 Begreppet 'öppen' inom artificiell intelligens beskriver ofta två distinkta områden: mjukvara med öppen källkod, där modellvikter och kod är offentligt tillgängliga för modifiering, och öppna problem som saknar slutna lösningsrum.

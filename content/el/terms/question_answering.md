@@ -1,23 +1,24 @@
 ---
-title: "Απάντηση Ερωτήσεων"
-term_id: "question_answering"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "applications", "retrieval"]
+title: Απάντηση Ερωτήσεων
+term_id: question_answering
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- applications
+- retrieval
 difficulty: 2
 weight: 1
-slug: "question_answering"
-aliases:
-  - /el/terms/question_answering/
-date: "2026-07-18T15:43:02.240095Z"
-lastmod: "2026-07-18T17:15:09.869714Z"
+slug: question_answering
+date: '2026-07-18T15:43:02.240095Z'
+lastmod: '2026-07-18T17:15:09.869714Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα έργο Επεξεργασίας Φυσικής Γλώσσας όπου ένα σύστημα παρέχει αυτόματα ακριβείς απαντήσεις σε ερωτήσεις που τίθενται στη φυσική γλώσσα."
+source: agnes_llm
+status: published
+language: el
+description: Ένα έργο Επεξεργασίας Φυσικής Γλώσσας όπου ένα σύστημα παρέχει αυτόματα
+  ακριβείς απαντήσεις σε ερωτήσεις που τίθενται στη φυσική γλώσσα.
 ---
-
 ## Definition
 
 Η Απάντηση Ερωτήσεων (QA) περιλαμβάνει την ανάκτηση ή τη δημιουργία ακριβών απαντήσεων σε ερωτήσεις χρήστη από ένα δεδομένο πλαίσιο ή βάση γνώσεων. Κυμαίνεται από την κλειστή περιοχή (closed-domain), που βασίζεται σε συγκεκριμένα έγγραφα, έως την ανοιχτή περιοχή (open-domain), που χρησιμοποιεί ευρεία γνώση.

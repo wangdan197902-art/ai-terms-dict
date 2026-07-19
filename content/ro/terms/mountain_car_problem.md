@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /ro/terms/mountain_car_problem/
 date: "2026-07-18T16:12:29.020295Z"
 lastmod: "2026-07-18T17:15:09.683503Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "O sarcină clasică de învățare prin recompensă (reinforcement learning) în care un agent trebuie să conducă o mașină în susul unei pante abrupte folosind doar controale de accelerație."
 ---
-
 ## Definition
 
 Problema Mașinii de Munte este un benchmark standard în cercetarea învățării prin recompensă. Scopul este de a controla o mașină subdimensionată pentru a ajunge în vârful unei pante abrupte. Deoarece mașina nu poate urca panta direct

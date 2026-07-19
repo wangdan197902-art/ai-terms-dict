@@ -7,8 +7,6 @@ tags: ["Risk", "Policy", "Research"]
 difficulty: 4
 weight: 1
 slug: "ai_safety"
-aliases:
-  - /nl/terms/ai_safety/
 date: "2026-07-18T15:22:08.358959Z"
 lastmod: "2026-07-18T17:15:08.677654Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Een studiegebied gericht op het voorkomen van onbedoelde schadelijke gevolgen van geavanceerde kunstmatige intelligentiesystemen."
 ---
-
 ## Definition
 
 AI-veiligheid omvat onderzoek en praktijken die erop gericht zijn ervoor te zorgen dat autonome systemen zich gedragen op een manier die voordelig en niet-schadelijk is voor de mens. Het adresseert risico's zoals bias, desinformatie en veiligheidslekken.

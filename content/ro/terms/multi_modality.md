@@ -7,8 +7,6 @@ tags: ["Architecture", "Research Field", "Data Science"]
 difficulty: 3
 weight: 1
 slug: "multi_modality"
-aliases:
-  - /ro/terms/multi_modality/
 date: "2026-07-18T16:12:50.265029Z"
 lastmod: "2026-07-18T17:15:09.683790Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Multi Modality este conceptul sau domeniul larg de studiu privind utilizarea mai multor tipuri distincte de date în arhitecturile de învățare automată."
 ---
-
 ## Definition
 
 Modalitatea multiplă reprezintă cadrul arhitectural și teoretic care permite modelelor de inteligență artificială să gestioneze fluxuri de date eterogene. Aceasta implică proiectarea rețelelor neuronale capabile să accepte intrări din diverse

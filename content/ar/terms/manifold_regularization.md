@@ -1,23 +1,24 @@
 ---
-title: "التنظيم المتشعب"
-term_id: "manifold_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["semi-supervised", "regularization", "geometry"]
+title: التنظيم المتشعب
+term_id: manifold_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- Semi Supervised
+- Regularization
+- geometry
 difficulty: 4
 weight: 1
-slug: "manifold_regularization"
-aliases:
-  - /ar/terms/manifold_regularization/
-date: "2026-07-18T16:12:21.806508Z"
-lastmod: "2026-07-18T17:15:08.526146Z"
+slug: manifold_regularization
+date: '2026-07-18T16:12:21.806508Z'
+lastmod: '2026-07-18T17:15:08.526146Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "تقنية تعلم شبه خاضع للإشراف تفترض أن البيانات تقع على متشعب منخفض الأبعاد وتنظم النموذج بناءً على هذه البنية الهندسية."
+source: agnes_llm
+status: published
+language: ar
+description: تقنية تعلم شبه خاضع للإشراف تفترض أن البيانات تقع على متشعب منخفض الأبعاد
+  وتنظم النموذج بناءً على هذه البنية الهندسية.
 ---
-
 ## Definition
 
 يمتد التنظيم المتشعب ليشمل طرق التنظيم التقليدية من خلال دمج الهندسة الجوهرية لتوزيع البيانات. يعمل بافتراض أن نقاط البيانات عالية الأبعاد

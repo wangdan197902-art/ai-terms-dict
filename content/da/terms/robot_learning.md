@@ -1,23 +1,25 @@
 ---
-title: "Robotlæring"
-term_id: "robot_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["robotics", "rl", "control"]
+title: Robotlæring
+term_id: robot_learning
+category: training_techniques
+subcategory: ''
+tags:
+- robotics
+- RL
+- control
 difficulty: 4
 weight: 1
-slug: "robot_learning"
-aliases:
-  - /da/terms/robot_learning/
-date: "2026-07-18T16:15:18.628323Z"
-lastmod: "2026-07-18T17:15:09.328348Z"
+slug: robot_learning
+date: '2026-07-18T16:15:18.628323Z'
+lastmod: '2026-07-18T17:15:09.328348Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et underfelt af robotteknologi, der fokuserer på at gøre det muligt for robotter at tilegne sig færdigheder og forbedre ydeevnen gennem erfaring og interaktion med deres miljø."
+source: agnes_llm
+status: published
+language: da
+description: Et underfelt af robotteknologi, der fokuserer på at gøre det muligt for
+  robotter at tilegne sig færdigheder og forbedre ydeevnen gennem erfaring og interaktion
+  med deres miljø.
 ---
-
 ## Definition
 
 Robotlæring indebærer træning af robotiske agenter til at udføre opgaver autonomt ved at udnytte maskinlæringsmetoder. I modsætning til forprogrammerede adfærdsmønstre tilpasser disse systemer sig dynamiske miljøer

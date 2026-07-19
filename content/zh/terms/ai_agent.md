@@ -7,8 +7,6 @@ tags: ["agents", "automation", "paradigms"]
 difficulty: 3
 weight: 1
 slug: "ai_agent"
-aliases:
-  - /zh/terms/ai_agent/
 date: "2026-07-18T11:02:52.508981Z"
 lastmod: "2026-07-18T11:44:45.433591Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种旨在感知环境并采取行动以实现特定目标的自主系统。"
 ---
-
 ## Definition
 
 AI 智能体是一种在定义的环境中自主运行以完成预定目标的软件实体。它利用感知机制收集数据，处理这些信息，并据此采取行动。

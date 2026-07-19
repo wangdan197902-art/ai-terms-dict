@@ -1,23 +1,24 @@
 ---
-title: "Non censuré"
-term_id: "uncensored"
-category: "basic_concepts"
-subcategory: ""
-tags: ["ethics", "model_security", "content_policy"]
+title: Non censuré
+term_id: uncensored
+category: basic_concepts
+subcategory: ''
+tags:
+- ethics
+- Model Security
+- Content Policy
 difficulty: 2
 weight: 1
-slug: "uncensored"
-aliases:
-  - /fr/terms/uncensored/
-date: "2026-07-18T11:42:07.460174Z"
-lastmod: "2026-07-18T11:44:45.353298Z"
+slug: uncensored
+date: '2026-07-18T11:42:07.460174Z'
+lastmod: '2026-07-18T11:44:45.353298Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fr"
-description: "Désigne les modèles d'IA qui ont été modifiés pour contourner les filtres de sécurité et les directives éthiques."
+source: agnes_llm
+status: published
+language: fr
+description: Désigne les modèles d'IA qui ont été modifiés pour contourner les filtres
+  de sécurité et les directives éthiques.
 ---
-
 ## Definition
 
 Dans le contexte de l'intelligence artificielle, le terme « non censuré » décrit généralement des modèles ayant subi un affinage (fine-tuning) ou une modification visant à supprimer ou affaiblir les alignements de sécurité intégrés. Ces modèles sont conçus pour...

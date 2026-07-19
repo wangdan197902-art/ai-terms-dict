@@ -1,23 +1,25 @@
 ---
-title: "Машинное восприятие"
-term_id: "machine_perception"
-category: "basic_concepts"
-subcategory: ""
-tags: ["sensing", "interpretation", "core_ai"]
+title: Машинное восприятие
+term_id: machine_perception
+category: basic_concepts
+subcategory: ''
+tags:
+- sensing
+- interpretation
+- Core AI
 difficulty: 2
 weight: 1
-slug: "machine_perception"
-aliases:
-  - /ru/terms/machine_perception/
-date: "2026-07-18T16:03:47.057364Z"
-lastmod: "2026-07-18T16:38:07.178311Z"
+slug: machine_perception
+date: '2026-07-18T16:03:47.057364Z'
+lastmod: '2026-07-18T16:38:07.178311Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Способность систем искусственного интеллекта интерпретировать и понимать сенсорные данные из окружающей среды, такие как изображения, аудио или показания датчиков."
+source: agnes_llm
+status: published
+language: ru
+description: Способность систем искусственного интеллекта интерпретировать и понимать
+  сенсорные данные из окружающей среды, такие как изображения, аудио или показания
+  датчиков.
 ---
-
 ## Definition
 
 Оно связывает сырые входные данные с датчиков со смысловым пониманием, имитируя человеческие чувства, такие как зрение и слух. Ключевые технологии включают компьютерное зрение для распознавания объектов, распознавание речи...

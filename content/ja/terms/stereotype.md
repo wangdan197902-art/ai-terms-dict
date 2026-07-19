@@ -7,8 +7,6 @@ tags: ["fairness", "bias"]
 difficulty: 2
 weight: 1
 slug: "stereotype"
-aliases:
-  - /ja/terms/stereotype/
 date: "2026-07-18T11:37:07.583138Z"
 lastmod: "2026-07-18T11:44:45.157758Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ja"
 description: "AIの出力に反映される、特定の集団に対する一般的かつ過度に簡略化された信念。"
 ---
-
 ## Definition
 
 AIにおいて、ステレオタイプはモデルがトレーニングデータに含まれる社会的バイアスを学習し、増幅することで生じます。これにより、特定の職業を特定の性別に関連付けるなど、差別的な結果をもたらす可能性があります。

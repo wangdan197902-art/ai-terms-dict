@@ -1,23 +1,24 @@
 ---
-title: "Model zastępczy"
-term_id: "surrogate_model"
-category: "basic_concepts"
-subcategory: ""
-tags: ["optimization", "approximation", "ml_technique"]
+title: Model zastępczy
+term_id: surrogate_model
+category: basic_concepts
+subcategory: ''
+tags:
+- Optimization
+- approximation
+- ML Technique
 difficulty: 3
 weight: 1
-slug: "surrogate_model"
-aliases:
-  - /pl/terms/surrogate_model/
-date: "2026-07-18T16:19:37.710685Z"
-lastmod: "2026-07-18T17:15:08.921995Z"
+slug: surrogate_model
+date: '2026-07-18T16:19:37.710685Z'
+lastmod: '2026-07-18T17:15:08.921995Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "pl"
-description: "Uproszczony model matematyczny używany do przybliżania zachowania bardziej złożonego, obliczeniowo kosztownego lub niedostępnego modelu typu \"czarna skrzynka\"."
+source: agnes_llm
+status: published
+language: pl
+description: Uproszczony model matematyczny używany do przybliżania zachowania bardziej
+  złożonego, obliczeniowo kosztownego lub niedostępnego modelu typu "czarna skrzynka".
 ---
-
 ## Definition
 
 W uczeniu maszynowym i optymalizacji model zastępczy pełni rolę zastępczą dla funkcji docelowej, której bezpośrednia ewaluacja jest trudna. Jest trenowany na parach wejście-wyjście pochodzących z oryginalnego modelu, aby zapewnić...

@@ -7,8 +7,6 @@ tags: ["cognition", "representation", "data"]
 difficulty: 3
 weight: 1
 slug: "percept"
-aliases:
-  - /fr/terms/percept/
 date: "2026-07-18T11:32:52.333045Z"
 lastmod: "2026-07-18T11:44:45.311080Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "La représentation mentale ou le résultat interprété d'une entrée sensorielle traitée par un percepteur."
 ---
-
 ## Definition
 
 Un percept est la représentation interne d'un stimulus externe après qu'il a été traité par un système percevant. En IA, cela correspond aux données structurées issues du traitement des signaux de bas niveau

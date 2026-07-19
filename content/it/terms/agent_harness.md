@@ -1,23 +1,25 @@
 ---
-title: "Struttura di gestione degli agenti"
-term_id: "agent_harness"
-category: "application_paradigms"
-subcategory: ""
-tags: ["architecture", "multi_agent", "infrastructure"]
+title: Struttura di gestione degli agenti
+term_id: agent_harness
+category: application_paradigms
+subcategory: ''
+tags:
+- architecture
+- Multi Agent
+- infrastructure
 difficulty: 3
 weight: 1
-slug: "agent_harness"
-aliases:
-  - /it/terms/agent_harness/
-date: "2026-07-18T15:44:31.652736Z"
-lastmod: "2026-07-18T17:15:08.596139Z"
+slug: agent_harness
+date: '2026-07-18T15:44:31.652736Z'
+lastmod: '2026-07-18T17:15:08.596139Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Una struttura di gestione degli agenti è un livello di infrastruttura o framework che gestisce il ciclo di vita, la comunicazione e l'allocazione delle risorse di più agenti di intelligenza artificial"
+source: agnes_llm
+status: published
+language: it
+description: Una struttura di gestione degli agenti è un livello di infrastruttura
+  o framework che gestisce il ciclo di vita, la comunicazione e l'allocazione delle
+  risorse di più agenti di intelligenza artificial
 ---
-
 ## Definition
 
 Agisce come la spina dorsale per i sistemi multi-agente, fornendo strumenti per l'orchestrazione, il monitoraggio e il coordinamento tra agenti. La struttura garantisce che gli agenti possano operare in modo efficiente senza interferire tra loro.

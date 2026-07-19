@@ -1,23 +1,25 @@
 ---
-title: "Diffusers: Stablediffusionpipeline"
-term_id: "diffusersstablediffusionpipeline"
-category: "application_paradigms"
-subcategory: ""
-tags: ["stable-diffusion", "v1.5", "text-to-image", "baseline"]
+title: 'Diffusers: Stablediffusionpipeline'
+term_id: diffusersstablediffusionpipeline
+category: application_paradigms
+subcategory: ''
+tags:
+- Stable Diffusion
+- v1.5
+- Text To Image
+- baseline
 difficulty: 2
 weight: 1
-slug: "diffusersstablediffusionpipeline"
-aliases:
-  - /vi/terms/diffusersstablediffusionpipeline/
-date: "2026-07-18T15:49:43.471010Z"
-lastmod: "2026-07-18T16:38:07.750158Z"
+slug: diffusersstablediffusionpipeline
+date: '2026-07-18T15:49:43.471010Z'
+lastmod: '2026-07-18T16:38:07.750158Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Pipeline tiêu chuẩn để chạy Stable Diffusion v1.5, sử dụng bộ mã hóa U-Net và CLIP cho việc tạo ảnh từ văn bản."
+source: agnes_llm
+status: published
+language: vi
+description: Pipeline tiêu chuẩn để chạy Stable Diffusion v1.5, sử dụng bộ mã hóa
+  U-Net và CLIP cho việc tạo ảnh từ văn bản.
 ---
-
 ## Definition
 
 Đây là pipeline nền tảng cho mô hình Stable Diffusion v1.5, được sử dụng rộng rãi cho việc tổng hợp ảnh từ văn bản mục đích chung. Nó dựa vào bộ khử nhiễu U-Net và bộ mã hóa văn bản CLIP để ánh xạ lời nhắc văn bản

@@ -1,23 +1,24 @@
 ---
-title: "배치 크기(Batch Size)"
-term_id: "batch_size"
-category: "training_techniques"
-subcategory: ""
-tags: ["hyperparameters", "optimization", "memory"]
+title: 배치 크기(Batch Size)
+term_id: batch_size
+category: training_techniques
+subcategory: ''
+tags:
+- hyperparameters
+- Optimization
+- memory
 difficulty: 2
 weight: 1
-slug: "batch_size"
-aliases:
-  - /ko/terms/batch_size/
-date: "2026-07-18T15:43:24.253828Z"
-lastmod: "2026-07-18T16:38:06.812761Z"
+slug: batch_size
+date: '2026-07-18T15:43:24.253828Z'
+lastmod: '2026-07-18T16:38:06.812761Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "확률적 경사 하강법(Stochastic Gradient Descent) 알고리즘의 한 번 반복(iteration)에서 사용되는 훈련 예제의 수입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 확률적 경사 하강법(Stochastic Gradient Descent) 알고리즘의 한 번 반복(iteration)에서 사용되는
+  훈련 예제의 수입니다.
 ---
-
 ## Definition
 
 배치 크기는 모델의 내부 매개변수가 업데이트되기 전에 처리되는 샘플의 수를 결정하는 중요한 하이퍼파라미터입니다. 더 큰 배치 크기는 그라디언트의 더 정확한 추정치를 제공하지만, 메모리 제약이 있을 수 있습니다.

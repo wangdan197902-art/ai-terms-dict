@@ -7,8 +7,6 @@ tags: ["policy", "infrastructure", "security"]
 difficulty: 4
 weight: 1
 slug: "sovereign_ai"
-aliases:
-  - /tr/terms/sovereign_ai/
 date: "2026-07-18T16:14:41.310997Z"
 lastmod: "2026-07-18T16:38:07.366665Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Ulusal veya kurumsal düzeyde veri gizliliğini ve düzenleyici bağımsızlığı sağlamak amacıyla kendi yapay zeka altyapısını ve modellerini geliştiren ve kontrol eden stratejik bir yaklaşım."
 ---
-
 ## Definition
 
 Soğuk yapay zeka, bir ülkenin veya kuruluşun yabancı bulut sağlayıcılarına veya özel yazılımlara bağımlı kalmadan yapay zeka sistemlerini bağımsız olarak inşa etmesini, dağıtmasını ve yönetmesini ifade eder.

@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /ar/terms/hallucination/
 date: "2026-07-18T15:22:59.170212Z"
 lastmod: "2026-07-18T17:15:08.432917Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ar"
 description: "عندما يولد نموذج الذكاء الاصطناعي معلومات واثقة لكنها غير صحيحة واقعياً أو غير منطقية."
 ---
-
 ## Definition
 
 يحدث الهذيان عندما تنتج نماذج الذكاء الاصطناعي التوليدية مخرجات تبدو معقولة ولكنها تفتقر إلى الأساس في الواقع أو البيانات المصدر. يُعد هذا تحدياً كبيراً في التطبيقات التي تتطلب دقة عالية.

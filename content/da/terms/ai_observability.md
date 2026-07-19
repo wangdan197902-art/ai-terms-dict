@@ -7,8 +7,6 @@ tags: ["mlops", "monitoring", "engineering"]
 difficulty: 4
 weight: 1
 slug: "ai_observability"
-aliases:
-  - /da/terms/ai_observability/
 date: "2026-07-18T15:39:30.381612Z"
 lastmod: "2026-07-18T17:15:09.254242Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "Praksisen med at overvåge og forstå den interne tilstand af maskinlæringssystemer gennem logfiler, metrikker og sporingsdata."
 ---
-
 ## Definition
 
 AI-observabilitet udvider traditionel softwareovervågning for at adressere de unikke udfordringer ved maskinlæringssystemer. Det indebærer sporing af modelydelse, datadrift og inferensforsinkelse i realtid for at sikre, at AI-systemer fungerer korrekt og pålideligt i produktion.

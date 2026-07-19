@@ -7,8 +7,6 @@ tags: ["RL", "Benchmark", "Education"]
 difficulty: 2
 weight: 1
 slug: "mountain_car_problem"
-aliases:
-  - /fi/terms/mountain_car_problem/
 date: "2026-07-18T16:11:30.339934Z"
 lastmod: "2026-07-18T17:15:09.436327Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fi"
 description: "Klassinen vahvistusoppimistehtävä, jossa agentin on ajettava auto jyrkälle mäelle käyttäen vain kiihdytysohjaimia."
 ---
-
 ## Definition
 
 Vuoristoauto-ongelma on standardi vertailukohta vahvistusoppimistutkimuksessa. Tavoitteena on ohjata heikkotehoista autoa saavuttamaan jyrkän mäen huippu. Koska auto ei voi ajaa mäkeä ylös suoraan, sen on kerättävä vauhtia.

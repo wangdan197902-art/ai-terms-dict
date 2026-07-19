@@ -1,23 +1,23 @@
 ---
-title: "Tap"
-term_id: "loss"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "optimization"]
+title: Tap
+term_id: loss
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- Optimization
 difficulty: 3
 weight: 1
-slug: "loss"
-aliases:
-  - /no/terms/loss/
-date: "2026-07-18T15:27:40.492831Z"
-lastmod: "2026-07-18T16:38:06.940571Z"
+slug: loss
+date: '2026-07-18T15:27:40.492831Z'
+lastmod: '2026-07-18T16:38:06.940571Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "En numerisk verdi som kvantifiserer feilen mellom modellens prediksjoner og de faktiske målverdiene."
+source: agnes_llm
+status: published
+language: 'no'
+description: En numerisk verdi som kvantifiserer feilen mellom modellens prediksjoner
+  og de faktiske målverdiene.
 ---
-
 ## Definition
 
 Tapfunksjoner, også kjent som kostnadsfunksjoner, måler hvor godt prediksjonene fra en maskinlæringsmodell samsvarer med sannheten under treningen. Målet med optimeringsalgoritmen er å minimere denne tapverdien for å forbedre modellens nøyaktighet.

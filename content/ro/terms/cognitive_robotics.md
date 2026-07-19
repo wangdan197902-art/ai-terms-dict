@@ -7,8 +7,6 @@ tags: ["Robotics", "Advanced AI"]
 difficulty: 4
 weight: 1
 slug: "cognitive_robotics"
-aliases:
-  - /ro/terms/cognitive_robotics/
 date: "2026-07-18T15:49:33.326732Z"
 lastmod: "2026-07-18T17:15:09.637164Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Robotica cognitivă este un domeniu axat pe crearea de roboți cu abilități cognitive similare celor umane, cum ar fi percepția, raționamentul și învățarea."
 ---
-
 ## Definition
 
 Robotica cognitivă integrează științele cognitive cu robotica pentru a construi mașini care pot percepe mediul, învăța din experiență și lua decizii autonome. Acești roboți folosesc tehnologii avansate de procesare a informației.

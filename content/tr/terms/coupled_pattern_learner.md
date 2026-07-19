@@ -7,8 +7,6 @@ tags: ["multimodal", "correlation", "advanced"]
 difficulty: 4
 weight: 1
 slug: "coupled_pattern_learner"
-aliases:
-  - /tr/terms/coupled_pattern_learner/
 date: "2026-07-18T15:46:32.594572Z"
 lastmod: "2026-07-18T16:38:07.287335Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "tr"
 description: "Aynı anda iki ayrı ancak korele örüntü veya özellik kümesi arasındaki ilişkileri öğrenen algoritmik bir yaklaşımdır."
 ---
-
 ## Definition
 
 İlişkili örüntü öğrenicileri, örneklerin farklı uzaylardan birbirine bağlı olduğu verileri işlemek üzere tasarlanmıştır; örneğin görüntüler ve bunların metinsel açıklamaları. Ortak dağılımı veya korelasyonu modelleyerek...

@@ -7,8 +7,6 @@ tags: ["Biotech", "Medicine", "Ethics", "Genetics"]
 difficulty: 4
 weight: 1
 slug: "artificial_reproduction"
-aliases:
-  - /pl/terms/artificial_reproduction/
 date: "2026-07-18T15:41:21.842713Z"
 lastmod: "2026-07-18T17:15:08.847075Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Wykorzystanie biotechnologii i AI do wspomagania lub replikacji biologicznych procesów rozrodczych, często w medycynie lub rolnictwie."
 ---
-
 ## Definition
 
 Rozmnażanie sztuczne obejmuje techniki ułatwiające lub replikujące reprodukcję biologiczną bez bezpośredniego współżycia, w dużym stopniu wykorzystujące technologię i coraz częściej AI do optymalizacji

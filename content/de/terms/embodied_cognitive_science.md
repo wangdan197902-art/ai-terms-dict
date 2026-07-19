@@ -7,8 +7,6 @@ tags: ["theory", "psychology", "philosophy"]
 difficulty: 4
 weight: 1
 slug: "embodied_cognitive_science"
-aliases:
-  - /de/terms/embodied_cognitive_science/
 date: "2026-07-18T11:13:04.500063Z"
 lastmod: "2026-07-18T11:44:44.936506Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die verkörperte Kognitionswissenschaft ist ein theoretischer Rahmen, der vorschlägt, dass menschliche Kognition grundlegend durch die Interaktionen des Körpers mit der Umwelt geprägt ist."
 ---
-
 ## Definition
 
 Dieses Feld stellt traditionelle Ansichten in Frage, die den Geist als Computer betrachten, der abstrakte Symbole verarbeitet. Stattdessen argumentiert es, dass kognitive Prozesse tief in den physischen Eigenschaften des Körpers verwurzelt sind und durch dessen Interaktion mit der Welt entstehen.

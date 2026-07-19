@@ -1,23 +1,25 @@
 ---
-title: "데이터셋: MultiNLI"
-term_id: "datasetmulti_nli"
-category: "basic_concepts"
-subcategory: ""
-tags: ["nli", "semantics", "benchmark", "glue"]
+title: '데이터셋: MultiNLI'
+term_id: datasetmulti_nli
+category: basic_concepts
+subcategory: ''
+tags:
+- nli
+- semantics
+- Benchmark
+- glue
 difficulty: 2
 weight: 1
-slug: "datasetmulti_nli"
-aliases:
-  - /ko/terms/datasetmulti_nli/
-date: "2026-07-18T15:48:22.776038Z"
-lastmod: "2026-07-18T16:38:06.827729Z"
+slug: datasetmulti_nli
+date: '2026-07-18T15:48:22.776038Z'
+lastmod: '2026-07-18T16:38:06.827729Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "다양한 장르의 자연어 추론을 위한 대규모 코퍼스. 수백만 건의 인간이 작성한 영어 문장과 텍스트 함양 관계에 대한 정밀한 인간 주석이 포함되어 있습니다."
+source: agnes_llm
+status: published
+language: ko
+description: 다양한 장르의 자연어 추론을 위한 대규모 코퍼스. 수백만 건의 인간이 작성한 영어 문장과 텍스트 함양 관계에 대한 정밀한 인간
+  주석이 포함되어 있습니다.
 ---
-
 ## Definition
 
 MultiNLI는 GLUE 벤치마크를 통해 제공되는 크라우드소싱 기반 코퍼스입니다. 구어체와 문어체 등 다양한 장르의 텍스트에 걸친 자연어 추론(NLI) 능력을 평가하기 위해 설계되었습니다. 이 데이터셋은 전제(premise)와 가정(hypothesis) 쌍을 제공하여 모델의 논리적 추론 능력을 측정합니다.

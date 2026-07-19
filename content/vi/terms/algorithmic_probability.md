@@ -1,23 +1,24 @@
 ---
-title: "Xác suất thuật toán"
-term_id: "algorithmic_probability"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "information_theory", "induction"]
+title: Xác suất thuật toán
+term_id: algorithmic_probability
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- Information Theory
+- induction
 difficulty: 4
 weight: 1
-slug: "algorithmic_probability"
-aliases:
-  - /vi/terms/algorithmic_probability/
-date: "2026-07-18T15:40:10.662966Z"
-lastmod: "2026-07-18T16:38:07.726262Z"
+slug: algorithmic_probability
+date: '2026-07-18T15:40:10.662966Z'
+lastmod: '2026-07-18T16:38:07.726262Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Một đại lượng lý thuyết đo lường khả năng một chương trình ngẫu nhiên sẽ tạo ra một chuỗi đầu ra cụ thể."
+source: agnes_llm
+status: published
+language: vi
+description: Một đại lượng lý thuyết đo lường khả năng một chương trình ngẫu nhiên
+  sẽ tạo ra một chuỗi đầu ra cụ thể.
 ---
-
 ## Definition
 
 Xác suất thuật toán, bắt nguồn từ độ phức tạp Kolmogorov và quy nạp Solomonoff, gán xác suất cao hơn cho các đầu ra được tạo ra bởi các chương trình ngắn hơn. Nó đặt giả thuyết rằng các lời giải thích đơn giản hơn thì có khả năng đúng cao hơn.

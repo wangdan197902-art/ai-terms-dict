@@ -7,8 +7,6 @@ tags: ["geopolitics", "competition", "strategy"]
 difficulty: 3
 weight: 1
 slug: "artificial_intelligence_arms_race"
-aliases:
-  - /vi/terms/artificial_intelligence_arms_race/
 date: "2026-07-18T15:40:51.162811Z"
 lastmod: "2026-07-18T16:38:07.728522Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "vi"
 description: "Một động lực cạnh tranh trong đó các quốc gia hoặc tổ chức nhanh chóng phát triển khả năng AI để giành lợi thế chiến lược."
 ---
-
 ## Definition
 
 Cuộc chạy đua vũ trang AI đề cập đến sự cạnh tranh quyết liệt giữa các quốc gia, tập đoàn và viện nghiên cứu nhằm đạt được ưu thế thống trị trong các công nghệ trí tuệ nhân tạo. Mối cạnh tranh này thúc đẩy sự đổi mới nhanh chóng, thường đặt ra những thách thức về việc cân bằng giữa tốc độ phát triển và các vấn đề an toàn.

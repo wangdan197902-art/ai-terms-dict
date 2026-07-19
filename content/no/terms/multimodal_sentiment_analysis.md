@@ -1,23 +1,24 @@
 ---
-title: "Multimodal stemningsanalyse"
-term_id: "multimodal_sentiment_analysis"
-category: "application_paradigms"
-subcategory: ""
-tags: ["sentiment_analysis", "multimodal_ai", "human_computer_interaction"]
+title: Multimodal stemningsanalyse
+term_id: multimodal_sentiment_analysis
+category: application_paradigms
+subcategory: ''
+tags:
+- Sentiment Analysis
+- Multimodal AI
+- Human Computer Interaction
 difficulty: 3
 weight: 1
-slug: "multimodal_sentiment_analysis"
-aliases:
-  - /no/terms/multimodal_sentiment_analysis/
-date: "2026-07-18T16:08:12.321720Z"
-lastmod: "2026-07-18T16:38:07.027313Z"
+slug: multimodal_sentiment_analysis
+date: '2026-07-18T16:08:12.321720Z'
+lastmod: '2026-07-18T16:38:07.027313Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Den datamessige analysen av menneskelig stemning ved å integrere tekstmessige, visuelle og auditive signaler."
+source: agnes_llm
+status: published
+language: 'no'
+description: Den datamessige analysen av menneskelig stemning ved å integrere tekstmessige,
+  visuelle og auditive signaler.
 ---
-
 ## Definition
 
 Multimodal stemningsanalyse utvider tradisjonell tekstbasert stemningsdeteksjon ved å inkludere ekstra signaler som ansiktsuttrykk, stemmetone og kroppsspråk. Denne helhetlige tilnærmingen gir et mer nyansert bilde.

@@ -1,23 +1,23 @@
 ---
-title: "Eher"
-term_id: "rather"
-category: "basic_concepts"
-subcategory: ""
-tags: ["linguistics", "non-technical"]
+title: Eher
+term_id: rather
+category: basic_concepts
+subcategory: ''
+tags:
+- linguistics
+- Non Technical
 difficulty: 1
 weight: 1
-slug: "rather"
-aliases:
-  - /de/terms/rather/
-date: "2026-07-18T10:53:11.464964Z"
-lastmod: "2026-07-18T11:44:44.881651Z"
+slug: rather
+date: '2026-07-18T10:53:11.464964Z'
+lastmod: '2026-07-18T11:44:44.881651Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Im KI-Kontext ist 'rather' kein technischer Begriff, sondern erscheint häufig in Prompts, um Präferenzen oder Korrekturen anzugeben."
+source: agnes_llm
+status: published
+language: de
+description: Im KI-Kontext ist 'rather' kein technischer Begriff, sondern erscheint
+  häufig in Prompts, um Präferenzen oder Korrekturen anzugeben.
 ---
-
 ## Definition
 
 Der Begriff 'Rather' ist ein Standard-Englisches Adverb, das eine Präferenz oder einen Kontrast angibt. Im spezifischen Bereich der Künstlichen Intelligenz und großer Sprachmodelle stellt er keinen eigenständigen technischen Begriff dar.

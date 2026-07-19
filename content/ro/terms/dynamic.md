@@ -7,8 +7,6 @@ tags: ["architecture", "adaptability", "runtime"]
 difficulty: 2
 weight: 1
 slug: "dynamic"
-aliases:
-  - /ro/terms/dynamic/
 date: "2026-07-18T15:24:54.709214Z"
 lastmod: "2026-07-18T17:15:09.592357Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Termenul 'dinamic' se referă la sistemele AI sau grafurile computaționale care își adaptează structura, comportamentul sau fluxul de execuție în timp real, în funcție de datele de intrare sau de schim"
 ---
-
 ## Definition
 
 Spre deosebire de sistemele statice cu arhitecturi fixe sau căi de execuție predeterminate, sistemele AI dinamice pot modifica operațiile în timpul rulării. În învățarea profundă, grafurile de calcul dinamice permit redefinirea structurii pe măsură ce se execută.

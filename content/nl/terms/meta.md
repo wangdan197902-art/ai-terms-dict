@@ -7,8 +7,6 @@ tags: ["concepts", "learning", "architecture"]
 difficulty: 3
 weight: 1
 slug: "meta"
-aliases:
-  - /nl/terms/meta/
 date: "2026-07-18T16:06:41.713427Z"
 lastmod: "2026-07-18T17:15:08.766912Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "In AI verwijst 'meta' doorgaans naar leren over leren of processen van hogere orde die modeladaptatie en optimalisatie sturen."
 ---
-
 ## Definition
 
 Het voorvoegsel 'meta' in kunstmatige intelligentie duidt op een hoger niveau van abstractie, vaak met zelfreferentie of toezicht op kernprocessen. Veelvoorkomende voorbeelden zijn 'meta-learning', waarbij algoritmen worden getraind om snel nieuwe taken te leren op basis van eerdere ervaringen, en 'meta-optimization', waarbij hyperparameters worden aangepast om de prestaties van het model te verbeteren.

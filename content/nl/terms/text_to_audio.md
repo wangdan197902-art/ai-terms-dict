@@ -7,8 +7,6 @@ tags: ["audio", "synthesis", "accessibility"]
 difficulty: 2
 weight: 1
 slug: "text_to_audio"
-aliases:
-  - /nl/terms/text_to_audio/
 date: "2026-07-18T16:19:50.802459Z"
 lastmod: "2026-07-18T17:15:08.793163Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "nl"
 description: "Het proces van het omzetten van geschreven tekst in gesproken audio, inclusief zowel spraaksynthese als het genereren van niet-spraakgeluiden."
 ---
-
 ## Definition
 
 Text To Audio is een brede term die technologieën omvat die tekstuele invoer omzetten in auditieve uitvoer. Hoewel dit vaak wordt geassocieerd met Text-to-Speech (TTS) voor menselijke stemsynthese, omvat het ook het genereren van muziek, geluidseffecten en andere auditieve elementen op basis van tekstbeschrijvingen, vaak met behulp van neurale netwerken.

@@ -7,8 +7,6 @@ tags: ["statistics", "probability", "learning"]
 difficulty: 4
 weight: 1
 slug: "bayesian"
-aliases:
-  - /de/terms/bayesian/
 date: "2026-07-18T10:48:29.203213Z"
 lastmod: "2026-07-18T11:44:44.869324Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Bezieht sich auf statistische Methoden, die auf dem Satz von Bayes basieren, um Wahrscheinlichkeiten bei neuen Erkenntnissen zu aktualisieren."
 ---
-
 ## Definition
 
 Bayessche Ansätze in der KI nutzen die Wahrscheinlichkeitstheorie, um die Wahrscheinlichkeit von Hypothesen zu aktualisieren, sobald weitere Evidenz vorliegt. Diese Methode ermöglicht es Modellen, Unsicherheit zu quantifizieren und Vorhersagen dynamisch zu verfeinern.

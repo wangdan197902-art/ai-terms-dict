@@ -1,23 +1,25 @@
 ---
-title: "Ipoteza manifoldului"
-term_id: "manifold_hypothesis"
-category: "basic_concepts"
-subcategory: ""
-tags: ["theory", "geometry", "deep_learning"]
+title: Ipoteza manifoldului
+term_id: manifold_hypothesis
+category: basic_concepts
+subcategory: ''
+tags:
+- theory
+- geometry
+- Deep Learning
 difficulty: 4
 weight: 1
-slug: "manifold_hypothesis"
-aliases:
-  - /ro/terms/manifold_hypothesis/
-date: "2026-07-18T16:10:49.739802Z"
-lastmod: "2026-07-18T17:15:09.679040Z"
+slug: manifold_hypothesis
+date: '2026-07-18T16:10:49.739802Z'
+lastmod: '2026-07-18T17:15:09.679040Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ro"
-description: "Presupunerea conform căreia datele reale, de dimensiuni mari, se află pe un manifold neliniar de dimensiuni mai mici, încorporat într-un spațiu de dimensiuni superioare."
+source: agnes_llm
+status: published
+language: ro
+description: Presupunerea conform căreia datele reale, de dimensiuni mari, se află
+  pe un manifold neliniar de dimensiuni mai mici, încorporat într-un spațiu de dimensiuni
+  superioare.
 ---
-
 ## Definition
 
 Această ipoteză explică de ce învățarea profundă funcționează eficient în ciuda blestemului dimensionalității. Sugerează că, deși datele, cum ar fi imaginile, există în milioane de dimensiuni, ele sunt constrainse de o structură subiacentă...

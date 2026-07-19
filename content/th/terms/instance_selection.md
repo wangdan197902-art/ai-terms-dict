@@ -1,23 +1,23 @@
 ---
-title: "การเลือกอินสแตนซ์"
-term_id: "instance_selection"
-category: "basic_concepts"
-subcategory: ""
-tags: ["preprocessing", "optimization", "data"]
+title: การเลือกอินสแตนซ์
+term_id: instance_selection
+category: basic_concepts
+subcategory: ''
+tags:
+- preprocessing
+- Optimization
+- data
 difficulty: 3
 weight: 1
-slug: "instance_selection"
-aliases:
-  - /th/terms/instance_selection/
-date: "2026-07-18T16:00:22.888235Z"
-lastmod: "2026-07-18T16:38:07.619234Z"
+slug: instance_selection
+date: '2026-07-18T16:00:22.888235Z'
+lastmod: '2026-07-18T16:38:07.619234Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "th"
-description: "เทคนิคการประมวลผลล่วงหน้าเพื่อลดขนาดชุดข้อมูลโดยการเลือกเซตย่อยของอินสแตนซ์ที่เป็นตัวแทน"
+source: agnes_llm
+status: published
+language: th
+description: เทคนิคการประมวลผลล่วงหน้าเพื่อลดขนาดชุดข้อมูลโดยการเลือกเซตย่อยของอินสแตนซ์ที่เป็นตัวแทน
 ---
-
 ## Definition
 
 การเลือกอินสแตนซ์มีวัตถุประสงค์เพื่อปรับปรุงประสิทธิภาพในการคำนวณและประสิทธิภาพของโมเดล โดยการกำจัดจุดข้อมูลที่ซ้ำซ้อนหรือมีสัญญาณรบกวนออก ต่างจากการเลือกคุณลักษณะที่ทำงานบนคอลัมน์ วิธีการนี้ดำเนินการกับแถวของชุดข้อมูล เป้าหมายหลักคือการรักษาข้อมูลที่สำคัญไว้ให้มากที่สุดขณะเดียวกันก็ลดปริมาณข้อมูลลง เพื่อให้โมเดลทำงานเร็วขึ้นและมีความแม่นยำมากขึ้นโดยไม่สูญเสียความสามารถในการทั่วไป

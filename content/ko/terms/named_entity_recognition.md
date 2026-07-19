@@ -1,23 +1,23 @@
 ---
-title: "명명된 개체 인식"
-term_id: "named_entity_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["nlp", "information_extraction", "text_processing"]
+title: 명명된 개체 인식
+term_id: named_entity_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- NLP
+- Information Extraction
+- Text Processing
 difficulty: 2
 weight: 1
-slug: "named_entity_recognition"
-aliases:
-  - /ko/terms/named_entity_recognition/
-date: "2026-07-18T15:35:24.509733Z"
-lastmod: "2026-07-18T16:38:06.797927Z"
+slug: named_entity_recognition
+date: '2026-07-18T15:35:24.509733Z'
+lastmod: '2026-07-18T16:38:06.797927Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ko"
-description: "핵심 정보 개체를 미리 정의된 카테고리로 식별 및 분류하는 자연어 처리 작업입니다."
+source: agnes_llm
+status: published
+language: ko
+description: 핵심 정보 개체를 미리 정의된 카테고리로 식별 및 분류하는 자연어 처리 작업입니다.
 ---
-
 ## Definition
 
 명명된 개체 인식(Named Entity Recognition, NER)은 정보 추출의 하위 작업으로, 텍스트에서 명명된 개체를 찾아 사람 이름, 조직, 위치, 의료 용어 등 미리 정의된 카테고리로 분류합니다.

@@ -7,8 +7,6 @@ tags: ["pipeline", "cleaning", "standardization"]
 difficulty: 2
 weight: 1
 slug: "data_preprocessing"
-aliases:
-  - /it/terms/data_preprocessing/
 date: "2026-07-18T15:54:13.674698Z"
 lastmod: "2026-07-18T17:15:08.612404Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "it"
 description: "Il processo di conversione dei dati grezzi in un formato pulito e coerente adatto agli algoritmi di machine learning."
 ---
-
 ## Definition
 
 Il preprocessing dei dati è il compito essenziale di trasformare dati grezzi, non strutturati o rumorosi in un formato standardizzato che i modelli di machine learning possono consumare efficacemente. Questa fase include tipicamente la pulizia dei dati, la normalizzazione, l'encoding delle variabili categoriche e la scalatura delle funzionalità per garantire che l'algoritmo possa convergere correttamente e produrre risultati accurati.

@@ -7,8 +7,6 @@ tags: ["security", "adversarial", "safety"]
 difficulty: 4
 weight: 1
 slug: "data_poisoning"
-aliases:
-  - /pl/terms/data_poisoning/
 date: "2026-07-18T15:48:25.124054Z"
 lastmod: "2026-07-18T17:15:08.859569Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Trucie danych to atak bezpieczeństwa, w którym sprawcy wrzucają zepsute lub wprowadzające w błąd dane do zbioru treningowego, aby pogorszyć wydajność modelu."
 ---
-
 ## Definition
 
 Ta technika adversarialna ma na celu naruszenie integralności modeli uczenia maszynowego poprzez zmianę danych treningowych. Poprzez wprowadzenie subtelnych błędów lub stronniczych przykładów, atakujący mogą spowodować, że model

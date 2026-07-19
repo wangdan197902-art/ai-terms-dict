@@ -1,23 +1,24 @@
 ---
-title: "Test"
-term_id: "testing"
-category: "engineering_practice"
-subcategory: ""
-tags: ["engineering", "quality-assurance", "deployment"]
+title: Test
+term_id: testing
+category: engineering_practice
+subcategory: ''
+tags:
+- engineering
+- Quality Assurance
+- deployment
 difficulty: 2
 weight: 1
-slug: "testing"
-aliases:
-  - /it/terms/testing/
-date: "2026-07-18T15:40:54.938682Z"
-lastmod: "2026-07-18T17:15:08.590685Z"
+slug: testing
+date: '2026-07-18T15:40:54.938682Z'
+lastmod: '2026-07-18T17:15:08.590685Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "it"
-description: "Il processo sistematico di valutazione delle prestazioni e dell'affidabilità di un modello AI su dati non visti per garantire qualità e sicurezza."
+source: agnes_llm
+status: published
+language: it
+description: Il processo sistematico di valutazione delle prestazioni e dell'affidabilità
+  di un modello AI su dati non visti per garantire qualità e sicurezza.
 ---
-
 ## Definition
 
 I test nell'ingegneria dell'AI coinvolgono la valutazione rigorosa dei modelli contro dataset diversi per identificare bias, errori e problemi di robustezza. Include test unitari per i componenti del codice, test di integrazione,

@@ -1,23 +1,25 @@
 ---
-title: "Метаобучение"
-term_id: "meta_learning"
-category: "training_techniques"
-subcategory: ""
-tags: ["advanced", "optimization", "adaptation"]
+title: Метаобучение
+term_id: meta_learning
+category: training_techniques
+subcategory: ''
+tags:
+- advanced
+- Optimization
+- adaptation
 difficulty: 4
 weight: 1
-slug: "meta_learning"
-aliases:
-  - /ru/terms/meta_learning/
-date: "2026-07-18T16:04:33.424136Z"
-lastmod: "2026-07-18T16:38:07.180027Z"
+slug: meta_learning
+date: '2026-07-18T16:04:33.424136Z'
+lastmod: '2026-07-18T16:38:07.180027Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Метаобучение, или обучение обучению, — это подход в машинном обучении, позволяющий моделям быстро адаптироваться к новым задачам с минимальным объемом данных за счет использования предыдущего опыта."
+source: agnes_llm
+status: published
+language: ru
+description: Метаобучение, или обучение обучению, — это подход в машинном обучении,
+  позволяющий моделям быстро адаптироваться к новым задачам с минимальным объемом
+  данных за счет использования предыдущего опыта.
 ---
-
 ## Definition
 
 Метаобучение сосредоточено на разработке алгоритмов, которые могут учиться на предыдущих задачах для улучшения производительности на новых, ранее не встречавшихся задачах. Вместо того чтобы обучать модель с нуля для каждой проблемы, он оптимизирует...

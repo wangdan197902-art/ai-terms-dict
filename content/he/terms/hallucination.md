@@ -7,8 +7,6 @@ tags: ["LLM Risks", "Evaluation", "Generative AI"]
 difficulty: 2
 weight: 1
 slug: "hallucination"
-aliases:
-  - /he/terms/hallucination/
 date: "2026-07-18T15:23:00.631897Z"
 lastmod: "2026-07-18T17:15:09.471722Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "he"
 description: "כאשר מודל בינה מלאכותית מייצר מידע לא אמין או חסר משמעות, אך מציג זאת בביטחון."
 ---
-
 ## Definition
 
 הזיות מתרחשות כאשר מודלי יצור מייצרים פלט שנראה סביר אך חסר בסיס במציאות או בנתוני המקור. זוהי אתגר משמעותי ביישומים הדורשים דיוק גבוה

@@ -7,8 +7,6 @@ tags: ["research", "safety", "interpretability"]
 difficulty: 5
 weight: 1
 slug: "mechanistic_interpretability"
-aliases:
-  - /de/terms/mechanistic_interpretability/
 date: "2026-07-18T11:23:29.657609Z"
 lastmod: "2026-07-18T11:44:44.964035Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Ein Ansatz zum Verständnis von KI-Modellen durch Analyse ihrer internen Komponenten und Mechanismen statt nur ihres Eingabe-Ausgabe-Verhaltens."
 ---
-
 ## Definition
 
 Die mechanistische Interpretierbarkeit konzentriert sich darauf, neuronale Netze reverse-engineering-mäßig zu untersuchen, um zu verstehen, wie sie bestimmte Funktionen auf Ebene einzelner Neuronen, Gewichte und Schaltkreise berechnen. Anstatt Modelle nur als Blackboxen zu betrachten, zielt dieser Ansatz darauf ab, die kausalen Zusammenhänge und algorithmischen Prozesse innerhalb des Modells transparent und verständlich zu machen.

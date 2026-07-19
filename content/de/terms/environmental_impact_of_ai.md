@@ -7,8 +7,6 @@ tags: ["sustainability", "ethics", "infrastructure"]
 difficulty: 2
 weight: 1
 slug: "environmental_impact_of_ai"
-aliases:
-  - /de/terms/environmental_impact_of_ai/
 date: "2026-07-18T11:13:31.420935Z"
 lastmod: "2026-07-18T11:44:44.937399Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "de"
 description: "Die ökologischen Folgen der Entwicklung, des Trainings und des Einsatzes von KI-Modellen, einschließlich Energieverbrauch und CO2-Emissionen."
 ---
-
 ## Definition
 
 Dieser Begriff bezieht sich auf den erheblichen Ressourcenbedarf, der mit KI-Technologien verbunden ist, insbesondere während der Trainingsphase großer Modelle. Er umfasst den Stromverbrauch von Rechenzentren, die Herstellung von Hardware sowie die Emissionen, die durch den Betrieb und das Training komplexer Algorithmen entstehen.

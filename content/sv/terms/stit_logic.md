@@ -1,23 +1,24 @@
 ---
-title: "STIT-logik"
-term_id: "stit_logic"
-category: "engineering_practice"
-subcategory: ""
-tags: ["formal_methods", "logic", "multi_agent_systems"]
+title: STIT-logik
+term_id: stit_logic
+category: engineering_practice
+subcategory: ''
+tags:
+- Formal Methods
+- logic
+- Multi-Agent Systems
 difficulty: 5
 weight: 1
-slug: "stit_logic"
-aliases:
-  - /sv/terms/stit_logic/
-date: "2026-07-18T16:19:41.479595Z"
-lastmod: "2026-07-18T17:15:09.045077Z"
+slug: stit_logic
+date: '2026-07-18T16:19:41.479595Z'
+lastmod: '2026-07-18T17:15:09.045077Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "sv"
-description: "STIT-logik är en formell ramverk inom deontisk och temporär logik som används för att analysera agens, skyldighet och avsiktlig handling."
+source: agnes_llm
+status: published
+language: sv
+description: STIT-logik är en formell ramverk inom deontisk och temporär logik som
+  används för att analysera agens, skyldighet och avsiktlig handling.
 ---
-
 ## Definition
 
 STIT står för 'See To It That' (Se till att). Det är en gren av modallogiken som främst används inom filosofi och datavetenskap för att modellera agens och ansvar. Den möjliggör formell specificering av vad en agent kan...

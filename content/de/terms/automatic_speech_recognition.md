@@ -1,23 +1,24 @@
 ---
-title: "Automatische Spracherkennung"
-term_id: "automatic_speech_recognition"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech", "transcription", "ai_application"]
+title: Automatische Spracherkennung
+term_id: automatic_speech_recognition
+category: application_paradigms
+subcategory: ''
+tags:
+- speech
+- transcription
+- AI Application
 difficulty: 3
 weight: 1
-slug: "automatic_speech_recognition"
-aliases:
-  - /de/terms/automatic_speech_recognition/
-date: "2026-07-18T11:04:18.810335Z"
-lastmod: "2026-07-18T11:44:44.912815Z"
+slug: automatic_speech_recognition
+date: '2026-07-18T11:04:18.810335Z'
+lastmod: '2026-07-18T11:44:44.912815Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "de"
-description: "Eine Technologie, die gesprochene Sprache mithilfe von Deep-Learning-Modellen in Text umwandelt."
+source: agnes_llm
+status: published
+language: de
+description: Eine Technologie, die gesprochene Sprache mithilfe von Deep-Learning-Modellen
+  in Text umwandelt.
 ---
-
 ## Definition
 
 Automatische Spracherkennung (ASR), auch bekannt als Speech-to-Text, ist ein Teilgebiet der Sprachverarbeitung, das künstliche Intelligenz nutzt, um Audiosignale in geschriebenen Text zu transkribieren. Moderne ASR-Systeme...

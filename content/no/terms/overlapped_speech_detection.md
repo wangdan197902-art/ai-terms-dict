@@ -1,23 +1,24 @@
 ---
-title: "Deteksjon av overlappende tale"
-term_id: "overlapped_speech_detection"
-category: "application_paradigms"
-subcategory: ""
-tags: ["speech-processing", "audio-analysis", "nlp-preprocessing"]
+title: Deteksjon av overlappende tale
+term_id: overlapped_speech_detection
+category: application_paradigms
+subcategory: ''
+tags:
+- Speech Processing
+- Audio Analysis
+- NLP Preprocessing
 difficulty: 4
 weight: 1
-slug: "overlapped_speech_detection"
-aliases:
-  - /no/terms/overlapped_speech_detection/
-date: "2026-07-18T16:10:07.310469Z"
-lastmod: "2026-07-18T16:38:07.031420Z"
+slug: overlapped_speech_detection
+date: '2026-07-18T16:10:07.310469Z'
+lastmod: '2026-07-18T16:38:07.031420Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "no"
-description: "Prosessen med å identifisere tidssegmenter der to eller flere talere snakker samtidig i en lydfil."
+source: agnes_llm
+status: published
+language: 'no'
+description: Prosessen med å identifisere tidssegmenter der to eller flere talere
+  snakker samtidig i en lydfil.
 ---
-
 ## Definition
 
 Deteksjon av overlappende tale (OSD) er en spesialisert oppgave innen talebehandling som peker ut intervaller med samtidige ytringer. I motsetning til taleidentifikasjon (diarisering) som fokuserer på 'hvem snakket når', handler OSD om...

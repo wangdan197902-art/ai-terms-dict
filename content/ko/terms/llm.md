@@ -7,8 +7,6 @@ tags: ["NLP", "Deep Learning", "Foundation Models"]
 difficulty: 2
 weight: 1
 slug: "llm"
-aliases:
-  - /ko/terms/llm/
 date: "2026-07-18T15:25:30.630912Z"
 lastmod: "2026-07-18T16:38:06.777066Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "방대한 텍스트 코퍼스에서 학습되어 인간과 유사한 언어를 이해하고 생성하는 딥러닝 모델입니다."
 ---
-
 ## Definition
 
 대규모 언어 모델(LLM)은 트랜스포머 아키텍처를 기반으로 한 고급 인공지능 시스템으로, 방대한 양의 텍스트 및 코드 데이터셋으로 학습됩니다. 이들은 언어 내의 통계적 패턴을 학습합니다.

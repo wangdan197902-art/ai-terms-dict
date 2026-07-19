@@ -7,8 +7,6 @@ tags: ["NLP", "Optimization", "Embeddings"]
 difficulty: 4
 weight: 1
 slug: "semantic_folding"
-aliases:
-  - /da/terms/semantic_folding/
 date: "2026-07-18T16:17:05.530578Z"
 lastmod: "2026-07-18T17:15:09.329929Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "da"
 description: "En teknik, der kortlægger højdimensionale semantiske repræsentationer til et lavere dimensionsrum, mens relationelle strukturer bevares."
 ---
-
 ## Definition
 
 Semantisk foldning refererer til processen med at komprimere komplekse, højdimensionale vektorindlejringer til en mere håndterbar repræsentation med færre dimensioner uden betydeligt tab af semantisk mening.

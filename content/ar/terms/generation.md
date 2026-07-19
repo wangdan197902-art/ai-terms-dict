@@ -1,23 +1,24 @@
 ---
-title: "التوليد"
-term_id: "generation"
-category: "application_paradigms"
-subcategory: ""
-tags: ["generative_ai", "nlp", "multimodal"]
+title: التوليد
+term_id: generation
+category: application_paradigms
+subcategory: ''
+tags:
+- Generative AI
+- NLP
+- multimodal
 difficulty: 3
 weight: 1
-slug: "generation"
-aliases:
-  - /ar/terms/generation/
-date: "2026-07-18T15:26:24.553259Z"
-lastmod: "2026-07-18T17:15:08.439594Z"
+slug: generation
+date: '2026-07-18T15:26:24.553259Z'
+lastmod: '2026-07-18T17:15:08.439594Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ar"
-description: "العملية التي تنشئ من خلالها النماذج التوليدية بيانات جديدة تحاكي توزيع البيانات المستخدمة في التدريب."
+source: agnes_llm
+status: published
+language: ar
+description: العملية التي تنشئ من خلالها النماذج التوليدية بيانات جديدة تحاكي توزيع
+  البيانات المستخدمة في التدريب.
 ---
-
 ## Definition
 
 في الذكاء الاصطناعي، يشير التوليد إلى قدرة النماذج، ولا سيما الشبكات التوليدية التنافسية (GANs) ونماذج اللغات الكبيرة القائمة على المحولات (Transformers)، على إنتاج محتوى جديد مثل النصوص والصور.

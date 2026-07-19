@@ -7,8 +7,6 @@ tags: ["detection", "segmentation", "audio"]
 difficulty: 3
 weight: 1
 slug: "speaker_change_detection"
-aliases:
-  - /cs/terms/speaker_change_detection/
 date: "2026-07-18T16:18:36.654225Z"
 lastmod: "2026-07-18T17:15:09.202826Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Proces identifikace bodů v audio toku, kde dochází ke změně aktivního mluvčího."
 ---
-
 ## Definition
 
 Detekce změny mluvčího (SCD) je technika používaná k přesnému určení časových razítek, kdy jeden mluvčí přestane mluvit a začíná druhý. Slouží jako předchozí krok v diarizaci, pomáhá segmentovat audio záznamy do homogenních úseků podle mluvčího.

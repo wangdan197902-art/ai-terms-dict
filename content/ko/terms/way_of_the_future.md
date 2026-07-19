@@ -7,8 +7,6 @@ tags: ["concept", "trend", "speculative"]
 difficulty: 2
 weight: 1
 slug: "way_of_the_future"
-aliases:
-  - /ko/terms/way_of_the_future/
 date: "2026-07-18T16:20:20.729643Z"
 lastmod: "2026-07-18T16:38:06.919436Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ko"
 description: "이 용어는 일반적으로 기술 발전의 예상되는 궤적, 특히 일상이나 산업에 AI가 통합되는 것과 관련된 궤적을 지칭합니다."
 ---
-
 ## Definition
 
 엄격한 기술 용어는 아니지만, '미래의 방식'은 자율 시스템, 개인화된 AI 비서, 자동화 의사결정 과정으로의 패러다임 전환을 설명합니다. 이는 포괄

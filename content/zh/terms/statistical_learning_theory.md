@@ -7,8 +7,6 @@ tags: ["theory", "mathematics", "generalization"]
 difficulty: 4
 weight: 1
 slug: "statistical_learning_theory"
-aliases:
-  - /zh/terms/statistical_learning_theory/
 date: "2026-07-18T11:35:19.163046Z"
 lastmod: "2026-07-18T11:44:45.559109Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种数学框架，通过分析机器学习算法的泛化能力，为其提供理论基础。"
 ---
-
 ## Definition
 
 统计学习理论（SLT）是统计学和计算机科学的一个分支，研究特定算法如何从有限的训练样本泛化到未见过的数据。它侧重于对泛化误差进行界限分析，以确保模型在未知数据上的表现。

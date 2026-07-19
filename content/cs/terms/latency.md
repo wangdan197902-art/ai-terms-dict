@@ -7,8 +7,6 @@ tags: ["performance", "engineering", "metrics"]
 difficulty: 2
 weight: 1
 slug: "latency"
-aliases:
-  - /cs/terms/latency/
 date: "2026-07-18T15:36:06.959639Z"
 lastmod: "2026-07-18T17:15:09.090480Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "cs"
 description: "Časové zpoždění mezi zahájením požadavku a začátkem odpovědi v systému umělé inteligence."
 ---
-
 ## Definition
 
 Latence měří odezvu služby AI, obvykle vyjádřenou v milisekundách. Zahrnuje dobu inferenčního zpracování, zpoždění přenosu sítí a režii zpracování. Nízká latence je kritická pro aplikace vyžadující okamžitou odezvu, jako jsou hlasové asistenti nebo autonomní řízení.

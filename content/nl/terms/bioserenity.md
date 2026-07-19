@@ -1,23 +1,24 @@
 ---
-title: "Biosereniteit"
-term_id: "bioserenity"
-category: "basic_concepts"
-subcategory: ""
-tags: ["philosophy", "ethics", "future-tech"]
+title: Biosereniteit
+term_id: bioserenity
+category: basic_concepts
+subcategory: ''
+tags:
+- philosophy
+- ethics
+- Future Tech
 difficulty: 4
 weight: 1
-slug: "bioserenity"
-aliases:
-  - /nl/terms/bioserenity/
-date: "2026-07-18T15:45:34.456596Z"
-lastmod: "2026-07-18T17:15:08.723227Z"
+slug: bioserenity
+date: '2026-07-18T15:45:34.456596Z'
+lastmod: '2026-07-18T17:15:08.723227Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "nl"
-description: "Een theoretische staat van harmonieus samenleven tussen biologisch leven en kunstmatige intelligentiesystemen."
+source: agnes_llm
+status: published
+language: nl
+description: Een theoretische staat van harmonieus samenleven tussen biologisch leven
+  en kunstmatige intelligentiesystemen.
 ---
-
 ## Definition
 
 Biosereniteit verwijst naar het conceptuele ideaal waarbij menselijke biologie en kunstmatige intelligentie naadloos en zonder conflicten in harmonie opereren. Het benadrukt ethische integratie, ervoor zorgend dat AI-augmentatie

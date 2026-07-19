@@ -1,23 +1,24 @@
 ---
-title: "Evolutionsudviklingsrobotik"
-term_id: "evolutionary_developmental_robotics"
-category: "basic_concepts"
-subcategory: ""
-tags: ["robotics", "evolutionary_algorithms", "developmental"]
+title: Evolutionsudviklingsrobotik
+term_id: evolutionary_developmental_robotics
+category: basic_concepts
+subcategory: ''
+tags:
+- robotics
+- Evolutionary Algorithms
+- developmental
 difficulty: 4
 weight: 1
-slug: "evolutionary_developmental_robotics"
-aliases:
-  - /da/terms/evolutionary_developmental_robotics/
-date: "2026-07-18T15:55:04.105457Z"
-lastmod: "2026-07-18T17:15:09.286263Z"
+slug: evolutionary_developmental_robotics
+date: '2026-07-18T15:55:04.105457Z'
+lastmod: '2026-07-18T17:15:09.286263Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "da"
-description: "Et underfelt inden for robotik, der kombinerer evolutionære algoritmer med udviklingsprocesser til at designe robotmorfologier og kontrolsystemer."
+source: agnes_llm
+status: published
+language: da
+description: Et underfelt inden for robotik, der kombinerer evolutionære algoritmer
+  med udviklingsprocesser til at designe robotmorfologier og kontrolsystemer.
 ---
-
 ## Definition
 
 Inspiret af biologisk ontogeni udforsker ED-robotik, hvordan komplekse adfærdsmønstre og fysiske strukturer opstår over tid gennem interaktion med miljøet i stedet for at være hårdtkodede. Den bruger evo-devo-principper til at simulere udvikling.

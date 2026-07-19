@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /zh/terms/multi_agent/
 date: "2026-07-18T10:56:59.123908Z"
 lastmod: "2026-07-18T11:44:45.392737Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "zh"
 description: "一种系统架构，其中多个自主智能体在环境中相互作用，以实现个人或集体目标。"
 ---
-
 ## Definition
 
 多智能体系统由多个独立的智能实体组成，它们感知环境、做出决策并据此行动。这些智能体之间可能相互合作、竞争或协商。

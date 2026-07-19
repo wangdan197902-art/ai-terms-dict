@@ -1,23 +1,24 @@
 ---
-title: "Đánh giá bộ phân loại nhị phân"
-term_id: "evaluation_of_binary_classifiers"
-category: "basic_concepts"
-subcategory: ""
-tags: ["metrics", "classification", "evaluation"]
+title: Đánh giá bộ phân loại nhị phân
+term_id: evaluation_of_binary_classifiers
+category: basic_concepts
+subcategory: ''
+tags:
+- metrics
+- Classification
+- evaluation
 difficulty: 2
 weight: 1
-slug: "evaluation_of_binary_classifiers"
-aliases:
-  - /vi/terms/evaluation_of_binary_classifiers/
-date: "2026-07-18T15:52:13.619302Z"
-lastmod: "2026-07-18T16:38:07.755047Z"
+slug: evaluation_of_binary_classifiers
+date: '2026-07-18T15:52:13.619302Z'
+lastmod: '2026-07-18T16:38:07.755047Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "vi"
-description: "Quy trình đánh giá hiệu suất của các mô hình học máy dự đoán một trong hai kết quả có thể xảy ra."
+source: agnes_llm
+status: published
+language: vi
+description: Quy trình đánh giá hiệu suất của các mô hình học máy dự đoán một trong
+  hai kết quả có thể xảy ra.
 ---
-
 ## Definition
 
 Lĩnh vực này liên quan đến việc phân tích các chỉ số như độ chính xác (accuracy), độ chính xác dương (precision), độ nhạy (recall), điểm F1 và Diện tích dưới đường cong ROC (AUC-ROC). Nó giúp xác định mức độ hiệu quả của mô hình trong việc phân biệt giữa hai lớp dữ liệu.

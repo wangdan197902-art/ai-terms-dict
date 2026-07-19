@@ -7,8 +7,6 @@ tags: ["language", "data", "bias"]
 difficulty: 1
 weight: 1
 slug: "english"
-aliases:
-  - /ro/terms/english/
 date: "2026-07-18T15:25:08.838656Z"
 lastmod: "2026-07-18T17:15:09.592869Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "ro"
 description: "Engleza este o limbă naturală care servește ca set de date de referință dominant și ca ieșire țintă pentru multe modele de Procesare a Limbajului Natural (NLP)."
 ---
-
 ## Definition
 
 Deși este în principal o limbă umană, în contextele AI, 'engleza' reprezintă domeniul lingvistic cel mai frecvent pentru cercetarea NLP datorită abundenței datelor text digitale. Majoritatea modelelor fundamentale (cum ar fi B

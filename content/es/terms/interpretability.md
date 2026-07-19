@@ -7,8 +7,6 @@ tags: ["Ethics", "Analysis", "Transparency"]
 difficulty: 3
 weight: 1
 slug: "interpretability"
-aliases:
-  - /es/terms/interpretability/
 date: "2026-07-18T10:30:42.621061Z"
 lastmod: "2026-07-18T11:44:44.763290Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "es"
 description: "El grado en que un humano puede comprender la causa de una decisión tomada por un modelo de IA."
 ---
-
 ## Definition
 
 La interpretabilidad, o explicabilidad, implica hacer transparentes y comprensibles para los humanos el funcionamiento interno y los procesos de toma de decisiones de los modelos de IA. Esto es crucial para la depuración, asegurando la equidad y construyendo confianza.

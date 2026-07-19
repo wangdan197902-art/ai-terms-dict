@@ -7,8 +7,6 @@ tags: ["dynamics", "ode", "temporal"]
 difficulty: 4
 weight: 1
 slug: "continuous_time"
-aliases:
-  - /en/terms/continuous_time/
 date: "2026-07-18T09:38:06.621909Z"
 lastmod: "2026-07-18T11:44:44.615185Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "en"
 description: "A modeling approach where variables change smoothly over a continuous domain rather than discrete steps."
 ---
-
 ## Definition
 
 Continuous-time models describe system dynamics using differential equations, allowing for smooth evolution of states over time. In AI, this is exemplified by Neural Ordinary Differential Equations (Neural ODEs), which offer memory efficiency and better handling of irregularly sampled data compared to discrete-step recurrent networks. This approach is crucial for modeling physical systems and temporal processes requiring precise interpolation.

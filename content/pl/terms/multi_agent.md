@@ -7,8 +7,6 @@ tags: ["architecture", "systems", "AI paradigms"]
 difficulty: 4
 weight: 1
 slug: "multi_agent"
-aliases:
-  - /pl/terms/multi_agent/
 date: "2026-07-18T15:32:22.910826Z"
 lastmod: "2026-07-18T17:15:08.826934Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "pl"
 description: "Architektura systemu, w której wiele autonomicznych agentów oddziałuje ze sobą w środowisku, aby osiągnąć cele indywidualne lub zbiorowe."
 ---
-
 ## Definition
 
 Systemy wieloagentowe składają się z kilku niezależnych, inteligentnych encji, które postrzegają swoje środowisko, podejmują decyzje i działają na jego podstawie. Agenci ci mogą współpracować, rywalizować lub negocjować ze sobą.

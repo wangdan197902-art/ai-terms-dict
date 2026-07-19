@@ -1,23 +1,25 @@
 ---
-title: "Μπεϋζιανή ερμηνεία της κανονικοποίησης πυρήνα"
-term_id: "bayesian_interpretation_of_kernel_regularization"
-category: "training_techniques"
-subcategory: ""
-tags: ["theory", "probabilistic_models", "kernels"]
+title: Μπεϋζιανή ερμηνεία της κανονικοποίησης πυρήνα
+term_id: bayesian_interpretation_of_kernel_regularization
+category: training_techniques
+subcategory: ''
+tags:
+- theory
+- Probabilistic Models
+- kernels
 difficulty: 4
 weight: 1
-slug: "bayesian_interpretation_of_kernel_regularization"
-aliases:
-  - /el/terms/bayesian_interpretation_of_kernel_regularization/
-date: "2026-07-18T15:53:12.518604Z"
-lastmod: "2026-07-18T17:15:09.884871Z"
+slug: bayesian_interpretation_of_kernel_regularization
+date: '2026-07-18T15:53:12.518604Z'
+lastmod: '2026-07-18T17:15:09.884871Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Ένα θεωρητικό πλαίσιο που συνδέει τις μεθόδους πυρήνα, όπως τα Μηχανές Διανυσμάτων Υποστήριξης (SVM), με τις Γaussian Processes υπό μια προϋπόθεση Μπεϋζιανής εκ των προτέρων κατανομής."
+source: agnes_llm
+status: published
+language: el
+description: Ένα θεωρητικό πλαίσιο που συνδέει τις μεθόδους πυρήνα, όπως τα Μηχανές
+  Διανυσμάτων Υποστήριξης (SVM), με τις Γaussian Processes υπό μια προϋπόθεση Μπεϋζιανής
+  εκ των προτέρων κατανομής.
 ---
-
 ## Definition
 
 Η έννοια αυτή θεσπίζει ότι η ελαχιστοποίηση μιας λειτουργικής ρίσκου με κανονικοποίηση και συγκεκριμένο πυρήνα είναι ισοδύναμη με την εύρεση της εκτίμησης μέγιστης εκ των υστέρων πιθανότητας (MAP) σε ένα Μπεϋζιανό πλαίσιο. Συγκεκριμένα, η κανονικοποίηση αντιστοιχεί σε μια προηγούμενη πεποίθηση.

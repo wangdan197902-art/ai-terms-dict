@@ -1,23 +1,24 @@
 ---
-title: "Prompt-säätö"
-term_id: "prompt_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["LLM", "optimization", "efficiency"]
+title: Prompt-säätö
+term_id: prompt_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- LLM
+- Optimization
+- efficiency
 difficulty: 3
 weight: 1
-slug: "prompt_tuning"
-aliases:
-  - /fi/terms/prompt_tuning/
-date: "2026-07-18T16:17:02.608251Z"
-lastmod: "2026-07-18T17:15:09.446630Z"
+slug: prompt_tuning
+date: '2026-07-18T16:17:02.608251Z'
+lastmod: '2026-07-18T17:15:09.446630Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "fi"
-description: "Parametritehokas hienosäätömenetelmä, joka optimoi jatkuvia syöte-embeddings-vektoreita päivittämättä koko mallin painoja."
+source: agnes_llm
+status: published
+language: fi
+description: Parametritehokas hienosäätömenetelmä, joka optimoi jatkuvia syöte-embeddings-vektoreita
+  päivittämättä koko mallin painoja.
 ---
-
 ## Definition
 
 Prompt-säädössä esikoulutetun kielimallin syöttökerrokseen lisätään koulutettavia pehmeitä prompteja (jatkuvia vektoreita) pitäen samalla mallin taustaparametrit jäähdytettynä (muuttumattomina). Tämä lähestymistapa mahdollistaa tehokkaan mukauttamisen vähäisillä resursseilla.

@@ -1,23 +1,24 @@
 ---
-title: "Происхождение контента"
-term_id: "content_provenance"
-category: "ethics_safety"
-subcategory: ""
-tags: ["ethics", "security", "media_integrity"]
+title: Происхождение контента
+term_id: content_provenance
+category: ethics_safety
+subcategory: ''
+tags:
+- ethics
+- security
+- Media Integrity
 difficulty: 3
 weight: 1
-slug: "content_provenance"
-aliases:
-  - /ru/terms/content_provenance/
-date: "2026-07-18T15:46:31.517613Z"
-lastmod: "2026-07-18T16:38:07.134405Z"
+slug: content_provenance
+date: '2026-07-18T15:46:31.517613Z'
+lastmod: '2026-07-18T16:38:07.134405Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Проверяемая запись о происхождении, истории и правах собственности на цифровой актив."
+source: agnes_llm
+status: published
+language: ru
+description: Проверяемая запись о происхождении, истории и правах собственности на
+  цифровой актив.
 ---
-
 ## Definition
 
 Происхождение контента (Content Provenance) относится к документации и проверке того, откуда взялся цифровой контент, как он был создан и кто изменял его с течением времени. В контексте искусственного интеллекта это имеет решающее значение для борьбы с подделками и обеспечения доверия к данным.

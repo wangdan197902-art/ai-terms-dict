@@ -1,23 +1,24 @@
 ---
-title: "Автоматизированный медицинский стенографист"
-term_id: "automated_medical_scribe"
-category: "basic_concepts"
-subcategory: ""
-tags: ["healthcare", "nlp", "automation"]
+title: Автоматизированный медицинский стенографист
+term_id: automated_medical_scribe
+category: basic_concepts
+subcategory: ''
+tags:
+- healthcare
+- NLP
+- automation
 difficulty: 3
 weight: 1
-slug: "automated_medical_scribe"
-aliases:
-  - /ru/terms/automated_medical_scribe/
-date: "2026-07-18T15:42:21.720644Z"
-lastmod: "2026-07-18T16:38:07.124461Z"
+slug: automated_medical_scribe
+date: '2026-07-18T15:42:21.720644Z'
+lastmod: '2026-07-18T16:38:07.124461Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "ru"
-description: "Система на базе ИИ, которая автоматически генерирует клиническую документацию на основе взаимодействия врача и пациента."
+source: agnes_llm
+status: published
+language: ru
+description: Система на базе ИИ, которая автоматически генерирует клиническую документацию
+  на основе взаимодействия врача и пациента.
 ---
-
 ## Definition
 
 Автоматизированные медицинские стенографисты используют технологии обработки естественного языка и распознавания речи для прослушивания разговоров между врачом и пациентом и создания структурированных электронных медицинских карт. Эта технология позволяет...

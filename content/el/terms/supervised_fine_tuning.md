@@ -1,23 +1,25 @@
 ---
-title: "Εποπτευόμενη Βελτιστοποίηση"
-term_id: "supervised_fine_tuning"
-category: "training_techniques"
-subcategory: ""
-tags: ["training", "llm", "fine-tuning"]
+title: Εποπτευόμενη Βελτιστοποίηση
+term_id: supervised_fine_tuning
+category: training_techniques
+subcategory: ''
+tags:
+- training
+- LLM
+- Fine-Tuning
 difficulty: 4
 weight: 1
-slug: "supervised_fine_tuning"
-aliases:
-  - /el/terms/supervised_fine_tuning/
-date: "2026-07-18T15:45:07.264158Z"
-lastmod: "2026-07-18T17:15:09.871399Z"
+slug: supervised_fine_tuning
+date: '2026-07-18T15:45:07.264158Z'
+lastmod: '2026-07-18T17:15:09.871399Z'
 draft: false
-source: "agnes_llm"
-status: "published"
-language: "el"
-description: "Η διαδικασία περαιτέρω εκπαίδευσης ενός προκαταρτικά εκπαιδευμένου μοντέλου σε ένα συγκεκριμένο σύνολο δεδομένων για να προσαρμοστεί σε μια συγκεκριμένη εργασία ή τομέα."
+source: agnes_llm
+status: published
+language: el
+description: Η διαδικασία περαιτέρω εκπαίδευσης ενός προκαταρτικά εκπαιδευμένου μοντέλου
+  σε ένα συγκεκριμένο σύνολο δεδομένων για να προσαρμοστεί σε μια συγκεκριμένη εργασία
+  ή τομέα.
 ---
-
 ## Definition
 
 Η Εποπτευόμενη Βελτιστοποίηση (SFT) περιλαμβάνει τη λήψη ενός μεγάλου προκαταρκτικά εκπαιδευμένου μοντέλου, όπως ένα γλωσσικό μοντέλο, και τη συνέχιση της εκπαίδευσής του σε ένα μικρότερο, υψηλής ποιότητας σύνολο δεδομένων με ετικέτες για μια συγκεκριμένη εργασία.

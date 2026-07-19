@@ -7,8 +7,6 @@ tags: ["automation", "research", "algorithms", "exploration"]
 difficulty: 3
 weight: 1
 slug: "discovery_system"
-aliases:
-  - /fr/terms/discovery_system/
 date: "2026-07-18T11:14:45.135846Z"
 lastmod: "2026-07-18T11:44:45.244270Z"
 draft: false
@@ -17,7 +15,6 @@ status: "published"
 language: "fr"
 description: "Un cadre automatisé ou un processus algorithmique conçu pour identifier, explorer et évaluer des solutions potentielles, des motifs ou des hypothèses au sein d'un vaste espace de recherche."
 ---
-
 ## Definition
 
 Un système de découverte est un cadre computationnel visant à accélérer les percées scientifiques ou analytiques en automatisant l'exploration de vastes espaces de données. Contrairement à l'optimisation traditionnelle qui se concentre sur l'amélioration, il vise l'innovation.
