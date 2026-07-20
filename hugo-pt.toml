@@ -8,7 +8,7 @@
 # 此配置会覆盖 hugo.toml 中的对应字段，实现单语种独立构建
 
 # ===== 基础URL（绑定自购三级域名） =====
-baseURL = "https://pt.terms.ai-term-hub.com/"
+baseURL = "https://terms-pt.ai-term-hub.com/"
 
 # ===== 语言设置 =====
 languageCode = "pt"
@@ -31,14 +31,14 @@ defaultContentLanguage = "pt"
   description = "AI Terms Dictionary in Português - Comprehensive AI terminology reference"
 
   # 自定义域名
-  customDomain = "pt.terms.ai-term-hub.com"
+  customDomain = "terms-pt.ai-term-hub.com"
 
   # 部署平台信息
   deploymentPlatform = "github-pages"
   repositoryName = "terms-pt"
 
   # canonical（指向当前语种子站首页）
-  canonical = "https://pt.terms.ai-term-hub.com/"
+  canonical = "https://terms-pt.ai-term-hub.com/"
 
   # SEO 验证与追踪参数（由 scripts/添加验证标签.py 同步注入 layouts/seo.html）
   # 这些值会被 Hugo 模板读取并输出对应 meta 标签
@@ -53,31 +53,30 @@ defaultContentLanguage = "pt"
   # Hreflang alternates（指向其他语种子站）
   # 用于SEO多语种信号传递
   [params.alternates]
-    ar = "https://ar.terms.ai-term-hub.com/"
-    cs = "https://cs.terms.ai-term-hub.com/"
-    da = "https://da.terms.ai-term-hub.com/"
-    de = "https://de.terms.ai-term-hub.com/"
-    el = "https://el.terms.ai-term-hub.com/"
-    en = "https://en.terms.ai-term-hub.com/"
-    es = "https://es.terms.ai-term-hub.com/"
-    fi = "https://fi.terms.ai-term-hub.com/"
-    fr = "https://fr.terms.ai-term-hub.com/"
-    hu = "https://hu.terms.ai-term-hub.com/"
-    id = "https://id.terms.ai-term-hub.com/"
-    it = "https://it.terms.ai-term-hub.com/"
-    ja = "https://ja.terms.ai-term-hub.com/"
-    ko = "https://ko.terms.ai-term-hub.com/"
-    nl = "https://nl.terms.ai-term-hub.com/"
-    no = "https://no.terms.ai-term-hub.com/"
-    pl = "https://pl.terms.ai-term-hub.com/"
-    pt = "https://pt.terms.ai-term-hub.com/"
-    ro = "https://ro.terms.ai-term-hub.com/"
-    ru = "https://ru.terms.ai-term-hub.com/"
-    sv = "https://sv.terms.ai-term-hub.com/"
-    th = "https://th.terms.ai-term-hub.com/"
-    tr = "https://tr.terms.ai-term-hub.com/"
-    vi = "https://vi.terms.ai-term-hub.com/"
-    zh = "https://zh.terms.ai-term-hub.com/"
+    ar = "https://terms-ar.ai-term-hub.com/"
+    cs = "https://terms-cs.ai-term-hub.com/"
+    da = "https://terms-da.ai-term-hub.com/"
+    de = "https://terms-de.ai-term-hub.com/"
+    el = "https://terms-el.ai-term-hub.com/"
+    en = "https://terms-en.ai-term-hub.com/"
+    es = "https://terms-es.ai-term-hub.com/"
+    fi = "https://terms-fi.ai-term-hub.com/"
+    fr = "https://terms-fr.ai-term-hub.com/"
+    hu = "https://terms-hu.ai-term-hub.com/"
+    id = "https://terms-id.ai-term-hub.com/"
+    it = "https://terms-it.ai-term-hub.com/"
+    ja = "https://terms-ja.ai-term-hub.com/"
+    ko = "https://terms-ko.ai-term-hub.com/"
+    nl = "https://terms-nl.ai-term-hub.com/"
+    no = "https://terms-no.ai-term-hub.com/"
+    pl = "https://terms-pl.ai-term-hub.com/"
+    pt = "https://terms-pt.ai-term-hub.com/"
+    ro = "https://terms-ro.ai-term-hub.com/"
+    ru = "https://terms-ru.ai-term-hub.com/"
+    sv = "https://terms-sv.ai-term-hub.com/"
+    tr = "https://terms-tr.ai-term-hub.com/"
+    vi = "https://terms-vi.ai-term-hub.com/"
+    zh = "https://terms-zh.ai-term-hub.com/"
 
 # ===== Sitemap 配置（单语种独立sitemap） =====
 [sitemap]
