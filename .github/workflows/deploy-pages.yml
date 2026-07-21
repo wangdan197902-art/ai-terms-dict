@@ -38,11 +38,61 @@ jobs:
         run: touch public/.nojekyll
       - name: Ensure index.html
         run: |
+          # 检测 Hugo 生成的语言重定向页面（http-equiv refresh + 字节小，无 GSV/JSON-LD）
+          # 这种页面是 Hugo 内置的多语言重定向，不走 layouts 模板，缺少 SEO 元素
+          # 需要覆盖为带 GSV + JSON-LD 的重定向页面，保持跳转到 /en/ 的行为
+          NEED_OVERWRITE=0
           if [ ! -f public/index.html ]; then
+            NEED_OVERWRITE=1
+          elif grep -q 'http-equiv.*refresh' public/index.html && \
+               [ "$(wc -c < public/index.html)" -lt 500 ] && \
+               ! grep -q 'application/ld+json' public/index.html; then
+            NEED_OVERWRITE=1
+          fi
+          if [ "$NEED_OVERWRITE" = "1" ]; then
             mkdir -p public
             cat > public/index.html << 'HTMLEOF'
-          <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>AI Terms Dictionary</title></head><body><h1>AI Terms Dictionary</h1><p>Site is being deployed. Please wait a moment...</p></body></html>
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>AI Terms Dictionary - Multilingual AI Terminology</title>
+            <meta name="description" content="Comprehensive AI terminology dictionary in 25 languages">
+            <link rel="canonical" href="https://terms.ai-term-hub.com/en/">
+            <meta name="robots" content="noindex">
+            <meta name="google-site-verification" content="Po21SS8ccODMgK6x0_LBsBX0t5qz7bdqRzASwE-ngyo" />
+            <meta name="google-site-verification" content="jLNCAGFlM8zeF09eKGw3w6A8bZlNkluFYLs11bafILw" />
+            <meta name="ahrefs-site-verification" content="ad7fa89d439de59a24f2c0539f078231d409b57876cd4088b2e41eafe03df321" />
+            <meta name="msvalidate.01" content="F3945F7C02030D16DE86CF6BF433D83A" />
+            <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "AI Terms Dictionary",
+            "url": "https://terms.ai-term-hub.com/",
+            "description": "Comprehensive AI terminology dictionary in 25 languages",
+            "inLanguage": "en",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://terms.ai-term-hub.com/en/search/?q={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          }
+            </script>
+            <meta http-equiv="refresh" content="0; url=https://terms.ai-term-hub.com/en/">
+          </head>
+          <body>
+            <p>Redirecting to <a href="https://terms.ai-term-hub.com/en/">English version</a>...</p>
+          </body>
+          </html>
           HTMLEOF
+            echo "✓ Overwrote public/index.html with GSV + JSON-LD redirect page"
+          else
+            echo "✓ public/index.html already has SEO elements, skipping overwrite"
           fi
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
