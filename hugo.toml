@@ -27,6 +27,13 @@ enableEmoji = true
     [markup.goldmark.renderer]
       unsafe = true
 
+# HTML 压缩配置：保留属性引号，确保 canonical / GSV 等关键 meta 标签
+# 能被外部校验脚本（如 125域名全面排查.py）的正则 `rel="canonical"` 匹配到
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepQuotes = true
+
 # 相关内容索引（用于 Related() 调用，生成相关推荐）
 [related]
   threshold = 80
