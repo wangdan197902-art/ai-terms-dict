@@ -1,6 +1,6 @@
 {{ $title := .Title | default .Site.Title }}
 {{ $description := .Description | default .Site.Params.description }}
-{{ $url := .Permalink }}
+{{ $url := .Permalink }}{{ if .IsHome }}{{ with .Site.Params.canonical }}{{ $url = . }}{{ end }}{{ end }}
 {{ $ogImage := .Site.Params.seo.defaultOgImage | default "/og-image.svg" }}
 
 <title>{{ $title }} | {{ .Site.Title }}</title>
