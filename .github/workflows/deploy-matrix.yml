@@ -43,7 +43,10 @@ jobs:
 
       - name: Build ${{ matrix.lang }} site
         run: |
+          # 显式传入 --baseURL，覆盖 config/production/hugo.toml 与 hugo.toml 中的 baseURL
+          # 确保 {{ "sitemap.xml" | absURL }} 渲染为子站域名（terms-{lang}.ai-term-hub.com）
           hugo --config hugo.toml,hugo-${{ matrix.lang }}.toml \
+               --baseURL "https://${{ env.SITE_TYPE }}-${{ matrix.lang }}.${{ env.DOMAIN }}/" \
                --minify \
                --destination public-${{ matrix.lang }}
 
